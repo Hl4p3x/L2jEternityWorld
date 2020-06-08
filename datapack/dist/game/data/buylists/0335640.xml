@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/buylist.xsd">
+	<npcs>
+		<npc>35640</npc> <!-- Bandello -->
+	</npcs>
+	<item id="6902" />
+	<item id="6316" />
+	<item id="1829" count="5" restock_delay="60" />
+	<item id="5169" count="10" restock_delay="60" />
+	<item id="5858" count="1" restock_delay="60" />
+	<item id="7134" count="1" restock_delay="60" />
+	<item id="7126" count="1" restock_delay="60" />
+	<item id="7584" count="1" restock_delay="60" />
+	<item id="6316" count="10" restock_delay="60" />
+	<item id="952" count="1" restock_delay="120" />
+	<item id="730" count="1" restock_delay="1440" />
+	<item id="6935" count="1" restock_delay="60" />
+	<item id="6928" count="1" restock_delay="60" />
+	<item id="6938" count="1" restock_delay="60" />
+	<item id="6936" count="1" restock_delay="60" />
+	<item id="6921" count="1" restock_delay="60" />
+	<item id="8366" count="1" restock_delay="60" />
+	<item id="7699" count="1" restock_delay="60" />
+	<item id="6939" count="1" restock_delay="60" />
+	<item id="6947" count="1" restock_delay="60" />
+	<item id="6948" count="1" restock_delay="60" />
+	<item id="6949" count="1" restock_delay="60" />
+	<item id="6950" count="1" restock_delay="60" />
+	<item id="6951" count="1" restock_delay="60" />
+	<item id="6952" count="1" restock_delay="60" />
+	<item id="6953" count="1" restock_delay="60" />
+	<item id="7002" count="1" restock_delay="60" />
+	<item id="7003" count="1" restock_delay="60" />
+	<item id="7004" count="1" restock_delay="60" />
+	<item id="7005" count="1" restock_delay="60" />
+	<item id="7006" count="1" restock_delay="60" />
+	<item id="7007" count="1" restock_delay="60" />
+	<item id="7008" count="1" restock_delay="60" />
+	<item id="7009" count="1" restock_delay="60" />
+	<item id="7010" count="1" restock_delay="60" />
+	<item id="7011" count="1" restock_delay="60" />
+	<item id="7012" count="1" restock_delay="60" />
+	<item id="7013" count="1" restock_delay="60" />
+	<item id="8645" count="1" restock_delay="60" />
+	<item id="8651" count="1" restock_delay="60" />
+	<item id="8751" count="1" restock_delay="120" />
+	<item id="8761" count="1" restock_delay="360" />
+	<item id="8762" count="1" restock_delay="1440" />
+	<item id="16118" />
+	<item id="16119" />
+	<item id="16130" count="10" restock_delay="60" />
+	<item id="16131" count="10" restock_delay="60" />
+</list>

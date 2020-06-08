@@ -1,0 +1,1 @@
+ALTER TABLE `characters` ADD `surveystatus` BIGINT UNSIGNED DEFAULT NULL;

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../data/xsd/phoenix_events.xsd">
+   	<event id="2">
+      		<config name="shortName" value="DD" />
+      		<config name="minLvl" value="1" />
+      		<config name="maxLvl" value="85" />
+      		<config name="eventName" value="Double Domination" />
+      		<config name="matchTime" value="120" />
+      		<config name="allowPotions" value="false" />
+      		<config name="allowUseMagic" value="true" />
+      		<config name="removeBuffs" value="true" />
+      		<config name="minPlayers" value="2" />
+      		<config name="zoneRadius" value="170" />
+      		<config name="zoneNpcId" value="9103" />
+      		<config name="timeToScore" value="10" />
+      		<color owner="Blue" r="0" g="0" b="255" />
+      		<color owner="Red" r="255" g="0" b="0" />
+      		<position owner="Blue" x="-54486" y="-68844" z="-3419" radius="200" />
+      		<position owner="Red" x="-54486" y="-70251" z="-3419" radius="200" />
+      		<position owner="Zone" x="-55162" y="-69553" z="-3421" radius="0" />
+      		<position owner="Zone" x="-53648" y="-69553" z="-3421" radius="0" />
+      		<restriction type="item" ids="0" />
+      		<restriction type="skill" ids="0" />
+      		<reward owner="winner" list="57,1000;1,1" />
+      		<reward owner="loser" list="57,10" />
+   	</event>
+</events>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawns.xsd">
+	<spawnloc name="gracia_npc_zone_05">
+    		<spawn npcId="32564" locX="-149484" locY="253680" locZ="-184" heading="16384" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32565" locX="-149235" locY="253680" locZ="-184" heading="16384" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32609" locX="-149360" locY="252936" locZ="-136" heading="20771" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32614" locX="-149649" locY="255028" locZ="-80" heading="16384" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32615" locX="-149067" locY="255028" locZ="-80" heading="16384" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32616" locX="-148656" locY="253841" locZ="-184" heading="24576" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32628" locX="-148777" locY="254544" locZ="-186" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32628" locX="-148804" locY="254521" locZ="-187" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32629" locX="-149929" locY="254543" locZ="-187" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32629" locX="-149909" locY="254506" locZ="-187" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18782" locX="-148656" locY="254304" locZ="-185" heading="0" respawnDelay="420" periodOfDay="0" />
+    		<spawn npcId="18782" locX="-150107" locY="254288" locZ="-185" heading="0" respawnDelay="780" periodOfDay="0" />
+	</spawnloc>
+</list>

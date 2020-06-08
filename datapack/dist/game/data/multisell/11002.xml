@@ -1,0 +1,79 @@
+﻿<?xml version='1.0' encoding='utf-8'?><!-- C Пушки -->
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+  <item>
+    <ingredient id="57" count="5000000"/>
+    <production id="4708" count="1"/>
+  </item>
+  <item>
+    <ingredient id="57" count="5000000"/>
+    <production id="4709" count="1"/>
+  </item>
+  <item>
+    <ingredient id="57" count="5000000"/>
+    <production id="4710" count="1"/>
+  </item>
+  <item>
+    <ingredient id="57" count="5000000"/>
+    <production id="4822" count="1"/>
+  </item>
+  <item>
+    <ingredient id="57" count="5000000"/>
+    <production id="4823" count="1"/>
+  </item>
+  <item>
+    <ingredient id="57" count="5000000"/>
+    <production id="4824" count="1"/>
+  </item>
+  <item>
+    <ingredient id="57" count="5000000"/>
+    <production id="4774" count="1"/>
+  </item>
+  <item>
+    <ingredient id="57" count="5000000"/>
+    <production id="4775" count="1"/>
+  </item>
+  <item>
+    <ingredient id="57" count="5000000"/>
+    <production id="4776" count="1"/>
+  </item>
+  <item>
+    <ingredient id="57" count="5000000"/>
+    <production id="6313" count="1"/>
+  </item>
+  <item>
+    <ingredient id="57" count="5000000"/>
+    <production id="6314" count="1"/>
+  </item>
+  <item>
+    <ingredient id="57" count="5000000"/>
+    <production id="6315" count="1"/>
+  </item>
+  <item>
+    <ingredient id="57" count="5000000"/>
+    <production id="4795" count="1"/>
+  </item>
+  <item>
+    <ingredient id="57" count="5000000"/>
+    <production id="4796" count="1"/>
+  </item>
+  <item>
+    <ingredient id="57" count="5000000"/>
+    <production id="4797" count="1"/>
+  </item>
+  <item>
+    <ingredient id="57" count="5000000"/>
+    <production id="4744" count="1"/>
+  </item>
+  <item>
+    <ingredient id="57" count="5000000"/>
+    <production id="4745" count="1"/>
+  </item>
+  <item>
+    <ingredient id="57" count="5000000"/>
+    <production id="4746" count="1"/>
+  </item>
+  <item>
+    <ingredient id="57" count="5000000"/>
+    <production id="2582" count="1"/>
+  </item>
+</list>

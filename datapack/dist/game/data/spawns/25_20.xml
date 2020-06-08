@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawns.xsd">
+	<spawnzone name="aden10_2420_18">
+    		<spawn npcId="20640" locX="166008" locY="65819" locZ="-3723" heading="770" respawnDelay="23" periodOfDay="0" />
+    		<spawn npcId="20640" locX="164298" locY="68344" locZ="-3255" heading="51389" respawnDelay="23" periodOfDay="0" />
+    		<spawn npcId="20640" locX="165474" locY="72040" locZ="-3146" heading="12919" respawnDelay="23" periodOfDay="0" />
+    		<spawn npcId="20640" locX="164467" locY="66487" locZ="-3723" heading="2737" respawnDelay="23" periodOfDay="0" />
+	</spawnzone> <!-- Harit Lizardman -->
+	<spawnzone name="aden10_2420_18">
+    		<spawn npcId="20641" locX="167600" locY="66829" locZ="-3723" heading="5162" respawnDelay="23" periodOfDay="0" />
+    		<spawn npcId="20641" locX="165573" locY="66445" locZ="-3722" heading="32349" respawnDelay="23" periodOfDay="0" />
+    		<spawn npcId="20641" locX="164952" locY="71974" locZ="-3176" heading="45630" respawnDelay="23" periodOfDay="0" />
+	</spawnzone> <!-- Harit Lizardman Grunt -->
+	<spawnzone name="aden10_2420_18">
+    		<spawn npcId="20642" locX="164101" locY="67418" locZ="-3456" heading="0" respawnDelay="23" periodOfDay="0" />
+    		<spawn npcId="20642" locX="164644" locY="65659" locZ="-3671" heading="459" respawnDelay="23" periodOfDay="0" />
+    		<spawn npcId="20642" locX="165009" locY="70853" locZ="-3142" heading="50466" respawnDelay="23" periodOfDay="0" />
+	</spawnzone> <!-- Harit Lizardman Archer -->
+	<spawnzone name="aden10_2420_20">
+    		<spawn npcId="20643" locX="164158" locY="86826" locZ="-2800" heading="0" respawnDelay="23" periodOfDay="0" />
+    		<spawn npcId="20643" locX="165850" locY="74798" locZ="-3164" heading="0" respawnDelay="23" periodOfDay="0" />
+    		<spawn npcId="20643" locX="166551" locY="84996" locZ="-2088" heading="19354" respawnDelay="23" periodOfDay="0" />
+    		<spawn npcId="20643" locX="164350" locY="80632" locZ="-2370" heading="41790" respawnDelay="23" periodOfDay="0" />
+    		<spawn npcId="20643" locX="164984" locY="73806" locZ="-3088" heading="11287" respawnDelay="23" periodOfDay="0" />
+    		<spawn npcId="20643" locX="164290" locY="79580" locZ="-2370" heading="50632" respawnDelay="23" periodOfDay="0" />
+    		<spawn npcId="20643" locX="163879" locY="84827" locZ="-2370" heading="14028" respawnDelay="23" periodOfDay="0" />
+	</spawnzone> <!-- Harit Lizardman Warrior -->
+	<spawnzone name="aden10_2420_20">
+    		<spawn npcId="20644" locX="164460" locY="87004" locZ="-2800" heading="0" respawnDelay="23" periodOfDay="0" />
+    		<spawn npcId="20644" locX="165213" locY="87702" locZ="-2472" heading="0" respawnDelay="23" periodOfDay="0" />
+    		<spawn npcId="20644" locX="165671" locY="72947" locZ="-3072" heading="32976" respawnDelay="23" periodOfDay="0" />
+    		<spawn npcId="20644" locX="165713" locY="82231" locZ="-2017" heading="2707" respawnDelay="23" periodOfDay="0" />
+    		<spawn npcId="20644" locX="165185" locY="80125" locZ="-2315" heading="5080" respawnDelay="23" periodOfDay="0" />
+    		<spawn npcId="20644" locX="166031" locY="86913" locZ="-2255" heading="49253" respawnDelay="23" periodOfDay="0" />
+    		<spawn npcId="20644" locX="165027" locY="75640" locZ="-2799" heading="16864" respawnDelay="23" periodOfDay="0" />
+    		<spawn npcId="20644" locX="165029" locY="74953" locZ="-2872" heading="46128" respawnDelay="23" periodOfDay="0" />
+    		<spawn npcId="20644" locX="166096" locY="83463" locZ="-2024" heading="44723" respawnDelay="23" periodOfDay="0" />
+	</spawnzone> <!-- Harit Lizardman Shaman -->
+	<spawnzone name="aden10_2420_20">
+    		<spawn npcId="20645" locX="165376" locY="87033" locZ="-2370" heading="7788" respawnDelay="23" periodOfDay="0" />
+    		<spawn npcId="20645" locX="165342" locY="74219" locZ="-3016" heading="0" respawnDelay="23" periodOfDay="0" />
+    		<spawn npcId="20645" locX="164615" locY="73136" locZ="-3108" heading="31985" respawnDelay="23" periodOfDay="0" />
+    		<spawn npcId="20645" locX="165796" locY="81166" locZ="-2046" heading="10525" respawnDelay="23" periodOfDay="0" />
+    		<spawn npcId="20645" locX="167421" locY="86382" locZ="-2004" heading="56452" respawnDelay="23" periodOfDay="0" />
+    		<spawn npcId="20645" locX="165993" locY="88314" locZ="-2370" heading="12693" respawnDelay="23" periodOfDay="0" />
+	</spawnzone> <!-- Harit Lizardman Matriarch -->
+</list>

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawns.xsd">
+	<spawnzone name="heretics_catacomb_zone_01">
+    		<spawn npcId="21143" locX="-47124" locY="-245873" locZ="-7903" heading="41625" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21143" locX="-46985" locY="-250288" locZ="-7903" heading="6408" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21143" locX="-46962" locY="-248760" locZ="-7905" heading="54566" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21143" locX="-46727" locY="-248990" locZ="-7905" heading="63881" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21143" locX="-45345" locY="-250164" locZ="-7905" heading="33310" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21143" locX="-44854" locY="-247827" locZ="-7905" heading="17313" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21143" locX="-44803" locY="-247025" locZ="-7905" heading="48044" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21143" locX="-44492" locY="-250381" locZ="-7905" heading="19162" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21143" locX="-44292" locY="-247419" locZ="-7935" heading="62622" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21143" locX="-43644" locY="-249747" locZ="-7905" heading="52861" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21143" locX="-43413" locY="-250176" locZ="-7903" heading="1723" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21143" locX="-42961" locY="-247469" locZ="-7903" heading="33409" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21143" locX="-42578" locY="-247726" locZ="-7905" heading="14768" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21143" locX="-42541" locY="-245463" locZ="-7903" heading="15847" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21143" locX="-42324" locY="-250266" locZ="-7903" heading="29481" respawnDelay="120" periodOfDay="0" />
+	</spawnzone> <!-- Catacomb Scavenger Bat -->
+	<spawnzone name="heretics_catacomb_zone_02">
+    		<spawn npcId="21144" locX="-47422" locY="-250271" locZ="-7903" heading="33115" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21144" locX="-47239" locY="-249049" locZ="-7905" heading="47254" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21144" locX="-47147" locY="-245414" locZ="-7903" heading="16953" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21144" locX="-46314" locY="-248768" locZ="-7903" heading="3385" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21144" locX="-45182" locY="-250409" locZ="-7905" heading="23750" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21144" locX="-44986" locY="-247222" locZ="-7905" heading="26360" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21144" locX="-44781" locY="-246458" locZ="-7905" heading="14379" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21144" locX="-44713" locY="-250116" locZ="-7905" heading="4093" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21144" locX="-44368" locY="-247669" locZ="-7905" heading="479" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21144" locX="-43477" locY="-250450" locZ="-7903" heading="5960" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21144" locX="-43371" locY="-249418" locZ="-7905" heading="16384" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21144" locX="-43180" locY="-247705" locZ="-7905" heading="48872" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21144" locX="-42712" locY="-250273" locZ="-7903" heading="33989" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21144" locX="-42547" locY="-245924" locZ="-7903" heading="50948" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21144" locX="-42412" locY="-247395" locZ="-7905" heading="10251" respawnDelay="120" periodOfDay="0" />
+	</spawnzone> <!-- Catacomb Shadow -->
+	<spawnzone name="heretics_catacomb_zone_03">
+    		<spawn npcId="21145" locX="-47360" locY="-244576" locZ="-7903" heading="33065" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21145" locX="-47229" locY="-242766" locZ="-7903" heading="43146" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21145" locX="-47151" locY="-240197" locZ="-7903" heading="49014" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21145" locX="-46940" locY="-241947" locZ="-7905" heading="57530" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21145" locX="-45625" locY="-239841" locZ="-7905" heading="59652" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21145" locX="-45263" locY="-244779" locZ="-7935" heading="65095" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21145" locX="-45131" locY="-240094" locZ="-7905" heading="48284" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21145" locX="-45019" locY="-242963" locZ="-7905" heading="25920" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21145" locX="-44713" locY="-244400" locZ="-7905" heading="20306" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21145" locX="-44562" locY="-243515" locZ="-7903" heading="46656" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21145" locX="-44392" locY="-242458" locZ="-7905" heading="60" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21145" locX="-43631" locY="-240181" locZ="-7903" heading="49152" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21145" locX="-42734" locY="-242081" locZ="-7905" heading="19468" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21145" locX="-42544" locY="-240118" locZ="-7903" heading="49889" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21145" locX="-42543" locY="-244785" locZ="-7903" heading="47818" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21145" locX="-42447" locY="-242524" locZ="-7903" heading="48010" respawnDelay="120" periodOfDay="0" />
+	</spawnzone> <!-- Catacomb Stakato Soldier -->
+	<spawnzone name="heretics_catacomb_zone_04">
+    		<spawn npcId="21146" locX="-47347" locY="-242015" locZ="-7905" heading="6570" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21146" locX="-47129" locY="-239799" locZ="-7903" heading="53120" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21146" locX="-47110" locY="-242446" locZ="-7903" heading="46617" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21146" locX="-46987" locY="-244567" locZ="-7903" heading="27015" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21146" locX="-45775" locY="-240074" locZ="-7905" heading="58896" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21146" locX="-45467" locY="-244408" locZ="-7905" heading="579" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21146" locX="-44833" locY="-239747" locZ="-7905" heading="44955" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21146" locX="-44715" locY="-241946" locZ="-7933" heading="19267" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21146" locX="-44477" locY="-244756" locZ="-7905" heading="1955" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21146" locX="-44451" locY="-243041" locZ="-7935" heading="55408" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21146" locX="-44270" locY="-242341" locZ="-7935" heading="57344" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21146" locX="-43633" locY="-239765" locZ="-7903" heading="49152" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21146" locX="-42633" locY="-241466" locZ="-7903" heading="42905" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21146" locX="-42548" locY="-239779" locZ="-7903" heading="49371" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21146" locX="-42540" locY="-244405" locZ="-7933" heading="17757" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21146" locX="-42508" locY="-241870" locZ="-7903" heading="43560" respawnDelay="120" periodOfDay="0" />
+	</spawnzone> <!-- Grave Keeper Dark Horror -->
+	<spawnzone name="heretics_catacomb_zone_05">
+    		<spawn npcId="21169" locX="-52644" locY="-245662" locZ="-7903" heading="31533" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21169" locX="-52212" locY="-247378" locZ="-7903" heading="58685" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21169" locX="-52172" locY="-247098" locZ="-7905" heading="17853" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21169" locX="-51209" locY="-249375" locZ="-7935" heading="17647" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21169" locX="-50920" locY="-248826" locZ="-7903" heading="14375" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21169" locX="-50841" locY="-246338" locZ="-7905" heading="51138" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21169" locX="-50840" locY="-250255" locZ="-7905" heading="19046" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21169" locX="-50498" locY="-246337" locZ="-7905" heading="1553" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21169" locX="-49785" locY="-249292" locZ="-7905" heading="20700" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21169" locX="-49709" locY="-250142" locZ="-7903" heading="12480" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21169" locX="-49619" locY="-249763" locZ="-7903" heading="19091" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21169" locX="-48772" locY="-246818" locZ="-7903" heading="31346" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21169" locX="-48556" locY="-247069" locZ="-7905" heading="49070" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21169" locX="-48242" locY="-245468" locZ="-7903" heading="13933" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21169" locX="-48095" locY="-250265" locZ="-7903" heading="3356" respawnDelay="120" periodOfDay="0" />
+	</spawnzone> <!-- Lith Guard -->
+	<spawnzone name="heretics_catacomb_zone_06">
+    		<spawn npcId="21170" locX="-52851" locY="-240188" locZ="-7933" heading="48802" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21170" locX="-52646" locY="-242859" locZ="-7905" heading="45796" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21170" locX="-52643" locY="-244577" locZ="-7933" heading="2238" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21170" locX="-52300" locY="-242715" locZ="-7903" heading="61061" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21170" locX="-52014" locY="-240460" locZ="-7905" heading="48746" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21170" locX="-51719" locY="-239970" locZ="-7905" heading="28030" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21170" locX="-51118" locY="-242747" locZ="-7935" heading="38095" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21170" locX="-50976" locY="-239967" locZ="-7903" heading="59989" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21170" locX="-50852" locY="-242346" locZ="-7905" heading="41970" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21170" locX="-50775" locY="-243149" locZ="-7905" heading="55856" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21170" locX="-49949" locY="-240092" locZ="-7905" heading="3339" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21170" locX="-48985" locY="-241270" locZ="-7935" heading="34172" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21170" locX="-48257" locY="-241487" locZ="-7905" heading="22626" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21170" locX="-48248" locY="-240148" locZ="-7903" heading="51033" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21170" locX="-48229" locY="-244403" locZ="-7903" heading="18641" respawnDelay="120" periodOfDay="0" />
+	</spawnzone> <!-- Lith Medium -->
+	<spawnzone name="heretics_catacomb_zone_07">
+    		<spawn npcId="21171" locX="-47362" locY="-248785" locZ="-7903" heading="44702" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21171" locX="-47348" locY="-245685" locZ="-7903" heading="28931" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21171" locX="-47144" locY="-250123" locZ="-7903" heading="18082" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21171" locX="-46306" locY="-248958" locZ="-7903" heading="817" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21171" locX="-45433" locY="-250386" locZ="-7903" heading="35891" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21171" locX="-44658" locY="-246770" locZ="-7933" heading="16435" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21171" locX="-44647" locY="-247336" locZ="-7903" heading="10845" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21171" locX="-44399" locY="-250193" locZ="-7903" heading="30060" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21171" locX="-44285" locY="-247764" locZ="-7905" heading="55452" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21171" locX="-43663" locY="-250206" locZ="-7905" heading="56978" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21171" locX="-43378" locY="-249818" locZ="-7905" heading="14087" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21171" locX="-43340" locY="-247472" locZ="-7903" heading="34010" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21171" locX="-42542" locY="-250033" locZ="-7933" heading="18366" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21171" locX="-42434" locY="-247553" locZ="-7903" heading="41059" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21171" locX="-42318" locY="-245666" locZ="-7903" heading="33042" respawnDelay="120" periodOfDay="0" />
+	</spawnzone> <!-- Lith Overlord -->
+	<spawnzone name="heretics_catacomb_zone_08">
+    		<spawn npcId="21172" locX="-47325" locY="-242393" locZ="-7905" heading="11315" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21172" locX="-47175" locY="-244728" locZ="-7903" heading="49992" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21172" locX="-46988" locY="-239965" locZ="-7933" heading="32302" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21172" locX="-46980" locY="-242203" locZ="-7905" heading="2613" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21172" locX="-45509" locY="-244618" locZ="-7903" heading="5458" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21172" locX="-45379" locY="-240082" locZ="-7905" heading="46659" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21172" locX="-45240" locY="-239753" locZ="-7905" heading="48069" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21172" locX="-44991" locY="-242710" locZ="-7905" heading="23586" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21172" locX="-44679" locY="-242929" locZ="-7905" heading="58704" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21172" locX="-44606" locY="-242301" locZ="-7903" heading="15979" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21172" locX="-44505" locY="-244470" locZ="-7905" heading="62163" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21172" locX="-43837" locY="-239964" locZ="-7903" heading="64668" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21172" locX="-42738" locY="-239963" locZ="-7903" heading="64110" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21172" locX="-42729" locY="-241753" locZ="-7905" heading="24416" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21172" locX="-42657" locY="-242517" locZ="-7905" heading="47012" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21172" locX="-42355" locY="-244575" locZ="-7903" heading="29212" respawnDelay="120" periodOfDay="0" />
+	</spawnzone> <!-- Lith Patrolman -->
+	<spawnzone name="heretics_catacomb_zone_09">
+    		<spawn npcId="21190" locX="-52851" locY="-245845" locZ="-7933" heading="51419" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21190" locX="-52570" locY="-247371" locZ="-7905" heading="147" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21190" locX="-51887" locY="-247084" locZ="-7905" heading="24164" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21190" locX="-51136" locY="-249757" locZ="-7903" heading="21039" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21190" locX="-51118" locY="-248929" locZ="-7903" heading="16911" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21190" locX="-50884" locY="-249753" locZ="-7905" heading="37722" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21190" locX="-50864" locY="-246058" locZ="-7935" heading="44251" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21190" locX="-50543" locY="-246541" locZ="-7905" heading="2672" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21190" locX="-49861" locY="-249551" locZ="-7905" heading="52833" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21190" locX="-49792" locY="-249103" locZ="-7905" heading="14636" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21190" locX="-49412" locY="-249595" locZ="-7905" heading="5489" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21190" locX="-49044" locY="-247003" locZ="-7903" heading="33166" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21190" locX="-48454" locY="-245683" locZ="-7903" heading="27342" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21190" locX="-48306" locY="-246829" locZ="-7903" heading="37672" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21190" locX="-48237" locY="-250475" locZ="-7903" heading="12299" respawnDelay="120" periodOfDay="0" />
+	</spawnzone> <!-- Gigant Footman -->
+	<spawnzone name="heretics_catacomb_zone_10">
+    		<spawn npcId="21191" locX="-53019" locY="-239982" locZ="-7903" heading="63953" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21191" locX="-52858" locY="-244747" locZ="-7933" heading="51782" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21191" locX="-52495" locY="-242498" locZ="-7905" heading="5531" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21191" locX="-52019" locY="-242824" locZ="-7905" heading="61284" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21191" locX="-51998" locY="-240069" locZ="-7905" heading="34302" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21191" locX="-51716" locY="-240379" locZ="-7905" heading="22233" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21191" locX="-50909" locY="-243839" locZ="-7905" heading="51338" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21191" locX="-50637" locY="-239816" locZ="-7905" heading="42923" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21191" locX="-50601" locY="-242293" locZ="-7905" heading="42576" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21191" locX="-50373" locY="-243300" locZ="-7935" heading="1282" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21191" locX="-50205" locY="-240156" locZ="-7905" heading="12292" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21191" locX="-48665" locY="-241548" locZ="-7935" heading="53089" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21191" locX="-48535" locY="-241219" locZ="-7905" heading="33311" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21191" locX="-48395" locY="-239962" locZ="-7903" heading="31968" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21191" locX="-48087" locY="-244585" locZ="-7933" heading="2136" respawnDelay="120" periodOfDay="0" />
+	</spawnzone> <!-- Gigant Cleric -->
+	<spawnzone name="heretics_catacomb_zone_11">
+    		<spawn npcId="21192" locX="-47139" locY="-250477" locZ="-7903" heading="13359" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21192" locX="-47041" locY="-249035" locZ="-7905" heading="48788" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21192" locX="-46941" locY="-245665" locZ="-7933" heading="60738" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21192" locX="-46639" locY="-248757" locZ="-7905" heading="40960" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21192" locX="-45028" locY="-246946" locZ="-7905" heading="39405" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21192" locX="-44906" locY="-250407" locZ="-7905" heading="13530" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21192" locX="-44898" locY="-250110" locZ="-7905" heading="17410" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21192" locX="-44708" locY="-247302" locZ="-7903" heading="56813" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21192" locX="-44532" locY="-246410" locZ="-7905" heading="9302" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21192" locX="-43597" locY="-249364" locZ="-7933" heading="21620" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21192" locX="-43312" locY="-250376" locZ="-7935" heading="4398" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21192" locX="-42967" locY="-247704" locZ="-7905" heading="54415" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21192" locX="-42769" locY="-245683" locZ="-7933" heading="26548" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21192" locX="-42647" locY="-247411" locZ="-7905" heading="17179" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21192" locX="-42548" locY="-250490" locZ="-7903" heading="15984" respawnDelay="120" periodOfDay="0" />
+	</spawnzone> <!-- Gigant Officer -->
+	<spawnzone name="heretics_catacomb_zone_12">
+    		<spawn npcId="21193" locX="-47294" locY="-239956" locZ="-7903" heading="34240" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21193" locX="-47202" locY="-241723" locZ="-7903" heading="53120" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21193" locX="-47138" locY="-244396" locZ="-7903" heading="17977" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21193" locX="-47049" locY="-242762" locZ="-7935" heading="51130" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21193" locX="-45830" locY="-239748" locZ="-7905" heading="62075" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21193" locX="-44890" locY="-239986" locZ="-7903" heading="35256" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21193" locX="-44885" locY="-244738" locZ="-7905" heading="25030" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21193" locX="-44818" locY="-244444" locZ="-7935" heading="1723" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21193" locX="-44690" locY="-242593" locZ="-7933" heading="38417" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21193" locX="-44648" locY="-243258" locZ="-7933" heading="41549" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21193" locX="-44503" locY="-241934" locZ="-7905" heading="9723" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21193" locX="-43458" locY="-239973" locZ="-7903" heading="35782" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21193" locX="-42685" locY="-244570" locZ="-7903" heading="34136" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21193" locX="-42404" locY="-242162" locZ="-7905" heading="53005" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21193" locX="-42378" locY="-241638" locZ="-7905" heading="53481" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21193" locX="-42350" locY="-239959" locZ="-7903" heading="37951" respawnDelay="120" periodOfDay="0" />
+	</spawnzone> <!-- Gigant Raider -->
+	<spawnzone name="heretics_catacomb_zone_13">
+    		<spawn npcId="21236" locX="-53051" locY="-245666" locZ="-7903" heading="61958" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21236" locX="-52728" locY="-247261" locZ="-7903" heading="57730" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21236" locX="-51717" locY="-247268" locZ="-7903" heading="29991" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21236" locX="-51323" locY="-249263" locZ="-7905" heading="29764" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21236" locX="-51051" locY="-250022" locZ="-7905" heading="12397" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21236" locX="-50915" locY="-249488" locZ="-7905" heading="47503" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21236" locX="-50733" locY="-245800" locZ="-7903" heading="41538" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21236" locX="-50653" locY="-246786" locZ="-7903" heading="50861" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21236" locX="-49775" locY="-248775" locZ="-7903" heading="18468" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21236" locX="-49768" locY="-249936" locZ="-7903" heading="22632" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21236" locX="-49671" locY="-249334" locZ="-7905" heading="27445" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21236" locX="-48780" locY="-247058" locZ="-7905" heading="52337" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21236" locX="-48413" locY="-250272" locZ="-7933" heading="1781" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21236" locX="-48239" locY="-245851" locZ="-7903" heading="16655" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21236" locX="-47981" locY="-246787" locZ="-7905" heading="19848" respawnDelay="120" periodOfDay="0" />
+	</spawnzone> <!-- Barrow Sentinel -->
+	<spawnzone name="heretics_catacomb_zone_14">
+    		<spawn npcId="21237" locX="-52843" locY="-245438" locZ="-7903" heading="16955" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21237" locX="-52470" locY="-247099" locZ="-7905" heading="47381" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21237" locX="-51962" locY="-247397" locZ="-7905" heading="47690" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21237" locX="-51338" locY="-249509" locZ="-7905" heading="35178" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21237" locX="-51144" locY="-250255" locZ="-7905" heading="19436" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21237" locX="-50902" locY="-249194" locZ="-7905" heading="46135" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21237" locX="-50875" locY="-246803" locZ="-7935" heading="47913" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21237" locX="-50509" locY="-245981" locZ="-7905" heading="40205" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21237" locX="-49558" locY="-248778" locZ="-7905" heading="14994" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21237" locX="-49551" locY="-250223" locZ="-7905" heading="16275" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21237" locX="-49337" locY="-249268" locZ="-7905" heading="60126" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21237" locX="-49056" locY="-246805" locZ="-7905" heading="31941" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21237" locX="-48240" locY="-250075" locZ="-7903" heading="17128" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21237" locX="-48160" locY="-247079" locZ="-7905" heading="28015" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21237" locX="-47999" locY="-245671" locZ="-7903" heading="65229" respawnDelay="120" periodOfDay="0" />
+	</spawnzone> <!-- Barrow Monk -->
+	<spawnzone name="heretics_catacomb_zone_15">
+    		<spawn npcId="21238" locX="-52918" locY="-242867" locZ="-7905" heading="43301" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21238" locX="-52849" locY="-244356" locZ="-7903" heading="16529" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21238" locX="-52642" locY="-239969" locZ="-7903" heading="64890" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21238" locX="-52258" locY="-242521" locZ="-7905" heading="15306" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21238" locX="-52034" locY="-240816" locZ="-7905" heading="49358" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21238" locX="-51871" locY="-239788" locZ="-7903" heading="35497" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21238" locX="-51098" locY="-242590" locZ="-7905" heading="29690" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21238" locX="-50720" locY="-243572" locZ="-7903" heading="44951" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21238" locX="-50684" locY="-240105" locZ="-7905" heading="48627" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21238" locX="-50417" locY="-242993" locZ="-7905" heading="59731" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21238" locX="-49931" locY="-239879" locZ="-7933" heading="2165" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21238" locX="-49142" locY="-241465" locZ="-7903" heading="36091" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21238" locX="-48462" locY="-244583" locZ="-7903" heading="34686" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21238" locX="-48148" locY="-241186" locZ="-7935" heading="13473" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21238" locX="-47992" locY="-239969" locZ="-7933" heading="290" respawnDelay="120" periodOfDay="0" />
+	</spawnzone> <!-- Grave Sentinel -->
+	<spawnzone name="heretics_catacomb_zone_16">
+    		<spawn npcId="21239" locX="-53045" locY="-244575" locZ="-7903" heading="1481" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21239" locX="-52927" locY="-242626" locZ="-7903" heading="1769" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21239" locX="-52848" locY="-239776" locZ="-7903" heading="43474" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21239" locX="-52042" locY="-239856" locZ="-7935" heading="37041" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21239" locX="-51899" locY="-242592" locZ="-7935" heading="63352" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21239" locX="-51799" locY="-240859" locZ="-7903" heading="50831" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21239" locX="-50780" locY="-242673" locZ="-7903" heading="52233" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21239" locX="-50775" locY="-243373" locZ="-7903" heading="10902" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21239" locX="-50626" locY="-243854" locZ="-7935" heading="52649" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21239" locX="-50499" locY="-240123" locZ="-7905" heading="51536" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21239" locX="-50197" locY="-239791" locZ="-7905" heading="44655" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21239" locX="-48924" locY="-241537" locZ="-7905" heading="59947" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21239" locX="-48305" locY="-241180" locZ="-7905" heading="18732" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21239" locX="-48252" locY="-244750" locZ="-7903" heading="54265" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21239" locX="-48249" locY="-239779" locZ="-7903" heading="44209" respawnDelay="120" periodOfDay="0" />
+	</spawnzone> <!-- Grave Monk -->
+	<spawnloc name="heretics_catacomb_npc_loc">
+    		<spawn npcId="31120" locX="-52832" locY="-250272" locZ="-7905" heading="16500" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31495" locX="-53067" locY="-250565" locZ="-7907" heading="16000" respawnDelay="60" periodOfDay="0" />
+	</spawnloc>
+</list>

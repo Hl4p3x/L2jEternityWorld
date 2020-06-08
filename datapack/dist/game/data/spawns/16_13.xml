@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawns.xsd">
+	<spawnloc name="chamber_of_delusion_npc_zone_01">
+    		<spawn npcId="32658" locX="-114602" locY="-151279" locZ="-6720" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32659" locX="-114051" locY="-151873" locZ="-6720" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32660" locX="-115162" locY="-151868" locZ="-6720" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32661" locX="-115152" locY="-154688" locZ="-6720" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32662" locX="-114608" locY="-155280" locZ="-6720" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32663" locX="-114048" locY="-154688" locZ="-6720" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnloc>
+</list>

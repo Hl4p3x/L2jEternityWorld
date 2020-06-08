@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawns.xsd">
+	<spawnzone name="innadrill05_2225_02">
+		<spawn npcId="20314" locX="84904" locY="241395" locZ="-7211" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20314" locX="84803" locY="241217" locZ="-7211" heading="0" respawnDelay="94" periodOfDay="0" />
+	</spawnzone> <!-- Great White Shark -->
+	<spawnzone name="innadrill05_2225_04">
+		<spawn npcId="20794" locX="85145" locY="245792" locZ="-8823" heading="5107" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20794" locX="88725" locY="249626" locZ="-8823" heading="45819" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20794" locX="88033" locY="256107" locZ="-8823" heading="56537" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20794" locX="88814" locY="254160" locZ="-8823" heading="52902" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20794" locX="85146" locY="258319" locZ="-8823" heading="57809" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20794" locX="86579" locY="257249" locZ="-8823" heading="58851" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20794" locX="78622" locY="257186" locZ="-8823" heading="6703" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20794" locX="80159" locY="258367" locZ="-8823" heading="6020" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20794" locX="76070" locY="252947" locZ="-8823" heading="14076" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20794" locX="76737" locY="255406" locZ="-8823" heading="12575" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20794" locX="76257" locY="250269" locZ="-8823" heading="19989" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20794" locX="77549" locY="247539" locZ="-8823" heading="26152" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20794" locX="83775" locY="244694" locZ="-7296" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20794" locX="84093" locY="244643" locZ="-7532" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20794" locX="84554" locY="244274" locZ="-7923" heading="64987" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20794" locX="85611" locY="245985" locZ="-8823" heading="35553" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20794" locX="85610" locY="245756" locZ="-8824" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20794" locX="88497" locY="248773" locZ="-8823" heading="53988" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20794" locX="88983" locY="250508" locZ="-8814" heading="46014" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20794" locX="76931" locY="247816" locZ="-8825" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20794" locX="76668" locY="249586" locZ="-8825" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20794" locX="79048" locY="246228" locZ="-8825" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20794" locX="79850" locY="245695" locZ="-8825" heading="0" respawnDelay="94" periodOfDay="0" />
+	</spawnzone> <!-- Blade Stakato -->
+	<spawnzone name="innadrill05_2225_09">
+		<spawn npcId="20795" locX="88354" locY="250876" locZ="-9335" heading="32768" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20795" locX="88594" locY="252446" locZ="-9335" heading="55452" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20795" locX="84995" locY="256392" locZ="-9847" heading="58554" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20795" locX="85935" locY="256785" locZ="-9327" heading="59140" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20795" locX="77085" locY="256079" locZ="-8823" heading="33447" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20795" locX="78502" locY="256119" locZ="-9337" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20795" locX="76005" locY="251065" locZ="-8823" heading="19211" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20795" locX="76238" locY="253596" locZ="-8823" heading="14814" respawnDelay="94" periodOfDay="0" />
+	</spawnzone> <!-- Blade Stakato Worker -->
+	<spawnzone name="innadrill05_2225_08">
+		<spawn npcId="20796" locX="86636" locY="246853" locZ="-8823" heading="40423" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20796" locX="88074" locY="252255" locZ="-9848" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20796" locX="88724" locY="252311" locZ="-9337" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20796" locX="86153" locY="255547" locZ="-9847" heading="59262" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20796" locX="86174" locY="256620" locZ="-9337" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20796" locX="77847" locY="256580" locZ="-8823" heading="32768" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20796" locX="78829" locY="256246" locZ="-9327" heading="7254" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20796" locX="76478" locY="254448" locZ="-8823" heading="13306" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20796" locX="75790" locY="252614" locZ="-8875" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20796" locX="76921" locY="248727" locZ="-8825" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20796" locX="82076" locY="246316" locZ="-9335" heading="33264" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20796" locX="83226" locY="246250" locZ="-9335" heading="31355" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20796" locX="85458" locY="247023" locZ="-9335" heading="40465" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20796" locX="86843" locY="247989" locZ="-9335" heading="38021" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20796" locX="88178" locY="250233" locZ="-9335" heading="17508" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20796" locX="87933" locY="249481" locZ="-9335" heading="45785" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20796" locX="88273" locY="253099" locZ="-9335" heading="52861" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20796" locX="87252" locY="255813" locZ="-9335" heading="55987" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20796" locX="84649" locY="257613" locZ="-9335" heading="26783" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20796" locX="83511" locY="257746" locZ="-9335" heading="43" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20796" locX="79467" locY="256718" locZ="-9335" heading="39938" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20796" locX="77989" locY="255699" locZ="-9335" heading="39479" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20796" locX="77588" locY="254534" locZ="-9335" heading="13856" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20796" locX="77091" locY="250843" locZ="-9335" heading="19544" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20796" locX="77502" locY="249540" locZ="-9335" heading="19988" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20796" locX="78026" locY="248356" locZ="-9335" heading="16103" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20796" locX="79026" locY="247736" locZ="-9335" heading="27247" respawnDelay="94" periodOfDay="0" />
+	</spawnzone> <!-- Blade Stakato Warrior -->
+	<spawnzone name="innadrill05_2225_16">
+		<spawn npcId="20797" locX="87919" locY="254349" locZ="-9335" heading="51916" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20797" locX="82299" locY="257689" locZ="-9335" heading="65353" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20797" locX="77268" locY="253463" locZ="-9335" heading="12395" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20797" locX="80406" locY="246621" locZ="-9335" heading="27788" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20797" locX="81176" locY="246308" locZ="-9335" heading="6840" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20797" locX="84355" locY="246299" locZ="-9335" heading="35783" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20797" locX="84832" locY="246381" locZ="-9337" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20797" locX="87528" locY="248489" locZ="-9335" heading="42397" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20797" locX="87742" locY="248818" locZ="-9377" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20797" locX="87833" locY="252080" locZ="-9847" heading="51657" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20797" locX="84529" locY="255610" locZ="-10359" heading="23695" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20797" locX="84787" locY="255584" locZ="-10359" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20797" locX="80752" locY="257720" locZ="-9335" heading="17209" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20797" locX="81093" locY="257854" locZ="-9337" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20797" locX="77766" locY="255048" locZ="-9335" heading="35224" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20797" locX="80000" locY="257107" locZ="-9335" heading="5604" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20797" locX="76798" locY="251719" locZ="-9335" heading="21095" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20797" locX="77826" locY="248334" locZ="-9337" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20797" locX="77715" locY="248579" locZ="-9337" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20797" locX="78447" locY="248162" locZ="-9337" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20797" locX="78328" locY="248212" locZ="-9337" heading="0" respawnDelay="94" periodOfDay="0" />
+	</spawnzone> <!-- Blade Stakato Drone -->
+	<spawnzone name="innadrill05_2225_16">
+		<spawn npcId="20798" locX="81182" locY="245244" locZ="-9124" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20798" locX="81728" locY="246414" locZ="-9339" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20798" locX="85054" locY="246609" locZ="-9335" heading="28900" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20798" locX="87806" locY="248765" locZ="-9337" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20798" locX="87739" locY="248989" locZ="-9337" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20798" locX="88656" locY="252154" locZ="-9335" heading="58048" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20798" locX="88689" locY="252464" locZ="-9378" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20798" locX="85756" locY="254997" locZ="-10359" heading="59767" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20798" locX="85137" locY="255271" locZ="-10359" heading="59997" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20798" locX="81355" locY="256897" locZ="-9847" heading="2074" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20798" locX="81282" locY="257833" locZ="-9335" heading="2948" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20798" locX="78919" locY="255188" locZ="-9851" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20798" locX="78058" locY="255722" locZ="-9378" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20798" locX="77646" locY="251863" locZ="-9851" heading="8034" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20798" locX="76792" locY="252367" locZ="-9327" heading="16972" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20798" locX="77669" locY="248642" locZ="-9337" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20798" locX="79524" locY="247461" locZ="-9337" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20798" locX="78793" locY="248760" locZ="-9839" heading="23987" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20798" locX="78522" locY="249400" locZ="-9847" heading="22873" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20798" locX="81660" locY="247177" locZ="-9847" heading="30856" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20798" locX="80328" locY="247743" locZ="-9847" heading="25508" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20798" locX="86129" locY="248430" locZ="-9847" heading="40811" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20798" locX="82682" locY="247134" locZ="-9847" heading="30462" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20798" locX="87790" locY="251528" locZ="-9840" heading="177284" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20798" locX="87064" locY="249396" locZ="-9847" heading="46649" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20798" locX="87210" locY="253973" locZ="-9847" heading="62101" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20798" locX="87544" locY="253161" locZ="-9847" heading="53043" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20798" locX="84614" locY="256719" locZ="-9847" heading="60081" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20798" locX="86928" locY="254978" locZ="-9847" heading="59283" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20798" locX="82980" locY="256869" locZ="-9847" heading="2339" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20798" locX="80680" locY="256577" locZ="-9847" heading="7358" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20798" locX="77938" locY="253227" locZ="-9847" heading="15939" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20798" locX="77878" locY="251163" locZ="-9847" heading="21106" respawnDelay="94" periodOfDay="0" />
+	</spawnzone> <!-- Water Giant -->
+	<spawnzone name="innadrill05_2225_27">
+		<spawn npcId="20799" locX="84222" locY="256945" locZ="-9847" heading="65360" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20799" locX="80831" locY="256792" locZ="-9847" heading="8575" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20799" locX="78314" locY="254589" locZ="-9847" heading="13171" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20799" locX="78259" locY="250162" locZ="-9847" heading="19991" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20799" locX="80074" locY="246789" locZ="-9337" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20799" locX="80809" locY="246294" locZ="-9337" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20799" locX="83183" locY="246456" locZ="-9337" heading="61726" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20799" locX="84016" locY="246202" locZ="-9337" heading="26628" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20799" locX="85510" locY="246973" locZ="-9337" heading="34767" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20799" locX="86069" locY="247593" locZ="-9337" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20799" locX="87763" locY="248935" locZ="-9337" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20799" locX="87808" locY="249102" locZ="-9337" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20799" locX="87197" locY="249983" locZ="-9847" heading="44954" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20799" locX="87126" locY="252156" locZ="-10361" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20799" locX="84857" locY="254878" locZ="-10361" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20799" locX="85952" locY="254761" locZ="-10359" heading="60300" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20799" locX="81973" locY="256886" locZ="-9847" heading="1178" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20799" locX="79364" locY="255465" locZ="-9847" heading="7121" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20799" locX="77816" locY="252464" locZ="-9847" heading="12863" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20799" locX="77577" locY="248790" locZ="-9337" heading="0" respawnDelay="94" periodOfDay="0" />
+	</spawnzone> <!-- Queen Undine Lad -->
+	<spawnzone name="innadrill05_2225_27">
+		<spawn npcId="20800" locX="82234" locY="246183" locZ="-9337" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20800" locX="84763" locY="246622" locZ="-9337" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20800" locX="86789" locY="247887" locZ="-9337" heading="39566" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20800" locX="87427" locY="249576" locZ="-9803" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20800" locX="87378" locY="250708" locZ="-9847" heading="46196" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20800" locX="85020" locY="255088" locZ="-10361" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20800" locX="82347" locY="256914" locZ="-9847" heading="64869" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20800" locX="87581" locY="251109" locZ="-9849" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20800" locX="80138" locY="256044" locZ="-9847" heading="7190" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20800" locX="78560" locY="254996" locZ="-9847" heading="63562" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20800" locX="77913" locY="253136" locZ="-9847" heading="14629" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20800" locX="78207" locY="254035" locZ="-9847" heading="12492" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20800" locX="77734" locY="248809" locZ="-9337" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20800" locX="77528" locY="249095" locZ="-9337" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20800" locX="79178" locY="250328" locZ="-10352" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20800" locX="78550" locY="251732" locZ="-10359" heading="18188" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20800" locX="81286" locY="248039" locZ="-10352" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20800" locX="79374" locY="249575" locZ="-10359" heading="29191" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20800" locX="83823" locY="247824" locZ="-10352" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20800" locX="80257" locY="248938" locZ="-10359" heading="27598" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20800" locX="85870" locY="249375" locZ="-10359" heading="39905" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20800" locX="81933" locY="248145" locZ="-10359" heading="32244" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20800" locX="86859" locY="251471" locZ="-10359" heading="13412" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20800" locX="86407" locY="250446" locZ="-10359" heading="6101" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20800" locX="86284" locY="253722" locZ="-10359" heading="4588" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20800" locX="83979" locY="256023" locZ="-10359" heading="33207" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20800" locX="82054" locY="256115" locZ="-10352" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20800" locX="79675" locY="254618" locZ="-10352" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20800" locX="78726" locY="252715" locZ="-10359" heading="6954" respawnDelay="94" periodOfDay="0" />
+	</spawnzone> <!-- Eva's Seeker -->
+	<spawnzone name="innadrill05_2225_37">
+		<spawn npcId="20801" locX="86206" locY="249727" locZ="-10359" heading="26635" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20801" locX="86045" locY="254393" locZ="-10359" heading="51731" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20801" locX="83174" locY="255876" locZ="-10352" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20801" locX="80710" locY="255480" locZ="-10359" heading="36597" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20801" locX="79324" locY="254467" locZ="-10359" heading="62552" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20801" locX="79540" locY="249327" locZ="-10360" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20801" locX="79484" locY="248020" locZ="-9847" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20801" locX="79926" locY="248171" locZ="-9847" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20801" locX="80957" locY="248436" locZ="-10360" heading="58555" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20801" locX="84054" locY="247944" locZ="-10359" heading="23945" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20801" locX="84388" locY="248285" locZ="-10359" heading="17767" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20801" locX="86335" locY="249490" locZ="-10359" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20801" locX="86596" locY="250822" locZ="-10359" heading="46865" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20801" locX="84483" locY="254374" locZ="-10407" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20801" locX="82408" locY="255945" locZ="-10359" heading="1166" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20801" locX="80084" locY="255004" locZ="-10359" heading="6329" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20801" locX="78838" locY="251004" locZ="-10359" heading="19685" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20801" locX="79993" locY="252483" locZ="-10871" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20801" locX="80295" locY="253017" locZ="-10871" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20801" locX="80142" locY="251230" locZ="-10701" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20801" locX="81083" locY="251720" locZ="-10871" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20801" locX="81129" locY="249189" locZ="-10871" heading="0" respawnDelay="94" periodOfDay="0" />
+	</spawnzone> <!-- Theeder Piker -->
+	<spawnzone name="innadrill05_2225_37">
+		<spawn npcId="20802" locX="79197" locY="249973" locZ="-10360" heading="20749" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20802" locX="79667" locY="247828" locZ="-9847" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20802" locX="81943" locY="247731" locZ="-10407" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20802" locX="83443" locY="248000" locZ="-10359" heading="35158" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20802" locX="86418" locY="249537" locZ="-10359" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20802" locX="86647" locY="252809" locZ="-10359" heading="55101" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20802" locX="86967" locY="252053" locZ="-10359" heading="10590" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20802" locX="84483" locY="254730" locZ="-10407" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20802" locX="85369" locY="255011" locZ="-10359" heading="58263" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20802" locX="83707" locY="255921" locZ="-10359" heading="1133" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20802" locX="81489" locY="255903" locZ="-10359" heading="4341" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20802" locX="79168" locY="253801" locZ="-10359" heading="15376" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20802" locX="78553" locY="252353" locZ="-10359" heading="23077" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20802" locX="81379" locY="253660" locZ="-10871" heading="2347" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20802" locX="80295" locY="252661" locZ="-10871" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20802" locX="80781" locY="252254" locZ="-10871" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20802" locX="80177" locY="251542" locZ="-10871" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20802" locX="80621" locY="249307" locZ="-10871" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20802" locX="82164" locY="249300" locZ="-10871" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20802" locX="81761" locY="248588" locZ="-10871" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20802" locX="81359" locY="248944" locZ="-10871" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20802" locX="84857" locY="249269" locZ="-10871" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20802" locX="84297" locY="252601" locZ="-10945" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20802" locX="84096" locY="252957" locZ="-10945" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20802" locX="84398" locY="253847" locZ="-10945" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20802" locX="83459" locY="253621" locZ="-10945" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20802" locX="83459" locY="254333" locZ="-10945" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20802" locX="83257" locY="254689" locZ="-10945" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20802" locX="83358" locY="253799" locZ="-10945" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20802" locX="81536" locY="253867" locZ="-10945" heading="0" respawnDelay="94" periodOfDay="0" />
+	</spawnzone> <!-- Theeder Mage -->
+	<spawnzone name="innadrill05_2225_47">
+		<spawn npcId="20803" locX="80395" locY="252483" locZ="-10871" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20803" locX="80675" locY="253404" locZ="-10871" heading="57490" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20803" locX="79696" locY="253372" locZ="-10871" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20803" locX="80579" locY="251186" locZ="-10871" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20803" locX="80479" locY="251720" locZ="-10871" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20803" locX="80479" locY="251364" locZ="-10871" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20803" locX="80924" locY="249841" locZ="-10871" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20803" locX="81553" locY="249394" locZ="-10871" heading="63748" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20803" locX="82173" locY="249574" locZ="-10871" heading="30251" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20803" locX="81219" locY="250179" locZ="-10871" heading="20571" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20803" locX="83725" locY="249533" locZ="-10871" heading="13569" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20803" locX="84229" locY="250012" locZ="-10871" heading="56452" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20803" locX="85059" locY="249625" locZ="-10871" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20803" locX="84403" locY="250612" locZ="-10871" heading="44955" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20803" locX="85262" locY="252295" locZ="-10871" heading="37221" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20803" locX="84095" locY="253669" locZ="-10945" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20803" locX="84599" locY="253135" locZ="-10945" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20803" locX="84196" locY="252779" locZ="-10945" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20803" locX="83894" locY="253313" locZ="-10945" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20803" locX="83459" locY="254689" locZ="-10945" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20803" locX="83761" locY="253799" locZ="-10945" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20803" locX="83560" locY="253799" locZ="-10945" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20803" locX="81334" locY="254579" locZ="-10945" heading="0" respawnDelay="94" periodOfDay="0" />
+	</spawnzone> <!-- Doll Master -->
+	<spawnzone name="innadrill05_2225_01">
+		<spawn npcId="20849" locX="85241" locY="241210" locZ="-4900" heading="34650" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20849" locX="84574" locY="241204" locZ="-4900" heading="37033" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20849" locX="85709" locY="241405" locZ="-4900" heading="5592" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20849" locX="84436" locY="240953" locZ="-7167" heading="0" respawnDelay="94" periodOfDay="0" />
+		<spawn npcId="20849" locX="81443" locY="258300" locZ="-9366" heading="0" respawnDelay="94" periodOfDay="0" />
+	</spawnzone> <!-- Light Worm -->
+	<spawnzone name="innadrill05_2225_47">
+		<spawn npcId="20994" locX="80349" locY="253675" locZ="-10871" heading="15428" respawnDelay="110" periodOfDay="0" />
+		<spawn npcId="20994" locX="79814" locY="251994" locZ="-10871" heading="27856" respawnDelay="110" periodOfDay="0" />
+		<spawn npcId="20994" locX="81139" locY="251229" locZ="-10871" heading="8051" respawnDelay="110" periodOfDay="0" />
+		<spawn npcId="20994" locX="80772" locY="253099" locZ="-10871" heading="16528" respawnDelay="110" periodOfDay="0" />
+		<spawn npcId="20994" locX="82920" locY="250050" locZ="-10871" heading="29618" respawnDelay="110" periodOfDay="0" />
+		<spawn npcId="20994" locX="83402" locY="249389" locZ="-10871" heading="14850" respawnDelay="110" periodOfDay="0" />
+		<spawn npcId="20994" locX="83608" locY="250234" locZ="-10871" heading="22038" respawnDelay="110" periodOfDay="0" />
+		<spawn npcId="20994" locX="85159" locY="249803" locZ="-10871" heading="0" respawnDelay="110" periodOfDay="0" />
+		<spawn npcId="20994" locX="84244" locY="249751" locZ="-10871" heading="29968" respawnDelay="110" periodOfDay="0" />
+		<spawn npcId="20994" locX="84290" locY="251542" locZ="-10871" heading="41177" respawnDelay="110" periodOfDay="0" />
+		<spawn npcId="20994" locX="85657" locY="251844" locZ="-10871" heading="49304" respawnDelay="110" periodOfDay="0" />
+		<spawn npcId="20994" locX="85045" locY="253570" locZ="-10871" heading="63266" respawnDelay="110" periodOfDay="0" />
+		<spawn npcId="20994" locX="83281" locY="255077" locZ="-10871" heading="13494" respawnDelay="110" periodOfDay="0" />
+		<spawn npcId="20994" locX="82158" locY="254192" locZ="-10871" heading="6427" respawnDelay="110" periodOfDay="0" />
+		<spawn npcId="20994" locX="81536" locY="254579" locZ="-10945" heading="0" respawnDelay="110" periodOfDay="0" />
+	</spawnzone> <!-- Garden Guard Leader -->
+</list>

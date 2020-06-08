@@ -1,0 +1,1 @@
+ALTER TABLE `characters` ADD `hitman_target` int(16) NOT NULL DEFAULT '0' AFTER `language` ;

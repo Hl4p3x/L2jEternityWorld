@@ -1,0 +1,4 @@
+﻿<?xml version='1.0' encoding='utf-8'?><!-- D Бижа -->
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+<item><ingredient id="57" count="100000"/><production id="914" count="1"/><production id="851" count="2"/><production id="882" count="2"/></item><!-- Necklace of Darkness -->
+</list>

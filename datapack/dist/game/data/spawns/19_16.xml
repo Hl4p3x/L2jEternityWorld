@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawns.xsd">
+	<spawnzone name="pagan_temple_zone_01">
+    		<spawn npcId="22137" locX="-10220" locY="-40763" locZ="-10917" heading="48342" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22137" locX="-10303" locY="-40763" locZ="-10917" heading="48342" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22137" locX="-10385" locY="-40763" locZ="-10917" heading="48342" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22137" locX="-12245" locY="-38916" locZ="-10725" heading="48792" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22137" locX="-12247" locY="-42612" locZ="-10725" heading="48441" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22137" locX="-12330" locY="-38916" locZ="-10725" heading="48792" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22137" locX="-12341" locY="-42612" locZ="-10725" heading="48441" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22137" locX="-12423" locY="-38920" locZ="-10725" heading="48792" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22137" locX="-12434" locY="-42612" locZ="-10725" heading="48441" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22137" locX="-13049" locY="-40716" locZ="-10725" heading="15777" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22137" locX="-13153" locY="-40716" locZ="-10725" heading="15777" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22137" locX="-13239" locY="-40716" locZ="-10725" heading="15777" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22137" locX="-19485" locY="-40761" locZ="-10725" heading="49152" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22137" locX="-19576" locY="-40767" locZ="-10725" heading="49066" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22137" locX="-19661" locY="-40783" locZ="-10725" heading="47076" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22137" locX="-20298" locY="-42608" locZ="-10725" heading="17185" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22137" locX="-20304" locY="-38884" locZ="-10725" heading="16561" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22137" locX="-20385" locY="-42608" locZ="-10725" heading="17185" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22137" locX="-20389" locY="-38884" locZ="-10725" heading="16561" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22137" locX="-20487" locY="-38884" locZ="-10725" heading="16561" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22137" locX="-20488" locY="-42608" locZ="-10725" heading="17185" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22137" locX="-22315" locY="-40731" locZ="-10917" heading="53141" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22137" locX="-22410" locY="-40731" locZ="-10917" heading="53141" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22137" locX="-22508" locY="-40731" locZ="-10917" heading="53141" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22137" locX="-23039" locY="-38882" locZ="-10917" heading="16428" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22137" locX="-23045" locY="-42582" locZ="-10917" heading="48397" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22137" locX="-23136" locY="-38882" locZ="-10917" heading="16428" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22137" locX="-23136" locY="-42582" locZ="-10917" heading="48397" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22137" locX="-23219" locY="-42582" locZ="-10917" heading="48397" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22137" locX="-23231" locY="-38882" locZ="-10917" heading="16428" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22137" locX="-9495" locY="-38911" locZ="-10917" heading="48556" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22137" locX="-9506" locY="-42615" locZ="-10917" heading="16303" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22137" locX="-9586" locY="-38911" locZ="-10917" heading="48556" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22137" locX="-9599" locY="-42615" locZ="-10917" heading="16303" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22137" locX="-9677" locY="-38911" locZ="-10917" heading="48556" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22137" locX="-9691" locY="-42615" locZ="-10917" heading="16303" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Penance Guard -->
+	<spawnzone name="pagan_temple_zone_02">
+    		<spawn npcId="22138" locX="-12913" locY="-45558" locZ="-10725" heading="32698" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-12913" locY="-45612" locZ="-10725" heading="32698" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-12913" locY="-45667" locZ="-10725" heading="32698" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-12914" locY="-49649" locZ="-10917" heading="31928" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-12914" locY="-49717" locZ="-10917" heading="31928" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-12914" locY="-49791" locZ="-10917" heading="31928" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-12930" locY="-47615" locZ="-10821" heading="32651" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-12930" locY="-47675" locZ="-10821" heading="32651" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-12930" locY="-47735" locZ="-10821" heading="32651" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-12946" locY="-51690" locZ="-11013" heading="33522" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-12946" locY="-51745" locZ="-11013" heading="33522" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-12946" locY="-51822" locZ="-11013" heading="33522" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-14448" locY="-44446" locZ="-10725" heading="32698" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-14448" locY="-44508" locZ="-10725" heading="32698" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-14448" locY="-44567" locZ="-10725" heading="32698" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-14500" locY="-46511" locZ="-10821" heading="32651" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-14500" locY="-46582" locZ="-10821" heading="32651" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-14500" locY="-46643" locZ="-10821" heading="32651" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-14503" locY="-48557" locZ="-10917" heading="31928" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-14503" locY="-48612" locZ="-10917" heading="31928" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-14503" locY="-48681" locZ="-10917" heading="31928" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-14504" locY="-50621" locZ="-11013" heading="33522" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-14504" locY="-50681" locZ="-11013" heading="33522" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-14504" locY="-50740" locZ="-11013" heading="33522" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-15763" locY="-50095" locZ="-10917" heading="40662" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-15819" locY="-50061" locZ="-10917" heading="40662" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-15854" locY="-50010" locZ="-10917" heading="40662" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-15870" locY="-49941" locZ="-10917" heading="40662" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-15912" locY="-49879" locZ="-10917" heading="40662" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-15984" locY="-45983" locZ="-10725" heading="34769" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-15993" locY="-47783" locZ="-10821" heading="31547" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-15993" locY="-47857" locZ="-10821" heading="31547" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-15993" locY="-47940" locZ="-10821" heading="31547" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-15993" locY="-48016" locZ="-10821" heading="31547" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-15994" locY="-45737" locZ="-10725" heading="32768" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-15994" locY="-45806" locZ="-10725" heading="31399" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-15994" locY="-45873" locZ="-10725" heading="31399" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-15994" locY="-45937" locZ="-10725" heading="31399" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-16777" locY="-45739" locZ="-10725" heading="211" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-16777" locY="-45805" locZ="-10725" heading="211" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-16777" locY="-45878" locZ="-10725" heading="211" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-16777" locY="-45942" locZ="-10725" heading="211" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-16777" locY="-45990" locZ="-10725" heading="211" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-16781" locY="-47807" locZ="-10821" heading="64708" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-16781" locY="-47886" locZ="-10821" heading="64708" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-16781" locY="-47959" locZ="-10821" heading="64708" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-16781" locY="-48025" locZ="-10821" heading="64708" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-16794" locY="-49896" locZ="-10917" heading="63262" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-16818" locY="-49975" locZ="-10917" heading="63262" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-16842" locY="-50040" locZ="-10917" heading="63262" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-16876" locY="-50098" locZ="-10918" heading="63262" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-16921" locY="-50149" locZ="-10936" heading="63262" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-18308" locY="-50625" locZ="-11013" heading="63878" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-18308" locY="-50680" locZ="-11013" heading="63878" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-18308" locY="-50743" locZ="-11013" heading="63878" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-18311" locY="-48556" locZ="-10917" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-18311" locY="-48620" locZ="-10917" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-18311" locY="-48688" locZ="-10917" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-18323" locY="-46505" locZ="-10821" heading="264" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-18323" locY="-46570" locZ="-10821" heading="264" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-18323" locY="-46639" locZ="-10821" heading="264" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-18329" locY="-44461" locZ="-10725" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-18329" locY="-44516" locZ="-10725" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-18329" locY="-44575" locZ="-10725" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-19876" locY="-47606" locZ="-10821" heading="65001" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-19876" locY="-47674" locZ="-10821" heading="65001" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-19876" locY="-47737" locZ="-10821" heading="65001" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-19883" locY="-45560" locZ="-10725" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-19883" locY="-45617" locZ="-10725" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-19883" locY="-45675" locZ="-10725" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-19884" locY="-49645" locZ="-10917" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-19884" locY="-49712" locZ="-10917" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-19884" locY="-49778" locZ="-10917" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-19886" locY="-51688" locZ="-11013" heading="63878" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-19886" locY="-51754" locZ="-11013" heading="63878" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22138" locX="-19886" locY="-51826" locZ="-11013" heading="63878" respawnDelay="180" periodOfDay="0" />
+	</spawnzone> <!-- Chapel Guard -->
+	<spawnzone name="pagan_temple_zone_03">
+    		<spawn npcId="22139" locX="-12047" locY="-37909" locZ="-10725" heading="7099" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22139" locX="-12440" locY="-39877" locZ="-10758" heading="746" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22139" locX="-12691" locY="-41687" locZ="-10757" heading="31106" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22139" locX="-12744" locY="-37861" locZ="-10758" heading="2967" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22139" locX="-12839" locY="-43346" locZ="-10725" heading="30282" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22139" locX="-12971" locY="-39915" locZ="-10758" heading="35143" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22139" locX="-13519" locY="-43539" locZ="-10725" heading="817" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22139" locX="-17619" locY="-40821" locZ="-10725" heading="45039" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22139" locX="-17809" locY="-37901" locZ="-10725" heading="47429" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22139" locX="-17886" locY="-42848" locZ="-10725" heading="17100" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22139" locX="-19345" locY="-41780" locZ="-10725" heading="10251" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22139" locX="-19766" locY="-43585" locZ="-10758" heading="33441" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22139" locX="-20105" locY="-39783" locZ="-10783" heading="9483" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22139" locX="-20214" locY="-37951" locZ="-10758" heading="32889" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22139" locX="-20274" locY="-40000" locZ="-10758" heading="37584" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22139" locX="-20648" locY="-41742" locZ="-10725" heading="63671" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22139" locX="-20672" locY="-37716" locZ="-10725" heading="27807" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22139" locX="-20730" locY="-39814" locZ="-10725" heading="33653" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Old Aristocrat's Soldier -->
+	<spawnzone name="pagan_temple_zone_04">
+    		<spawn npcId="22140" locX="-12300" locY="-39649" locZ="-10725" heading="49443" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22140" locX="-12353" locY="-43587" locZ="-10751" heading="48903" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22140" locX="-12474" locY="-37921" locZ="-10758" heading="60239" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22140" locX="-12512" locY="-41573" locZ="-10757" heading="29413" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22140" locX="-12570" locY="-39730" locZ="-10758" heading="21299" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22140" locX="-12749" locY="-43543" locZ="-10758" heading="12061" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22140" locX="-12950" locY="-37895" locZ="-10758" heading="57898" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22140" locX="-13025" locY="-41823" locZ="-10757" heading="37729" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22140" locX="-13098" locY="-43422" locZ="-10784" heading="30495" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22140" locX="-13134" locY="-37770" locZ="-10728" heading="6344" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22140" locX="-13164" locY="-39841" locZ="-10736" heading="7405" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22140" locX="-14837" locY="-37923" locZ="-10725" heading="15439" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22140" locX="-15135" locY="-39452" locZ="-10725" heading="11376" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22140" locX="-15165" locY="-40378" locZ="-10725" heading="57526" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22140" locX="-15171" locY="-41568" locZ="-10725" heading="16535" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22140" locX="-15494" locY="-40568" locZ="-10725" heading="19919" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22140" locX="-15840" locY="-39597" locZ="-10725" heading="64055" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22140" locX="-15933" locY="-41882" locZ="-10725" heading="10120" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22140" locX="-16354" locY="-39428" locZ="-10725" heading="25717" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22140" locX="-16401" locY="-42162" locZ="-10725" heading="50404" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22140" locX="-16754" locY="-41865" locZ="-10725" heading="9642" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22140" locX="-16786" locY="-39826" locZ="-10725" heading="41663" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22140" locX="-17101" locY="-42004" locZ="-10725" heading="51274" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22140" locX="-17233" locY="-40250" locZ="-10725" heading="7346" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22140" locX="-17247" locY="-40930" locZ="-10725" heading="43895" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22140" locX="-17819" locY="-39778" locZ="-10725" heading="49089" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22140" locX="-19314" locY="-41703" locZ="-10725" heading="34376" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22140" locX="-19425" locY="-43618" locZ="-10725" heading="34207" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22140" locX="-19737" locY="-39915" locZ="-10758" heading="61162" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22140" locX="-19977" locY="-37970" locZ="-10758" heading="36848" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22140" locX="-20060" locY="-43480" locZ="-10758" heading="63557" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22140" locX="-20157" locY="-37957" locZ="-10758" heading="4486" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22140" locX="-20190" locY="-43670" locZ="-10758" heading="6665" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22140" locX="-20207" locY="-41686" locZ="-10758" heading="38448" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22140" locX="-20225" locY="-39752" locZ="-10758" heading="57344" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Zombie Worker -->
+	<spawnzone name="pagan_temple_zone_05">
+    		<spawn npcId="22141" locX="-12113" locY="-43522" locZ="-10725" heading="29949" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22141" locX="-12457" locY="-41840" locZ="-10757" heading="37604" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22141" locX="-12493" locY="-38004" locZ="-10758" heading="49577" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22141" locX="-12531" locY="-39813" locZ="-10758" heading="30336" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22141" locX="-12892" locY="-38012" locZ="-10758" heading="31224" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22141" locX="-13053" locY="-41674" locZ="-10757" heading="9028" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22141" locX="-16342" locY="-41608" locZ="-10725" heading="63541" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22141" locX="-19641" locY="-39685" locZ="-10758" heading="17041" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22141" locX="-19872" locY="-37947" locZ="-10758" heading="38713" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22141" locX="-19990" locY="-41670" locZ="-10784" heading="1137" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22141" locX="-20035" locY="-41735" locZ="-10758" heading="30787" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22141" locX="-20058" locY="-43478" locZ="-10758" heading="29101" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22141" locX="-20561" locY="-43677" locZ="-10725" heading="6712" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Forgotten Victim -->
+	<spawnzone name="pagan_temple_zone_06">
+    		<spawn npcId="22142" locX="-11917" locY="-45146" locZ="-10751" heading="47515" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22142" locX="-12435" locY="-45293" locZ="-10725" heading="9548" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22142" locX="-12454" locY="-44814" locZ="-10725" heading="27245" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22142" locX="-12724" locY="-41679" locZ="-10757" heading="4346" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22142" locX="-12786" locY="-39819" locZ="-10758" heading="399" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22142" locX="-13442" locY="-44992" locZ="-10725" heading="14745" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22142" locX="-13519" locY="-45360" locZ="-10725" heading="15580" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22142" locX="-13597" locY="-47740" locZ="-10821" heading="36933" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22142" locX="-13825" locY="-46598" locZ="-10821" heading="65033" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22142" locX="-13877" locY="-47143" locZ="-10821" heading="45718" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22142" locX="-18965" locY="-47297" locZ="-10821" heading="15280" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22142" locX="-20069" locY="-43496" locZ="-10758" heading="31352" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22142" locX="-22771" locY="-41766" locZ="-10950" heading="60584" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22142" locX="-22823" locY="-43708" locZ="-10976" heading="37111" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22142" locX="-22855" locY="-38040" locZ="-10950" heading="27932" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22142" locX="-23576" locY="-39625" locZ="-10917" heading="4787" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22142" locX="-23617" locY="-41787" locZ="-10916" heading="4149" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22142" locX="-9415" locY="-41586" locZ="-10950" heading="15017" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22142" locX="-9487" locY="-39854" locZ="-10950" heading="51898" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22142" locX="-9518" locY="-43678" locZ="-10949" heading="33195" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22142" locX="-9556" locY="-39949" locZ="-10950" heading="63860" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22142" locX="-9936" locY="-37826" locZ="-10950" heading="24142" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22142" locX="-9957" locY="-43441" locZ="-10950" heading="28959" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Triol's Layperson -->
+	<spawnzone name="pagan_temple_zone_07">
+    		<spawn npcId="22143" locX="-11877" locY="-45580" locZ="-10725" heading="24100" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22143" locX="-11888" locY="-47273" locZ="-10821" heading="5637" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22143" locX="-11934" locY="-46889" locZ="-10821" heading="18012" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22143" locX="-12220" locY="-46913" locZ="-10847" heading="43474" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22143" locX="-12293" locY="-44811" locZ="-10725" heading="48806" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22143" locX="-12387" locY="-46718" locZ="-10821" heading="20484" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22143" locX="-13412" locY="-47364" locZ="-10821" heading="58824" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22143" locX="-13575" locY="-51224" locZ="-11013" heading="21221" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22143" locX="-13828" locY="-46779" locZ="-10821" heading="56780" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22143" locX="-13850" locY="-50893" locZ="-11013" heading="54001" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22143" locX="-13895" locY="-45771" locZ="-10725" heading="1771" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22143" locX="-13913" locY="-45022" locZ="-10725" heading="52082" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22143" locX="-13947" locY="-44709" locZ="-10725" heading="17513" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22143" locX="-13955" locY="-47384" locZ="-10847" heading="45283" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22143" locX="-14855" locY="-48563" locZ="-10917" heading="45676" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22143" locX="-14984" locY="-47559" locZ="-10821" heading="28760" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22143" locX="-15017" locY="-46770" locZ="-10821" heading="46292" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22143" locX="-15226" locY="-45380" locZ="-10725" heading="32352" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22143" locX="-15231" locY="-44868" locZ="-10725" heading="49057" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22143" locX="-15298" locY="-49363" locZ="-10917" heading="23643" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22143" locX="-17567" locY="-45494" locZ="-10725" heading="26460" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22143" locX="-17655" locY="-44940" locZ="-10725" heading="49152" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22143" locX="-17677" locY="-49159" locZ="-10943" heading="18694" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22143" locX="-18766" locY="-47136" locZ="-10821" heading="55702" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22143" locX="-19062" locY="-51129" locZ="-11013" heading="4422" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22143" locX="-19149" locY="-49305" locZ="-10917" heading="45931" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22143" locX="-19317" locY="-50749" locZ="-11013" heading="63270" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22143" locX="-19369" locY="-47280" locZ="-10821" heading="14697" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22143" locX="-20370" locY="-48944" locZ="-10917" heading="12985" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22143" locX="-20560" locY="-46717" locZ="-10821" heading="51482" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22143" locX="-20773" locY="-45369" locZ="-10725" heading="30343" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22143" locX="-22380" locY="-39862" locZ="-10916" heading="54039" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22143" locX="-22892" locY="-41607" locZ="-10950" heading="2051" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22143" locX="-22984" locY="-43545" locZ="-10950" heading="64947" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22143" locX="-9472" locY="-41566" locZ="-10950" heading="1467" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22143" locX="-9709" locY="-43572" locZ="-10950" heading="23422" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22143" locX="-9777" locY="-39919" locZ="-10950" heading="62590" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Triol's Believer -->
+	<spawnzone name="pagan_temple_zone_08">
+    		<spawn npcId="22144" locX="-22903" locY="-41620" locZ="-10950" heading="24052" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22144" locX="-23010" locY="-39829" locZ="-10950" heading="3559" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22144" locX="-23181" locY="-37889" locZ="-10915" heading="325" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22144" locX="-23186" locY="-43569" locZ="-10950" heading="43933" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22144" locX="-23303" locY="-39933" locZ="-10950" heading="63919" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22144" locX="-23713" locY="-43550" locZ="-10915" heading="65285" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22144" locX="-23791" locY="-37982" locZ="-10915" heading="61526" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22144" locX="-8984" locY="-43532" locZ="-10915" heading="32556" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22144" locX="-9444" locY="-41806" locZ="-10976" heading="62277" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22144" locX="-9720" locY="-37984" locZ="-10950" heading="35843" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22144" locX="-9854" locY="-41608" locZ="-10950" heading="64693" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22144" locX="-9906" locY="-39738" locZ="-10950" heading="29951" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Resurrected Temple Knight -->
+	<spawnzone name="pagan_temple_zone_09">
+    		<spawn npcId="22145" locX="-10003" locY="-41792" locZ="-10950" heading="6435" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22145" locX="-22677" locY="-37801" locZ="-10950" heading="9708" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22145" locX="-22741" locY="-39928" locZ="-10950" heading="59503" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22145" locX="-23069" locY="-43355" locZ="-10950" heading="22733" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22145" locX="-23175" locY="-38053" locZ="-10950" heading="36909" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22145" locX="-23879" locY="-41651" locZ="-10915" heading="29838" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22145" locX="-8956" locY="-41718" locZ="-10916" heading="5610" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22145" locX="-9482" locY="-37912" locZ="-10950" heading="177" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22145" locX="-9666" locY="-43537" locZ="-10950" heading="62212" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22145" locX="-9671" locY="-38065" locZ="-10950" heading="57906" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22145" locX="-9846" locY="-39902" locZ="-10950" heading="52810" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Ritual Sacrifice -->
+	<spawnzone name="pagan_temple_zone_10">
+    		<spawn npcId="22146" locX="-12291" locY="-47375" locZ="-10821" heading="15065" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22146" locX="-13461" locY="-46979" locZ="-10847" heading="59967" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22146" locX="-13676" locY="-44920" locZ="-10725" heading="52319" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22146" locX="-15088" locY="-44849" locZ="-10725" heading="44235" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22146" locX="-15249" locY="-47257" locZ="-10821" heading="13363" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22146" locX="-17395" locY="-47434" locZ="-10821" heading="20673" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22146" locX="-17504" locY="-45841" locZ="-10725" heading="32140" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22146" locX="-18935" locY="-46882" locZ="-10821" heading="43018" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22146" locX="-18938" locY="-44829" locZ="-10725" heading="43183" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22146" locX="-19477" locY="-47289" locZ="-10821" heading="8487" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22146" locX="-20433" locY="-45589" locZ="-10725" heading="31970" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22146" locX="-20505" locY="-47313" locZ="-10821" heading="2148" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Triol's Priest -->
+	<spawnzone name="pagan_temple_zone_11">
+    		<spawn npcId="22147" locX="-12422" locY="-47167" locZ="-10821" heading="44200" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22147" locX="-13709" locY="-50927" locZ="-11013" heading="62664" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22147" locX="-13774" locY="-45393" locZ="-10725" heading="47714" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22147" locX="-13932" locY="-51545" locZ="-11013" heading="36421" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22147" locX="-14015" locY="-46842" locZ="-10821" heading="46950" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22147" locX="-15543" locY="-45148" locZ="-10725" heading="21426" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22147" locX="-17608" locY="-45188" locZ="-10751" heading="21419" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22147" locX="-17792" locY="-47616" locZ="-10821" heading="43488" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22147" locX="-18725" locY="-50823" locZ="-11013" heading="51912" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22147" locX="-19034" locY="-46832" locZ="-10821" heading="52902" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22147" locX="-19048" locY="-44780" locZ="-10725" heading="3830" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22147" locX="-19149" locY="-45457" locZ="-10725" heading="13449" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22147" locX="-19423" locY="-51456" locZ="-11013" heading="40167" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22147" locX="-20511" locY="-46795" locZ="-10821" heading="44566" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22147" locX="-20795" locY="-47631" locZ="-10821" heading="1066" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Ritual Offering -->
+	<spawnzone name="pagan_temple_zone_12">
+    		<spawn npcId="22149" locX="-14704" locY="-45492" locZ="-10725" heading="51089" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22149" locX="-15002" locY="-47068" locZ="-10821" heading="41941" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22149" locX="-15162" locY="-46540" locZ="-10821" heading="49413" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22149" locX="-15243" locY="-47635" locZ="-10821" heading="2657" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22149" locX="-15301" locY="-40809" locZ="-10725" heading="9925" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22149" locX="-15333" locY="-45553" locZ="-10725" heading="5532" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22149" locX="-16153" locY="-42079" locZ="-10725" heading="59582" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22149" locX="-17013" locY="-39554" locZ="-10725" heading="42596" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22149" locX="-17176" locY="-41180" locZ="-10725" heading="45019" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22149" locX="-17409" locY="-44538" locZ="-10725" heading="36321" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22149" locX="-17499" locY="-45591" locZ="-10725" heading="25624" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22149" locX="-17546" locY="-47127" locZ="-10821" heading="45136" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22149" locX="-17945" locY="-44617" locZ="-10725" heading="54292" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22149" locX="-17993" locY="-45540" locZ="-10725" heading="9073" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Ritual Offering -->
+	<spawnzone name="pagan_temple_zone_13">
+    		<spawn npcId="22151" locX="-12407" locY="-51523" locZ="-11013" heading="22227" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22151" locX="-13620" locY="-50798" locZ="-11013" heading="64637" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22151" locX="-19026" locY="-48907" locZ="-10917" heading="17369" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22151" locX="-19317" locY="-51307" locZ="-11013" heading="5869" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22151" locX="-20347" locY="-50677" locZ="-11013" heading="43591" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22151" locX="-20798" locY="-51645" locZ="-11013" heading="30778" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Triol's Priest -->
+	<spawnzone name="pagan_temple_zone_14">
+    		<spawn npcId="22152" locX="-12420" locY="-53928" locZ="-11114" heading="33922" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22152" locX="-12509" locY="-52569" locZ="-10938" heading="32156" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22152" locX="-13087" locY="-54400" locZ="-11114" heading="65404" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22152" locX="-13899" locY="-51207" locZ="-11013" heading="4363" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22152" locX="-15312" locY="-49473" locZ="-10943" heading="38725" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22152" locX="-15380" locY="-48542" locZ="-10917" heading="49337" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22152" locX="-17225" locY="-48606" locZ="-10917" heading="47159" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22152" locX="-17717" locY="-49655" locZ="-10917" heading="321" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22152" locX="-18700" locY="-50818" locZ="-11013" heading="3874" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22152" locX="-19557" locY="-54282" locZ="-11114" heading="36442" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22152" locX="-20391" locY="-54318" locZ="-11114" heading="17297" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22152" locX="-20490" locY="-51378" locZ="-11013" heading="47484" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22152" locX="-20898" locY="-50927" locZ="-11013" heading="64243" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Temple Guard -->
+	<spawnzone name="pagan_temple_zone_15">
+    		<spawn npcId="22153" locX="-12263" locY="-51132" locZ="-11013" heading="37729" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22153" locX="-12312" locY="-49582" locZ="-10943" heading="5009" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22153" locX="-12340" locY="-49071" locZ="-10917" heading="54978" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22153" locX="-12367" locY="-54299" locZ="-11114" heading="2327" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22153" locX="-13617" locY="-49081" locZ="-10917" heading="23575" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22153" locX="-13642" locY="-49653" locZ="-10917" heading="61593" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22153" locX="-14745" locY="-49301" locZ="-10917" heading="33937" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22153" locX="-18053" locY="-49327" locZ="-10917" heading="47311" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22153" locX="-19127" locY="-48858" locZ="-10917" heading="61631" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22153" locX="-19437" locY="-49344" locZ="-10917" heading="8961" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22153" locX="-20006" locY="-54164" locZ="-11114" heading="44952" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22153" locX="-20237" locY="-49432" locZ="-10917" heading="57132" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Temple Guard Captain -->
+	<spawnzone name="pagan_temple_zone_16">
+    		<spawn npcId="22154" locX="-12255" locY="-51607" locZ="-11013" heading="11412" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22154" locX="-12302" locY="-51946" locZ="-11013" heading="26682" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22154" locX="-12606" locY="-52727" locZ="-10938" heading="5934" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22154" locX="-13844" locY="-51147" locZ="-11013" heading="54974" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22154" locX="-15001" locY="-49006" locZ="-10943" heading="57447" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22154" locX="-15524" locY="-49085" locZ="-10917" heading="16951" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22154" locX="-17425" locY="-49086" locZ="-10917" heading="56058" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22154" locX="-17662" locY="-49741" locZ="-10917" heading="30529" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22154" locX="-18895" locY="-51265" locZ="-11013" heading="19425" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22154" locX="-18982" locY="-49372" locZ="-10917" heading="64894" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22154" locX="-20091" locY="-52681" locZ="-10938" heading="57155" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22154" locX="-20519" locY="-49398" locZ="-10917" heading="64247" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22154" locX="-20604" locY="-51170" locZ="-11013" heading="56571" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22154" locX="-20710" locY="-48872" locZ="-10917" heading="61095" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Ritual Sacrifice -->
+	<spawnzone name="pagan_temple_zone_17">
+    		<spawn npcId="22155" locX="-12653" locY="-54238" locZ="-11114" heading="2877" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22155" locX="-12687" locY="-52666" locZ="-10938" heading="60928" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22155" locX="-15250" locY="-57004" locZ="-10850" heading="37837" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22155" locX="-15658" locY="-53286" locZ="-11565" heading="44488" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22155" locX="-16453" locY="-53309" locZ="-11565" heading="49538" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22155" locX="-17703" locY="-57011" locZ="-10850" heading="2320" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22155" locX="-17881" locY="-53497" locZ="-11565" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22155" locX="-19751" locY="-52493" locZ="-10938" heading="34047" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22155" locX="-20330" locY="-54215" locZ="-11114" heading="34741" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Triol's High Priest -->
+	<spawnzone name="pagan_temple_zone_18">
+    		<spawn npcId="22156" locX="-12305" locY="-50814" locZ="-11013" heading="12548" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22156" locX="-12715" locY="-54324" locZ="-11114" heading="4305" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22156" locX="-12739" locY="-52757" locZ="-10938" heading="26747" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22156" locX="-13176" locY="-51678" locZ="-11013" heading="6453" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22156" locX="-14162" locY="-51125" locZ="-11013" heading="47330" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22156" locX="-14846" locY="-53259" locZ="-11565" heading="7015" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22156" locX="-15679" locY="-56564" locZ="-10850" heading="35078" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22156" locX="-15735" locY="-54130" locZ="-11565" heading="5415" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22156" locX="-16979" locY="-56601" locZ="-10850" heading="22146" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22156" locX="-17974" locY="-53518" locZ="-11565" heading="1906" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22156" locX="-18807" locY="-50796" locZ="-11013" heading="35504" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22156" locX="-20227" locY="-54203" locZ="-11114" heading="6763" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22156" locX="-20360" locY="-51837" locZ="-11013" heading="13414" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22156" locX="-20380" locY="-52781" locZ="-10938" heading="53103" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22156" locX="-20871" locY="-50721" locZ="-11013" heading="27767" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Triol's Priest -->
+	<spawnzone name="pagan_temple_zone_19">
+    		<spawn npcId="22157" locX="-15205" locY="-56909" locZ="-10850" heading="21495" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22157" locX="-16326" locY="-56926" locZ="-10850" heading="31751" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22157" locX="-16844" locY="-56562" locZ="-10850" heading="9084" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22157" locX="-17058" locY="-54136" locZ="-11565" heading="16819" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22157" locX="-17185" locY="-53128" locZ="-11565" heading="19068" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22157" locX="-17402" locY="-56532" locZ="-10850" heading="16654" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22157" locX="-17638" locY="-56994" locZ="-10850" heading="25248" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22157" locX="-17732" locY="-57079" locZ="-10850" heading="57797" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Triol's Priest -->
+	<spawnzone name="pagan_temple_zone_20">
+    		<spawn npcId="22158" locX="-12560" locY="-54301" locZ="-11114" heading="34510" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22158" locX="-12657" locY="-52762" locZ="-10938" heading="28108" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22158" locX="-20368" locY="-54101" locZ="-11114" heading="14225" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Triol's Believer -->
+	<spawnzone name="pagan_temple_zone_21">
+    		<spawn npcId="22159" locX="-15063" locY="-56562" locZ="-10850" heading="33926" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22159" locX="-16816" locY="-56567" locZ="-10850" heading="41346" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22159" locX="-17226" locY="-53189" locZ="-11565" heading="49964" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22159" locX="-20069" locY="-52782" locZ="-10938" heading="13633" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Triol's High Priest -->
+	<spawnzone name="pagan_temple_zone_22">
+    		<spawn npcId="22160" locX="-15316" locY="-56955" locZ="-10850" heading="19811" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22160" locX="-15781" locY="-53271" locZ="-11565" heading="24134" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22160" locX="-16541" locY="-53421" locZ="-11565" heading="54984" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Triol's Priest -->
+	<spawnzone name="pagan_temple_zone_23">
+    		<spawn npcId="22161" locX="-15706" locY="-54049" locZ="-11565" heading="40042" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22161" locX="-15733" locY="-53413" locZ="-11565" heading="45218" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22161" locX="-15792" locY="-56538" locZ="-10850" heading="59496" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22161" locX="-16965" locY="-56552" locZ="-10850" heading="27881" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22161" locX="-17589" locY="-56614" locZ="-10850" heading="11548" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22161" locX="-17715" locY="-57081" locZ="-10850" heading="42225" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Ritual Sacrifice -->
+	<spawnzone name="pagan_temple_zone_24">
+    		<spawn npcId="22162" locX="-15006" locY="-56363" locZ="-10850" heading="47093" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22162" locX="-16354" locY="-53302" locZ="-11565" heading="11548" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Triol's Believer -->
+	<spawnzone name="pagan_temple_zone_25">
+    		<spawn npcId="22163" locX="-14941" locY="-53216" locZ="-11565" heading="14739" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22163" locX="-16385" locY="-57031" locZ="-10850" heading="34783" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Triol's High Priest -->
+	<spawnzone name="pagan_temple_zone_26">
+    		<spawn npcId="22164" locX="-15712" locY="-53178" locZ="-11565" heading="47429" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22164" locX="-17589" locY="-56499" locZ="-10850" heading="37846" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Triol's Believer -->
+	<spawnzone name="pagan_temple_zone_27">
+    		<spawn npcId="22165" locX="-15635" locY="-53961" locZ="-11565" heading="60699" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22165" locX="-16274" locY="-56950" locZ="-10850" heading="38943" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Triol's Priest -->
+	<spawnzone name="pagan_temple_zone_28">
+    		<spawn npcId="22166" locX="-14982" locY="-53309" locZ="-11565" heading="36442" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22166" locX="-15665" locY="-54709" locZ="-11565" heading="2099" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22166" locX="-15946" locY="-56559" locZ="-10850" heading="51085" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22166" locX="-16591" locY="-54688" locZ="-11565" heading="23897" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22166" locX="-17826" locY="-53230" locZ="-11565" heading="35982" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Triol's Believer -->
+	<spawnzone name="pagan_temple_zone_29">
+    		<spawn npcId="22167" locX="-17109" locY="-54246" locZ="-11565" heading="42723" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22167" locX="-17535" locY="-56542" locZ="-10850" heading="45583" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Triol's High Priest -->
+	<spawnzone name="pagan_temple_zone_30">
+    		<spawn npcId="22168" locX="-11919" locY="-44432" locZ="-10725" heading="44579" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22168" locX="-12036" locY="-49000" locZ="-10917" heading="561" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22168" locX="-12426" locY="-47383" locZ="-10821" heading="45894" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22168" locX="-13852" locY="-49069" locZ="-10917" heading="21528" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22168" locX="-14782" locY="-46587" locZ="-10821" heading="64496" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22168" locX="-15300" locY="-57065" locZ="-10850" heading="45680" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22168" locX="-16195" locY="-56941" locZ="-10850" heading="64346" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22168" locX="-17489" locY="-56574" locZ="-10850" heading="42536" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22168" locX="-17747" locY="-47343" locZ="-10821" heading="25731" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22168" locX="-17844" locY="-53590" locZ="-11565" heading="44758" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22168" locX="-18044" locY="-44652" locZ="-10725" heading="46713" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22168" locX="-19366" locY="-45267" locZ="-10725" heading="39762" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22168" locX="-20272" locY="-47735" locZ="-10821" heading="924" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22168" locX="-20548" locY="-49186" locZ="-10917" heading="55355" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22168" locX="-20593" locY="-44559" locZ="-10725" heading="50212" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Triol's Priest -->
+	<spawnzone name="pagan_temple_zone_31">
+    		<spawn npcId="22169" locX="-15001" locY="-53177" locZ="-11565" heading="5290" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22169" locX="-15180" locY="-57081" locZ="-10850" heading="48836" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22169" locX="-16250" locY="-56843" locZ="-10850" heading="55221" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Ritual Sacrifice -->
+	<spawnzone name="pagan_temple_zone_32">
+    		<spawn npcId="22170" locX="-17198" locY="-54245" locZ="-11565" heading="28900" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22170" locX="-17217" locY="-53386" locZ="-11565" heading="29991" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22170" locX="-17549" locY="-57089" locZ="-10850" heading="56649" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Triol's Believer -->
+	<spawnzone name="pagan_temple_zone_33">
+    		<spawn npcId="22171" locX="-15616" locY="-53897" locZ="-11565" heading="52028" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22171" locX="-15764" locY="-56612" locZ="-10850" heading="15163" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22171" locX="-20819" locY="-49287" locZ="-10917" heading="61766" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Triol's High Priest -->
+	<spawnzone name="pagan_temple_zone_34">
+    		<spawn npcId="22172" locX="-15051" locY="-56457" locZ="-10850" heading="35459" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22172" locX="-16483" locY="-53313" locZ="-11565" heading="44967" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Ritual Sacrifice -->
+	<spawnzone name="pagan_temple_zone_35">
+    		<spawn npcId="22173" locX="-14983" locY="-56505" locZ="-10850" heading="22943" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22173" locX="-16401" locY="-54207" locZ="-11565" heading="47014" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Triol's Priest -->
+	<spawnzone name="pagan_temple_zone_36">
+    		<spawn npcId="22174" locX="-17067" locY="-54418" locZ="-11565" heading="56664" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22174" locX="-17074" locY="-56518" locZ="-10850" heading="62892" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Triol's Priest -->
+	<spawnzone name="pagan_temple_zone_37">
+    		<spawn npcId="22175" locX="-14960" locY="-53437" locZ="-10629" heading="7820" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22175" locX="-14964" locY="-53766" locZ="-10603" heading="20066" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22175" locX="-15225" locY="-52968" locZ="-10603" heading="55924" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22175" locX="-15522" locY="-52625" locZ="-10629" heading="17737" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22175" locX="-15676" locY="-52576" locZ="-10603" heading="23075" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22175" locX="-15879" locY="-52521" locZ="-10603" heading="63322" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22175" locX="-16420" locY="-52481" locZ="-10603" heading="4302" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22175" locX="-16590" locY="-52575" locZ="-10603" heading="11742" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22175" locX="-16835" locY="-52485" locZ="-10603" heading="40331" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22175" locX="-17051" locY="-52639" locZ="-10629" heading="4607" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22175" locX="-17461" locY="-52839" locZ="-10603" heading="13423" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22175" locX="-17604" locY="-53050" locZ="-10603" heading="39469" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22175" locX="-17641" locY="-53350" locZ="-10629" heading="14056" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22175" locX="-17710" locY="-53768" locZ="-10603" heading="47067" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22175" locX="-17753" locY="-53950" locZ="-10629" heading="14260" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22175" locX="-17841" locY="-54312" locZ="-10603" heading="14180" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Andreas' Captain of the Royal Guard -->
+	<spawnzone name="pagan_temple_zone_38">
+    		<spawn npcId="22176" locX="-16156" locY="-47121" locZ="-10821" heading="16129" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22176" locX="-16157" locY="-46340" locZ="-10821" heading="16468" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22176" locX="-16164" locY="-48534" locZ="-10917" heading="16405" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22176" locX="-16165" locY="-49237" locZ="-10917" heading="16091" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22176" locX="-16166" locY="-47732" locZ="-10821" heading="16430" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22176" locX="-16177" locY="-49925" locZ="-10917" heading="16622" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22176" locX="-16198" locY="-44753" locZ="-10725" heading="16583" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22176" locX="-16497" locY="-48344" locZ="-10917" heading="16215" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22176" locX="-16513" locY="-49019" locZ="-10917" heading="15756" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22176" locX="-16529" locY="-46310" locZ="-10821" heading="17047" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22176" locX="-16530" locY="-47027" locZ="-10821" heading="16487" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22176" locX="-16532" locY="-47633" locZ="-10821" heading="16242" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22176" locX="-16552" locY="-49694" locZ="-10917" heading="15784" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22176" locX="-16594" locY="-45094" locZ="-10725" heading="16166" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Andreas' Royal Guards -->
+	<spawnzone name="pagan_temple_zone_39">
+    		<spawn npcId="22188" locX="-16341" locY="-53449" locZ="-10449" heading="17661" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Andreas' Captain of the Royal Guard -->
+	<spawnzone name="pagan_temple_zone_40">
+    		<spawn npcId="22189" locX="-16199" locY="-53591" locZ="-10449" heading="14881" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22189" locX="-16331" locY="-53260" locZ="-10449" heading="6134" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22189" locX="-16479" locY="-53528" locZ="-10449" heading="11646" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Andreas' Royal Guards -->
+	<spawnzone name="pagan_temple_zone_41">
+    		<spawn npcId="22190" locX="-15847" locY="-53336" locZ="-10449" heading="31957" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22190" locX="-16297" locY="-53086" locZ="-10449" heading="7806" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22190" locX="-16712" locY="-53438" locZ="-10449" heading="4083" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Ritual Sacrifice -->
+	<spawnzone name="pagan_temple_zone_42">
+    		<spawn npcId="22194" locX="-11166" locY="-43464" locZ="-10833" heading="32364" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22194" locX="-11166" locY="-43552" locZ="-10838" heading="32364" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22194" locX="-11166" locY="-43638" locZ="-10841" heading="32364" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22194" locX="-11192" locY="-39726" locZ="-10831" heading="31528" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22194" locX="-11192" locY="-39813" locZ="-10832" heading="31528" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22194" locX="-11192" locY="-39905" locZ="-10832" heading="31528" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22194" locX="-11204" locY="-41782" locZ="-10829" heading="32668" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22194" locX="-11206" locY="-41597" locZ="-10827" heading="32668" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22194" locX="-11206" locY="-41690" locZ="-10841" heading="32668" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22194" locX="-11234" locY="-37857" locZ="-10835" heading="30762" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22194" locX="-11234" locY="-37951" locZ="-10835" heading="30762" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22194" locX="-11234" locY="-38039" locZ="-10821" heading="30762" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22194" locX="-21521" locY="-41586" locZ="-10850" heading="703" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22194" locX="-21521" locY="-41675" locZ="-10838" heading="703" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22194" locX="-21521" locY="-41762" locZ="-10826" heading="703" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22194" locX="-21522" locY="-39722" locZ="-10822" heading="2407" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22194" locX="-21522" locY="-39819" locZ="-10852" heading="2407" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22194" locX="-21522" locY="-39910" locZ="-10825" heading="2407" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22194" locX="-21529" locY="-43460" locZ="-10825" heading="99" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22194" locX="-21529" locY="-43548" locZ="-10831" heading="99" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22194" locX="-21529" locY="-43642" locZ="-10814" heading="99" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22194" locX="-21531" locY="-37854" locZ="-10831" heading="65271" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22194" locX="-21531" locY="-37951" locZ="-10845" heading="65271" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22194" locX="-21531" locY="-38032" locZ="-10835" heading="65271" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Penance Guard -->
+	<spawnzone name="pagan_temple_zone_43">
+    		<spawn npcId="32068" locX="-12479" locY="-54302" locZ="-11114" heading="20834" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32068" locX="-12761" locY="-52626" locZ="-10938" heading="58419" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32068" locX="-14590" locY="-52790" locZ="-11013" heading="54609" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32068" locX="-14686" locY="-54745" locZ="-10603" heading="19962" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32068" locX="-15223" locY="-54847" locZ="-10449" heading="11069" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32068" locX="-16396" locY="-56768" locZ="-10850" heading="12416" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32068" locX="-17342" locY="-54874" locZ="-10449" heading="12821" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32068" locX="-18079" locY="-54816" locZ="-10603" heading="975" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32068" locX="-18161" locY="-52778" locZ="-11013" heading="52976" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32068" locX="-20229" locY="-54359" locZ="-11114" heading="51269" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Triol's Revelation -->
+	<spawnloc name="pagan_temple_loc_01">
+    		<spawn npcId="32034" locX="-15934" locY="-36605" locZ="-10693" heading="15439" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32035" locX="-16722" locY="-36928" locZ="-10725" heading="52401" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32036" locX="-15853" locY="-43811" locZ="-10685" heading="16384" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32037" locX="-16629" locY="-44290" locZ="-10725" heading="54566" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32040" locX="-11986" locY="-35903" locZ="-10857" heading="31655" respawnDelay="60" periodOfDay="0" />
+	</spawnloc> <!-- Temple Gatekeepers -->
+</list>

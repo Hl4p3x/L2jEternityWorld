@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?><!-- Плащи -->
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+<item><ingredient id="9912" count="25000"/><ingredient id="6673" count="680"/><production id="14610" count="1"/></item>
+<item><ingredient id="9912" count="25000"/><ingredient id="6673" count="680"/><production id="14609" count="1"/></item>
+<item><ingredient id="9912" count="25000"/><ingredient id="6673" count="680"/><production id="14608" count="1"/></item>
+<item><ingredient id="9912" count="25000"/><ingredient id="6673" count="680"/><production id="14601" count="1"/></item>
+<item><ingredient id="9912" count="25000"/><ingredient id="6673" count="680"/><production id="13892" count="1"/></item>
+<item><ingredient id="9912" count="25000"/><ingredient id="6673" count="680"/><production id="13891" count="1"/></item>
+<item><ingredient id="9912" count="25000"/><ingredient id="6673" count="680"/><production id="13890" count="1"/></item>
+<item><ingredient id="9912" count="25000"/><ingredient id="6673" count="680"/><production id="13889" count="1"/></item>
+<item><ingredient id="9912" count="25000"/><ingredient id="6673" count="680"/><production id="13690" count="1"/></item>
+<item><ingredient id="9912" count="25000"/><ingredient id="6673" count="680"/><production id="13689" count="1"/></item>
+<item><ingredient id="9912" count="25000"/><ingredient id="6673" count="680"/><production id="13688" count="1"/></item>
+<item><ingredient id="9912" count="25000"/><ingredient id="6673" count="680"/><production id="13687" count="1"/></item>
+</list>

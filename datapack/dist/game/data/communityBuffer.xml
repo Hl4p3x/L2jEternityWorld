@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<groups name="Fighter Buffs" groupId="1">
+		<skill id="1077" level="3" /> <!-- Focus -->
+		<skill id="1062" level="2" /> <!-- Bersercer Spirit -->
+		<skill id="1035" level="4" /> <!-- Mental Shield -->
+		<skill id="1036" level="2" /> <!-- Magic Barrier -->
+		<skill id="1045" level="6" /> <!-- Blessed Body -->
+		<skill id="1086" level="2" /> <!-- Haste -->
+		<skill id="1204" level="2" /> <!-- Wind Walk -->
+		<skill id="1240" level="3" /> <!-- Guidance -->
+		<skill id="1242" level="3" /> <!-- Death Whisper -->
+		<skill id="1068" level="3" /> <!-- Might -->
+		<skill id="1040" level="3" /> <!-- Shield -->
+		<skill id="1087" level="3" /> <!-- Agility -->
+		<skill id="1259" level="4" /> <!-- Resist Shock -->
+	</groups>
+	<groups name="Magic Buffs" groupId="2">
+		<skill id="1085" level="3" /> <!-- Acumen -->
+		<skill id="1059" level="3" /> <!-- Empower -->
+		<skill id="1062" level="2" /> <!-- Berserker Spirit -->
+		<skill id="1035" level="4" /> <!-- Menta lShield -->
+		<skill id="1036" level="2" /> <!-- Magic Barrier -->
+		<skill id="1045" level="6" /> <!-- Blessed Body -->
+		<skill id="1048" level="6" /> <!-- Blessed Soul -->
+		<skill id="1078" level="6" /> <!-- Concentration -->
+		<skill id="1204" level="2" /> <!-- Wind Walk -->
+		<skill id="1044" level="3" /> <!-- Regeneration -->
+		<skill id="1040" level="3" /> <!-- Shield -->
+		<skill id="1303" level="2" /> <!-- Wild Magic -->
+		<skill id="1259" level="4" /> <!-- Resis tShock -->
+	</groups>
+
+ 	<!-- Community Schemes Section -->
+	<group buff="Prophet">
+		<skill id="1204" level="2" adena="0" minLvl="0" /> <!-- Wind Walk -->
+		<skill id="1040" level="3" adena="0" minLvl="0" /> <!-- Shield -->
+		<skill id="1068" level="3" adena="0" minLvl="0" /> <!-- Might -->
+		<skill id="1043" level="1" adena="0" minLvl="0" /> <!-- Holy Weapon -->
+		<skill id="1035" level="4" adena="0" minLvl="0" /> <!-- Mental Shield -->
+		<skill id="1045" level="6" adena="0" minLvl="0" /> <!-- Blessed Body -->
+		<skill id="1048" level="6" adena="0" minLvl="0" /> <!-- Blessed Soul -->
+		<skill id="1036" level="2" adena="0" minLvl="0" /> <!-- Magic Barrier -->
+		<skill id="1078" level="6" adena="0" minLvl="0" /> <!-- Concentration -->
+		<skill id="1062" level="2" adena="0" minLvl="0" /> <!-- Berserker Spirit -->
+		<skill id="1243" level="6" adena="0" minLvl="0" /> <!-- Bless Shield -->
+		<skill id="1085" level="3" adena="0" minLvl="0" /> <!-- Acumen -->
+		<skill id="1086" level="2" adena="0" minLvl="0" /> <!-- Haste -->
+		<skill id="1240" level="3" adena="0" minLvl="0" /> <!-- Guidance -->
+		<skill id="1077" level="3" adena="0" minLvl="0" /> <!-- Focus -->
+		<skill id="1388" level="3" adena="0" minLvl="0" /> <!-- Greater Might -->
+		<skill id="1389" level="3" adena="0" minLvl="0" /> <!-- Greater Shield -->
+		<skill id="1392" level="3" adena="0" minLvl="0" /> <!-- Holy Resistance -->
+		<skill id="1393" level="3" adena="0" minLvl="0" /> <!-- Unholy Resistance -->
+		<skill id="1356" level="1" adena="0" minLvl="0" /> <!-- Prophecy of Fire -->
+		<skill id="1352" level="1" adena="0" minLvl="0" /> <!-- Elemental Protection -->
+	</group>
+	<group buff="Elder">
+		<skill id="1257" level="3" adena="0" minLvl="0" /> <!-- Decrease Weight -->
+		<skill id="1259" level="4" adena="0" minLvl="0" /> <!-- Resist Shock -->
+		<skill id="1303" level="2" adena="0" minLvl="0" /> <!-- Wild Magic -->
+		<skill id="1304" level="3" adena="0" minLvl="0" /> <!-- Advanced Block -->
+		<skill id="1353" level="1" adena="0" minLvl="0" /> <!-- Divine Protection -->
+		<skill id="1355" level="1" adena="0" minLvl="0" /> <!-- Prophecy of Water -->
+		<skill id="1044" level="3" adena="0" minLvl="0" /> <!-- Regeneration -->
+		<skill id="1087" level="3" adena="0" minLvl="0" /> <!-- Agility -->
+		<skill id="1397" level="3" adena="0" minLvl="0" /> <!-- Clarity -->
+	</group>
+	<group buff="ShilienElder">
+		<skill id="1268" level="4" adena="0" minLvl="0" /> <!-- Vampiric Rage -->
+		<skill id="1059" level="3" adena="0" minLvl="0" /> <!-- Empower -->
+		<skill id="1242" level="3" adena="0" minLvl="0" /> <!-- Death Whisper -->
+		<skill id="1357" level="1" adena="0" minLvl="0" /> <!-- Prophecy of Wind -->
+		<skill id="1354" level="1" adena="0" minLvl="0" /> <!-- Arcane Protection -->
+	</group>
+	<group buff="Summons">
+		<skill id="4702" level="13" adena="0" minLvl="0" /> <!-- Blessing of Seraphim -->
+		<skill id="4703" level="13" adena="0" minLvl="0" /> <!-- Gift of Seraphim -->
+		<skill id="4699" level="13" adena="0" minLvl="0" /> <!-- Blessing of Queen -->
+		<skill id="4700" level="13" adena="0" minLvl="0" /> <!-- Gift of Queen -->
+	</group>
+	<group buff="WarCryer">
+		<skill id="1007" level="3" adena="0" minLvl="0" /> <!-- Chant of Battle -->
+		<skill id="1009" level="3" adena="0" minLvl="0" /> <!-- Chant of Shielding -->
+		<skill id="1006" level="3" adena="0" minLvl="0" /> <!-- Chant of Fire -->
+		<skill id="1002" level="3" adena="0" minLvl="0" /> <!-- Flame Chant -->
+		<skill id="1229" level="18" adena="0" minLvl="0" /> <!-- Chant of Life -->
+		<skill id="1251" level="3" adena="0" minLvl="0" /> <!-- Chant of Fury -->
+		<skill id="1252" level="3" adena="0" minLvl="0" /> <!-- Chant of Evasion -->
+		<skill id="1253" level="3" adena="0" minLvl="0" /> <!-- Chant of Rage -->
+		<skill id="1284" level="3" adena="0" minLvl="0" /> <!-- Chant of Revenge -->
+		<skill id="1310" level="4" adena="0" minLvl="0" /> <!-- Chant of Vampire -->
+		<skill id="1309" level="3" adena="0" minLvl="0" /> <!-- Chant of Eagle -->
+		<skill id="1308" level="3" adena="0" minLvl="0" /> <!-- Chant of Predator -->
+		<skill id="1362" level="1" adena="0" minLvl="0" /> <!-- Chant of Spirit -->
+		<skill id="1363" level="1" adena="0" minLvl="0" /> <!-- Chant of Victory -->
+		<skill id="1413" level="1" adena="0" minLvl="0" /> <!-- Magnus' Chant -->
+		<skill id="1391" level="3" adena="0" minLvl="0" /> <!-- Earth Chant -->
+		<skill id="1390" level="3" adena="0" minLvl="0" /> <!-- War Chant -->
+		<skill id="1461" level="1" adena="0" minLvl="0" /> <!-- Chant of Protection -->
+	</group>
+	<group buff="Dances">
+		<skill id="271" level="1" adena="0" minLvl="0" /> <!-- Dance of the Warrior -->
+		<skill id="272" level="1" adena="0" minLvl="0" /> <!-- Dance of Inspiration -->
+		<skill id="273" level="1" adena="0" minLvl="0" /> <!-- Dance of the Mystic -->
+		<skill id="274" level="1" adena="0" minLvl="0" /> <!-- Dance of Fire -->
+		<skill id="275" level="1" adena="0" minLvl="0" /> <!-- Dance of Fury -->
+		<skill id="276" level="1" adena="0" minLvl="0" /> <!-- Dance of Concentration -->
+		<skill id="277" level="1" adena="0" minLvl="0" /> <!-- Dance of Light -->
+		<skill id="307" level="1" adena="0" minLvl="0" /> <!-- Dance of Aqua Guard -->
+		<skill id="309" level="1" adena="0" minLvl="0" /> <!-- Dance of Earth Guard -->
+		<skill id="310" level="1" adena="0" minLvl="0" /> <!-- Dance of the Vampire -->
+		<skill id="311" level="1" adena="0" minLvl="0" /> <!-- Dance of Protection -->
+		<skill id="366" level="1" adena="0" minLvl="0" /> <!-- Dance of Shadows -->
+		<skill id="365" level="1" adena="0" minLvl="0" /> <!-- Siren's Dance -->
+		<skill id="530" level="1" adena="0" minLvl="0" /> <!-- Dance of Alignment -->
+		<skill id="915" level="1" adena="0" minLvl="0" /> <!-- Dance of Berserker -->
+	</group>
+	<group buff="Songs">
+		<skill id="264" level="1" adena="0" minLvl="0" /> <!-- Song of Earth -->
+		<skill id="265" level="1" adena="0" minLvl="0" /> <!-- Song of Life -->
+		<skill id="266" level="1" adena="0" minLvl="0" /> <!-- Song of Water -->
+		<skill id="267" level="1" adena="0" minLvl="0" /> <!-- Song of Warding -->
+		<skill id="268" level="1" adena="0" minLvl="0" /> <!-- Song of Wind -->
+		<skill id="269" level="1" adena="0" minLvl="0" /> <!-- Song of Hunter -->
+		<skill id="270" level="1" adena="0" minLvl="0" /> <!-- Song of Invocation -->
+		<skill id="304" level="1" adena="0" minLvl="0" /> <!-- Song of Vitality -->
+		<skill id="305" level="1" adena="0" minLvl="0" /> <!-- Song of Vengeance -->
+		<skill id="306" level="1" adena="0" minLvl="0" /> <!-- Song of Flame Guard -->
+		<skill id="308" level="1" adena="0" minLvl="0" /> <!-- Song of Storm Guard -->
+		<skill id="363" level="1" adena="0" minLvl="0" /> <!-- Song of Meditation -->
+		<skill id="364" level="1" adena="0" minLvl="0" /> <!-- Song of Champion -->
+		<skill id="349" level="1" adena="0" minLvl="0" /> <!-- Song of Renewal -->
+		<skill id="529" level="1" adena="0" minLvl="0" /> <!-- Song of Elemental -->
+		<skill id="1323" level="1" adena="0" minLvl="0" /> <!-- Noblesse Blessing -->
+	</group>
+	<group buff="Other">
+		<skill id="826" level="1" adena="0" minLvl="0" /> <!-- Spike -->
+		<skill id="825" level="1" adena="0" minLvl="0" /> <!-- Sharp Edge -->
+		<skill id="827" level="1" adena="0" minLvl="0" /> <!-- Restring -->
+		<skill id="828" level="1" adena="0" minLvl="0" /> <!-- Case Harden -->
+		<skill id="829" level="1" adena="0" minLvl="0" /> <!-- Hard Tanning -->
+		<skill id="830" level="1" adena="0" minLvl="0" /> <!-- Embroider -->
+		<skill id="1047" level="4" adena="0" minLvl="0" /> <!-- Regeneration -->
+		<skill id="1182" level="3" adena="0" minLvl="0" /> <!-- Resist Aqua -->
+		<skill id="1189" level="3" adena="0" minLvl="0" /> <!-- Resist Wind -->
+		<skill id="1191" level="3" adena="0" minLvl="0" /> <!-- Resist Fire -->
+		<skill id="1307" level="3" adena="0" minLvl="0" /> <!-- Prayer -->
+		<skill id="1311" level="6" adena="0" minLvl="0" /> <!-- Body of Avatar -->
+		<skill id="1460" level="1" adena="0" minLvl="0" /> <!-- Mana Gain -->
+		<skill id="1010" level="3" adena="0" minLvl="0" /> <!-- Soul Shield -->
+		<skill id="1008" level="3" adena="0" minLvl="0" /> <!-- The Glory of Pa'agrio -->
+		<skill id="1414" level="1" adena="0" minLvl="0" /> <!-- Victory of Pa'agrio -->
+	</group>
+</list>

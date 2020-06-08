@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/buylist.xsd">
+	<npcs>
+		<npc>35640</npc> <!-- Bandello -->
+	</npcs>
+	<item id="6902" />
+	<item id="6316" />
+	<item id="1829" count="5" restock_delay="60" />
+	<item id="5858" count="1" restock_delay="60" />
+	<item id="5169" count="10" restock_delay="60" />
+	<item id="956" count="1" restock_delay="120" />
+	<item id="7134" count="1" restock_delay="60" />
+	<item id="7126" count="1" restock_delay="60" />
+	<item id="8645" count="1" restock_delay="60" />
+	<item id="8651" count="1" restock_delay="60" />
+</list>

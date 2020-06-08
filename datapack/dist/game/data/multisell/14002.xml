@@ -1,0 +1,8 @@
+﻿<?xml version='1.0' encoding='utf-8'?><!-- Лс -->
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+<item><ingredient id="57" count="120000000"/><ingredient id="6673" count="10"/><production id="14166" count="1"/></item><!-- Лс-84 Простой -->
+<item><ingredient id="57" count="120000000"/><ingredient id="6673" count="50"/><production id="14167" count="1"/></item><!-- Лс-84 Средний -->
+<item><ingredient id="57" count="250000000"/><ingredient id="6673" count="250"/><ingredient id="9912" count="2500"/><production id="14168" count="1"/></item><!-- Лс-84 Высокий -->
+<item><ingredient id="57" count="800000000"/><ingredient id="6673" count="570"/><ingredient id="9912" count="4200"/><production id="14169" count="1"/></item><!-- Лс-84 Высший -->
+<item><ingredient id="57" count="120000000"/><ingredient id="6673" count="120"/><ingredient id="9912" count="250"/><production id="14008" count="1"/></item><!-- Лс-84 Для бижи -->
+</list>

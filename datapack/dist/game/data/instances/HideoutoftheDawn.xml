@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instance name="Hideout of the Dawn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/instance.xsd">
+	<activityTime val="60" />
+	<timeDelay val="4" />
+	<allowSummon val="false" />
+	<spawnPoint spawnX="-23770" spawnY="-8961" spawnZ="-5385"/>
+	<emptyDestroyTime val="300" />
+	<spawnlist>
+		<group name="general">
+			<spawn npcId="32597" x="-23970" y="-8964" z="-5392" heading="0" respawn="0"/>
+			<spawn npcId="32617" x="-23956" y="-8896" z="-5392" heading="0" respawn="0"/>
+		</group>
+	</spawnlist>
+</instance>

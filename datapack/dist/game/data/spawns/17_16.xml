@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawns.xsd">
+	<spawnloc name="underground_coliseum_zone">
+    		<spawn npcId="32377" locX="-79120" locY="-45440" locZ="-10683" heading="-23248" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32491" locX="-82168" locY="-49167" locZ="-10321" heading="32084" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32513" locX="-84640" locY="-45360" locZ="-10683" heading="-9380" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32514" locX="-77408" locY="-50656" locZ="-10683" heading="29664" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32515" locX="-81904" locY="-53904" locZ="-10683" heading="17044" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32516" locX="-86359" locY="-50593" locZ="-10679" heading="3704" respawnDelay="60" periodOfDay="0" />
+	</spawnloc>
+</list>

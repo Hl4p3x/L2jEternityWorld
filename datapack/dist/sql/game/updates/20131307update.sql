@@ -1,0 +1,1 @@
+ALTER TABLE `characters` ADD `bot_report_points` int(10) NOT NULL DEFAULT 7;

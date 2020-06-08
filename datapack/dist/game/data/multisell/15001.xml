@@ -1,0 +1,10 @@
+﻿<?xml version='1.0' encoding='utf-8'?><!-- Клан Яйца -->
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+<item><ingredient id="9912" count="18000"/><production id="9816" count="10"/></item><!-- Сердце Земли -->
+<item><ingredient id="9912" count="18000"/><production id="9817" count="10"/></item><!-- Неактивное Ядро -->
+<item><ingredient id="9912" count="18000"/><production id="9818" count="10"/></item><!-- Ангельская Эссенция -->
+<item><ingredient id="9912" count="18000"/><production id="9815" count="10"/></item><!-- Сердце Дракона-->
+<item><ingredient id="9912" count="18000"/><production id="9814" count="10"/></item><!-- Память о Смерти -->
+<item><ingredient id="9912" count="18000"/><production id="8176" count="10"/></item><!-- Могильная Стела Разрушения -->
+<item><ingredient id="9912" count="18000"/><production id="8175" count="10"/></item><!-- Колыбель Создания -->
+</list>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Server Scripts" default="jar" basedir=".">
+	<description>
+		This script is based on L2J Server's build script.
+	</description>
+
+	<property name="java" location="java" />
+	<property name="lib" location="lib" />
+	<property name="build" location="build" />
+	<property name="build.classes" location="${build}/classes" />
+	<property name="build.data" location="${build}/data" />
+
+	<path id="classpath">
+		<fileset dir="${lib}">
+			<include name="*.jar" />
+		</fileset>
+	</path>
+
+	<target name="verifyRequirements" description="JDK 7 or greater is required.">
+		<available classname="javax.script.ScriptContext" property="JDK7.present" />
+		<fail unless="JDK7.present" message="JDK 7 or greater is required." />
+	</target>
+
+	<target name="init" depends="clean, verifyRequirements" description="Create the output directories.">
+			<mkdir dir="${build}" />
+			<mkdir dir="${build.classes}" />
+	</target>
+
+	<target name="compile" depends="init" description="Compile the source.">
+		<javac destdir="${build.classes}" optimize="on" debug="on" source="1.7" target="1.7" includeantruntime="false" nowarn="off">
+			<src path="${java}" />
+			<classpath refid="classpath" />
+		</javac>
+	</target>
+
+	<target name="jar" depends="compile" description="Create the jar file">
+		<jar destfile="${build}/server_scripts.jar">
+			<fileset dir="${build.classes}" />
+			<manifest>
+				<attribute name="Built-By" value="${user.name}" />
+				<attribute name="Built-Date" value="${build.tstamp}" />
+			</manifest>
+		</jar>
+	</target>
+
+	<target name="clean" description="Remove the output directories">
+			<delete dir="${build}" />
+	</target>
+</project>

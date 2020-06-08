@@ -1,0 +1,478 @@
+/*
+ * This program is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU General Public License as published by the Free Software
+ * Foundation, either version 3 of the License, or (at your option) any later
+ * version.
+ *
+ * This program is distributed in the hope that it will be useful, but WITHOUT
+ * ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+ * FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU General Public License along with
+ * this program. If not, see <http://eternity-world.ru/>.
+ */
+package l2e.scripts.quests;
+
+import l2e.gameserver.model.actor.L2Npc;
+import l2e.gameserver.model.actor.instance.L2PcInstance;
+import l2e.gameserver.model.itemcontainer.Inventory;
+import l2e.gameserver.model.quest.Quest;
+import l2e.gameserver.model.quest.QuestState;
+import l2e.gameserver.model.quest.State;
+import l2e.util.Rnd;
+
+/**
+ * Created by LordWinter 16.06.2013 Based on L2J Eternity-World
+ */
+public class _224_TestOfSagittarius extends Quest
+{
+	private static final String qn = "_224_TestOfSagittarius";
+	
+	private static final int BERNARDS_INTRODUCTION_ID = 3294;
+	private static final int LETTER_OF_HAMIL3_ID = 3297;
+	private static final int HUNTERS_RUNE2_ID = 3299;
+	private static final int MARK_OF_SAGITTARIUS_ID = 3293;
+	private static final int CRESCENT_MOON_BOW_ID = 3028;
+	private static final int TALISMAN_OF_KADESH_ID = 3300;
+	private static final int BLOOD_OF_LIZARDMAN_ID = 3306;
+	private static final int LETTER_OF_HAMIL1_ID = 3295;
+	private static final int LETTER_OF_HAMIL2_ID = 3296;
+	private static final int HUNTERS_RUNE1_ID = 3298;
+	private static final int TALISMAN_OF_SNAKE_ID = 3301;
+	private static final int MITHRIL_CLIP_ID = 3302;
+	private static final int STAKATO_CHITIN_ID = 3303;
+	private static final int ST_BOWSTRING_ID = 3304;
+	private static final int MANASHENS_HORN_ID = 3305;
+	private static final int WOODEN_ARROW_ID = 17;
+	
+	public _224_TestOfSagittarius(int questId, String name, String descr)
+	{
+		super(questId, name, descr);
+		
+		addStartNpc(30702);
+		addTalkId(30702);
+		addTalkId(30514);
+		addTalkId(30626);
+		addTalkId(30653);
+		addTalkId(30717);
+		
+		addKillId(20230);
+		addKillId(20232);
+		addKillId(20233);
+		addKillId(20234);
+		addKillId(20269);
+		addKillId(20270);
+		addKillId(27090);
+		addKillId(20551);
+		addKillId(20563);
+		addKillId(20577);
+		addKillId(20578);
+		addKillId(20579);
+		addKillId(20580);
+		addKillId(20581);
+		addKillId(20582);
+		addKillId(20079);
+		addKillId(20080);
+		addKillId(20081);
+		addKillId(20082);
+		addKillId(20084);
+		addKillId(20086);
+		addKillId(20089);
+		addKillId(20090);
+		
+		questItemIds = new int[]
+		{
+			HUNTERS_RUNE2_ID,
+			CRESCENT_MOON_BOW_ID,
+			TALISMAN_OF_KADESH_ID,
+			BLOOD_OF_LIZARDMAN_ID,
+			BERNARDS_INTRODUCTION_ID,
+			HUNTERS_RUNE1_ID,
+			LETTER_OF_HAMIL1_ID,
+			TALISMAN_OF_SNAKE_ID,
+			LETTER_OF_HAMIL2_ID,
+			LETTER_OF_HAMIL3_ID,
+			MITHRIL_CLIP_ID,
+			STAKATO_CHITIN_ID,
+			ST_BOWSTRING_ID,
+			MANASHENS_HORN_ID
+		};
+	}
+	
+	@Override
+	public String onAdvEvent(String event, L2Npc npc, L2PcInstance player)
+	{
+		String htmltext = event;
+		QuestState st = player.getQuestState(qn);
+		if (st == null)
+		{
+			return htmltext;
+		}
+		
+		if (event.equals("1"))
+		{
+			htmltext = "30702-04.htm";
+			st.set("cond", "1");
+			st.setState(State.STARTED);
+			st.playSound("ItemSound.quest_accept");
+			st.giveItems(BERNARDS_INTRODUCTION_ID, 1);
+		}
+		else if (event.equals("30626_1"))
+		{
+			htmltext = "30626-02.htm";
+		}
+		else if (event.equals("30626_2"))
+		{
+			htmltext = "30626-03.htm";
+			st.takeItems(BERNARDS_INTRODUCTION_ID, st.getQuestItemsCount(BERNARDS_INTRODUCTION_ID));
+			st.giveItems(LETTER_OF_HAMIL1_ID, 1);
+			st.set("cond", "2");
+		}
+		else if (event.equals("30626_3"))
+		{
+			htmltext = "30626-06.htm";
+		}
+		else if (event.equals("30626_4"))
+		{
+			htmltext = "30626-07.htm";
+			st.takeItems(HUNTERS_RUNE1_ID, st.getQuestItemsCount(HUNTERS_RUNE1_ID));
+			st.giveItems(LETTER_OF_HAMIL2_ID, 1);
+			st.set("step", "5");
+		}
+		else if (event.equals("30653_1"))
+		{
+			htmltext = "30653-02.htm";
+			st.takeItems(LETTER_OF_HAMIL1_ID, st.getQuestItemsCount(LETTER_OF_HAMIL1_ID));
+			st.set("cond", "3");
+		}
+		else if (event.equals("30514_1"))
+		{
+			htmltext = "30514-02.htm";
+			st.takeItems(LETTER_OF_HAMIL2_ID, st.getQuestItemsCount(LETTER_OF_HAMIL2_ID));
+			st.set("cond", "6");
+		}
+		return htmltext;
+	}
+	
+	@Override
+	public String onTalk(L2Npc npc, L2PcInstance player)
+	{
+		String htmltext = getNoQuestMsg(player);
+		QuestState st = player.getQuestState(qn);
+		if (st == null)
+		{
+			return htmltext;
+		}
+		
+		int npcId = npc.getId();
+		int cond = st.getInt("cond");
+		
+		switch (st.getState())
+		{
+			case State.CREATED:
+				if (npcId == 30702)
+				{
+					if ((player.getClassId().getId() == 0x07) || (player.getClassId().getId() == 0x16) || (player.getClassId().getId() == 0x23))
+					{
+						if (st.getPlayer().getLevel() >= 39)
+						{
+							htmltext = "30702-03.htm";
+						}
+						else
+						{
+							htmltext = "30702-01.htm";
+							st.exitQuest(true);
+						}
+					}
+					else
+					{
+						htmltext = "30702-02.htm";
+						st.exitQuest(true);
+					}
+				}
+				break;
+			case State.STARTED:
+				if ((npcId == 30702) && (cond == 1) && (st.getQuestItemsCount(BERNARDS_INTRODUCTION_ID) > 0))
+				{
+					htmltext = "30702-05.htm";
+				}
+				else if ((npcId == 30626) && (cond == 1) && (st.getQuestItemsCount(BERNARDS_INTRODUCTION_ID) > 0))
+				{
+					htmltext = "30626-01.htm";
+				}
+				else if ((npcId == 30626) && (cond == 2) && (st.getQuestItemsCount(LETTER_OF_HAMIL1_ID) > 0))
+				{
+					htmltext = "30626-04.htm";
+				}
+				else if ((npcId == 30626) && (cond == 4) && (st.getQuestItemsCount(HUNTERS_RUNE1_ID) == 10))
+				{
+					htmltext = "30626-05.htm";
+				}
+				else if ((npcId == 30626) && (cond == 5) && (st.getQuestItemsCount(LETTER_OF_HAMIL2_ID) > 0))
+				{
+					htmltext = "30626-08.htm";
+				}
+				else if ((npcId == 30626) && (cond == 8))
+				{
+					htmltext = "30626-09.htm";
+					st.giveItems(LETTER_OF_HAMIL3_ID, 1);
+					st.set("cond", "9");
+				}
+				else if ((npcId == 30626) && (cond == 9) && (st.getQuestItemsCount(LETTER_OF_HAMIL3_ID) > 0))
+				{
+					htmltext = "30626-10.htm";
+				}
+				else if ((npcId == 30626) && (cond == 12) && (st.getQuestItemsCount(CRESCENT_MOON_BOW_ID) > 0))
+				{
+					htmltext = "30626-11.htm";
+					st.set("cond", "13");
+				}
+				else if ((npcId == 30626) && (cond == 13))
+				{
+					htmltext = "30626-12.htm";
+				}
+				else if ((npcId == 30626) && (cond == 14) && (st.getQuestItemsCount(TALISMAN_OF_KADESH_ID) > 0))
+				{
+					htmltext = "30626-13.htm";
+					st.takeItems(CRESCENT_MOON_BOW_ID, -1);
+					st.takeItems(TALISMAN_OF_KADESH_ID, -1);
+					st.takeItems(BLOOD_OF_LIZARDMAN_ID, -1);
+					st.giveItems(MARK_OF_SAGITTARIUS_ID, 1);
+					st.giveItems(7562, 96);
+					st.addExpAndSp(894888, 61408);
+					st.giveItems(57, 161806);
+					st.giveItems(8870, 15);
+					st.playSound("ItemSound.quest_finish");
+					st.unset("cond");
+					st.exitQuest(false);
+				}
+				else if ((npcId == 30653) && (cond == 2) && (st.getQuestItemsCount(LETTER_OF_HAMIL1_ID) > 0))
+				{
+					htmltext = "30653-01.htm";
+				}
+				else if ((npcId == 30653) && (cond == 3))
+				{
+					htmltext = "30653-03.htm";
+				}
+				else if ((npcId == 30514) && (cond == 5) && (st.getQuestItemsCount(LETTER_OF_HAMIL2_ID) > 0))
+				{
+					htmltext = "30514-01.htm";
+				}
+				else if ((npcId == 30514) && (cond == 6))
+				{
+					htmltext = "30514-03.htm";
+				}
+				else if ((npcId == 30514) && (cond == 7) && (st.getQuestItemsCount(TALISMAN_OF_SNAKE_ID) > 0))
+				{
+					htmltext = "30514-04.htm";
+					st.takeItems(TALISMAN_OF_SNAKE_ID, st.getQuestItemsCount(TALISMAN_OF_SNAKE_ID));
+					st.set("cond", "8");
+				}
+				else if ((npcId == 30514) && (cond == 8))
+				{
+					htmltext = "30514-05.htm";
+				}
+				else if ((npcId == 30717) && (cond == 9) && (st.getQuestItemsCount(LETTER_OF_HAMIL3_ID) > 0))
+				{
+					htmltext = "30717-01.htm";
+					st.takeItems(LETTER_OF_HAMIL3_ID, st.getQuestItemsCount(LETTER_OF_HAMIL3_ID));
+					st.set("cond", "10");
+				}
+				else if ((npcId == 30717) && (cond == 10))
+				{
+					htmltext = "30717-03.htm";
+				}
+				else if ((npcId == 30717) && (cond == 12))
+				{
+					htmltext = "30717-04.htm";
+				}
+				else if ((npcId == 30717) && (cond == 11) && (st.getQuestItemsCount(STAKATO_CHITIN_ID) > 0) && (st.getQuestItemsCount(MITHRIL_CLIP_ID) > 0) && (st.getQuestItemsCount(ST_BOWSTRING_ID) > 0) && (st.getQuestItemsCount(MANASHENS_HORN_ID) > 0))
+				{
+					htmltext = "30717-02.htm";
+					st.takeItems(MITHRIL_CLIP_ID, st.getQuestItemsCount(MITHRIL_CLIP_ID));
+					st.takeItems(STAKATO_CHITIN_ID, st.getQuestItemsCount(STAKATO_CHITIN_ID));
+					st.takeItems(ST_BOWSTRING_ID, st.getQuestItemsCount(ST_BOWSTRING_ID));
+					st.takeItems(MANASHENS_HORN_ID, st.getQuestItemsCount(MANASHENS_HORN_ID));
+					st.giveItems(CRESCENT_MOON_BOW_ID, 1);
+					st.giveItems(WOODEN_ARROW_ID, 10);
+					st.set("cond", "12");
+				}
+			case State.COMPLETED:
+				if (npcId == 30702)
+				{
+					htmltext = getAlreadyCompletedMsg(player);
+				}
+				break;
+		}
+		return htmltext;
+	}
+	
+	@Override
+	public String onKill(L2Npc npc, L2PcInstance player, boolean isSummon)
+	{
+		QuestState st = player.getQuestState(qn);
+		if (st == null)
+		{
+			return null;
+		}
+		
+		int npcId = npc.getId();
+		int cond = st.getInt("cond");
+		
+		if ((npcId == 20079) || (npcId == 20080) || (npcId == 20081) || (npcId == 20084) || (npcId == 20086) || (npcId == 20089) || (npcId == 20090))
+		{
+			if ((cond == 3) && (st.getQuestItemsCount(HUNTERS_RUNE1_ID) < 10) && Rnd.chance(50))
+			{
+				st.giveItems(HUNTERS_RUNE1_ID, 1);
+				if (st.getQuestItemsCount(HUNTERS_RUNE1_ID) == 10)
+				{
+					st.set("cond", "14");
+					st.playSound("Itemsound.quest_middle");
+				}
+				else
+				{
+					st.playSound("Itemsound.quest_itemget");
+				}
+			}
+		}
+		else if ((npcId == 20269) || (npcId == 20270))
+		{
+			if ((cond == 6) && (st.getQuestItemsCount(HUNTERS_RUNE2_ID) < 10) && Rnd.chance(50))
+			{
+				st.giveItems(HUNTERS_RUNE2_ID, 1);
+				if (st.getQuestItemsCount(HUNTERS_RUNE2_ID) == 10)
+				{
+					st.takeItems(HUNTERS_RUNE2_ID, 10);
+					st.giveItems(TALISMAN_OF_SNAKE_ID, 1);
+					st.set("cond", "7");
+					st.playSound("Itemsound.quest_middle");
+				}
+				else
+				{
+					st.playSound("Itemsound.quest_itemget");
+				}
+			}
+		}
+		else if ((npcId == 20230) || (npcId == 20232) || (npcId == 20234))
+		{
+			if ((cond == 10) && (st.getQuestItemsCount(STAKATO_CHITIN_ID) == 0) && Rnd.chance(10))
+			{
+				st.giveItems(STAKATO_CHITIN_ID, 1);
+				if ((st.getQuestItemsCount(MITHRIL_CLIP_ID) > 0) && (st.getQuestItemsCount(ST_BOWSTRING_ID) > 0) && (st.getQuestItemsCount(MANASHENS_HORN_ID) > 0))
+				{
+					st.set("cond", "11");
+					st.playSound("Itemsound.quest_middle");
+				}
+				else
+				{
+					st.playSound("Itemsound.quest_itemget");
+				}
+			}
+		}
+		else if (npcId == 20563)
+		{
+			if ((cond == 10) && (st.getQuestItemsCount(MANASHENS_HORN_ID) == 0) && Rnd.chance(10))
+			{
+				st.giveItems(MANASHENS_HORN_ID, 1);
+				if ((st.getQuestItemsCount(MITHRIL_CLIP_ID) > 0) && (st.getQuestItemsCount(ST_BOWSTRING_ID) > 0) && (st.getQuestItemsCount(STAKATO_CHITIN_ID) > 0))
+				{
+					st.set("cond", "11");
+					st.playSound("Itemsound.quest_middle");
+				}
+				else
+				{
+					st.playSound("Itemsound.quest_itemget");
+				}
+			}
+		}
+		else if (npcId == 20233)
+		{
+			if ((cond == 10) && (st.getQuestItemsCount(ST_BOWSTRING_ID) == 0) && Rnd.chance(10))
+			{
+				st.giveItems(ST_BOWSTRING_ID, 1);
+				if ((st.getQuestItemsCount(MITHRIL_CLIP_ID) > 0) && (st.getQuestItemsCount(MANASHENS_HORN_ID) > 0) && (st.getQuestItemsCount(STAKATO_CHITIN_ID) > 0))
+				{
+					st.set("cond", "11");
+					st.playSound("Itemsound.quest_middle");
+				}
+				else
+				{
+					st.playSound("Itemsound.quest_itemget");
+				}
+			}
+		}
+		else if (npcId == 20551)
+		{
+			if ((cond == 10) && (st.getQuestItemsCount(MITHRIL_CLIP_ID) == 0) && Rnd.chance(10))
+			{
+				st.giveItems(MITHRIL_CLIP_ID, 1);
+				if ((st.getQuestItemsCount(ST_BOWSTRING_ID) > 0) && (st.getQuestItemsCount(MANASHENS_HORN_ID) > 0) && (st.getQuestItemsCount(STAKATO_CHITIN_ID) > 0))
+				{
+					st.set("cond", "11");
+					st.playSound("Itemsound.quest_middle");
+				}
+				else
+				{
+					st.playSound("Itemsound.quest_itemget");
+				}
+			}
+		}
+		else if (npcId == 20551)
+		{
+			if ((cond == 10) && (st.getQuestItemsCount(MITHRIL_CLIP_ID) == 0) && Rnd.chance(10))
+			{
+				if ((st.getQuestItemsCount(ST_BOWSTRING_ID) > 0) && (st.getQuestItemsCount(MANASHENS_HORN_ID) > 0) && (st.getQuestItemsCount(STAKATO_CHITIN_ID) > 0))
+				{
+					st.giveItems(MITHRIL_CLIP_ID, 1);
+					st.set("cond", "11");
+					st.playSound("Itemsound.quest_middle");
+				}
+				else
+				{
+					st.giveItems(MITHRIL_CLIP_ID, 1);
+					st.playSound("Itemsound.quest_itemget");
+				}
+			}
+		}
+		else if ((npcId == 20577) || (npcId == 20578) || (npcId == 20579) || (npcId == 20580) || (npcId == 20581) || (npcId == 20582))
+		{
+			if (cond == 13)
+			{
+				if (Rnd.chance((st.getQuestItemsCount(BLOOD_OF_LIZARDMAN_ID) - 120) * 5))
+				{
+					st.addSpawn(27090);
+					st.takeItems(BLOOD_OF_LIZARDMAN_ID, st.getQuestItemsCount(BLOOD_OF_LIZARDMAN_ID));
+					st.playSound("Itemsound.quest_before_battle");
+				}
+				else
+				{
+					st.giveItems(BLOOD_OF_LIZARDMAN_ID, 1);
+					st.playSound("Itemsound.quest_itemget");
+				}
+			}
+		}
+		else if (npcId == 27090)
+		{
+			if ((cond == 13) && (st.getQuestItemsCount(TALISMAN_OF_KADESH_ID) == 0))
+			{
+				if (st.getItemEquipped(Inventory.PAPERDOLL_RHAND) == CRESCENT_MOON_BOW_ID)
+				{
+					st.giveItems(TALISMAN_OF_KADESH_ID, 1);
+					st.set("cond", "14");
+					st.playSound("Itemsound.quest_middle");
+				}
+				else
+				{
+					st.addSpawn(27090);
+				}
+			}
+		}
+		return null;
+	}
+	
+	public static void main(String[] args)
+	{
+		new _224_TestOfSagittarius(224, qn, "");
+	}
+}

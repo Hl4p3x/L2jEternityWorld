@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instance name="Disciple's Necropolis (past)" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/instance.xsd">
+	<activityTime val="90" />
+	<emptyDestroyTime val="300" />
+	<allowSummon val="false" />
+	<spawnPoint spawnX="171862" spawnY="-17607" spawnZ="-4900" />
+	<doorlist>
+		<door doorId="17240101" />
+		<door doorId="17240102" />
+		<door doorId="17240103" />
+		<door doorId="17240104" />
+		<door doorId="17240105" />
+		<door doorId="17240106" />
+		<door doorId="17240107" />
+		<door doorId="17240108" />
+		<door doorId="17240109" />
+		<door doorId="17240110" />
+		<door doorId="17240111" />
+	</doorlist>
+	<spawnlist>
+		<group name="general">
+			<spawn npcId="32587" x="-89434" y="216130" z="-7493" heading="0" respawn="0"/>
+			<spawn npcId="32586" x="-89459" y="216183" z="-7493" heading="0" respawn="0"/>
+			<spawn npcId="32598" x="-89563" y="220647" z="-7491" heading="0" respawn="0"/>
+			<spawn npcId="32598" x="-84945" y="220631" z="-7494" heading="0" respawn="0"/>
+			<spawn npcId="32657" x="-84325" y="216152" z="-7493" heading="0" respawn="0"/>
+			<spawn npcId="32718" x="-83180" y="216510" z="-7493" heading="0" respawn="0"/>
+			<spawn npcId="32719" x="-83102" y="216469" z="-7493" heading="0" respawn="0"/>
+			<spawn npcId="32720" x="-83212" y="216424" z="-7493" heading="0" respawn="0"/>
+			<spawn npcId="32721" x="-83247" y="216498" z="-7493" heading="0" respawn="0"/>
+			<spawn npcId="32715" x="-83177" y="216975" z="-7493" heading="0" respawn="0"/>
+			<spawn npcId="32716" x="-83242" y="217043" z="-7493" heading="0" respawn="0"/>
+			<spawn npcId="32717" x="-83083" y="217010" z="-7493" heading="0" respawn="0"/>
+			<spawn npcId="27384" x="-83180" y="217353" z="-7494" heading="0" respawn="0"/>
+			<spawn npcId="27384" x="-82589" y="216747" z="-7494" heading="0" respawn="0"/>
+			<spawn npcId="27384" x="-83178" y="216133" z="-7494" heading="0" respawn="0"/>
+			<spawn npcId="27384" x="-83808" y="216762" z="-7494" heading="0" respawn="0"/>
+			<spawn npcId="27371" x="-89475" y="217696" z="-7491" heading="0" respawn="0"/>
+			<spawn npcId="27372" x="-89269" y="217883" z="-7493" heading="0" respawn="0"/>
+			<spawn npcId="27373" x="-88754" y="218067" z="-7493" heading="0" respawn="0"/>
+			<spawn npcId="27371" x="-88769" y="220635" z="-7493" heading="0" respawn="0"/>
+			<spawn npcId="27372" x="-88425" y="220433" z="-7493" heading="0" respawn="0"/>
+			<spawn npcId="27373" x="-88754" y="220045" z="-7496" heading="0" respawn="0"/>
+			<spawn npcId="27374" x="-88450" y="219820" z="-7493" heading="0" respawn="0"/>
+			<spawn npcId="27371" x="-87545" y="220599" z="-7493" heading="0" respawn="0"/>
+			<spawn npcId="27372" x="-87438" y="220843" z="-7493" heading="0" respawn="0"/>
+			<spawn npcId="27373" x="-87099" y="220484" z="-7493" heading="0" respawn="0"/>
+			<spawn npcId="27374" x="-87049" y="220560" z="-7493" heading="0" respawn="0"/>
+			<spawn npcId="27375" x="-86558" y="220446" z="-7493" heading="0" respawn="0"/>
+			<spawn npcId="27371" x="-84697" y="219492" z="-7493" heading="0" respawn="0"/>
+			<spawn npcId="27372" x="-84832" y="218997" z="-7493" heading="0" respawn="0"/>
+			<spawn npcId="27373" x="-85192" y="219450" z="-7493" heading="0" respawn="0"/>
+			<spawn npcId="27374" x="-85420" y="219011" z="-7496" heading="0" respawn="0"/>
+			<spawn npcId="27375" x="-85709" y="219415" z="-7493" heading="0" respawn="0"/>
+			<spawn npcId="27376" x="-85921" y="219020" z="-7493" heading="0" respawn="0"/>
+			<spawn npcId="27371" x="-87687" y="218262" z="-7493" heading="0" respawn="0"/>
+			<spawn npcId="27372" x="-87462" y="217819" z="-7493" heading="0" respawn="0"/>
+			<spawn npcId="27373" x="-87520" y="218155" z="-7493" heading="0" respawn="0"/>
+			<spawn npcId="27374" x="-87267" y="217336" z="-7496" heading="0" respawn="0"/>
+			<spawn npcId="27375" x="-87336" y="217285" z="-7493" heading="0" respawn="0"/>
+			<spawn npcId="27376" x="-87603" y="216762" z="-7496" heading="0" respawn="0"/>
+			<spawn npcId="27377" x="-87438" y="216733" z="-7493" heading="0" respawn="0"/>
+		</group>
+	</spawnlist>
+</instance>

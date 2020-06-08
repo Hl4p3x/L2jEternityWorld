@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawns.xsd">
+	<spawnzone name="sea_of_spores_zone_01">
+    		<spawn npcId="20555" locX="61156" locY="28189" locZ="-3696" heading="14279" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20555" locX="63447" locY="24214" locZ="-3792" heading="53731" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20555" locX="62510" locY="24325" locZ="-3784" heading="56434" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20555" locX="61681" locY="28497" locZ="-3712" heading="23936" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20555" locX="63320" locY="21800" locZ="-3752" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20555" locX="63172" locY="19721" locZ="-3752" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20555" locX="62284" locY="19721" locZ="-3808" heading="7110" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20555" locX="62496" locY="18464" locZ="-3696" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20555" locX="60955" locY="16400" locZ="-3880" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20555" locX="62824" locY="17696" locZ="-3696" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20555" locX="61715" locY="17476" locZ="-3800" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20555" locX="61810" locY="17476" locZ="-3768" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20555" locX="60620" locY="10798" locZ="-3656" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20555" locX="60620" locY="11986" locZ="-3720" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20555" locX="60984" locY="10798" locZ="-3640" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20555" locX="60074" locY="10996" locZ="-3704" heading="5171" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20555" locX="60551" locY="30215" locZ="-3712" heading="21740" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20555" locX="61746" locY="28720" locZ="-3736" heading="49119" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20555" locX="57480" locY="30748" locZ="-3752" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20555" locX="56472" locY="30679" locZ="-3744" heading="0" respawnDelay="27" periodOfDay="0" />
+	</spawnzone> <!-- Giant Fungus -->
+	<spawnzone name="sea_of_spores_zone_02">
+    		<spawn npcId="20556" locX="61093" locY="26108" locZ="-3840" heading="21051" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20556" locX="59924" locY="27065" locZ="-4152" heading="60063" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20556" locX="62294" locY="23651" locZ="-3816" heading="35693" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20556" locX="62754" locY="24937" locZ="-3792" heading="176" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20556" locX="62119" locY="26462" locZ="-3744" heading="42641" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20556" locX="61345" locY="28504" locZ="-3688" heading="30569" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20556" locX="61099" locY="21418" locZ="-4296" heading="51195" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20556" locX="60332" locY="22353" locZ="-3944" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20556" locX="61840" locY="21422" locZ="-3888" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20556" locX="61988" locY="20477" locZ="-3840" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20556" locX="62580" locY="19721" locZ="-3808" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20556" locX="58904" locY="20403" locZ="-5056" heading="43871" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20556" locX="58406" locY="18286" locZ="-4840" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20556" locX="58890" locY="18042" locZ="-4720" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20556" locX="59108" locY="21378" locZ="-5072" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20556" locX="60342" locY="16700" locZ="-4176" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20556" locX="60584" locY="17920" locZ="-4280" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20556" locX="60955" locY="16131" locZ="-3824" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20556" locX="61240" locY="14517" locZ="-3664" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20556" locX="59366" locY="13472" locZ="-4128" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20556" locX="59776" locY="12884" locZ="-3936" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20556" locX="59776" locY="11120" locZ="-3744" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20556" locX="60256" locY="10402" locZ="-3640" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20556" locX="61894" locY="10402" locZ="-3608" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20556" locX="61894" locY="11788" locZ="-3648" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20556" locX="64300" locY="16352" locZ="-3544" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20556" locX="63808" locY="15968" locZ="-3496" heading="3620" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20556" locX="62622" locY="10204" locZ="-3560" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20556" locX="56906" locY="10924" locZ="-4928" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20556" locX="56192" locY="24771" locZ="-5288" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20556" locX="58941" locY="26247" locZ="-4584" heading="19054" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20556" locX="57542" locY="25826" locZ="-5032" heading="13862" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20556" locX="57102" locY="28619" locZ="-4696" heading="23602" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20556" locX="58708" locY="30149" locZ="-3776" heading="46610" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20556" locX="56964" locY="28431" locZ="-4848" heading="19973" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20556" locX="57192" locY="31024" locZ="-3736" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20556" locX="54862" locY="24455" locZ="-5368" heading="13597" respawnDelay="27" periodOfDay="0" />
+	</spawnzone> <!-- Giant Monstereye -->
+	<spawnzone name="sea_of_spores_zone_03">
+    		<spawn npcId="20557" locX="60964" locY="22451" locZ="-4240" heading="55417" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20557" locX="60987" locY="26861" locZ="-3816" heading="49559" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20557" locX="62529" locY="25528" locZ="-3760" heading="24033" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20557" locX="62058" locY="27564" locZ="-3744" heading="21265" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20557" locX="61997" locY="27076" locZ="-3752" heading="46014" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20557" locX="61988" locY="21611" locZ="-3824" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20557" locX="61840" locY="20099" locZ="-3912" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20557" locX="59616" locY="17798" locZ="-4536" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20557" locX="57438" locY="17310" locZ="-5296" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20557" locX="58164" locY="18408" locZ="-4896" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20557" locX="58700" locY="20988" locZ="-5160" heading="26258" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20557" locX="59090" locY="21531" locZ="-5088" heading="45326" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20557" locX="61050" locY="16669" locZ="-3880" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20557" locX="61240" locY="17476" locZ="-3960" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20557" locX="60480" locY="14786" locZ="-3832" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20557" locX="59161" locY="13276" locZ="-4240" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20557" locX="60391" locY="13276" locZ="-3776" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20557" locX="60620" locY="12382" locZ="-3736" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20557" locX="60620" locY="12580" locZ="-3728" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20557" locX="58956" locY="11904" locZ="-4128" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20557" locX="58956" locY="11316" locZ="-4008" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20557" locX="60438" locY="10600" locZ="-3640" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20557" locX="61348" locY="9808" locZ="-3608" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20557" locX="56712" locY="17920" locZ="-5488" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20557" locX="58829" locY="22727" locZ="-4968" heading="61551" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20557" locX="59157" locY="26674" locZ="-4504" heading="12251" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20557" locX="58917" locY="25644" locZ="-4608" heading="47730" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20557" locX="57982" locY="30306" locZ="-3808" heading="7928" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20557" locX="61013" locY="29251" locZ="-3712" heading="31817" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20557" locX="55642" locY="28716" locZ="-5096" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20557" locX="56491" locY="30549" locZ="-3744" heading="271" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20557" locX="54462" locY="27977" locZ="-5280" heading="44136" respawnDelay="27" periodOfDay="0" />
+	</spawnzone> <!-- Dire Wyrm -->
+	<spawnzone name="sea_of_spores_zone_04">
+    		<spawn npcId="20558" locX="59765" locY="27069" locZ="-4192" heading="61359" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20558" locX="60200" locY="21227" locZ="-4688" heading="42731" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20558" locX="61148" locY="22158" locZ="-4200" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20558" locX="60740" locY="21963" locZ="-4432" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20558" locX="58904" locY="20013" locZ="-4976" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20558" locX="57680" locY="16822" locZ="-5072" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20558" locX="57561" locY="20412" locZ="-5288" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20558" locX="58115" locY="20261" locZ="-5224" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20558" locX="58675" locY="21682" locZ="-5184" heading="35075" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20558" locX="59616" locY="17676" locZ="-4544" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20558" locX="59616" locY="17310" locZ="-4144" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20558" locX="58546" locY="11120" locZ="-4128" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20558" locX="58546" locY="10924" locZ="-4096" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20558" locX="58956" locY="10336" locZ="-3728" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20558" locX="56442" locY="12881" locZ="-5336" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20558" locX="55506" locY="13430" locZ="-5552" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20558" locX="56910" locY="13064" locZ="-5176" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20558" locX="55506" locY="14345" locZ="-5616" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20558" locX="55014" locY="18143" locZ="-5480" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20558" locX="53326" locY="18260" locZ="-5360" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20558" locX="56069" locY="17441" locZ="-5512" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20558" locX="56954" locY="18530" locZ="-5264" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20558" locX="55379" locY="22135" locZ="-5440" heading="173" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20558" locX="54953" locY="20472" locZ="-5496" heading="61087" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20558" locX="55813" locY="20666" locZ="-5448" heading="40626" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20558" locX="57324" locY="20449" locZ="-5304" heading="52672" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20558" locX="56192" locY="24372" locZ="-5280" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20558" locX="56192" locY="24638" locZ="-5304" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20558" locX="59081" locY="26110" locZ="-4536" heading="56002" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20558" locX="57793" locY="25843" locZ="-4952" heading="44240" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20558" locX="56994" locY="28731" locZ="-4680" heading="29900" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20558" locX="53516" locY="27216" locZ="-5256" heading="10419" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20558" locX="54060" locY="26859" locZ="-5184" heading="56244" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20558" locX="52876" locY="24328" locZ="-5312" heading="41928" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20558" locX="52903" locY="26712" locZ="-5184" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20558" locX="53936" locY="24335" locZ="-5352" heading="58411" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20558" locX="52904" locY="16973" locZ="-5472" heading="57139" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20558" locX="45452" locY="24792" locZ="-4888" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20558" locX="43732" locY="24428" locZ="-4704" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20558" locX="44807" locY="24428" locZ="-4984" heading="0" respawnDelay="27" periodOfDay="0" />
+	</spawnzone> <!-- Rotting tree -->
+	<spawnzone name="sea_of_spores_zone_05">
+    		<spawn npcId="20559" locX="57838" locY="22526" locZ="-5232" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20559" locX="57378" locY="13613" locZ="-5016" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20559" locX="56208" locY="11234" locZ="-5248" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20559" locX="57144" locY="13064" locZ="-5104" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20559" locX="54804" locY="14162" locZ="-5792" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20559" locX="53537" locY="17909" locZ="-5440" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20559" locX="54592" locY="18377" locZ="-5400" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20559" locX="55647" locY="18377" locZ="-5480" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20559" locX="54287" locY="21725" locZ="-5512" heading="8044" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20559" locX="55279" locY="20646" locZ="-5504" heading="728" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20559" locX="55405" locY="20877" locZ="-5528" heading="25600" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20559" locX="56184" locY="24423" locZ="-5288" heading="13290" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20559" locX="56445" locY="25533" locZ="-5224" heading="63451" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20559" locX="53959" locY="27718" locZ="-5272" heading="37117" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20559" locX="51973" locY="23297" locZ="-5488" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20559" locX="52041" locY="26363" locZ="-5088" heading="60515" respawnDelay="27" periodOfDay="0" />
+	</spawnzone> <!-- Rotting Golem -->
+	<spawnzone name="sea_of_spores_zone_06">
+    		<spawn npcId="20560" locX="54502" locY="14015" locZ="-5848" heading="39430" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20560" locX="52810" locY="26430" locZ="-5096" heading="62821" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20560" locX="50872" locY="20812" locZ="-5384" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20560" locX="50884" locY="22855" locZ="-5536" heading="34152" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20560" locX="52932" locY="20105" locZ="-5432" heading="26317" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20560" locX="51048" locY="16792" locZ="-5384" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20560" locX="51998" locY="16612" locZ="-5368" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20560" locX="51874" locY="14426" locZ="-5600" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20560" locX="52750" locY="13467" locZ="-5592" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20560" locX="47340" locY="23948" locZ="-5032" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20560" locX="47652" locY="23304" locZ="-4992" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20560" locX="45237" locY="24246" locZ="-5096" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20560" locX="45452" locY="25338" locZ="-4744" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20560" locX="44807" locY="25338" locZ="-4784" heading="0" respawnDelay="27" periodOfDay="0" />
+	</spawnzone> <!-- Trisalim Spider -->
+	<spawnzone name="sea_of_spores_zone_07">
+    		<spawn npcId="20561" locX="58115" locY="20865" locZ="-5216" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20561" locX="57796" locY="22098" locZ="-5304" heading="45797" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20561" locX="57378" locY="13796" locZ="-5008" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20561" locX="56208" locY="13064" locZ="-5448" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20561" locX="55506" locY="13979" locZ="-5680" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20561" locX="54721" locY="14289" locZ="-5776" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20561" locX="55272" locY="12881" locZ="-5704" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20561" locX="53959" locY="17792" locZ="-5456" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20561" locX="54190" locY="21365" locZ="-5544" heading="58999" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20561" locX="55307" locY="20971" locZ="-5536" heading="30499" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20561" locX="56652" locY="21196" locZ="-5432" heading="47495" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20561" locX="56020" locY="25303" locZ="-5296" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20561" locX="55848" locY="25702" locZ="-5200" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20561" locX="51792" locY="23922" locZ="-5384" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20561" locX="53964" locY="23547" locZ="-5360" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20561" locX="49561" locY="22430" locZ="-5496" heading="41556" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20561" locX="50246" locY="22918" locZ="-5520" heading="61267" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20561" locX="52704" locY="21081" locZ="-5496" heading="60370" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20561" locX="50048" locY="20206" locZ="-5408" heading="54561" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20561" locX="50288" locY="17692" locZ="-5352" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20561" locX="52482" locY="17324" locZ="-5480" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20561" locX="52482" locY="17558" locZ="-5464" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20561" locX="51808" locY="16612" locZ="-5376" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20561" locX="50779" locY="14837" locZ="-5408" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20561" locX="51436" locY="14152" locZ="-5480" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20561" locX="47340" locY="23143" locZ="-5016" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20561" locX="48828" locY="24573" locZ="-4728" heading="32451" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20561" locX="46742" locY="23882" locZ="-5112" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20561" locX="45237" locY="25156" locZ="-4784" heading="0" respawnDelay="27" periodOfDay="0" />
+	</spawnzone> <!-- Trisalim Tarantula -->
+	<spawnzone name="sea_of_spores_zone_08">
+    		<spawn npcId="20562" locX="54283" locY="13604" locZ="-5856" heading="59845" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20562" locX="54064" locY="13467" locZ="-5832" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20562" locX="53407" locY="14974" locZ="-5616" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20562" locX="51237" locY="22762" locZ="-5512" heading="41626" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20562" locX="51031" locY="23615" locZ="-5464" heading="63603" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20562" locX="49317" locY="25237" locZ="-4688" heading="52312" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20562" locX="49850" locY="25520" locZ="-4704" heading="58994" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20562" locX="50460" locY="20105" locZ="-5392" heading="52359" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20562" locX="50872" locY="20004" locZ="-5376" heading="16170" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20562" locX="51078" locY="19802" locZ="-5336" heading="15264" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20562" locX="49718" locY="17062" locZ="-5312" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20562" locX="51998" locY="16522" locZ="-5368" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20562" locX="51998" locY="17332" locZ="-5488" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20562" locX="46097" locY="22608" locZ="-5160" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20562" locX="45022" locY="23882" locZ="-5160" heading="0" respawnDelay="27" periodOfDay="0" />
+    		<spawn npcId="20562" locX="45022" locY="25338" locZ="-4776" heading="0" respawnDelay="27" periodOfDay="0" />
+	</spawnzone> <!-- Spore Zombie -->
+	<spawnzone name="sea_of_spores_zone_09">
+    		<spawn npcId="27166" locX="63707" locY="31164" locZ="-3736" heading="0" respawnDelay="180" periodOfDay="0" />
+	</spawnzone> <!-- Abyssal Jewel 2 -->
+	<spawnzone name="sea_of_spores_zone_10">
+    		<spawn npcId="29015" locX="43531" locY="17094" locZ="-4392" heading="3019" respawnDelay="360" periodOfDay="0" />
+    		<spawn npcId="29015" locX="43199" locY="17004" locZ="-4392" heading="31405" respawnDelay="360" periodOfDay="0" />
+    		<spawn npcId="29015" locX="43341" locY="16527" locZ="-4392" heading="54879" respawnDelay="360" periodOfDay="0" />
+    		<spawn npcId="29015" locX="43255" locY="17641" locZ="-4392" heading="36796" respawnDelay="360" periodOfDay="0" />
+    		<spawn npcId="29015" locX="43090" locY="16054" locZ="-4392" heading="43570" respawnDelay="360" periodOfDay="0" />
+	</spawnzone> <!-- Richard -->
+	<spawnzone name="sea_of_spores_zone_11">
+    		<spawn npcId="29017" locX="43343" locY="18890" locZ="-4320" heading="33871" respawnDelay="360" periodOfDay="0" />
+    		<spawn npcId="29017" locX="44683" locY="16938" locZ="-4392" heading="20274" respawnDelay="360" periodOfDay="0" />
+    		<spawn npcId="29017" locX="45087" locY="16644" locZ="-4392" heading="27508" respawnDelay="360" periodOfDay="0" />
+    		<spawn npcId="29017" locX="44004" locY="17969" locZ="-4392" heading="2888" respawnDelay="360" periodOfDay="0" />
+    		<spawn npcId="29017" locX="43612" locY="17300" locZ="-4392" heading="45502" respawnDelay="360" periodOfDay="0" />
+    		<spawn npcId="29017" locX="45216" locY="16508" locZ="-4368" heading="31287" respawnDelay="360" periodOfDay="0" />
+	</spawnzone> <!-- Riba -->
+	<spawnzone name="sea_of_spores_zone_12">
+    		<spawn npcId="29018" locX="43602" locY="16055" locZ="-4392" heading="51150" respawnDelay="360" periodOfDay="0" />
+    		<spawn npcId="29018" locX="44681" locY="18047" locZ="-4392" heading="12257" respawnDelay="360" periodOfDay="0" />
+	</spawnzone> <!-- Riba Iren -->
+	<spawnzone name="sea_of_spores_zone_13">
+    		<spawn npcId="31845" locX="35396" locY="13532" locZ="-3440" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31845" locX="37440" locY="8438" locZ="-3232" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Bloody Pixy -->
+</list>

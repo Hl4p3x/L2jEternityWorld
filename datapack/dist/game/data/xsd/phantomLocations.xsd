@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="list">
+		<xs:complexType>
+			<xs:sequence minOccurs="1" maxOccurs="1">
+				<xs:element name="location" minOccurs="0" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:attribute name="locX" type="xs:integer" use="required" />
+						<xs:attribute name="locY" type="xs:integer" use="required" />
+						<xs:attribute name="locZ" type="xs:integer" use="required" />
+						<xs:attribute name="grade" type="xs:integer" />
+						<xs:attribute name="town">
+							<xs:simpleType>
+								<xs:restriction base="xs:token">
+									<xs:enumeration value="Talking Island" />
+									<xs:enumeration value="Dark Elven Village" />
+									<xs:enumeration value="Elven Village" />
+									<xs:enumeration value="Orc Village" />
+									<xs:enumeration value="Kamael Village" />
+									<xs:enumeration value="Dwarven Village" />
+									<xs:enumeration value="Gludin" />
+									<xs:enumeration value="Gludio" />
+									<xs:enumeration value="Dion" />
+									<xs:enumeration value="Giran" />
+									<xs:enumeration value="Oren" />
+									<xs:enumeration value="Heine" />
+									<xs:enumeration value="Hunters Village" />
+									<xs:enumeration value="Aden" />
+									<xs:enumeration value="Goddard" />
+									<xs:enumeration value="Rune" />
+									<xs:enumeration value="Schuttgart" />
+								</xs:restriction>
+							</xs:simpleType>
+						</xs:attribute>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

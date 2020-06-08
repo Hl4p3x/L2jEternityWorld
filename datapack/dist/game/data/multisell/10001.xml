@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+  	<!-- Mithril Breastplate -->
+  	<item>
+    		<ingredient id="57" count="1500000"/>
+    		<production id="58" count="1"/>
+    		<production id="59" count="1"/>
+    		<production id="47" count="1"/>
+    		<production id="628" count="1"/>
+  	</item>
+  	<!-- Brigandine Tunic -->
+  	<item>
+    		<ingredient id="57" count="1500000"/>
+    		<production id="352" count="1"/>
+    		<production id="2378" count="1"/>
+    		<production id="2411" count="1"/>
+    		<production id="2425" count="1"/>
+    		<production id="2449" count="1"/>
+    		<production id="2493" count="1"/>
+  	</item>
+  	<!-- Reinforced Leather Shirt -->
+  	<item>
+    		<ingredient id="57" count="1500000"/>
+    		<production id="394" count="1"/>
+    		<production id="416" count="1"/>
+    		<production id="2422" count="1"/>
+    		<production id="2446" count="1"/>
+  	</item>
+  	<!-- Manticore Skin Shirt -->
+  	<item>
+    		<ingredient id="57" count="1500000"/>
+    		<production id="395" count="1"/>
+    		<production id="417" count="1"/>
+    		<production id="2424" count="1"/>
+    		<production id="2448" count="1"/>
+  	</item>
+  	<!-- Tunic of Knowledge -->
+  	<item>
+    		<ingredient id="57" count="1500000"/>
+    		<production id="436" count="1"/>
+    		<production id="469" count="1"/>
+    		<production id="2447" count="1"/>
+  	</item>
+  	<!-- Mithril Tunic -->
+  	<item>
+    		<ingredient id="57" count="1500000"/>
+    		<production id="437" count="1"/>
+    		<production id="470" count="1"/>
+    		<production id="2450" count="1"/>
+  	</item>
+</list>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawns.xsd">
+	<spawnzone name="talking_island_zone_01">
+    		<spawn npcId="20016" locX="-102066" locY="228127" locZ="-3656" heading="59667" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20016" locX="-103105" locY="228033" locZ="-3704" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20016" locX="-106583" locY="227737" locZ="-3528" heading="64720" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20016" locX="-105811" locY="224546" locZ="-3640" heading="22901" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20016" locX="-103780" locY="223010" locZ="-3440" heading="15551" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20016" locX="-104030" locY="223096" locZ="-3440" heading="53806" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20016" locX="-102101" locY="225451" locZ="-3680" heading="49701" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20016" locX="-101723" locY="225419" locZ="-3664" heading="1364" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20016" locX="-104281" locY="217588" locZ="-3120" heading="44686" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20016" locX="-101319" locY="214963" locZ="-3232" heading="6132" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20016" locX="-101287" locY="215181" locZ="-3240" heading="1436" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20016" locX="-101944" locY="215858" locZ="-3296" heading="59516" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20016" locX="-100125" locY="215119" locZ="-3304" heading="44363" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20016" locX="-102866" locY="213581" locZ="-3144" heading="37697" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20016" locX="-101817" locY="214338" locZ="-3200" heading="29807" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20016" locX="-99554" locY="214608" locZ="-3208" heading="41906" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20016" locX="-105014" locY="216576" locZ="-3232" heading="5158" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20016" locX="-106292" locY="215626" locZ="-3280" heading="17952" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20016" locX="-104464" locY="216630" locZ="-3256" heading="9260" respawnDelay="20" periodOfDay="0" />
+	</spawnzone> <!-- Stone Golem -->
+	<spawnzone name="talking_island_zone_02">
+    		<spawn npcId="20098" locX="-107208" locY="226403" locZ="-3632" heading="59099" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20098" locX="-107521" locY="225689" locZ="-3600" heading="65257" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20098" locX="-106830" locY="225485" locZ="-3632" heading="39576" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20098" locX="-106045" locY="226005" locZ="-3672" heading="23123" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20098" locX="-106638" locY="224823" locZ="-3616" heading="24577" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20098" locX="-106706" locY="224191" locZ="-3608" heading="19388" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20098" locX="-105805" locY="223055" locZ="-3632" heading="32555" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20098" locX="-105731" locY="222999" locZ="-3616" heading="10289" respawnDelay="20" periodOfDay="0" />
+	</spawnzone> <!-- Orc Fighter Leader -->
+	<spawnzone name="talking_island_zone_03">
+    		<spawn npcId="20101" locX="-103846" locY="227388" locZ="-3656" heading="41828" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20101" locX="-103943" locY="226455" locZ="-3632" heading="20223" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20101" locX="-106519" locY="225089" locZ="-3632" heading="49766" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20101" locX="-105606" locY="224597" locZ="-3640" heading="38902" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20101" locX="-106024" locY="223607" locZ="-3648" heading="32350" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20101" locX="-104396" locY="217614" locZ="-3112" heading="11854" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20101" locX="-103438" locY="217055" locZ="-3312" heading="43586" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20101" locX="-99576" locY="215146" locZ="-3312" heading="34583" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20101" locX="-102666" locY="214500" locZ="-3232" heading="46672" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20101" locX="-100921" locY="213376" locZ="-3088" heading="22660" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20101" locX="-101963" locY="214415" locZ="-3208" heading="54534" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20101" locX="-99560" locY="215158" locZ="-3312" heading="25751" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20101" locX="-107092" locY="215430" locZ="-3312" heading="43095" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20101" locX="-107755" locY="216192" locZ="-3264" heading="1019" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20101" locX="-108474" locY="216079" locZ="-3264" heading="29147" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20101" locX="-104522" locY="217424" locZ="-3152" heading="22144" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20101" locX="-109074" locY="215442" locZ="-3248" heading="41840" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20101" locX="-111753" locY="216421" locZ="-3168" heading="13678" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20101" locX="-110720" locY="217937" locZ="-2968" heading="37512" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20101" locX="-110309" locY="218116" locZ="-2960" heading="40995" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20101" locX="-113902" locY="218976" locZ="-3152" heading="2258" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20101" locX="-113275" locY="217777" locZ="-3096" heading="34747" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20101" locX="-114445" locY="220017" locZ="-3088" heading="41540" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20101" locX="-114948" locY="219858" locZ="-3112" heading="41253" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20101" locX="-116004" locY="227238" locZ="-2784" heading="3918" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20101" locX="-117491" locY="227411" locZ="-2896" heading="45362" respawnDelay="20" periodOfDay="0" />
+	</spawnzone> <!-- Crasher -->
+	<spawnzone name="talking_island_zone_04">
+    		<spawn npcId="20103" locX="-105974" locY="223945" locZ="-3640" heading="56231" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20103" locX="-107333" locY="215560" locZ="-3288" heading="32864" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20103" locX="-106858" locY="216014" locZ="-3248" heading="29216" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20103" locX="-108435" locY="216537" locZ="-3280" heading="36897" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20103" locX="-111735" locY="216856" locZ="-3120" heading="14999" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20103" locX="-110668" locY="216771" locZ="-3168" heading="27529" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20103" locX="-112311" locY="217457" locZ="-3096" heading="41203" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20103" locX="-110330" locY="217886" locZ="-2960" heading="52170" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20103" locX="-114465" locY="218575" locZ="-3080" heading="37485" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20103" locX="-113732" locY="219619" locZ="-3072" heading="16515" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20103" locX="-116273" locY="220777" locZ="-3064" heading="53892" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20103" locX="-116902" locY="222917" locZ="-3048" heading="9979" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20103" locX="-115277" locY="224513" locZ="-2800" heading="46156" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20103" locX="-115782" locY="223855" locZ="-2880" heading="27013" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20103" locX="-115989" locY="223263" locZ="-2928" heading="4522" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20103" locX="-117753" locY="227151" locZ="-2880" heading="6224" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20103" locX="-117251" locY="228960" locZ="-2864" heading="62697" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20103" locX="-118138" locY="228308" locZ="-2864" heading="19050" respawnDelay="20" periodOfDay="0" />
+	</spawnzone> <!-- Giant Spider -->
+	<spawnzone name="talking_island_zone_05">
+    		<spawn npcId="20106" locX="-117015" locY="221616" locZ="-3040" heading="11952" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20106" locX="-116157" locY="224472" locZ="-2920" heading="16383" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20106" locX="-116002" locY="225103" locZ="-2856" heading="56507" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20106" locX="-115969" locY="226580" locZ="-2784" heading="51046" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20106" locX="-115598" locY="226140" locZ="-2728" heading="54400" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20106" locX="-118256" locY="227618" locZ="-2840" heading="36501" respawnDelay="20" periodOfDay="0" />
+	</spawnzone> <!-- Talon Spider -->
+	<spawnzone name="talking_island_zone_06">
+    		<spawn npcId="20342" locX="-106640" locY="227270" locZ="-3616" heading="44444" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20342" locX="-106542" locY="226783" locZ="-3648" heading="7610" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20342" locX="-106553" locY="226876" locZ="-3640" heading="12002" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20342" locX="-106853" locY="227383" locZ="-3624" heading="38349" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20342" locX="-107013" locY="224543" locZ="-3600" heading="62710" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20342" locX="-105625" locY="223215" locZ="-3608" heading="945" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20342" locX="-105100" locY="223132" locZ="-3576" heading="54984" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20342" locX="-105262" locY="223088" locZ="-3568" heading="43130" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20342" locX="-104624" locY="221418" locZ="-3432" heading="23744" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20342" locX="-103390" locY="222032" locZ="-3440" heading="16431" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20342" locX="-103509" locY="222211" locZ="-3440" heading="48490" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20342" locX="-103394" locY="222397" locZ="-3416" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20342" locX="-101573" locY="222478" locZ="-3312" heading="5625" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20342" locX="-100956" locY="223683" locZ="-3440" heading="58548" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20342" locX="-100198" locY="224119" locZ="-3440" heading="53289" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20342" locX="-100888" locY="223201" locZ="-3400" heading="1660" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20342" locX="-102003" locY="224148" locZ="-3608" heading="30027" respawnDelay="20" periodOfDay="0" />
+	</spawnzone> <!-- Werewolf Chieftain -->
+	<spawnloc name="talking_island_loc_01">
+    		<spawn npcId="30405" locX="-115080" locY="222168" locZ="-2928" heading="42000" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30407" locX="-104240" locY="222064" locZ="-3440" heading="16384" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30497" locX="-114685" locY="222291" locZ="-2928" heading="44000" respawnDelay="60" periodOfDay="0" />
+	</spawnloc>
+	<spawnloc name="talking_island_loc_02">
+    		<spawn npcId="31032" locX="-107079" locY="222548" locZ="-3504" heading="60658" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31032" locX="-108073" locY="223050" locZ="-3320" heading="65252" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31032" locX="-103715" locY="219240" locZ="-2872" heading="19724" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31032" locX="-104900" locY="218224" locZ="-2960" heading="62614" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31032" locX="-113552" locY="220493" locZ="-2912" heading="22404" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31032" locX="-114731" locY="221050" locZ="-2944" heading="51830" respawnDelay="60" periodOfDay="0" />
+	</spawnloc> <!-- Guards -->
+</list>

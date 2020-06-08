@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawns.xsd">
+	<spawnzone name="tully_workshop_roof_zone_01">
+    		<spawn npcId="25614" locX="21852" locY="243974" locZ="11087" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="25614" locX="21725" locY="243948" locZ="11087" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="25614" locX="21654" locY="243363" locZ="11087" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="25614" locX="22088" locY="244692" locZ="11087" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="25614" locX="23047" locY="244080" locZ="11087" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Floating Ghost -->
+	<spawnzone name="tully_workshop_roof_zone_02">
+    		<spawn npcId="25615" locX="21282" locY="243458" locZ="11087" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="25615" locX="21336" locY="243891" locZ="11087" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="25615" locX="22421" locY="244233" locZ="11087" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="25615" locX="22731" locY="243916" locZ="11087" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="25615" locX="21019" locY="243359" locZ="11087" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Floating Ghost -->
+	<spawnloc name="tully_workshop_roof_loc_01">
+    		<spawn npcId="32468" locX="20728" locY="244007" locZ="11088" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnloc>
+</list>

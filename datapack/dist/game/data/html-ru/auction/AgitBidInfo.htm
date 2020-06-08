@@ -1,0 +1,45 @@
+﻿<html><body>
+<center>Информация о кланах учавствующих в аукционе</center>
+<img src="L2UI.SquareWhite" width=270 height=1> <img src="L2UI.SquareBlank" width=1 height=3>
+<table width=280 border=0>
+<tr><td width=14><font color="a2a0a2">Название Холла Клана</font></td>
+<td width=140><font color="b09979">%AGIT_NAME%</font></td></tr>
+<tr><td><font color="a2a0a2">Клан владелец</font></td>
+<td><font color="b09979">%OWNER_PLEDGE_NAME%</font></td></tr>
+<tr><td><font color="a2a0a2">Лидер клана</font></td>
+<td><font color="b09979">%OWNER_PLEDGE_MASTER%</font></td></tr>
+<tr><td><font color="a2a0a2">Размер Холла Клана</font></td>
+<td><font color="b09979">%AGIT_SIZE% рейтинг</font> (уровень)</td></tr>
+<tr><td><font color="a2a0a2">Арендная плата</font></td>
+<td><font color="b09979">%AGIT_LEASE%</font> аден<font color="LEVEL">/в неделю</font></td></tr>
+<tr><td><font color="a2a0a2">Расположение Холла Клана</font></td>
+<td>%AGIT_LOCATION%</td></tr>
+</table>
+<img src="L2UI.SquareGray" width=270 height=1> <img src="L2UI.SquareBlank" width=1 height=3>
+<table width=280 border=0>
+<tr><td width=140><font color="a2a0a2">Время проведения аукциона</font></td>
+<td width=140><font color="b09979">%AGIT_AUCTION_END%</font></td></tr>
+<tr><td><font color="a2a0a2">Осталось времени</font></td>
+<td><font color="b09979">%AGIT_AUCTION_REMAIN%</font></td></tr>
+<tr><td><font color="a2a0a2">Минимальная сумма ставки</font></td>
+<td><font color="b09979">%AGIT_AUCTION_MINBID%</font> аден</td></tr>
+<tr><td><font color="ccc0cc">Сумма ставки</font></td>
+<td><font color="aaccff">%AGIT_AUCTION_MYBID%</font> аден</td></tr>
+</table>
+<table width=280 border=0 bgcolor=333333>
+<tr><td width=280>%AGIT_AUCTION_DESC%</td></tr>
+</table>
+<img src="L2UI.SquareBlank" width=270 height=10> <img src="L2UI.SquareWhite" width=270 height=1> <img src="L2UI.SquareBlank" width=270 height=5>
+<table width=270 border=0>
+<tr>
+<td width=110></td>
+<td width=80 align=center><button action="bypass -h npc_%objectId%_cancelBid" value="Отменить" width=80 height=27 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+<td width=80 align=center><button action="bypass -h npc_%objectId%_bidlist" value="Все ставки" width=80 height=27 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+</tr>
+<tr>
+<td width=110></td>
+<td width=80 align=center><button action="%AGIT_LINK_BACK%" value="Назад" width=80 height=27 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+<td width=80 align=center><button action="bypass -h npc_%objectId%_rebid" value="Новая ставка" width=80 height=27 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+</tr>
+</table>
+</body></html>

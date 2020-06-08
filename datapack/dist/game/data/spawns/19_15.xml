@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawns.xsd">
+	<spawnzone name="orc_village_zone_32">
+    		<spawn npcId="20143" locX="-24432" locY="-97332" locZ="-2488" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20143" locX="-25072" locY="-97160" locZ="-2576" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20143" locX="-25392" locY="-96816" locZ="-2672" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20143" locX="-26732" locY="-94814" locZ="-2792" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20143" locX="-27678" locY="-95048" locZ="-2840" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20143" locX="-27678" locY="-93878" locZ="-2824" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20143" locX="-5579" locY="-94358" locZ="-2392" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20143" locX="-5030" locY="-94358" locZ="-2272" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20143" locX="-5762" locY="-94358" locZ="-2440" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20143" locX="-5396" locY="-94513" locZ="-2376" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20143" locX="-5762" locY="-93428" locZ="-2416" heading="47196" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20143" locX="-5579" locY="-93583" locZ="-2360" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20143" locX="-7409" locY="-94048" locZ="-2624" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20143" locX="-7409" locY="-94203" locZ="-2624" heading="1496" respawnDelay="21" periodOfDay="0" />
+	</spawnzone> <!-- Grizzly -->
+	<spawnzone name="orc_village_zone_33">
+    		<spawn npcId="20316" locX="-24112" locY="-97418" locZ="-2472" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20316" locX="-26352" locY="-97676" locZ="-2632" heading="43251" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20316" locX="-26672" locY="-96558" locZ="-2816" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20316" locX="-27592" locY="-95984" locZ="-2840" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20316" locX="-26646" locY="-94346" locZ="-2760" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20316" locX="-27420" locY="-94112" locZ="-2792" heading="22779" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20316" locX="-5213" locY="-94513" locZ="-2328" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20316" locX="-5762" locY="-95133" locZ="-2512" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20316" locX="-4847" locY="-94513" locZ="-2264" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20316" locX="-5762" locY="-93273" locZ="-2416" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20316" locX="-5945" locY="-93273" locZ="-2440" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20316" locX="-7043" locY="-94513" locZ="-2672" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20316" locX="-7226" locY="-94203" locZ="-2632" heading="40351" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20316" locX="-7043" locY="-93738" locZ="-2600" heading="0" respawnDelay="21" periodOfDay="0" />
+	</spawnzone> <!-- Darkwing Bat -->
+	<spawnzone name="orc_village_zone_34">
+    		<spawn npcId="20320" locX="-26904" locY="-94580" locZ="-2792" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20320" locX="-27764" locY="-95048" locZ="-2840" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20320" locX="-27764" locY="-93176" locZ="-2808" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20320" locX="-5213" locY="-94358" locZ="-2320" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20320" locX="-5396" locY="-94358" locZ="-2360" heading="52284" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20320" locX="-5579" locY="-93893" locZ="-2360" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20320" locX="-5030" locY="-92963" locZ="-2288" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20320" locX="-5945" locY="-93583" locZ="-2424" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20320" locX="-5213" locY="-94048" locZ="-2296" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20320" locX="-6677" locY="-94823" locZ="-2664" heading="0" respawnDelay="21" periodOfDay="0" />
+	</spawnzone> <!-- Goblin Tomb Raider Leader -->
+	<spawnzone name="orc_village_zone_35">
+    		<spawn npcId="20333" locX="-23744" locY="-94845" locZ="-3520" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20333" locX="-21594" locY="-92155" locZ="-3648" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20333" locX="-21594" locY="-93500" locZ="-3672" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20333" locX="-23314" locY="-92424" locZ="-3688" heading="26178" respawnDelay="21" periodOfDay="0" />
+	</spawnzone> <!-- Greystone Golem -->
+	<spawnzone name="orc_village_zone_36">
+    		<spawn npcId="20364" locX="-23529" locY="-94576" locZ="-3472" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20364" locX="-23314" locY="-94576" locZ="-3464" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20364" locX="-24587" locY="-88200" locZ="-3336" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20364" locX="-25862" locY="-87408" locZ="-3432" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20364" locX="-25862" locY="-87144" locZ="-3416" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20364" locX="-26117" locY="-87672" locZ="-3400" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20364" locX="-25352" locY="-86880" locZ="-3632" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20364" locX="-22024" locY="-91348" locZ="-3552" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20364" locX="-22454" locY="-92693" locZ="-3680" heading="0" respawnDelay="21" periodOfDay="0" />
+	</spawnzone> <!-- Maraku Werewolf Chieftain -->
+	<spawnzone name="orc_village_zone_37">
+    		<spawn npcId="20426" locX="-23152" locY="-97762" locZ="-2440" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20426" locX="-24432" locY="-97246" locZ="-2504" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20426" locX="-27952" locY="-97934" locZ="-2768" heading="0" respawnDelay="21" periodOfDay="0" />
+	</spawnzone> <!-- Evil Eye -->
+	<spawnzone name="orc_village_zone_38">
+    		<spawn npcId="20428" locX="-23529" locY="-94845" locZ="-3488" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20428" locX="-27137" locY="-88728" locZ="-3272" heading="30010" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20428" locX="-26882" locY="-87936" locZ="-3256" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20428" locX="-26372" locY="-87672" locZ="-3360" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20428" locX="-26117" locY="-87936" locZ="-3400" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20428" locX="-22454" locY="-91886" locZ="-3648" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20428" locX="-22454" locY="-92424" locZ="-3688" heading="0" respawnDelay="21" periodOfDay="0" />
+	</spawnzone> <!-- Evil Eye Patroller -->
+	<spawnzone name="orc_village_zone_39">
+    		<spawn npcId="20476" locX="-26730" locY="-88880" locZ="-3232" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20476" locX="-26016" locY="-88040" locZ="-3408" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20476" locX="-26118" locY="-87620" locZ="-3400" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20476" locX="-19174" locY="-90645" locZ="-2552" heading="24807" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20476" locX="-13292" locY="-96672" locZ="-2088" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20476" locX="-13292" locY="-97047" locZ="-2520" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20476" locX="-18232" locY="-96422" locZ="-2584" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20476" locX="-17092" locY="-96172" locZ="-2312" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20476" locX="-22488" locY="-89050" locZ="-2856" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20476" locX="-21648" locY="-89665" locZ="-2784" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20476" locX="-20808" locY="-89665" locZ="-2592" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20476" locX="-23324" locY="-92558" locZ="-3696" heading="0" respawnDelay="21" periodOfDay="0" />
+	</spawnzone> <!-- Kasha Fang Spider -->
+	<spawnzone name="orc_village_zone_40">
+    		<spawn npcId="20478" locX="-14052" locY="-97547" locZ="-2376" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20478" locX="-14812" locY="-97172" locZ="-2224" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20478" locX="-14812" locY="-96422" locZ="-2200" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20478" locX="-15192" locY="-98047" locZ="-2200" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20478" locX="-17472" locY="-96797" locZ="-2416" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20478" locX="-22488" locY="-88025" locZ="-2768" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20478" locX="-22488" locY="-88435" locZ="-2816" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20478" locX="-21648" locY="-89665" locZ="-2784" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20478" locX="-20023" locY="-90918" locZ="-2576" heading="3257" respawnDelay="21" periodOfDay="0" />
+	</spawnzone> <!-- Kasha Blade Spider -->
+	<spawnzone name="orc_village_zone_41">
+    		<spawn npcId="20479" locX="-27392" locY="-90840" locZ="-2944" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20479" locX="-26117" locY="-90840" locZ="-2680" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20479" locX="-28157" locY="-88992" locZ="-3288" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20479" locX="-26627" locY="-87144" locZ="-3240" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20479" locX="-26372" locY="-86616" locZ="-3296" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20479" locX="-19152" locY="-90921" locZ="-2584" heading="41287" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20479" locX="-13292" locY="-96547" locZ="-2000" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20479" locX="-11392" locY="-97922" locZ="-2736" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20479" locX="-16332" locY="-97047" locZ="-2232" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20479" locX="-15572" locY="-96922" locZ="-2200" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20479" locX="-16712" locY="-97422" locZ="-2240" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20479" locX="-22208" locY="-88025" locZ="-2664" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20479" locX="-21928" locY="-89050" locZ="-2792" heading="0" respawnDelay="21" periodOfDay="0" />
+    		<spawn npcId="20479" locX="-23048" locY="-88845" locZ="-3000" heading="0" respawnDelay="21" periodOfDay="0" />
+	</spawnzone> <!-- Kasha Bear -->
+	<spawnzone name="orc_village_zone_42">
+    		<spawn npcId="21117" locX="-23539" locY="-80709" locZ="-3176" heading="36930" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21117" locX="-23282" locY="-80709" locZ="-3216" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21117" locX="-23308" locY="-78459" locZ="-2888" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21117" locX="-22228" locY="-78024" locZ="-2712" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21117" locX="-20924" locY="-76297" locZ="-2528" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21117" locX="-20674" locY="-76554" locZ="-2464" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21117" locX="-16562" locY="-77353" locZ="-3520" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21117" locX="-2953" locY="-77889" locZ="-2776" heading="62521" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21117" locX="-1336" locY="-77368" locZ="-2496" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21117" locX="-1389" locY="-78185" locZ="-2544" heading="43925" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21117" locX="-870" locY="-78831" locZ="-2632" heading="60489" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21117" locX="-5213" locY="-93583" locZ="-2296" heading="24614" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21117" locX="-5945" locY="-93893" locZ="-2424" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21117" locX="-10240" locY="-92845" locZ="-2552" heading="45974" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21117" locX="-7368" locY="-92794" locZ="-2560" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21117" locX="-7368" locY="-92448" locZ="-2544" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21117" locX="-6494" locY="-93893" locZ="-2528" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21117" locX="-11448" locY="-93486" locZ="-2728" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21117" locX="-7368" locY="-90718" locZ="-2280" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21117" locX="-9408" locY="-88642" locZ="-2256" heading="29244" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21117" locX="-10224" locY="-89680" locZ="-2296" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21117" locX="-9408" locY="-88988" locZ="-2288" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21117" locX="-12932" locY="-78087" locZ="-3400" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21117" locX="-14386" locY="-80690" locZ="-3400" heading="3917" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21117" locX="-15844" locY="-79766" locZ="-3400" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21117" locX="-16232" locY="-79555" locZ="-3440" heading="57582" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21117" locX="-17882" locY="-81023" locZ="-3544" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21117" locX="-17222" locY="-81390" locZ="-3600" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21117" locX="-17882" locY="-79922" locZ="-3536" heading="0" respawnDelay="20" periodOfDay="0" />
+	</spawnzone> <!-- Kasha Imp -->
+	<spawnzone name="orc_village_zone_43">
+    		<spawn npcId="21118" locX="-25081" locY="-81534" locZ="-3048" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21118" locX="-24053" locY="-81534" locZ="-3208" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21118" locX="-23796" locY="-79884" locZ="-2912" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21118" locX="-24388" locY="-79039" locZ="-2952" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21118" locX="-23524" locY="-78604" locZ="-2880" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21118" locX="-22444" locY="-79184" locZ="-2672" heading="39073" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21118" locX="-20924" locY="-77582" locZ="-2520" heading="32395" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21118" locX="-20674" locY="-76040" locZ="-2448" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21118" locX="-18674" locY="-76297" locZ="-2368" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21118" locX="-5030" locY="-94513" locZ="-2280" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21118" locX="-4664" locY="-92498" locZ="-2184" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21118" locX="-4847" locY="-94203" locZ="-2224" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21118" locX="-8876" locY="-92600" locZ="-2656" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21118" locX="-8592" locY="-92448" locZ="-2584" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21118" locX="-9000" locY="-92794" locZ="-2760" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21118" locX="-7842" locY="-92474" locZ="-2608" heading="36727" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21118" locX="-9408" locY="-92102" locZ="-2424" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21118" locX="-7886" locY="-90920" locZ="-2288" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21118" locX="-6960" locY="-92102" locZ="-2440" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21118" locX="-8592" locY="-88642" locZ="-2360" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21118" locX="-14252" locY="-81023" locZ="-3400" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21118" locX="-14912" locY="-79922" locZ="-3400" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21118" locX="-14912" locY="-81757" locZ="-3448" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21118" locX="-16232" locY="-79922" locZ="-3400" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21118" locX="-17552" locY="-81390" locZ="-3584" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21118" locX="-17222" locY="-81023" locZ="-3544" heading="0" respawnDelay="20" periodOfDay="0" />
+	</spawnzone> <!-- Baar Dre Vanul -->
+	<spawnzone name="orc_village_zone_44">
+    		<spawn npcId="21119" locX="-16595" locY="-71732" locZ="-1928" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21119" locX="-13755" locY="-74387" locZ="-2072" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21119" locX="-12690" locY="-73148" locZ="-2096" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21119" locX="-12006" locY="-75049" locZ="-2216" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21119" locX="-11005" locY="-74932" locZ="-2296" heading="49109" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21119" locX="-9678" locY="-76703" locZ="-2552" heading="56372" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21119" locX="-8954" locY="-77020" locZ="-2600" heading="35273" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21119" locX="-2004" locY="-77204" locZ="-2680" heading="38931" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21119" locX="-754" locY="-76694" locZ="-2224" heading="41942" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21119" locX="-595" locY="-77197" locZ="-2288" heading="51170" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21119" locX="-458" locY="-76917" locZ="-2216" heading="31658" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21119" locX="-2960" locY="-96450" locZ="-2464" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21119" locX="-1712" locY="-97476" locZ="-2512" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21119" locX="-464" locY="-96108" locZ="-2016" heading="27603" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21119" locX="-8634" locY="-87904" locZ="-2320" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21119" locX="-7275" locY="-86584" locZ="-2336" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21119" locX="-8181" locY="-87640" locZ="-2368" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21119" locX="-6039" locY="-88896" locZ="-2496" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21119" locX="-4474" locY="-87132" locZ="-2488" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21119" locX="-5916" locY="-87376" locZ="-2328" heading="0" respawnDelay="20" periodOfDay="0" />
+	</spawnzone> <!-- Hobgoblin -->
+	<spawnzone name="orc_village_zone_45">
+    		<spawn npcId="21120" locX="-13755" locY="-72617" locZ="-2080" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21120" locX="-13045" locY="-73679" locZ="-2088" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21120" locX="-13400" locY="-72971" locZ="-2096" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21120" locX="-12149" locY="-75166" locZ="-2224" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21120" locX="-10862" locY="-75166" locZ="-2328" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21120" locX="-8841" locY="-77032" locZ="-2600" heading="53953" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21120" locX="-8914" locY="-77038" locZ="-2600" heading="24156" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21120" locX="-2544" locY="-96450" locZ="-2408" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21120" locX="-3584" locY="-96621" locZ="-2576" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21120" locX="-3168" locY="-96963" locZ="-2600" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21120" locX="-1712" locY="-96621" locZ="-2384" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21120" locX="-7275" locY="-88168" locZ="-2408" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21120" locX="-5463" locY="-86320" locZ="-2344" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21120" locX="-5010" locY="-90016" locZ="-2336" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21120" locX="-5057" locY="-86822" locZ="-2328" heading="27681" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21120" locX="-5010" locY="-86848" locZ="-2328" heading="0" respawnDelay="20" periodOfDay="0" />
+	</spawnzone> <!-- Kasha Imp Turen -->
+	<spawnzone name="orc_village_zone_46">
+    		<spawn npcId="21121" locX="-15175" locY="-72440" locZ="-2064" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21121" locX="-15906" locY="-73150" locZ="-2016" heading="33966" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21121" locX="-14465" locY="-71378" locZ="-1944" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21121" locX="-11720" locY="-75517" locZ="-2264" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21121" locX="-11291" locY="-74230" locZ="-2240" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21121" locX="-8064" locY="-77062" locZ="-2712" heading="38687" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21121" locX="-7595" locY="-77063" locZ="-2712" heading="64361" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21121" locX="-672" locY="-96279" locZ="-2080" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21121" locX="-1920" locY="-97476" locZ="-2528" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21121" locX="-1088" locY="-96963" locZ="-2320" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21121" locX="-6822" locY="-86848" locZ="-2288" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21121" locX="-8181" locY="-87640" locZ="-2368" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21121" locX="-5010" locY="-89488" locZ="-2424" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="21121" locX="-5916" locY="-86848" locZ="-2280" heading="61781" respawnDelay="20" periodOfDay="0" />
+	</spawnzone> <!-- Kasha Dire Wolf -->
+	<spawnzone name="orc_village_zone_47">
+    		<spawn npcId="21257" locX="-6144" locY="-92448" locZ="-2392" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="21257" locX="-6677" locY="-94823" locZ="-2664" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="21257" locX="-8592" locY="-94178" locZ="-2944" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="21257" locX="-7368" locY="-93140" locZ="-2584" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="21257" locX="-11856" locY="-93486" locZ="-2728" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="21257" locX="-6552" locY="-91756" locZ="-2344" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="21257" locX="-8592" locY="-90026" locZ="-2328" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="21257" locX="-8592" locY="-89334" locZ="-2360" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="21257" locX="-14912" locY="-81390" locZ="-3400" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="21257" locX="-16892" locY="-81757" locZ="-3624" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="21257" locX="-24310" locY="-81369" locZ="-3120" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="21257" locX="-25595" locY="-81534" locZ="-3040" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="21257" locX="-25081" locY="-81699" locZ="-3096" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="21257" locX="-23092" locY="-78459" locZ="-2824" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="21257" locX="-20932" locY="-79184" locZ="-2576" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="21257" locX="-20924" locY="-77839" locZ="-2520" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="21257" locX="-21796" locY="-78459" locZ="-2584" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="21257" locX="-20174" locY="-76297" locZ="-2440" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="21257" locX="-17424" locY="-74498" locZ="-2072" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="21257" locX="-17882" locY="-78454" locZ="-3512" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="21257" locX="-16232" locY="-77353" locZ="-3520" heading="53577" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="21257" locX="-13922" locY="-78087" locZ="-3520" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="21257" locX="-2345" locY="-77627" locZ="-2760" heading="23792" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="21257" locX="-1738" locY="-76990" locZ="-2584" heading="19739" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="21257" locX="-1187" locY="-77031" locZ="-2440" heading="48039" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="21257" locX="-981" locY="-77277" locZ="-2384" heading="23314" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="21257" locX="-5396" locY="-94978" locZ="-2392" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Evil Eye Seer -->
+	<spawnzone name="orc_village_zone_48">
+    		<spawn npcId="27199" locX="-16732" locY="-79832" locZ="-3616" heading="0" respawnDelay="180" periodOfDay="0" />
+	</spawnzone> <!-- Crimson Werewolf -->
+	<spawnzone name="orc_village_loc_03">
+    		<spawn npcId="30669" locX="-9563" locY="-89959" locZ="-2320" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Kakan -->
+	<spawnloc name="orc_village_loc_04">
+    		<spawn npcId="31036" locX="-22184" locY="-94711" locZ="-3496" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31036" locX="-4780" locY="-88368" locZ="-2736" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31036" locX="-14792" locY="-80536" locZ="-3400" heading="16719" respawnDelay="60" periodOfDay="0" />
+	</spawnloc> <!-- Centurions -->
+</list>

@@ -1,0 +1,13 @@
+﻿<?xml version='1.0' encoding='utf-8'?><!-- Уникальное -->
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+<item><ingredient id="6673" count="10" /><production id="6403" count="1"/></item><!-- Простой Салют -->
+<item><ingredient id="6673" count="50" /><production id="6406" count="1"/></item><!-- Средний Салют -->
+<item><ingredient id="6673" count="100" /><production id="6407" count="1"/></item><!-- Полный Салют -->
+<item><ingredient id="4037" count="2" /><production id="10167" count="1"/></item><!-- Трансформ в Свинью -->
+<item><ingredient id="4037" count="2" /><production id="12800" count="1"/></item><!-- Трансформ в Тыкву Хэлуин -->
+<item><ingredient id="4037" count="2" /><production id="12814" count="1"/></item><!-- Трансформ в Телепортера -->
+<item><ingredient id="4037" count="5" /><production id="20910" count="1"/></item><!-- Суммон Леканг -->
+<item><ingredient id="4037" count="10" /><production id="20923" count="1"/></item><!-- Рапира Венеры -->
+<item><ingredient id="4037" count="10" /><production id="20924" count="1"/></item><!-- Критическая Сила Венеры -->
+<item><ingredient id="4037" count="10" /><production id="20925" count="1"/></item><!-- Неуязвимость Венеры -->
+</list>

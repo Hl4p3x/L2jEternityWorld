@@ -1,0 +1,40 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  	<xs:element name="events">
+    		<xs:complexType>
+			<xs:sequence>
+        			<xs:element name="event">
+          				<xs:complexType>
+            					<xs:choice maxOccurs="unbounded" minOccurs="0">
+              						<xs:element name="config" maxOccurs="unbounded" minOccurs="0">
+                						<xs:complexType>
+                  							<xs:simpleContent>
+                    								<xs:extension base="xs:string">
+                      									<xs:attribute type="xs:string" name="name" use="optional"/>
+                      									<xs:attribute type="xs:string" name="value" use="optional"/>
+                    								</xs:extension>
+                  							</xs:simpleContent>
+                						</xs:complexType>
+              						</xs:element>
+              						<xs:element name="restriction" maxOccurs="unbounded" minOccurs="0">
+                						<xs:annotation>
+                  							<xs:documentation>ENABLE/DISABLE EVENTS (temporary solution till the ingame admin panel arrives</xs:documentation>
+                						</xs:annotation>
+                						<xs:complexType>
+                  							<xs:simpleContent>
+                    								<xs:extension base="xs:string">
+                      									<xs:attribute type="xs:string" name="type" use="optional"/>
+                      									<xs:attribute type="xs:string" name="ids" use="optional"/>
+                      									<xs:attribute type="xs:string" name="name" use="optional"/>
+                      									<xs:attribute type="xs:string" name="value" use="optional"/>
+                    								</xs:extension>
+                  							</xs:simpleContent>
+                						</xs:complexType>
+              						</xs:element>
+            					</xs:choice>
+            					<xs:attribute type="xs:byte" name="id"/>
+          				</xs:complexType>
+        			</xs:element>
+      			</xs:sequence>
+    		</xs:complexType>
+  	</xs:element>
+</xs:schema>

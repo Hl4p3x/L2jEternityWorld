@@ -1,0 +1,31 @@
+﻿<?xml version='1.0' encoding='utf-8'?><!-- Пояса -->
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+<item><ingredient id="9912" count="2500"/><ingredient id="6673" count="250"/><production id="13950" count="1"/></item>
+<item><ingredient id="9912" count="2500"/><ingredient id="6673" count="250"/><production id="13952" count="1"/></item>
+<item><ingredient id="9912" count="2500"/><ingredient id="6673" count="250"/><production id="13951" count="1"/></item>
+<item><ingredient id="9912" count="2500"/><ingredient id="6673" count="250"/><production id="13966" count="1"/></item>
+<item><ingredient id="9912" count="2500"/><ingredient id="6673" count="250"/><production id="13953" count="1"/></item>
+<item><ingredient id="9912" count="2500"/><ingredient id="6673" count="250"/><production id="13968" count="1"/></item>
+<item><ingredient id="9912" count="2500"/><ingredient id="6673" count="250"/><production id="13967" count="1"/></item>
+<item><ingredient id="9912" count="2500"/><ingredient id="6673" count="250"/><production id="13969" count="1"/></item>
+<item><ingredient id="9912" count="2500"/><ingredient id="6673" count="250"/><production id="14926" count="1"/></item>
+<item><ingredient id="9912" count="2500"/><ingredient id="6673" count="250"/><production id="14927" count="1"/></item>
+<item><ingredient id="9912" count="2500"/><ingredient id="6673" count="250"/><production id="14928" count="1"/></item>
+<item><ingredient id="9912" count="2500"/><ingredient id="6673" count="250"/><production id="14929" count="1"/></item>
+<item><ingredient id="9912" count="2500"/><ingredient id="6673" count="250"/><production id="14934" count="1"/></item>
+<item><ingredient id="9912" count="2500"/><ingredient id="6673" count="250"/><production id="14935" count="1"/></item>
+<item><ingredient id="9912" count="2500"/><ingredient id="6673" count="250"/><production id="14936" count="1"/></item>
+<item><ingredient id="9912" count="2500"/><ingredient id="6673" count="250"/><production id="14937" count="1"/></item>
+<item><ingredient id="9912" count="2500"/><ingredient id="6673" count="250"/><production id="14950" count="1"/></item>
+<item><ingredient id="9912" count="2500"/><ingredient id="6673" count="250"/><production id="14951" count="1"/></item>
+<item><ingredient id="9912" count="2500"/><ingredient id="6673" count="250"/><production id="14952" count="1"/></item>
+<item><ingredient id="9912" count="2500"/><ingredient id="6673" count="250"/><production id="14957" count="1"/></item>
+<item><ingredient id="9912" count="2500"/><ingredient id="6673" count="250"/><production id="14956" count="1"/></item>
+<item><ingredient id="9912" count="2500"/><ingredient id="6673" count="250"/><production id="14955" count="1"/></item>
+<item><ingredient id="9912" count="2500"/><ingredient id="6673" count="250"/><production id="14954" count="1"/></item>
+<item><ingredient id="9912" count="2500"/><ingredient id="6673" count="250"/><production id="14953" count="1"/></item>
+<item><ingredient id="9912" count="2500"/><ingredient id="6673" count="250"/><production id="14958" count="1"/></item>
+<item><ingredient id="9912" count="2500"/><ingredient id="6673" count="250"/><production id="14959" count="1"/></item>
+<item><ingredient id="9912" count="2500"/><ingredient id="6673" count="250"/><production id="14960" count="1"/></item>
+<item><ingredient id="9912" count="2500"/><ingredient id="6673" count="250"/><production id="14961" count="1"/></item>
+</list>

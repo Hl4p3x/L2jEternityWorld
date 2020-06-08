@@ -1,0 +1,1 @@
+ALTER TABLE `characters` DROP COLUMN `bot_report_points`;

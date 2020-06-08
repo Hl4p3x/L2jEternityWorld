@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/zones.xsd">
+	<!-- Hot Springs Fishing Zones -->
+	<zone name="spa_11" type="HotSpringZone" shape="NPoly" minZ="-3634" maxZ="-3434">
+		<node X="141249" Y="-109636" />
+		<node X="141473" Y="-109798" />
+		<node X="141739" Y="-109821" />
+		<node X="141924" Y="-109669" />
+		<node X="142038" Y="-109397" />
+		<node X="141852" Y="-109130" />
+		<node X="141604" Y="-109051" />
+		<node X="141321" Y="-109091" />
+		<node X="141213" Y="-109266" />
+	</zone>
+	<zone name="spa_21" type="HotSpringZone" shape="NPoly" minZ="-3668" maxZ="-3468">
+		<node X="140174" Y="-105832" />
+		<node X="140490" Y="-105875" />
+		<node X="140962" Y="-105738" />
+		<node X="141039" Y="-105378" />
+		<node X="140872" Y="-105119" />
+		<node X="140081" Y="-105295" />
+	</zone>
+	<zone name="spa_31" type="HotSpringZone" shape="NPoly" minZ="-3724" maxZ="-3524">
+		<node X="144927" Y="-105193" />
+		<node X="145226" Y="-105412" />
+		<node X="145576" Y="-105344" />
+		<node X="145819" Y="-104976" />
+		<node X="145575" Y="-104555" />
+		<node X="145217" Y="-104490" />
+		<node X="144935" Y="-104684" />
+		<node X="144832" Y="-104959" />
+
+	</zone>
+	<zone name="spa_41" type="HotSpringZone" shape="NPoly" minZ="-2871" maxZ="-2671">
+		<node X="152081" Y="-108262" />
+		<node X="152455" Y="-108588" />
+		<node X="152835" Y="-108448" />
+		<node X="152992" Y="-108120" />
+		<node X="152817" Y="-107670" />
+		<node X="152310" Y="-107632" />
+		<node X="152069" Y="-107905" />
+	</zone>
+	<zone name="spa_51" type="HotSpringZone" shape="NPoly" minZ="-2787" maxZ="-2587">
+		<node X="155279" Y="-105735" />
+		<node X="155448" Y="-105880" />
+		<node X="155992" Y="-105963" />
+		<node X="156201" Y="-105790" />
+		<node X="156133" Y="-105320" />
+		<node X="155896" Y="-105229" />
+		<node X="155459" Y="-105254" />
+		<node X="155283" Y="-105478" />
+	</zone>
+	<zone name="spa_61" type="HotSpringZone" shape="NPoly" minZ="-2717" maxZ="-2517">
+		<node X="156838" Y="-109948" />
+		<node X="157133" Y="-110046" />
+		<node X="157436" Y="-109918" />
+		<node X="157491" Y="-109405" />
+		<node X="157197" Y="-109197" />
+		<node X="156843" Y="-109261" />
+		<node X="156683" Y="-109569" />
+	</zone>
+	<zone name="spa_71" type="HotSpringZone" shape="NPoly" minZ="-1609" maxZ="-1409">
+		<node X="152063" Y="-116732" />
+		<node X="152505" Y="-116982" />
+		<node X="152904" Y="-116927" />
+		<node X="153020" Y="-116469" />
+		<node X="152881" Y="-116221" />
+		<node X="152555" Y="-116100" />
+		<node X="152285" Y="-116160" />
+		<node X="152099" Y="-116415" />
+	</zone>
+	<zone name="spa_81" type="HotSpringZone" shape="NPoly" minZ="-1694" maxZ="-1494">
+		<node X="152683" Y="-112829" />
+		<node X="152796" Y="-113129" />
+		<node X="153125" Y="-113339" />
+		<node X="153557" Y="-113190" />
+		<node X="153649" Y="-112721" />
+		<node X="153344" Y="-112385" />
+		<node X="152937" Y="-112409" />
+	</zone>
+	<zone name="spa_91" type="HotSpringZone" shape="NPoly" minZ="-1979" maxZ="-1779">
+		<node X="157444" Y="-115790" />
+		<node X="157774" Y="-115907" />
+		<node X="158174" Y="-115759" />
+		<node X="158017" Y="-114971" />
+		<node X="157625" Y="-114984" />
+		<node X="157439" Y="-115101" />
+	</zone>
+	<zone name="spa_101" type="HotSpringZone" shape="NPoly" minZ="-2152" maxZ="-1952">
+		<node X="147182" Y="-113255" />
+		<node X="147194" Y="-113430" />
+		<node X="147312" Y="-113584" />
+		<node X="147467" Y="-113630" />
+		<node X="147748" Y="-113523" />
+		<node X="147816" Y="-113273" />
+		<node X="147723" Y="-113074" />
+		<node X="147512" Y="-112956" />
+		<node X="147258" Y="-113048" />
+	</zone>
+	<!-- Medical treatment -->
+	<zone name="spa_12" type="HotSpringZone" shape="NPoly" minZ="-3634" maxZ="-3434">
+		<node X="141249" Y="-109636" />
+		<node X="141473" Y="-109798" />
+		<node X="141739" Y="-109821" />
+		<node X="141924" Y="-109669" />
+		<node X="142038" Y="-109397" />
+		<node X="141852" Y="-109130" />
+		<node X="141604" Y="-109051" />
+		<node X="141321" Y="-109091" />
+		<node X="141213" Y="-109266" />
+	</zone>
+	<zone name="spa_22" type="HotSpringZone" shape="NPoly" minZ="-3668" maxZ="-3468">
+		<node X="140174" Y="-105832" />
+		<node X="140490" Y="-105875" />
+		<node X="140962" Y="-105738" />
+		<node X="141039" Y="-105378" />
+		<node X="140872" Y="-105119" />
+		<node X="140081" Y="-105295" />
+	</zone>
+	<zone name="spa_32" type="HotSpringZone" shape="NPoly" minZ="-3724" maxZ="-3524">
+		<node X="144927" Y="-105193" />
+		<node X="145226" Y="-105412" />
+		<node X="145576" Y="-105344" />
+		<node X="145819" Y="-104976" />
+		<node X="145575" Y="-104555" />
+		<node X="145217" Y="-104490" />
+		<node X="144935" Y="-104684" />
+		<node X="144832" Y="-104959" />
+	</zone>
+	<zone name="spa_42" type="HotSpringZone" shape="NPoly" minZ="-2871" maxZ="-2671">
+		<node X="152081" Y="-108262" />
+		<node X="152455" Y="-108588" />
+		<node X="152835" Y="-108448" />
+		<node X="152992" Y="-108120" />
+		<node X="152817" Y="-107670" />
+		<node X="152310" Y="-107632" />
+		<node X="152069" Y="-107905" />
+	</zone>
+	<zone name="spa_52" type="HotSpringZone" shape="NPoly" minZ="-2787" maxZ="-2587">
+		<node X="155279" Y="-105735" />
+		<node X="155448" Y="-105880" />
+		<node X="155992" Y="-105963" />
+		<node X="156201" Y="-105790" />
+		<node X="156133" Y="-105320" />
+		<node X="155896" Y="-105229" />
+		<node X="155459" Y="-105254" />
+		<node X="155283" Y="-105478" />
+	</zone>
+	<zone name="spa_62" type="HotSpringZone" shape="NPoly" minZ="-2717" maxZ="-2517">
+		<node X="156838" Y="-109948" />
+		<node X="157133" Y="-110046" />
+		<node X="157436" Y="-109918" />
+		<node X="157491" Y="-109405" />
+		<node X="157197" Y="-109197" />
+		<node X="156843" Y="-109261" />
+		<node X="156683" Y="-109569" />
+	</zone>
+	<zone name="spa_72" type="HotSpringZone" shape="NPoly" minZ="-1609" maxZ="-1409">
+		<node X="152063" Y="-116732" />
+		<node X="152505" Y="-116982" />
+		<node X="152904" Y="-116927" />
+		<node X="153020" Y="-116469" />
+		<node X="152881" Y="-116221" />
+		<node X="152555" Y="-116100" />
+		<node X="152285" Y="-116160" />
+		<node X="152099" Y="-116415" />
+	</zone>
+	<zone name="spa_82" type="HotSpringZone" shape="NPoly" minZ="-1694" maxZ="-1494">
+		<node X="152683" Y="-112829" />
+		<node X="152796" Y="-113129" />
+		<node X="153125" Y="-113339" />
+		<node X="153557" Y="-113190" />
+		<node X="153649" Y="-112721" />
+		<node X="153344" Y="-112385" />
+		<node X="152937" Y="-112409" />
+	</zone>
+	<zone name="spa_92" type="HotSpringZone" shape="NPoly" minZ="-1979" maxZ="-1779">
+		<node X="157444" Y="-115790" />
+		<node X="157774" Y="-115907" />
+		<node X="158174" Y="-115759" />
+		<node X="158017" Y="-114971" />
+		<node X="157625" Y="-114984" />
+		<node X="157439" Y="-115101" />
+	</zone>
+	<zone name="spa_102" type="HotSpringZone" shape="NPoly" minZ="-2152" maxZ="-1952">
+		<node X="147182" Y="-113255" />
+		<node X="147194" Y="-113430" />
+		<node X="147312" Y="-113584" />
+		<node X="147467" Y="-113630" />
+		<node X="147748" Y="-113523" />
+		<node X="147816" Y="-113273" />
+		<node X="147723" Y="-113074" />
+		<node X="147512" Y="-112956" />
+		<node X="147258" Y="-113048" />
+	</zone>
+</list>

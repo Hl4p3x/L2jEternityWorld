@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawns.xsd">
+	<spawnzone name="star_stone_zone_01">
+    		<spawn npcId="18684" locX="-246875" locY="219422" locZ="5187" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18685" locX="-244980" locY="217986" locZ="4050" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18685" locX="-247254" locY="219422" locZ="5221" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18686" locX="-246875" locY="219422" locZ="5187" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18686" locX="-246496" locY="218704" locZ="5302" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18686" locX="-245738" locY="219422" locZ="3517" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18686" locX="-248012" locY="215114" locZ="4357" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18686" locX="-248770" locY="217986" locZ="4858" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Red Star Stone -->
+	<spawnzone name="star_stone_zone_02">
+    		<spawn npcId="18690" locX="-233159" locY="208943" locZ="4962" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18691" locX="-233159" locY="208539" locZ="5007" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18691" locX="-233723" locY="209347" locZ="4907" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18691" locX="-253796" locY="227892" locZ="2893" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18692" locX="-237107" locY="207327" locZ="5257" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18692" locX="-236543" locY="208539" locZ="5307" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18692" locX="-239927" locY="208539" locZ="4875" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18692" locX="-232595" locY="208943" locZ="5296" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Green Star Stone -->
+</list>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawns.xsd">
+	<spawnzone name="dwarf_village_zone_01">
+		<spawn npcId="20153" locX="119881" locY="-205574" locZ="-3712" heading="39470" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20153" locX="118810" locY="-205106" locZ="-3720" heading="39766" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20153" locX="117214" locY="-207478" locZ="-3720" heading="50247" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20153" locX="116428" locY="-208623" locZ="-3624" heading="18815" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20153" locX="120276" locY="-208205" locZ="-3720" heading="27413" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20153" locX="116812" locY="-209419" locZ="-3640" heading="50631" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20153" locX="118472" locY="-210636" locZ="-3472" heading="52106" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20153" locX="117201" locY="-210551" locZ="-3520" heading="28423" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20153" locX="117705" locY="-211099" locZ="-3520" heading="63250" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20153" locX="120336" locY="-210493" locZ="-3720" heading="23205" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20153" locX="120455" locY="-210166" locZ="-3720" heading="62793" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20153" locX="122499" locY="-211726" locZ="-3680" heading="25692" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20153" locX="122266" locY="-211000" locZ="-3688" heading="7333" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20153" locX="119863" locY="-213595" locZ="-3680" heading="26968" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20153" locX="118212" locY="-213538" locZ="-3568" heading="5208" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20153" locX="120168" locY="-214876" locZ="-3720" heading="38659" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20153" locX="117492" locY="-216364" locZ="-3680" heading="35350" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20153" locX="121568" locY="-214410" locZ="-3552" heading="5759" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20153" locX="123534" locY="-215188" locZ="-3504" heading="58354" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20153" locX="125208" locY="-215682" locZ="-3448" heading="19219" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20153" locX="125144" locY="-213497" locZ="-3464" heading="19961" respawnDelay="20" periodOfDay="0" />
+	</spawnzone> <!-- Magical Weaver -->
+	<spawnzone name="dwarf_village_zone_02">
+		<spawn npcId="20307" locX="116292" locY="-197573" locZ="-3512" heading="6919" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20307" locX="115960" locY="-198174" locZ="-3480" heading="4623" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20307" locX="117517" locY="-199237" locZ="-3624" heading="61850" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20307" locX="118718" locY="-198800" locZ="-3608" heading="50296" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20307" locX="116846" locY="-197838" locZ="-3608" heading="64711" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20307" locX="117905" locY="-201425" locZ="-3624" heading="36650" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20307" locX="117151" locY="-201529" locZ="-3712" heading="45477" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20307" locX="119804" locY="-203122" locZ="-3344" heading="39851" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20307" locX="119788" locY="-201362" locZ="-3520" heading="26947" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20307" locX="119919" locY="-201071" locZ="-3576" heading="32594" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20307" locX="120336" locY="-200691" locZ="-3616" heading="18674" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20307" locX="120428" locY="-201686" locZ="-3504" heading="42308" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20307" locX="122778" locY="-199132" locZ="-3704" heading="45677" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20307" locX="122069" locY="-198005" locZ="-3664" heading="12708" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20307" locX="120260" locY="-197730" locZ="-3552" heading="29351" respawnDelay="20" periodOfDay="0" />
+	</spawnzone> <!-- Garum Werewolf -->
+	<spawnzone name="dwarf_village_zone_03">
+		<spawn npcId="20322" locX="115985" locY="-197530" locZ="-3440" heading="16028" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20322" locX="116711" locY="-199766" locZ="-3592" heading="21747" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20322" locX="117648" locY="-199596" locZ="-3600" heading="27059" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20322" locX="117135" locY="-197510" locZ="-3680" heading="13027" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20322" locX="118772" locY="-200345" locZ="-3624" heading="25028" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20322" locX="119793" locY="-203077" locZ="-3352" heading="58443" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20322" locX="119465" locY="-201235" locZ="-3536" heading="38935" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20322" locX="122799" locY="-198642" locZ="-3680" heading="60902" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20322" locX="120353" locY="-198392" locZ="-3568" heading="4835" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20322" locX="120466" locY="-198719" locZ="-3576" heading="2163" respawnDelay="20" periodOfDay="0" />
+	</spawnzone> <!-- Goblin Brigand -->
+	<spawnzone name="dwarf_village_zone_04">
+		<spawn npcId="20323" locX="127359" locY="-197013" locZ="-3360" heading="0" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20323" locX="130470" locY="-197287" locZ="-3648" heading="0" respawnDelay="20" periodOfDay="0" />
+	</spawnzone> <!-- Goblin Brigand Leader -->
+	<spawnzone name="dwarf_village_zone_05">
+		<spawn npcId="20324" locX="117937" locY="-204812" locZ="-3720" heading="12634" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20324" locX="119174" locY="-205006" locZ="-3688" heading="6014" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20324" locX="119276" locY="-205035" locZ="-3688" heading="55567" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20324" locX="117106" locY="-207314" locZ="-3720" heading="16462" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20324" locX="117800" locY="-207369" locZ="-3712" heading="42747" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20324" locX="116529" locY="-210285" locZ="-3520" heading="39695" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20324" locX="120778" locY="-210838" locZ="-3720" heading="21563" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20324" locX="120321" locY="-210164" locZ="-3720" heading="40513" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20324" locX="121780" locY="-210916" locZ="-3704" heading="13871" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20324" locX="116522" locY="-212100" locZ="-3496" heading="12877" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20324" locX="119165" locY="-211740" locZ="-3520" heading="51329" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20324" locX="120729" locY="-212556" locZ="-3464" heading="32136" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20324" locX="121213" locY="-211087" locZ="-3720" heading="34193" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20324" locX="120807" locY="-213820" locZ="-3608" heading="29897" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20324" locX="117794" locY="-215418" locZ="-3728" heading="0" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20324" locX="118331" locY="-217198" locZ="-3504" heading="35267" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20324" locX="117156" locY="-215634" locZ="-3728" heading="60701" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20324" locX="124650" locY="-215115" locZ="-3504" heading="56123" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20324" locX="123432" locY="-214714" locZ="-3504" heading="7019" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20324" locX="125482" locY="-215969" locZ="-3448" heading="0" respawnDelay="20" periodOfDay="0" />
+	</spawnzone> <!-- Goblin Brigand Lieutenant -->
+	<spawnzone name="dwarf_village_zone_06">
+		<spawn npcId="20370" locX="124427" locY="-200355" locZ="-3592" heading="40961" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20370" locX="127459" locY="-201669" locZ="-3720" heading="39576" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20370" locX="125035" locY="-205727" locZ="-3008" heading="62156" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20370" locX="126388" locY="-207758" locZ="-3424" heading="11017" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20370" locX="127288" locY="-206752" locZ="-3568" heading="37636" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20370" locX="127899" locY="-207609" locZ="-3528" heading="45343" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20370" locX="130748" locY="-206750" locZ="-3632" heading="23965" respawnDelay="20" periodOfDay="0" />
+	</spawnzone> <!-- Barbed Bat -->
+	<spawnzone name="dwarf_village_zone_07">
+		<spawn npcId="20447" locX="115749" locY="-197605" locZ="-3376" heading="3019" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20447" locX="115944" locY="-198109" locZ="-3480" heading="14557" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20447" locX="118356" locY="-199512" locZ="-3600" heading="22633" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20447" locX="118414" locY="-199252" locZ="-3600" heading="37731" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20447" locX="117860" locY="-197421" locZ="-3616" heading="53181" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20447" locX="119874" locY="-202776" locZ="-3368" heading="4595" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20447" locX="120464" locY="-202190" locZ="-3432" heading="30722" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20447" locX="120903" locY="-197888" locZ="-3496" heading="41410" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20447" locX="122979" locY="-199026" locZ="-3696" heading="25319" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20447" locX="123757" locY="-198008" locZ="-3672" heading="37837" respawnDelay="20" periodOfDay="0" />
+	</spawnzone> <!-- Utuku Orc Archer -->
+	<spawnzone name="dwarf_village_zone_08">
+		<spawn npcId="20480" locX="116661" locY="-205604" locZ="-3712" heading="4233" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20480" locX="115972" locY="-206872" locZ="-3616" heading="49710" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20480" locX="118025" locY="-205170" locZ="-3712" heading="56613" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20480" locX="118888" locY="-206051" locZ="-3712" heading="53515" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20480" locX="121263" locY="-211064" locZ="-3720" heading="48729" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20480" locX="116863" locY="-211551" locZ="-3520" heading="46272" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20480" locX="118652" locY="-211998" locZ="-3520" heading="40486" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20480" locX="120764" locY="-210902" locZ="-3720" heading="33400" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20480" locX="117024" locY="-215539" locZ="-3728" heading="52132" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20480" locX="120013" locY="-217423" locZ="-3504" heading="59945" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20480" locX="120862" locY="-215136" locZ="-3608" heading="42082" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20480" locX="125731" locY="-215885" locZ="-3448" heading="60069" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20480" locX="126236" locY="-215247" locZ="-3376" heading="16589" respawnDelay="20" periodOfDay="0" />
+	</spawnzone> <!-- Blade Bat -->
+	<spawnzone name="dwarf_village_zone_09">
+		<spawn npcId="20510" locX="126138" locY="-201761" locZ="-3600" heading="5401" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20510" locX="128380" locY="-201990" locZ="-3712" heading="12181" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20510" locX="128837" locY="-202433" locZ="-3592" heading="5473" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20510" locX="126607" locY="-205393" locZ="-3296" heading="45497" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20510" locX="125460" locY="-206413" locZ="-3112" heading="15229" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20510" locX="127461" locY="-206218" locZ="-3560" heading="32451" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20510" locX="127992" locY="-208589" locZ="-3448" heading="38739" respawnDelay="20" periodOfDay="0" />
+	</spawnzone> <!-- Puma -->
+	<spawnzone name="dwarf_village_zone_10">
+		<spawn npcId="20521" locX="128064" locY="-198152" locZ="-3408" heading="43305" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20521" locX="130104" locY="-197835" locZ="-3656" heading="0" respawnDelay="20" periodOfDay="0" />
+	</spawnzone> <!-- Whinstone Golem -->
+	<spawnzone name="dwarf_village_zone_11">
+		<spawn npcId="20526" locX="127981" locY="-197578" locZ="-3432" heading="63150" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20526" locX="127542" locY="-196876" locZ="-3392" heading="0" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20526" locX="130653" locY="-197972" locZ="-3624" heading="0" respawnDelay="20" periodOfDay="0" />
+	</spawnzone> <!-- Obsidian Golem -->
+	<spawnzone name="dwarf_village_zone_12">
+		<spawn npcId="20528" locX="128296" locY="-212180" locZ="-3480" heading="0" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20528" locX="127879" locY="-211645" locZ="-3368" heading="31821" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20528" locX="128442" locY="-200572" locZ="-3720" heading="29710" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20528" locX="125549" locY="-200480" locZ="-3640" heading="59767" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20528" locX="125200" locY="-200434" locZ="-3616" heading="13885" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20528" locX="124915" locY="-205942" locZ="-3000" heading="20513" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20528" locX="125851" locY="-206433" locZ="-3160" heading="29671" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20528" locX="125922" locY="-207112" locZ="-3264" heading="39033" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20528" locX="124369" locY="-208337" locZ="-2928" heading="27931" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20528" locX="129898" locY="-210235" locZ="-3480" heading="11351" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20528" locX="130344" locY="-208792" locZ="-3568" heading="41414" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20528" locX="129250" locY="-206061" locZ="-3688" heading="38243" respawnDelay="20" periodOfDay="0" />
+		<spawn npcId="20528" locX="129044" locY="-205029" locZ="-3632" heading="15086" respawnDelay="20" periodOfDay="0" />
+	</spawnzone> <!-- Goblin Lord -->
+	<spawnloc name="dwarf_village_loc_01">
+		<spawn npcId="31035" locX="120306" locY="-200841" locZ="-3600" heading="34988" respawnDelay="60" periodOfDay="0" />
+		<spawn npcId="31035" locX="118325" locY="-206758" locZ="-3632" heading="13897" respawnDelay="60" periodOfDay="0" />
+		<spawn npcId="31035" locX="119843" locY="-217462" locZ="-3504" heading="0" respawnDelay="60" periodOfDay="0" />
+		<spawn npcId="31035" locX="129301" locY="-201623" locZ="-3576" heading="64918" respawnDelay="60" periodOfDay="0" />
+	</spawnloc> <!-- Defender -->
+</list>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project name="L2J_DataPack_BETA" default="dist" basedir=".">
+	<description>
+		This script will build the L2J DataPack.
+
+		This program is free software; you can redistribute it and/or modify
+		it under the terms of the GNU General Public License as published by
+		the Free Software Foundation; either version 3, or (at your option)
+		any later version.
+
+		This program is distributed in the hope that it will be useful,
+		but WITHOUT ANY WARRANTY; without even the implied warranty of
+		MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+		GNU General Public License for more details.
+
+		You should have received a copy of the GNU General Public License
+		along with this program; if not, write to the Free Software
+		Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA
+		02111-1307, USA.
+
+		http://www.gnu.org/copyleft/gpl.html
+	</description>
+
+	<property name="build" location="build" />
+	<property name="build.dist" location="${build}/dist" />
+	<property name="build.dist.doc" location="${build.dist}/doc" />
+	<property name="build.dist.game" location="${build.dist}/game" />
+	<property name="build.dist.login" location="${build.dist}/login" />
+
+	<target name="init" depends="clean,checkRequirements" description="Create the output directories. Do nothing if dirs were already created">
+		<mkdir dir="${build}" />
+	</target>
+
+	<target name="dist" depends="init" description="Syncronizes build space contents with project.">
+		<sync todir="${build.dist}" includeemptydirs="true">
+			<fileset dir="dist" />
+		</sync>
+		<concat destfile="${build.dist.doc}/L2J_DataPack_CHANGELOG.txt">${l2j.changelog}</concat>
+		<zip destfile="${build}/L2JEW_DataPack.zip" basedir="${build.dist}" />
+	</target>
+
+	<target name="clean" description="Deletes the datapack distribution ZIP file only, preserving synchronized build files.">
+		<delete file="${build}/L2JEW_DataPack.zip" />
+	</target>
+
+	<target name="checkRequirements" description="Check Requirements">
+		<fail message="Ant 1.8.4 is required. But your version is ${ant.version}">
+			<condition>
+				<not>
+					<antversion atleast="1.8.4" />
+				</not>
+			</condition>
+		</fail>
+	</target>
+</project>

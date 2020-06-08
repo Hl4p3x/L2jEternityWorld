@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instance name="Kamaloka70_80" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/instance.xsd" >
+  	<activityTime val="30"/>
+	<emptyDestroyTime val="300" />
+	<spawnlist>
+		<group name="general">
+    			<spawn npcId="22482" x="48770" y="-219304" z="-8759" heading="33752" respawn="30"/>
+    			<spawn npcId="22482" x="49036" y="-220190" z="-8759" heading="57055" respawn="30"/>
+    			<spawn npcId="22482" x="49363" y="-219814" z="-8759" heading="7108" respawn="30"/>
+    			<spawn npcId="22482" x="49393" y="-219102" z="-8759" heading="8784" respawn="30"/>
+    			<spawn npcId="22482" x="49618" y="-220490" z="-8759" heading="58065" respawn="30"/>
+    			<spawn npcId="22482" x="48526" y="-220493" z="-8759" heading="45725" respawn="30"/>
+		</group>
+	</spawnlist>
+</instance>

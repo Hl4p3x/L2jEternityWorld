@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instance name="Kamaloka45_55" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/instance.xsd" >
+  	<activityTime val="30"/>
+	<emptyDestroyTime val="300" />
+	<spawnlist>
+		<group name="general">
+    			<spawn npcId="22467" x="23958" y="-213282" z="-8009" heading="55090" respawn="30"/>
+    			<spawn npcId="22467" x="23292" y="-212782" z="-8012" heading="6752" respawn="30"/>
+    			<spawn npcId="22467" x="23844" y="-212781" z="-8009" heading="56783" respawn="30"/>
+    			<spawn npcId="22467" x="23533" y="-213301" z="-8009" heading="17681" respawn="30"/>
+		</group>
+	</spawnlist>
+</instance>

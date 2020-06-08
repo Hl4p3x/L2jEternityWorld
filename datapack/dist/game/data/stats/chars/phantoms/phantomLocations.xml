@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/phantomLocations.xsd">
+	<!-- All Phantom Spawn Locations -->
+	<!-- Location grade defined level of phantoms in this hunting location -->
+	<!-- 0 grade: spawned phantoms (1 - 9) levels -->
+	<!-- 1 grade: spawned phantoms (10 - 19) levels -->
+	<!-- 2 grade: spawned phantoms (20 - 39) levels -->
+	<!-- 3 grade: spawned phantoms (40 - 51) levels -->
+	<!-- 4 grade: spawned phantoms (52 - 60) levels -->
+	<!-- 5 grade: spawned phantoms (61 - 75) levels -->
+	<!-- 6 grade: spawned phantoms (76 - 80) levels -->
+	<!-- 7 grade: spawned phantoms (81 - 85) levels -->
+	<!-- Location town defined level of phantoms in this town location and also sets other phantom actions -->
+	<!-- In towns phantoms don`t used aggro actions -->
+	<!-- In all start Villages spawned phantoms (6 - 39) levels -->
+	<!-- In Gludin: spawned phantoms (15 - 39) levels -->
+	<!-- In Gludio: spawned phantoms (18 - 39) levels -->
+	<!-- In Dion: spawned phantoms (20 - 48) levels -->
+	<!-- In Giran: spawned phantoms (39 - 85) levels -->
+	<!-- In Oren: spawned phantoms (52 - 85) levels -->
+	<!-- In Heine: spawned phantoms (40 - 75) levels -->
+	<!-- In Hunters Village: spawned phantoms (45 - 75) levels -->
+	<!-- In Aden: spawned phantoms (48 - 85) levels -->
+	<!-- In Goddard: spawned phantoms (58 - 85) levels -->
+	<!-- In Rune: spawned phantoms (62 - 85) levels -->
+	<!-- In Schuttgart: spawned phantoms (51 - 75) levels -->
+	<location locX="-101762" locY="231589" locZ="-3539" grade="1" />
+	<location locX="-83880" locY="243211" locZ="-3717" town="Talking Island" />
+</list>

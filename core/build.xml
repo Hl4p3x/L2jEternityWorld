@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="L2JEW_Server" default="dist" basedir=".">
+	<description>
+		This script will build the L2J Eternity-World Server.
+
+		This program is free software; you can redistribute it and/or modify
+		it under the terms of the GNU General Public License as published by
+		the Free Software Foundation; either version 3, or (at your option)
+		any later version.
+
+		This program is distributed in the hope that it will be useful,
+		but WITHOUT ANY WARRANTY; without even the implied warranty of
+		MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+		GNU General Public License for more details.
+
+		You should have received a copy of the GNU General Public License
+		along with this program; if not, write to the Free Software
+		Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA
+		02111-1307, USA.
+
+		http://www.gnu.org/copyleft/gpl.html
+	</description>
+
+	<property name="src" location="java" />
+	<property name="lib" location="lib" />
+	<property name="build" location="build" />
+	<property name="build.classes" location="${build}/classes" />
+	<property name="build.dist" location="${build}/dist" />
+	<property name="build.dist.game" location="${build.dist}/game" />
+	<property name="build.dist.libs" location="${build.dist}/libs" />
+	<property name="build.dist.login" location="${build.dist}/login" />
+	<property name="build.dist.tools" location="${build.dist}/tools" />
+
+	<path id="classpath">
+		<fileset dir="${lib}">
+			<include name="*.jar" />
+		</fileset>
+	</path>
+
+	<pathconvert property="manifest.libs" pathsep=" ">
+		<path refid="classpath" />
+		<mapper>
+			<chainedmapper>
+				<flattenmapper />
+				<globmapper from="*.jar" to="../libs/*.jar" />
+			</chainedmapper>
+		</mapper>
+	</pathconvert>
+
+	<target name="init" depends="clean" description="Create the output directories.">
+		<mkdir dir="${build}" />
+		<mkdir dir="${build.classes}" />
+	</target>
+
+	<target name="compile" depends="init" description="Compile the source.">
+		<javac srcdir="${src}" classpathref="classpath" destdir="${build.classes}" optimize="on" debug="true" source="1.7" target="1.7" includeantruntime="false" nowarn="off" debuglevel="lines,vars,source" compiler="javac1.7" classpath="${build.classpath}">
+		      <compilerarg value="-Xlint:-serial,-unchecked,-deprecation,-static" />
+		</javac>
+	</target>
+
+	<target name="jar" depends="compile" description="Create the jar files">
+		<jar destfile="${build.dist.login}/EWLogin.jar">
+			<fileset dir="${build.classes}">
+				<exclude name="**/dbinstaller/**" />
+				<exclude name="**/gameserver/**" />
+			</fileset>
+			<manifest>
+				<attribute name="Built-By" value="${user.name}" />
+				<attribute name="Built-Date" value="${build.tstamp}" />
+				<attribute name="Class-Path" value="${manifest.libs}" />
+				<attribute name="Implementation-URL" value="http://www.eternity-world.ru/" />
+				<attribute name="Main-Class" value="L2J.EternityWorld.loginserver.L2LoginServer" />
+			</manifest>
+		</jar>
+		<jar destfile="${build.dist.game}/EternityWorld.jar">
+			<fileset dir="${build.classes}">
+				<exclude name="**/dbinstaller/**" />
+				<exclude name="**/loginserver/**" />
+				<exclude name="**/accountmanager/**" />
+				<exclude name="**/gsregistering/**" />
+			</fileset>
+			<manifest>
+				<attribute name="Built-By" value="${user.name}" />
+				<attribute name="Built-Date" value="${build.tstamp}" />
+				<attribute name="Class-Path" value="${manifest.libs}" />
+				<attribute name="Implementation-URL" value="http://www.eternity-world.ru/" />
+				<attribute name="Main-Class" value="L2J.EternityWorld.gameserver.GameServer" />
+			</manifest>
+		</jar>
+		<jar destfile="${build.dist.tools}/dbinst_cs.jar">
+			<fileset dir="${build.classes}">
+				<include name="**/dbinstaller/**" />
+				<include name="**/images/**" />
+				<include name="**/util/swing/**" />
+				<include name="**/SQLFilter**" />
+				<exclude name="**/LauncherGS*" />
+				<exclude name="**/LauncherLS*" />
+			</fileset>
+			<manifest>
+				<attribute name="Built-By" value="${user.name}" />
+				<attribute name="Built-Date" value="${build.tstamp}" />
+				<attribute name="Class-Path" value="${manifest.libs}" />
+				<attribute name="Implementation-URL" value="http://www.eternity-world.ru/" />
+				<attribute name="Main-Class" value="L2J.EternityWorld.tools.dbinstaller.LauncherCS" />
+			</manifest>
+		</jar>
+		<jar destfile="${build.dist.tools}/dbinst_gs.jar">
+			<fileset dir="${build.classes}">
+				<include name="**/dbinstaller/**" />
+				<include name="**/images/**" />
+				<include name="**/util/swing/**" />
+				<include name="**/SQLFilter**" />
+				<exclude name="**/LauncherCS*" />
+				<exclude name="**/LauncherLS*" />
+			</fileset>
+			<manifest>
+				<attribute name="Built-By" value="${user.name}" />
+				<attribute name="Built-Date" value="${build.tstamp}" />
+				<attribute name="Class-Path" value="${manifest.libs}" />
+				<attribute name="Implementation-URL" value="http://www.eternity-world.ru/" />
+				<attribute name="Main-Class" value="L2J.EternityWorld.tools.dbinstaller.LauncherGS" />
+			</manifest>
+		</jar>
+		<jar destfile="${build.dist.tools}/dbinst_ls.jar">
+			<fileset dir="${build.classes}">
+				<include name="**/dbinstaller/**" />
+				<include name="**/images/**" />
+				<include name="**/util/swing/**" />
+				<include name="**/SQLFilter**" />
+				<exclude name="**/LauncherCS*" />
+				<exclude name="**/LauncherGS*" />
+			</fileset>
+			<manifest>
+				<attribute name="Built-By" value="${user.name}" />
+				<attribute name="Built-Date" value="${build.tstamp}" />
+				<attribute name="Class-Path" value="${manifest.libs}" />
+				<attribute name="Implementation-URL" value="http://www.eternity-world.ru/" />
+				<attribute name="Main-Class" value="L2J.EternityWorld.tools.dbinstaller.LauncherLS" />
+			</manifest>
+		</jar>
+	</target>
+
+	<target name="dist" depends="jar">
+		<copy todir="${build.dist}">
+			<fileset dir="dist" />
+		</copy>
+		<copy todir="${build.dist.game}">
+			<fileset dir="misc" />
+		</copy>
+		<copy todir="${build.dist.libs}">
+			<fileset dir="lib" />
+		</copy>
+		<copy todir="${build.dist.login}">
+			<fileset dir="misc" />
+		</copy>
+		<fixcrlf srcdir="${build.dist.game}" eol="crlf" eof="remove" includes="**/*.bat" />
+		<fixcrlf srcdir="${build.dist.game}" eol="lf" eof="remove" includes="**/*.sh" />
+		<fixcrlf srcdir="${build.dist.login}" eol="crlf" eof="remove" includes="**/*.bat" />
+		<fixcrlf srcdir="${build.dist.login}" eol="lf" eof="remove" includes="**/*.sh" />
+		<zip destfile="${build}/L2JEW_GameServer.zip" basedir="${build.dist}" />
+	</target>
+
+	<target name="clean" description="Remove the output directories">
+		<delete dir="${build}" />
+	</target>
+
+	<target name="checkRequirements" description="Check Requirements">
+		<fail message="Ant 1.8.4 is required. But your version is ${ant.version}">
+			<condition>
+				<not>
+					<antversion atleast="1.8.4" />
+				</not>
+			</condition>
+		</fail>
+		<available classname="java.lang.AutoCloseable" property="JDK7.present" />
+		<fail unless="JDK7.present" message="Java 1.7 is required. But your version is Java ${ant.java.version} and probably JDK is not installed." />
+	</target>
+</project>

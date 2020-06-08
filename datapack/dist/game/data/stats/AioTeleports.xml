@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/AioTeleports.xsd">
+	<teleport id="1" name="Giran" locX="82344" locY="148945" locZ="-3469" />
+	<teleport id="2" name="Aden" locX="147974" locY="26883" locZ="-2205" />
+	<teleport id="3" name="Dion" locX="15592" locY="143151" locZ="-2707" />
+	<teleport id="4" name="Rune" locX="43769" locY="-48133" locZ="-797" />
+	<teleport id="5" name="Oren" locX="82760" locY="53578" locZ="-1496" />
+	<teleport id="6" name="Hunters" locX="116607" locY="76271" locZ="-2730" />
+	<teleport id="7" name="Goddard" locX="147725" locY="-56649" locZ="-2781" />
+	<teleport id="8" name="Heine" locX="111381" locY="218981" locZ="-3543" />
+	<teleport id="9" name="Schuttgart" locX="87352" locY="-142069" locZ="-1341" />
+	<teleport id="10" name="Gludio" locX="-12730" locY="122683" locZ="-3117" />
+	<teleport id="11" name="Gludin" locX="-80912" locY="149786" locZ="-3044" />
+	<teleport id="12" name="Harbor" locX="47938" locY="186864" locZ="-3420" />
+	<teleport id="13" name="DragonValley" locX="100764" locY="111846" locZ="-3680" />
+	<teleport id="14" name="AntharasLair" locX="131557" locY="114509" locZ="-3712" />
+	<teleport id="15" name="Deathpass" locX="72903" locY="118387" locZ="-3701" />
+	<teleport id="16" name="Cemetery" locX="172150" locY="20343" locZ="-3331" />
+	<teleport id="17" name="BlazingSwamp" locX="147517" locY="-10640" locZ="-4397" />
+	<teleport id="18" name="Toi" locX="119316" locY="16081" locZ="-5128" />
+	<teleport id="19" name="Coliseum" locX="151400" locY="46722" locZ="-3408" />
+	<teleport id="20" name="ExecutionGround" locX="42175" locY="148219" locZ="-3702" />
+	<teleport id="21" name="CrumaTower" locX="17225" locY="114173" locZ="-3440" />
+	<teleport id="22" name="PlainsOfDion" locX="667" locY="179223" locZ="-3715" />
+	<teleport id="23" name="HarborRune" locX="38023" locY="-38432" locZ="-3609" />
+	<teleport id="24" name="SwampScreams" locX="92895" locY="-58343" locZ="-2853" />
+	<teleport id="25" name="Stakato" locX="89658" locY="-44685" locZ="-2142" />
+	<teleport id="26" name="VallySaints" locX="68302" locY="-72135" locZ="-3751" />
+	<teleport id="27" name="BeastFarm" locX="52287" locY="-81417" locZ="-2775" />
+	<teleport id="28" name="SeaSpores" locX="62450" locY="30831" locZ="-3768" />
+	<teleport id="29" name="IvoryTower" locX="85369" locY="16142" locZ="-3674" />
+	<teleport id="30" name="NorthernWaterfall" locX="68808" locY="10157" locZ="-2154" />
+	<teleport id="31" name="PlainsLizardmen" locX="87256" locY="85423" locZ="-3082" />
+	<teleport id="32" name="Hardin Academy" locX="105751" locY="113370" locZ="-3194" />
+	<teleport id="33" name="South Valley" locX="124876" locY="61940" locZ="-3955" />
+	<teleport id="34" name="NorthValley" locX="104424" locY="33777" locZ="-3805" />
+	<teleport id="35" name="ForestMirrors" locX="142325" locY="81472" locZ="-3001" />
+	<teleport id="36" name="HotSpring" locX="149612" locY="-112478" locZ="-2065" />
+	<teleport id="37" name="KetraOutpost" locX="146954" locY="-67252" locZ="-3656" />
+	<teleport id="38" name="Monastery" locX="107574" locY="-87893" locZ="-2928" />
+	<teleport id="39" name="ForgeGods" locX="170387" locY="-116252" locZ="-2040" />
+	<teleport id="40" name="AlligatorIsland" locX="115583" locY="192261" locZ="-3488" />
+	<teleport id="41" name="FieldWhispers" locX="86482" locY="211953" locZ="-3765" />
+	<teleport id="42" name="FieldSilence" locX="85066" locY="182500" locZ="-3653" />
+	<teleport id="43" name="IslePrayer" locX="159191" locY="183724" locZ="-3709" />
+	<teleport id="44" name="Parnassus" locX="149377" locY="172388" locZ="-946" />
+	<teleport id="45" name="ChromaticHighlands" locX="152932" locY="148952" locZ="-3271" />
+	<teleport id="46" name="CryptsDisgrace" locX="56095" locY="-118952" locZ="-3285" />
+	<teleport id="47" name="PavelRuin" locX="88770" locY="-125555" locZ="-3814" />
+	<teleport id="48" name="Frozenvalley" locX="112971" locY="-174924" locZ="-608" />
+	<teleport id="49" name="ArchaicLaboratory" locX="87515" locY="-109926" locZ="-3335" />
+	<teleport id="50" name="Human" locX="-83995" locY="243435" locZ="-3730" />
+	<teleport id="51" name="Dark" locX="12413" locY="16621" locZ="-4585" />
+	<teleport id="52" name="Elf" locX="45855" locY="49220" locZ="-3060" />
+	<teleport id="53" name="Orc" locX="-44133" locY="-113911" locZ="-239" />
+	<teleport id="54" name="Dwarven" locX="116551" locY="-182493" locZ="-1520" />
+	<teleport id="55" name="Kamael" locX="-116934" locY="46616" locZ="373" />
+	<teleport id="56" name="Gludio Air Ship" locX="-149365" locY="255340" locZ="-84" />
+	<teleport id="57" name="Seed Of Infinity" locX="-213669" locY="210713" locZ="4408" />
+	<teleport id="58" name="Seed Of Destruction" locX="-246930" locY="251838" locZ="4347" />
+	<teleport id="59" name="Seed Of Annihilation" locX="-175520" locY="154505" locZ="2717" />
+	<teleport id="60" name="Primeval Isle" locX="10468" locY="-24569" locZ="-3645" />
+	<teleport id="61" name="LostNest" locX="26174" locY="-17134" locZ="-2742" />
+	<teleport id="62" name="PrimevalPlains" locX="8041" locY="-13587" locZ="-3703" />
+	<teleport id="63" name="Entrance" locX="-11670" locY="236309" locZ="-3273" />
+	<teleport id="64" name="HiddenOasis" locX="-23806" locY="249132" locZ="-3171" />
+	<teleport id="65" name="Floor1" locX="117062" locY="16058" locZ="-5105" />
+	<teleport id="66" name="Floor2" locX="114676" locY="19439" locZ="-3614" />
+	<teleport id="67" name="Floor3" locX="111250" locY="16043" locZ="-2132" />
+	<teleport id="68" name="Floor4" locX="114627" locY="12696" locZ="-650" />
+	<teleport id="69" name="Floor5" locX="117951" locY="16090" locZ="852" />
+	<teleport id="70" name="Floor6" locX="114280" locY="19922" locZ="1942" />
+	<teleport id="71" name="Floor7" locX="115043" locY="12251" locZ="2952" />
+	<teleport id="72" name="floor8" locX="110861" locY="15700" locZ="3962" />
+	<teleport id="73" name="Floor9" locX="117120" locY="18964" locZ="4972" />
+	<teleport id="74" name="Floor10" locX="118456" locY="16522" locZ="5982" />
+	<teleport id="75" name="floor11" locX="115832" locY="17439" locZ="6760" />
+	<teleport id="76" name="Westland" locX="-16487" locY="207957" locZ="-3665" />
+	<teleport id="77" name="Iron Castle" locX="4593" locY="243883" locZ="-1930" />
+	<teleport id="78" name="Caravan" locX="-4579" locY="255871" locZ="-3134" />
+	<teleport id="82" name="Agony" locX="-41285" locY="122128" locZ="-2899" />
+	<teleport id="83" name="Despair" locX="-19120" locY="136816" locZ="-3757" />
+	<teleport id="84" name="Ant Nest" locX="-9972" locY="176127" locZ="-4161" />
+	<teleport id="85" name="Windawood" locX="-28327" locY="155125" locZ="-3496" />
+	<teleport id="79" name="Forgotten" locX="-52977" locY="191421" locZ="-3563" />
+	<teleport id="80" name="Orc Barack" locX="-89749" locY="105366" locZ="-3571" />
+	<teleport id="81" name="Abandoncamp" locX="-49824" locY="147085" locZ="-2779" />
+	<teleport id="86" name="Fellmere" locX="-63708" locY="101463" locZ="-3557" />
+	<teleport id="87" name="Antharas" locX="174741" locY="114968" locZ="-7708" />
+	<teleport id="88" name="Valakas" locX="211526" locY="-113742" locZ="-1636" />
+	<teleport id="89" name="Baium" locX="113203" locY="14623" locZ="10077" />
+	<teleport id="90" name="Baylor" locX="152638" locY="142070" locZ="-12738" />
+	<teleport id="91" name="Freya" locX="114716" locY="-113638" locZ="-11200" />
+	<teleport id="92" name="Beleth" locX="16322" locY="213116" locZ="-9357" />
+	<teleport id="93" name="Tezza" locX="-87754" locY="-152137" locZ="-9176" />
+	<teleport id="94" name="Dayzaken" locX="56592" locY="218382" locZ="-2953" />
+	<teleport id="95" name="Nightzaken" locX="54972" locY="218780" locZ="-3225" />
+	<teleport id="96" name="Queen Ant" locX="-21576" locY="184349" locZ="-5722" />
+	<teleport id="97" name="Orfen" locX="54210" locY="17069" locZ="-5536" />
+	<teleport id="98" name="Core" locX="17735" locY="111600" locZ="-6584" />
+	<teleport id="99" name="Chaotic" locX="-81906" locY="-53428" locZ="-10732" />
+	<teleport id="100" name="Farmzone" locX="-175539" locY="154503" locZ="2716" />
+	<teleport id="101" name="Varka" locX="125744" locY="-40864" locZ="-3750" />
+	<teleport id="102" name="Argos" locX="165091" locY="-47837" locZ="-3568" />
+	<teleport id="103" name="Imptomb" locX="187292" locY="-75504" locZ="-2794" />
+	<teleport id="105" name="Brekas" locX="85506" locY="131201" locZ="-3677" />
+	<teleport id="104" name="Flower" locX="113930" locY="135394" locZ="-3638" />
+	<teleport id="107" name="Forsplain" locX="168224" locY="37962" locZ="-4062" />
+	<teleport id="108" name="Giant Cave" locX="181745" locY="46508" locZ="-4358" />
+	<teleport id="109" name="Partizan" locX="50394" locY="121802" locZ="-2410" />
+	<teleport id="110" name="Mandragora" locX="38349" locY="148079" locZ="-3709" />
+	<teleport id="111" name="Tanor" locX="58349" locY="163882" locZ="-2833" />
+	<teleport id="112" name="Floran" locX="17107" locY="170183" locZ="-3492" />
+	<teleport id="113" name="Forbiten Gate" locX="188611" locY="20588" locZ="-3696" />
+	<teleport id="114" name="Enchant Valley" locX="124904" locY="61992" locZ="-3973" />
+	<teleport id="115" name="Silent Valley" locX="170838" locY="55776" locZ="-5280" />
+	<teleport id="116" name="Hunter Valley" locX="114306" locY="86573" locZ="-3112" />
+	<teleport id="117" name="Field Massacre" locX="135580" locY="19467" locZ="-3424" />
+	<teleport id="118" name="Devastated" locX="178358" locY="-14192" locZ="-2256" />
+	<teleport id="119" name="Anghel Water" locX="166182" locY="91560" locZ="-3168" />
+	<teleport id="120" name="Cave Souls" locX="-123842" locY="38117" locZ="1176" />
+	<teleport id="121" name="Ancient Battle" locX="106517" locY="-2871" locZ="-3454" />
+	<teleport id="122" name="Plains Glory" locX="135580" locY="19467" locZ="-3424" />
+	<teleport id="123" name="Wartor Plains" locX="156898" locY="11217" locZ="-4032" />
+	<teleport id="124" name="Isle Of Soul" locX="-121436" locY="56288" locZ="-1586" />
+	<teleport id="125" name="Mimir Forest" locX="-103032" locY="46457" locZ="-1136" />
+	<teleport id="126" name="Hill Gold" locX="-116114" locY="87005" locZ="-3544" />
+	<teleport id="127" name="Norlin Garden" locX="-84728" locY="60089" locZ="-2576" />
+	<teleport id="128" name="Ebordenout" locX="158141" locY="-24543" locZ="-1288" />
+	<teleport id="129" name="Narselake" locX="146440" locY="46723" locZ="-3400" />
+	<teleport id="130" name="Wbordenout" locX="112405" locY="-16607" locZ="-1864" />
+	<teleport id="131" name="Catadarkomens" locX="-19176" locY="13504" locZ="-4899" />
+	<teleport id="132" name="Cataforbidpath" locX="12521" locY="-248481" locZ="-9585" />
+	<teleport id="133" name="Catawitch" locX="140690" locY="79679" locZ="-5429" />
+	<teleport id="134" name="Cataapostate" locX="-20195" locY="-250764" locZ="-8193" />
+	<teleport id="135" name="Catabraded" locX="46542" locY="170305" locZ="-4979" />
+	<teleport id="136" name="Cataheretics" locX="-53174" locY="-250275" locZ="-7911" />
+	<teleport id="137" name="Cruma1" locX="17724" locY="114004" locZ="-11672" />
+	<teleport id="138" name="Cruma2" locX="17730" locY="108301" locZ="-9057" />
+	<teleport id="139" name="Cruma3" locX="17719" locY="115430" locZ="-6582" />
+	<teleport id="140" name="Dion Arena" locX="12443" locY="183467" locZ="-3560" />
+	<teleport id="141" name="Crumamars" locX="5106" locY="126916" locZ="-3664" />
+	<teleport id="142" name="Floranagricul" locX="10610" locY="156332" locZ="-2472" />
+	<teleport id="143" name="Dion Hills" locX="29928" locY="151415" locZ="2392" />
+	<teleport id="144" name="Beehive" locX="34475" locY="188095" locZ="0" />
+	<teleport id="145" name="Plains Dion" locX="630" locY="179184" locZ="-3720" />
+	<teleport id="146" name="Necrosaint" locX="83357" locY="209207" locZ="-5437" />
+	<teleport id="147" name="Necrodisciple" locX="172600" locY="-17599" locZ="-4899" />
+	<teleport id="148" name="Necromartyrdom" locX="118576" locY="132800" locZ="-4832" />
+	<teleport id="149" name="Necrodevotion" locX="-51942" locY="79096" locZ="-4739" />
+	<teleport id="150" name="Necropatriot" locX="-21423" locY="77375" locZ="-5171" />
+	<teleport id="151" name="Necroworshipper" locX="111552" locY="174014" locZ="-5440" />
+	<teleport id="152" name="Necropilgrim" locX="45249" locY="123548" locZ="-5411" />
+	<teleport id="153" name="Necrosavrifice" locX="-41569" locY="210082" locZ="-5085" />
+	<teleport id="154" name="Anthara Heart" locX="154623" locY="121134" locZ="-3809" />
+	<teleport id="155" name="Devil Isle" locX="43408" locY="206881" locZ="-3752" />
+	<teleport id="156" name="Hardin Academy" locX="105918" locY="109759" locZ="-3170" />
+	<teleport id="157" name="Giran Arena" locX="73579" locY="142709" locZ="-3762" />
+	<teleport id="158" name="Pirate Tunnel" locX="41528" locY="198358" locZ="-4648" />
+	<teleport id="159" name="Wasteland" locX="-16526" locY="208032" locZ="-3664" />
+	<teleport id="160" name="Abandoncamp" locX="-49853" locY="147089" locZ="-2784" />
+	<teleport id="161" name="Orc Barrack" locX="-89763" locY="105359" locZ="-3576" />
+	<teleport id="162" name="Windy Hill" locX="-88539" locY="83389" locZ="-2864" />
+	<teleport id="163" name="Red Rockridge" locX="-44829" locY="188171" locZ="-3256" />
+	<teleport id="164" name="Felemerharvest" locX="-63736" locY="101522" locZ="-3552" />
+	<teleport id="165" name="Windmil Hill" locX="-75437" locY="168800" locZ="-3632" />
+	<teleport id="166" name="Ruins Agony Bend" locX="-50174" locY="129303" locZ="-2912" />
+	<teleport id="167" name="Evil Hunting" locX="-6989" locY="109503" locZ="-3040" />
+	<teleport id="168" name="Enter Ruin Despair" locX="-36652" locY="135591" locZ="-3160" />
+	<teleport id="169" name="Olmahum" locX="-6661" locY="201880" locZ="-3632" />
+	<teleport id="170" name="Neutral Zone" locX="-10612" locY="75881" locZ="-3592" />
+	<teleport id="171" name="Forgotten Temple" locX="-53001" locY="191425" locZ="-3568" />
+	<teleport id="172" name="Elven Ruin" locX="-112367" locY="234703" locZ="-3688" />
+	<teleport id="173" name="Antincubator" locX="-26489" locY="195307" locZ="-3928" />
+	<teleport id="174" name="Gludin Harbor" locX="-91101" locY="150344" locZ="-3624" />
+	<teleport id="175" name="Gludin Arena" locX="-87328" locY="142266" locZ="-3640" />
+	<teleport id="176" name="Garden Beasts" locX="132997" locY="-60608" locZ="-2960" />
+	<teleport id="177" name="Ahrine Of Loyalty" locX="190112" locY="-61776" locZ="-2944" />
+	<teleport id="178" name="Devil Pass" locX="106349" locY="-61870" locZ="-2904" />
+	<teleport id="179" name="Hall Of Flames" locX="189964" locY="-116820" locZ="-1624" />
+	<teleport id="180" name="Ketra Village" locX="149548" locY="-82014" locZ="-5592" />
+	<teleport id="181" name="Varka Village" locX="108155" locY="-53670" locZ="-2472" />
+	<teleport id="182" name="Rainbow Springs" locX="139997" locY="-124860" locZ="-1896" />
+	<teleport id="183" name="Hot Spring Arena" locX="152180" locY="-126093" locZ="-2282" />
+	<teleport id="184" name="Aligator Beach" locX="116267" locY="201177" locZ="-3432" />
+	<teleport id="185" name="Coral Reef" locX="160074" locY="167893" locZ="-3538" />
+	<teleport id="186" name="Garden Eva" locX="84413" locY="234334" locZ="-3656" />
+	<teleport id="187" name="Tourboatdock" locX="111418" locY="225960" locZ="-3624" />
+	<teleport id="188" name="Garden Eva1" locX="80688" locY="245566" locZ="-8926" />
+	<teleport id="189" name="Garden Eva2" locX="80629" locY="246620" locZ="-9331" />
+	<teleport id="190" name="Garden Eva3" locX="87750" locY="252422" locZ="-9851" />
+	<teleport id="191" name="Garden Eva4" locX="82506" locY="255978" locZ="-10363" />
+	<teleport id="192" name="Garden Eva5" locX="82158" locY="252376" locZ="-10592" />
+	<teleport id="193" name="Forest Dead" locX="52107" locY="-54328" locZ="-3158" />
+	<teleport id="194" name="Pagan Temple" locX="35630" locY="-49748" locZ="-760" />
+	<teleport id="195" name="Cursed Village" locX="57670" locY="-41672" locZ="-3154" />
+	<teleport id="196" name="Windtail Water Fall" locX="40723" locY="-94881" locZ="-2096" />
+	<teleport id="197" name="Westmine Zone" locX="128527" locY="-204036" locZ="-3408" />
+	<teleport id="198" name="Eastmine Zone" locX="175836" locY="-205837" locZ="-3384" />
+	<teleport id="199" name="Pluderousplain" locX="111965" locY="-154972" locZ="-1528" />
+	<teleport id="200" name="Frozen Labyrith" locX="113903" locY="-108752" locZ="-884" />
+	<teleport id="201" name="Freya Garden" locX="102728" locY="-126242" locZ="-2840" />
+	<teleport id="202" name="Den Of Evil" locX="68693" locY="-110438" locZ="-1946" />
+	<teleport id="203" name="Skywagon" locX="121618" locY="-141554" locZ="-1496" />
+	<teleport id="204" name="Cave Of Trials" locX="9340" locY="-112509" locZ="-2536" />
+	<teleport id="205" name="Abandon Coal Mine" locX="139714" locY="-177456" locZ="-1536" />
+	<teleport id="206" name="Mithril Mine" locX="171946" locY="-173352" locZ="3440" />
+	<teleport id="207" name="Ice Merchant Cabin" locX="113750" locY="-109163" locZ="-832" />
+	<teleport id="208" name="Brigand Stronghold" locX="126272" locY="-159336" locZ="-1232" />
+	<teleport id="209" name="Elven Forest" locX="21362" locY="51122" locZ="-3688" />
+	<teleport id="210" name="Shadow Mother Tree" locX="50953" locY="42105" locZ="-3480" />
+	<teleport id="211" name="Dark Forest" locX="-22224" locY="14168" locZ="-3232" />
+	<teleport id="212" name="Swampland" locX="-21966" locY="40544" locZ="-3192" />
+	<teleport id="213" name="Selmahum" locX="84517" locY="62538" locZ="-3480" />
+	<teleport id="214" name="Shilen Garden" locX="23863" locY="11068" locZ="-3720" />
+	<teleport id="215" name="Black Rock Hill" locX="-29466" locY="66678" locZ="-3496" />
+	<teleport id="216" name="Spider Nest" locX="-61095" locY="75104" locZ="-3383" />
+	<teleport id="217" name="Timak Outpost" locX="67097" locY="68815" locZ="-3648" />
+	<teleport id="218" name="Forest Of Evil" locX="93218" locY="16969" locZ="-3904" />
+	<teleport id="219" name="Outlaw Forest" locX="91539" locY="-12204" locZ="-2440" />
+	<teleport id="220" name="School Dark Arts" locX="-47543" locY="58478" locZ="-3336" />
+	<teleport id="221" name="Shilen Temple" locX="25934" locY="11037" locZ="-3720" />
+	<teleport id="222" name="Bandit Stronghold" locX="87091" locY="-20354" locZ="-2072" />
+	<teleport id="223" name="Iris Lake" locX="51469" locY="82600" locZ="-3312" />
+	<teleport id="224" name="Altarofrites" locX="-44566" locY="77508" locZ="-3736" />
+	<teleport id="225" name="Misty Mountains" locX="61740" locY="94946" locZ="-1488" />
+	<teleport id="226" name="Starlight Waterfall" locX="58502" locY="53453" locZ="-3624" />
+	<teleport id="227" name="Undine Water Fall" locX="-7233" locY="57006" locZ="-3520" />
+	<teleport id="228" name="Gods Falls" locX="70456" locY="6591" locZ="-3632" />
+	<teleport id="229" name="Floor12" locX="117275" locY="16073" locZ="7996" />
+</list>

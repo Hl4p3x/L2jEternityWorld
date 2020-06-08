@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawns.xsd">
+	<spawnloc name="fantasy_isle_loc">
+    		<spawn npcId="32378" locX="-59234" locY="-56897" locZ="-2032" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32521" locX="-57712" locY="-61490" locZ="-2376" heading="16384" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32522" locX="-57557" locY="-61488" locZ="-2376" heading="16384" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32523" locX="-57395" locY="-61488" locZ="-2376" heading="16384" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32524" locX="-57240" locY="-61493" locZ="-2376" heading="16384" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32613" locX="-57470" locY="-60765" locZ="-2360" heading="16384" respawnDelay="60" periodOfDay="0" />
+	</spawnloc>
+</list>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawns.xsd">
+	<spawnzone name="star_stone_zone_15">
+    		<spawn npcId="18690" locX="-223331" locY="233909" locZ="4166" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18690" locX="-224189" locY="233518" locZ="4569" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18690" locX="-224618" locY="237037" locZ="4867" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18690" locX="-226334" locY="232736" locZ="5046" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18690" locX="-221615" locY="233518" locZ="4360" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18690" locX="-221615" locY="232736" locZ="4569" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Green Star Stone -->
+	<spawnzone name="star_stone_zone_16">
+    		<spawn npcId="18691" locX="-220757" locY="233127" locZ="4864" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18691" locX="-222044" locY="233127" locZ="4246" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18691" locX="-222473" locY="237037" locZ="5276" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18691" locX="-224189" locY="233909" locZ="4879" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18691" locX="-226763" locY="233909" locZ="5393" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18691" locX="-226334" locY="234300" locZ="5411" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18691" locX="-227192" locY="233909" locZ="5229" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Green Star Stone -->
+	<spawnzone name="star_stone_zone_17">
+    		<spawn npcId="18692" locX="-223760" locY="237037" locZ="4733" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18692" locX="-225476" locY="238601" locZ="4107" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18692" locX="-224618" locY="232345" locZ="5341" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18692" locX="-221186" locY="232345" locZ="5436" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18692" locX="-221186" locY="235082" locZ="3960" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18692" locX="-222473" locY="235473" locZ="4018" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Green Star Stone -->
+	<spawnloc name="gracia_npc_zone_03">
+    		<spawn npcId="32518" locX="-204849" locY="242148" locZ="1781" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32519" locX="-223211" locY="247803" locZ="1781" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnloc> <!-- Vortex Gate -->
+</list>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawns.xsd">
+	<spawnloc name="gracia_npc_zone_04">
+    		<spawn npcId="32734" locX="-178467" locY="153371" locZ="2472" heading="11632" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32735" locX="-175533" locY="153808" locZ="2704" heading="16016" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32737" locX="-181199" locY="153605" locZ="2704" heading="11632" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32779" locX="-175533" locY="154851" locZ="2720" heading="16016" respawnDelay="60" periodOfDay="0" />
+	</spawnloc>
+</list>

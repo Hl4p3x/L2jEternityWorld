@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawns.xsd">
+	<spawnzone name="star_stone_zone_06">
+    		<spawn npcId="18684" locX="-226264" locY="213859" locZ="2798" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18684" locX="-207300" locY="207514" locZ="4294" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18684" locX="-208644" locY="204910" locZ="3260" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18684" locX="-212676" locY="204042" locZ="5250" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Red Star Stone -->
+	<spawnzone name="star_stone_zone_07">
+    		<spawn npcId="18685" locX="-205284" locY="207080" locZ="2798" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18685" locX="-212004" locY="203174" locZ="4540" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18685" locX="-212676" locY="205778" locZ="5384" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Red Star Stone -->
+	<spawnzone name="star_stone_zone_08">
+    		<spawn npcId="18686" locX="-205284" locY="207080" locZ="2798" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18686" locX="-205284" locY="205778" locZ="5489" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18686" locX="-205956" locY="205344" locZ="5371" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18686" locX="-210660" locY="206646" locZ="4175" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18686" locX="-212676" locY="206212" locZ="2721" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Red Star Stone -->
+	<spawnzone name="star_stone_zone_09">
+    		<spawn npcId="18687" locX="-206356" locY="215773" locZ="2435" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18687" locX="-204481" locY="214701" locZ="1198" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18687" locX="-201981" locY="213093" locZ="2728" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18687" locX="-203231" locY="209877" locZ="3577" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Blue Star Stone -->
+	<spawnzone name="star_stone_zone_10">
+    		<spawn npcId="18688" locX="-206356" locY="217917" locZ="3692" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18688" locX="-205731" locY="214165" locZ="3425" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18688" locX="-202606" locY="213629" locZ="1820" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18688" locX="-201981" locY="212557" locZ="1900" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18688" locX="-199481" locY="209877" locZ="1971" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Blue Star Stone -->
+	<spawnzone name="star_stone_zone_11">
+    		<spawn npcId="18689" locX="-208231" locY="219525" locZ="3072" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18689" locX="-203856" locY="217917" locZ="2214" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18689" locX="-198856" locY="216309" locZ="2550" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18689" locX="-200106" locY="215773" locZ="1233" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18689" locX="-201981" locY="209877" locZ="1054" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Blue Star Stone -->
+	<spawnzone name="star_stone_zone_12">
+    		<spawn npcId="18690" locX="-225749" locY="225634" locZ="4894" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18690" locX="-226355" locY="222616" locZ="4356" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18690" locX="-216659" locY="217586" locZ="5188" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18690" locX="-216659" locY="222113" locZ="3732" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18690" locX="-219083" locY="225634" locZ="5363" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Green Star Stone -->
+	<spawnzone name="star_stone_zone_13">
+    		<spawn npcId="18691" locX="-218477" locY="219095" locZ="3013" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18691" locX="-216053" locY="217586" locZ="5331" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18691" locX="-215447" locY="218089" locZ="4822" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18691" locX="-218477" locY="219598" locZ="4032" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18691" locX="-216053" locY="226137" locZ="2598" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Green Star Stone -->
+	<spawnzone name="star_stone_zone_14">
+    		<spawn npcId="18692" locX="-219083" locY="220604" locZ="4327" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18692" locX="-217871" locY="220604" locZ="3863" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18692" locX="-215447" locY="223119" locZ="5034" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18692" locX="-216659" locY="223622" locZ="4427" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18692" locX="-215447" locY="224628" locZ="3320" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Green Star Stone -->
+	<spawnloc name="gracia_npc_zone_02">
+    		<spawn npcId="32534" locX="-212831" locY="209536" locZ="4272" heading="16384" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32604" locX="-213770" locY="210760" locZ="4400" heading="57343" respawnDelay="60" periodOfDay="0" />
+	</spawnloc>
+</list>

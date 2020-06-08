@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawns.xsd">
+	<spawnzone name="apostate_catacomb_zone_01">
+    		<spawn npcId="21152" locX="-14450" locY="-246403" locZ="-8168" heading="45290" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21152" locX="-14322" locY="-250797" locZ="-8168" heading="20111" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21152" locX="-13968" locY="-247830" locZ="-8168" heading="1355" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21152" locX="-13611" locY="-247620" locZ="-8168" heading="20691" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21152" locX="-13057" locY="-250019" locZ="-8170" heading="35799" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21152" locX="-12909" locY="-249478" locZ="-8170" heading="46452" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21152" locX="-12525" locY="-246251" locZ="-8170" heading="47997" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21152" locX="-12511" locY="-249997" locZ="-8170" heading="18274" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21152" locX="-12188" locY="-247046" locZ="-8170" heading="7498" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21152" locX="-11306" locY="-249726" locZ="-8168" heading="23480" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21152" locX="-11291" locY="-250589" locZ="-8168" heading="23314" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21152" locX="-11034" locY="-250056" locZ="-8170" heading="9687" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21152" locX="-10224" locY="-247600" locZ="-8191" heading="49976" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21152" locX="-9951" locY="-245962" locZ="-8168" heading="13775" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21152" locX="-9904" locY="-251021" locZ="-8168" heading="16025" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21152" locX="-9710" locY="-247307" locZ="-8170" heading="30150" respawnDelay="120" periodOfDay="0" />
+	</spawnzone> <!-- Purgatory Wisp -->
+	<spawnzone name="apostate_catacomb_zone_02">
+    		<spawn npcId="21153" locX="-14685" locY="-246187" locZ="-8168" heading="23324" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21153" locX="-14519" locY="-250972" locZ="-8168" heading="15332" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21153" locX="-13857" locY="-247659" locZ="-8170" heading="15946" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21153" locX="-13426" locY="-247902" locZ="-8170" heading="29174" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21153" locX="-13071" locY="-249846" locZ="-8170" heading="35706" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21153" locX="-12832" locY="-249244" locZ="-8170" heading="14971" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21153" locX="-12503" locY="-247001" locZ="-8170" heading="52412" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21153" locX="-12464" locY="-250462" locZ="-8170" heading="16576" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21153" locX="-12236" locY="-246800" locZ="-8170" heading="63890" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21153" locX="-11475" locY="-249903" locZ="-8170" heading="64122" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21153" locX="-11244" locY="-249353" locZ="-8168" heading="15151" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21153" locX="-11161" locY="-250755" locZ="-8170" heading="11548" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21153" locX="-10435" locY="-247599" locZ="-8170" heading="56346" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21153" locX="-10255" locY="-247252" locZ="-8170" heading="32640" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21153" locX="-10210" locY="-246168" locZ="-8168" heading="33108" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21153" locX="-10111" locY="-250766" locZ="-8168" heading="22195" respawnDelay="120" periodOfDay="0" />
+	</spawnzone> <!-- Purgatory Serpent -->
+	<spawnzone name="apostate_catacomb_zone_03">
+    		<spawn npcId="21154" locX="-14603" locY="-243274" locZ="-8168" heading="43361" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21154" locX="-14530" locY="-245303" locZ="-8168" heading="55576" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21154" locX="-14378" locY="-242882" locZ="-8170" heading="5637" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21154" locX="-14355" locY="-240478" locZ="-8168" heading="31446" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21154" locX="-12315" locY="-244967" locZ="-8170" heading="62847" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21154" locX="-12236" locY="-243040" locZ="-8170" heading="40514" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21154" locX="-12163" locY="-245171" locZ="-8168" heading="61591" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21154" locX="-11915" locY="-243919" locZ="-8168" heading="46737" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21154" locX="-11865" locY="-242373" locZ="-8168" heading="7970" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21154" locX="-10999" locY="-240785" locZ="-8168" heading="48914" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21154" locX="-10123" locY="-242255" locZ="-8170" heading="33873" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21154" locX="-9763" locY="-242840" locZ="-8168" heading="55485" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21154" locX="-9757" locY="-245084" locZ="-8168" heading="31176" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21154" locX="-9698" locY="-240475" locZ="-8168" heading="32165" respawnDelay="120" periodOfDay="0" />
+	</spawnzone> <!-- Hell Keeper Medusa -->
+	<spawnzone name="apostate_catacomb_zone_04">
+    		<spawn npcId="21155" locX="-14704" locY="-242604" locZ="-8170" heading="43653" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21155" locX="-14656" locY="-245125" locZ="-8168" heading="33966" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21155" locX="-14592" locY="-240315" locZ="-8168" heading="32475" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21155" locX="-14382" locY="-243221" locZ="-8170" heading="47831" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21155" locX="-12572" locY="-245000" locZ="-8168" heading="5762" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21155" locX="-12080" locY="-242579" locZ="-8191" heading="17292" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21155" locX="-12070" locY="-244976" locZ="-8170" heading="18608" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21155" locX="-11926" locY="-242736" locZ="-8168" heading="46893" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21155" locX="-11786" locY="-243143" locZ="-8170" heading="62391" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21155" locX="-11251" locY="-240517" locZ="-8168" heading="26057" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21155" locX="-10143" locY="-242620" locZ="-8170" heading="23031" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21155" locX="-9937" locY="-240315" locZ="-8168" heading="48015" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21155" locX="-9923" locY="-244912" locZ="-8168" heading="13600" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21155" locX="-9912" locY="-242636" locZ="-8168" heading="38418" respawnDelay="120" periodOfDay="0" />
+	</spawnzone> <!-- Purgatory Conjurer -->
+	<spawnzone name="apostate_catacomb_zone_05">
+    		<spawn npcId="21176" locX="-20295" locY="-249596" locZ="-8168" heading="50507" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21176" locX="-20230" locY="-248740" locZ="-8168" heading="15658" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21176" locX="-20200" locY="-245887" locZ="-8168" heading="16384" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21176" locX="-19307" locY="-246781" locZ="-8168" heading="36009" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21176" locX="-19051" locY="-247406" locZ="-8170" heading="56898" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21176" locX="-18934" locY="-248417" locZ="-8189" heading="17941" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21176" locX="-18876" locY="-249668" locZ="-8168" heading="1840" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21176" locX="-18729" locY="-247039" locZ="-8168" heading="8827" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21176" locX="-18472" locY="-250400" locZ="-8168" heading="37365" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21176" locX="-17467" locY="-250325" locZ="-8170" heading="30835" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21176" locX="-17106" locY="-247908" locZ="-8170" heading="24576" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21176" locX="-16762" locY="-248172" locZ="-8170" heading="56189" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21176" locX="-16364" locY="-249287" locZ="-8189" heading="40922" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21176" locX="-15995" locY="-248993" locZ="-8170" heading="16231" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21176" locX="-15887" locY="-250765" locZ="-8168" heading="32025" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21176" locX="-15643" locY="-249525" locZ="-8170" heading="33193" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21176" locX="-15311" locY="-246176" locZ="-8168" heading="1022" respawnDelay="120" periodOfDay="0" />
+	</spawnzone> <!-- Lilim Magus -->
+	<spawnzone name="apostate_catacomb_zone_06">
+    		<spawn npcId="21177" locX="-20385" locY="-240533" locZ="-8168" heading="52382" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21177" locX="-20203" locY="-244819" locZ="-8168" heading="16265" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21177" locX="-19523" locY="-241922" locZ="-8170" heading="22733" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21177" locX="-19210" locY="-242075" locZ="-8168" heading="32202" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21177" locX="-18707" locY="-244362" locZ="-8191" heading="32002" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21177" locX="-18563" locY="-244026" locZ="-8170" heading="39492" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21177" locX="-18171" locY="-244623" locZ="-8170" heading="14727" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21177" locX="-18162" locY="-241281" locZ="-8170" heading="51588" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21177" locX="-17897" locY="-241071" locZ="-8170" heading="61854" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21177" locX="-17250" locY="-243895" locZ="-8170" heading="23355" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21177" locX="-17034" locY="-244768" locZ="-8168" heading="15126" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21177" locX="-16879" locY="-244352" locZ="-8191" heading="13829" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21177" locX="-16381" locY="-241872" locZ="-8191" heading="30408" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21177" locX="-15906" locY="-241706" locZ="-8168" heading="31746" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21177" locX="-15815" locY="-240503" locZ="-8168" heading="31152" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21177" locX="-15773" locY="-245084" locZ="-8168" heading="59047" respawnDelay="120" periodOfDay="0" />
+	</spawnzone> <!-- Lilim Knight-Errant -->
+	<spawnzone name="apostate_catacomb_zone_07">
+    		<spawn npcId="21178" locX="-14785" locY="-250778" locZ="-8168" heading="32606" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21178" locX="-14504" locY="-245900" locZ="-8168" heading="16304" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21178" locX="-14211" locY="-247651" locZ="-8170" heading="60340" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21178" locX="-13819" locY="-247965" locZ="-8170" heading="48597" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21178" locX="-12717" locY="-249688" locZ="-8168" heading="56519" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21178" locX="-12608" locY="-249305" locZ="-8170" heading="20942" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21178" locX="-12485" locY="-250764" locZ="-8170" heading="8414" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21178" locX="-12466" locY="-247344" locZ="-8168" heading="51279" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21178" locX="-12226" locY="-246367" locZ="-8170" heading="47330" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21178" locX="-11502" locY="-250338" locZ="-8170" heading="6037" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21178" locX="-11433" locY="-249281" locZ="-8168" heading="18495" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21178" locX="-11034" locY="-249697" locZ="-8170" heading="57634" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21178" locX="-10786" locY="-247516" locZ="-8168" heading="40747" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21178" locX="-9915" locY="-247544" locZ="-8170" heading="25241" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21178" locX="-9903" locY="-246383" locZ="-8168" heading="17782" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21178" locX="-9895" locY="-250479" locZ="-8168" heading="15915" respawnDelay="120" periodOfDay="0" />
+	</spawnzone> <!-- Lilim Marauder -->
+	<spawnzone name="apostate_catacomb_zone_08">
+    		<spawn npcId="21179" locX="-14659" locY="-242911" locZ="-8170" heading="50333" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21179" locX="-14525" locY="-240715" locZ="-8168" heading="48735" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21179" locX="-14503" locY="-244771" locZ="-8168" heading="16384" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21179" locX="-14349" locY="-242512" locZ="-8170" heading="4370" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21179" locX="-12846" locY="-244909" locZ="-8170" heading="57344" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21179" locX="-12251" locY="-243288" locZ="-8170" heading="28075" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21179" locX="-11858" locY="-244992" locZ="-8168" heading="405" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21179" locX="-11824" locY="-243494" locZ="-8170" heading="44937" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21179" locX="-11648" locY="-242949" locZ="-8170" heading="63292" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21179" locX="-10786" locY="-240451" locZ="-8168" heading="59059" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21179" locX="-9925" locY="-240780" locZ="-8168" heading="48351" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21179" locX="-9892" locY="-245388" locZ="-8168" heading="47236" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21179" locX="-9863" locY="-242055" locZ="-8168" heading="50115" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21179" locX="-9819" locY="-243050" locZ="-8168" heading="50643" respawnDelay="120" periodOfDay="0" />
+	</spawnzone> <!-- Lilim Priest -->
+	<spawnzone name="apostate_catacomb_zone_09">
+    		<spawn npcId="21197" locX="-20394" locY="-246190" locZ="-8168" heading="63227" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21197" locX="-20348" locY="-248648" locZ="-8170" heading="16232" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21197" locX="-20210" locY="-249370" locZ="-8168" heading="51676" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21197" locX="-19248" locY="-246957" locZ="-8170" heading="40501" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21197" locX="-19027" locY="-249460" locZ="-8168" heading="62910" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21197" locX="-18930" locY="-246709" locZ="-8168" heading="12601" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21197" locX="-18795" locY="-248476" locZ="-8170" heading="15852" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21197" locX="-18670" locY="-246399" locZ="-8170" heading="58997" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21197" locX="-17792" locY="-250585" locZ="-8170" heading="63875" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21197" locX="-17591" locY="-247979" locZ="-8168" heading="60534" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21197" locX="-17294" locY="-250357" locZ="-8170" heading="63090" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21197" locX="-16607" locY="-249424" locZ="-8168" heading="37881" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21197" locX="-16574" locY="-248167" locZ="-8170" heading="53066" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21197" locX="-16163" locY="-249215" locZ="-8168" heading="28692" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21197" locX="-15619" locY="-246377" locZ="-8189" heading="55991" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21197" locX="-15603" locY="-250990" locZ="-8168" heading="15658" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21197" locX="-15573" locY="-249312" locZ="-8168" heading="34788" respawnDelay="120" periodOfDay="0" />
+	</spawnzone> <!-- Nephilim Priest -->
+	<spawnzone name="apostate_catacomb_zone_10">
+    		<spawn npcId="21198" locX="-20219" locY="-240740" locZ="-8168" heading="48225" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21198" locX="-20014" locY="-245052" locZ="-8168" heading="32592" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21198" locX="-19605" locY="-242118" locZ="-8168" heading="3168" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21198" locX="-19331" locY="-241886" locZ="-8191" heading="19966" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21198" locX="-18732" locY="-244028" locZ="-8170" heading="39648" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21198" locX="-18378" locY="-243837" locZ="-8168" heading="24751" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21198" locX="-18218" locY="-245016" locZ="-8170" heading="17010" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21198" locX="-18190" locY="-240908" locZ="-8170" heading="54639" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21198" locX="-17883" locY="-241278" locZ="-8170" heading="55891" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21198" locX="-17046" locY="-244005" locZ="-8168" heading="18355" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21198" locX="-16890" locY="-244991" locZ="-8170" heading="8070" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21198" locX="-16720" locY="-244464" locZ="-8170" heading="11458" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21198" locX="-16471" locY="-241682" locZ="-8168" heading="27015" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21198" locX="-15619" locY="-240628" locZ="-8168" heading="13870" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21198" locX="-15614" locY="-244881" locZ="-8189" heading="25028" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21198" locX="-15436" locY="-241896" locZ="-8170" heading="33070" respawnDelay="120" periodOfDay="0" />
+	</spawnzone> <!-- Nephilim Swordsman -->
+	<spawnzone name="apostate_catacomb_zone_11">
+    		<spawn npcId="21199" locX="-14530" locY="-250594" locZ="-8168" heading="11498" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21199" locX="-14334" locY="-247904" locZ="-8170" heading="52342" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21199" locX="-14330" locY="-246171" locZ="-8168" heading="38795" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21199" locX="-13627" locY="-247979" locZ="-8170" heading="53626" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21199" locX="-12894" locY="-250446" locZ="-8170" heading="16666" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21199" locX="-12821" locY="-250051" locZ="-8191" heading="43872" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21199" locX="-12534" locY="-246508" locZ="-8170" heading="50894" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21199" locX="-12492" locY="-249604" locZ="-8170" heading="15761" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21199" locX="-12276" locY="-247359" locZ="-8168" heading="48609" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21199" locX="-11486" locY="-250716" locZ="-8170" heading="59814" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21199" locX="-11274" locY="-249945" locZ="-8168" heading="18318" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21199" locX="-11173" locY="-250405" locZ="-8168" heading="10023" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21199" locX="-10737" locY="-247331" locZ="-8191" heading="32989" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21199" locX="-10017" locY="-247248" locZ="-8170" heading="27537" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21199" locX="-9746" locY="-246115" locZ="-8168" heading="16881" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21199" locX="-9701" locY="-250730" locZ="-8168" heading="20449" respawnDelay="120" periodOfDay="0" />
+	</spawnzone> <!-- Nephilim Guard -->
+	<spawnzone name="apostate_catacomb_zone_12">
+    		<spawn npcId="21200" locX="-14755" locY="-240482" locZ="-8189" heading="24509" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21200" locX="-14548" locY="-242336" locZ="-8168" heading="50009" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21200" locX="-14389" locY="-245094" locZ="-8168" heading="33272" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21200" locX="-14296" locY="-242649" locZ="-8170" heading="63638" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21200" locX="-12902" locY="-245125" locZ="-8168" heading="63035" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21200" locX="-12293" locY="-243478" locZ="-8170" heading="24428" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21200" locX="-12111" locY="-243848" locZ="-8170" heading="51031" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21200" locX="-12006" locY="-243309" locZ="-8168" heading="16672" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21200" locX="-11765" locY="-245162" locZ="-8189" heading="54373" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21200" locX="-11022" locY="-240291" locZ="-8168" heading="12357" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21200" locX="-10093" locY="-240535" locZ="-8168" heading="44162" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21200" locX="-10058" locY="-245142" locZ="-8168" heading="23984" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21200" locX="-10017" locY="-243050" locZ="-8170" heading="52377" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21200" locX="-9752" locY="-242286" locZ="-8170" heading="52708" respawnDelay="120" periodOfDay="0" />
+	</spawnzone> <!-- Nephilim Bishop -->
+	<spawnzone name="apostate_catacomb_zone_13">
+    		<spawn npcId="21244" locX="-20102" locY="-249591" locZ="-8168" heading="52588" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21244" locX="-20020" locY="-246136" locZ="-8168" heading="30263" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21244" locX="-20014" locY="-249070" locZ="-8170" heading="57588" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21244" locX="-19113" locY="-248602" locZ="-8168" heading="59800" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21244" locX="-19044" locY="-249860" locZ="-8168" heading="63071" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21244" locX="-18894" locY="-247327" locZ="-8168" heading="52845" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21244" locX="-18889" locY="-246366" locZ="-8168" heading="48033" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21244" locX="-18572" locY="-246677" locZ="-8170" heading="9074" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21244" locX="-18478" locY="-250541" locZ="-8189" heading="42219" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21244" locX="-18114" locY="-250580" locZ="-8170" heading="59576" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21244" locX="-17569" locY="-248247" locZ="-8170" heading="14962" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21244" locX="-17319" locY="-247873" locZ="-8170" heading="23243" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21244" locX="-16983" locY="-249494" locZ="-8170" heading="28393" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21244" locX="-16468" locY="-249710" locZ="-8191" heading="40795" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21244" locX="-15793" locY="-249008" locZ="-8191" heading="18403" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21244" locX="-15566" locY="-245951" locZ="-8168" heading="23988" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21244" locX="-15391" locY="-250782" locZ="-8168" heading="652" respawnDelay="120" periodOfDay="0" />
+	</spawnzone> <!-- Crypt Archon -->
+	<spawnzone name="apostate_catacomb_zone_14">
+    		<spawn npcId="21245" locX="-20349" locY="-249053" locZ="-8170" heading="63040" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21245" locX="-20171" locY="-246385" locZ="-8168" heading="43466" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21245" locX="-20105" locY="-248571" locZ="-8170" heading="16323" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21245" locX="-19185" locY="-249643" locZ="-8189" heading="4573" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21245" locX="-19101" locY="-246125" locZ="-8170" heading="49026" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21245" locX="-19017" locY="-247004" locZ="-8189" heading="24576" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21245" locX="-18911" locY="-248704" locZ="-8168" heading="13182" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21245" locX="-18803" locY="-247561" locZ="-8170" heading="53163" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21245" locX="-17955" locY="-250329" locZ="-8170" heading="32930" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21245" locX="-17319" locY="-250557" locZ="-8168" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21245" locX="-17040" locY="-248125" locZ="-8168" heading="64856" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21245" locX="-17030" locY="-249238" locZ="-8170" heading="27549" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21245" locX="-16750" locY="-247977" locZ="-8168" heading="1593" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21245" locX="-16673" locY="-249734" locZ="-8191" heading="49873" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21245" locX="-16074" locY="-249536" locZ="-8170" heading="29442" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21245" locX="-15801" locY="-246149" locZ="-8168" heading="39470" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21245" locX="-15591" locY="-250569" locZ="-8168" heading="46077" respawnDelay="120" periodOfDay="0" />
+	</spawnzone> <!-- Crypt Inquisitor -->
+	<spawnzone name="apostate_catacomb_zone_15">
+    		<spawn npcId="21246" locX="-20200" locY="-245240" locZ="-8168" heading="57840" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21246" locX="-20038" locY="-240523" locZ="-8189" heading="49605" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21246" locX="-19883" locY="-241964" locZ="-8170" heading="59402" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21246" locX="-19593" locY="-242250" locZ="-8170" heading="52265" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21246" locX="-18572" locY="-244709" locZ="-8170" heading="14451" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21246" locX="-18502" locY="-243678" locZ="-8170" heading="16021" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21246" locX="-18195" locY="-244392" locZ="-8170" heading="17870" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21246" locX="-18182" locY="-241642" locZ="-8170" heading="57849" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21246" locX="-17917" locY="-240766" locZ="-8170" heading="41869" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21246" locX="-17210" locY="-244218" locZ="-8170" heading="7533" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21246" locX="-16959" locY="-243689" locZ="-8168" heading="15499" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21246" locX="-16771" locY="-244114" locZ="-8170" heading="1448" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21246" locX="-16271" locY="-241716" locZ="-8168" heading="38733" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21246" locX="-15946" locY="-241931" locZ="-8170" heading="56890" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21246" locX="-15594" locY="-245313" locZ="-8189" heading="49700" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21246" locX="-15356" locY="-240479" locZ="-8168" heading="63588" respawnDelay="120" periodOfDay="0" />
+	</spawnzone> <!-- Tomb Archon -->
+	<spawnzone name="apostate_catacomb_zone_16">
+    		<spawn npcId="21247" locX="-20332" locY="-245120" locZ="-8168" heading="58243" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21247" locX="-20201" locY="-240400" locZ="-8168" heading="48531" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21247" locX="-19930" locY="-242206" locZ="-8191" heading="55362" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21247" locX="-19366" locY="-242234" locZ="-8170" heading="55230" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21247" locX="-18440" locY="-245027" locZ="-8168" heading="8192" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21247" locX="-18282" locY="-243632" locZ="-8168" heading="17052" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21247" locX="-18221" locY="-244104" locZ="-8170" heading="17107" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21247" locX="-18048" locY="-240519" locZ="-8168" heading="36818" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21247" locX="-17934" locY="-241578" locZ="-8170" heading="47308" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21247" locX="-17201" locY="-244938" locZ="-8170" heading="1808" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21247" locX="-17098" locY="-243705" locZ="-8168" heading="21525" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21247" locX="-17049" locY="-244485" locZ="-8168" heading="17555" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21247" locX="-16088" locY="-241929" locZ="-8170" heading="46910" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21247" locX="-15626" locY="-241643" locZ="-8168" heading="12256" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21247" locX="-15584" locY="-240305" locZ="-8168" heading="49416" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="21247" locX="-15373" locY="-245102" locZ="-8168" heading="6499" respawnDelay="120" periodOfDay="0" />
+	</spawnzone> <!-- Tomb Inquisitor -->
+	<spawnloc name="apostate_catacomb_loc_01">
+    		<spawn npcId="31122" locX="-20208" locY="-250784" locZ="-8161" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31499" locX="-20429" locY="-251079" locZ="-8160" heading="16000" respawnDelay="60" periodOfDay="0" />
+	</spawnloc> <!-- Gatekeepers -->
+</list>

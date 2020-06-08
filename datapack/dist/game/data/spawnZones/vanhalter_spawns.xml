@@ -1,0 +1,203 @@
+<?locXml version="1.0" encoding="UTF-8"?>
+<list locXmlns:locXsi="http://www.w3.org/2001/locXMLSchema-instance" locXsi:noNamespaceSchemaLocation="../xsd/vanhalter_spawns.xml">
+	<npc id="32051">
+		<location locX="-14670" locY="-54846" locZ="-10629" heading="16384" />
+		<respawn delay="60" />
+	</npc>
+	<npc id="32051">
+		<location locX="-15548" locY="-54836" locZ="-10448" heading="16384" />
+		<respawn delay="60" />
+	</npc>
+	<npc id="32051">
+		<location locX="-18123" locY="-54846" locZ="-10629" heading="16384" />
+		<respawn delay="60" />
+	</npc>
+	<npc id="32051">
+		<location locX="-17248" locY="-54836" locZ="-10448" heading="16384" />
+		<respawn delay="60" />
+	</npc>
+	<npc id="32058">
+		<location locX="-12674" locY="-52673" locZ="-10932" heading="16384" />
+		<respawn delay="21600" />
+	</npc>
+	<npc id="32059">
+		<location locX="-12728" locY="-54317" locZ="-11108" heading="16384" />
+		<respawn delay="21600" />
+	</npc>
+	<npc id="32060">
+		<location locX="-14936" locY="-53112" locZ="-11559" heading="16384" />
+		<respawn delay="21600" />
+	</npc>
+	<npc id="32061">
+		<location locX="-15658" locY="-53668" locZ="-11579" heading="16384" />
+		<respawn delay="21600" />
+	</npc>
+	<npc id="32062">
+		<location locX="-16404" locY="-53263" locZ="-11559" heading="16384" />
+		<respawn delay="21600" />
+	</npc>
+	<npc id="32063">
+		<location locX="-17146" locY="-53238" locZ="-11559" heading="16384" />
+		<respawn delay="21600" />
+	</npc>
+	<npc id="32064">
+		<location locX="-17887" locY="-53137" locZ="-11559" heading="16384" />
+		<respawn delay="21600" />
+	</npc>
+	<npc id="32065">
+		<location locX="-20082" locY="-54314" locZ="-11106" heading="16384" />
+		<respawn delay="21600" />
+	</npc>
+	<npc id="32066">
+		<location locX="-20081" locY="-52674" locZ="-10921" heading="16384" />
+		<respawn delay="21600" />
+	</npc>
+	<npc id="32067">
+		<location locX="-16413" locY="-56569" locZ="-10849" heading="16384" />
+		<respawn delay="21600" />
+	</npc>
+	<npc id="32068">
+		<location locX="-16397" locY="-54119" locZ="-10475" heading="16384" />
+		<respawn delay="21600" />
+	</npc>
+	<npc id="22175">
+		<location locX="-14960" locY="-53437" locZ="-10629" heading="7820" />
+		<respawn delay="60" />
+	</npc>
+	<npc id="22175">
+		<location locX="-14964" locY="-53766" locZ="-10603" heading="20066" />
+		<respawn delay="60" />
+	</npc>
+	<npc id="22175">
+		<location locX="-15225" locY="-52968" locZ="-10603" heading="55924" />
+		<respawn delay="60" />
+	</npc>
+	<npc id="22175">
+		<location locX="-15522" locY="-52625" locZ="-10629" heading="17737" />
+		<respawn delay="60" />
+	</npc>
+	<npc id="22175">
+		<location locX="-15676" locY="-52576" locZ="-10603" heading="23075" />
+		<respawn delay="60" />
+	</npc>
+	<npc id="22175">
+		<location locX="-15879" locY="-52521" locZ="-10603" heading="63322" />
+		<respawn delay="60" />
+	</npc>
+	<npc id="22175">
+		<location locX="-16420" locY="-52481" locZ="-10603" heading="4302" />
+		<respawn delay="60" />
+	</npc>
+	<npc id="22175">
+		<location locX="-16590" locY="-52575" locZ="-10603" heading="11742" />
+		<respawn delay="60" />
+	</npc>
+	<npc id="22175">
+		<location locX="-16835" locY="-52485" locZ="-10603" heading="40331" />
+		<respawn delay="60" />
+	</npc>
+	<npc id="22175">
+		<location locX="-17051" locY="-52639" locZ="-10629" heading="4607" />
+		<respawn delay="60" />
+	</npc>
+	<npc id="22175">
+		<location locX="-17461" locY="-52839" locZ="-10603" heading="13423" />
+		<respawn delay="60" />
+	</npc>
+	<npc id="22175">
+		<location locX="-17604" locY="-53050" locZ="-10603" heading="39469" />
+		<respawn delay="60" />
+	</npc>
+	<npc id="22175">
+		<location locX="-17641" locY="-53350" locZ="-10629" heading="14056" />
+		<respawn delay="60" />
+	</npc>
+	<npc id="22175">
+		<location locX="-17710" locY="-53768" locZ="-10603" heading="47067" />
+		<respawn delay="60" />
+	</npc>
+	<npc id="22175">
+		<location locX="-17753" locY="-53950" locZ="-10629" heading="14260" />
+		<respawn delay="60" />
+	</npc>
+	<npc id="22175">
+		<location locX="-17841" locY="-54312" locZ="-10603" heading="14180" />
+		<respawn delay="60" />
+	</npc>
+	<npc id="22176">
+		<location locX="-16156" locY="-47121" locZ="-10821" heading="16129" />
+		<respawn delay="60" />
+	</npc>
+	<npc id="22176">
+		<location locX="-16157" locY="-46340" locZ="-10821" heading="16468" />
+		<respawn delay="60" />
+	</npc>
+	<npc id="22176">
+		<location locX="-16164" locY="-48534" locZ="-10917" heading="16405" />
+		<respawn delay="60" />
+	</npc>
+	<npc id="22176">
+		<location locX="-16165" locY="-49237" locZ="-10917" heading="16091" />
+		<respawn delay="60" />
+	</npc>
+	<npc id="22176">
+		<location locX="-16166" locY="-47732" locZ="-10821" heading="16430" />
+		<respawn delay="60" />
+	</npc>
+	<npc id="22176">
+		<location locX="-16177" locY="-49925" locZ="-10917" heading="16622" />
+		<respawn delay="60" />
+	</npc>
+	<npc id="22176">
+		<location locX="-16198" locY="-44753" locZ="-10725" heading="16583" />
+		<respawn delay="60" />
+	</npc>
+	<npc id="22176">
+		<location locX="-16497" locY="-48344" locZ="-10917" heading="16215" />
+		<respawn delay="60" />
+	</npc>
+	<npc id="22176">
+		<location locX="-16513" locY="-49019" locZ="-10917" heading="15756" />
+		<respawn delay="60" />
+	</npc>
+	<npc id="22176">
+		<location locX="-16529" locY="-46310" locZ="-10821" heading="17047" />
+		<respawn delay="60" />
+	</npc>
+	<npc id="22176">
+		<location locX="-16530" locY="-47027" locZ="-10821" heading="16487" />
+		<respawn delay="60" />
+	</npc>
+	<npc id="22176">
+		<location locX="-16532" locY="-47633" locZ="-10821" heading="16242" />
+		<respawn delay="60" />
+	</npc>
+	<npc id="22176">
+		<location locX="-16552" locY="-49694" locZ="-10917" heading="15784" />
+		<respawn delay="60" />
+	</npc>
+	<npc id="22176">
+		<location locX="-16594" locY="-45094" locZ="-10725" heading="16166" />
+		<respawn delay="60" />
+	</npc>
+	<npc id="22188">
+		<location locX="-16385" locY="-52461" locZ="-10629" heading="16384" />
+		<respawn delay="60" />
+	</npc>
+	<npc id="29062">
+		<location locX="-16397" locY="-53308" locZ="-10448" heading="16384" />
+		<respawn delay="172800" />
+	</npc>
+	<npc id="32038">
+		<location locX="-16397" locY="-53199" locZ="-10448" heading="16384" />
+		<respawn delay="172800" />
+	</npc>
+	<npc id="22195">
+		<location locX="-16397" locY="-53199" locZ="-10448" heading="16384" />
+		<respawn delay="172800" />
+	</npc>
+	<npc id="22191">
+		<location locX="-16397" locY="-53199" locZ="-10448" heading="16384" />
+		<respawn delay="60" />
+	</npc>
+</list>

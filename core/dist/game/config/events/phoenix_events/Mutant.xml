@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../data/xsd/phoenix_events.xsd">
+   	<event id="9">
+      		<config name="shortName" value="Mut" />
+      		<config name="minLvl" value="1" />
+      		<config name="maxLvl" value="85" />
+      		<config name="eventName" value="Mutant" />
+      		<config name="matchTime" value="120" />
+      		<config name="allowPotions" value="false" />
+      		<config name="allowUseMagic" value="true" />
+      		<config name="removeBuffs" value="true" />
+      		<config name="minPlayers" value="2" />
+      		<config name="mutantBuffId" value="9185" />
+      		<color owner="All" r="255" g="255" b="255" />
+      		<position owner="All" x="-54478" y="-69506" z="-3371" radius="700" />
+      		<restriction type="item" ids="0" />
+      		<restriction type="skill" ids="0" />
+      		<reward owner="winner" list="57,1000;1,1" />
+      		<reward owner="loser" list="57,10" />
+   	</event>
+</events>

@@ -1,0 +1,67 @@
+﻿<?xml version='1.0' encoding='utf-8'?><!-- Брона Ы-84 ПВП -->
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+	<item>
+		<ingredient id="57" count="450000000"/>
+		<ingredient id="6673" count="9430"/>
+		<production id="14523" count="1"/>
+		<production id="13448" count="1"/>
+		<production id="13140" count="1"/>
+		<production id="13449" count="1"/>
+		<production id="13450" count="1"/>
+	</item><!-- Венера Хеви ПВП -->
+	<item>
+		<ingredient id="57" count="450000000"/>
+		<ingredient id="6673" count="9430"/>
+		<production id="14524" count="1"/>
+		<production id="13451" count="1"/>
+		<production id="13141" count="1"/>
+		<production id="13452" count="1"/>
+		<production id="13453" count="1"/>
+	</item><!-- Венера Лайт ПВП -->
+	<item>
+		<ingredient id="57" count="450000000"/>
+		<ingredient id="6673" count="9430"/>
+		<production id="14525" count="1"/>
+		<production id="13454" count="1"/>
+		<production id="13142" count="1"/>
+		<production id="13455" count="1"/>
+		<production id="13456" count="1"/>
+	</item><!-- Венера Роба ПВП -->
+	<item>
+		<ingredient id="57" count="112000000"/>
+		<ingredient id="6673" count="925"/>
+		<production id="13471" count="1"/>
+	</item><!-- Венера Щит -->
+	<item>
+		<ingredient id="57" count="960000000"/>
+		<ingredient id="6673" count="16430"/>
+		<production id="16168" count="1"/>
+		<production id="15572" count="1"/>
+		<production id="15578" count="1"/>
+		<production id="15581" count="1"/>
+		<production id="15584" count="1"/>
+	</item><!-- Элегия Хеви ПВП-->
+	<item>
+		<ingredient id="57" count="960000000"/>
+		<ingredient id="6673" count="16430"/>
+		<production id="16169" count="1"/>
+		<production id="15573" count="1"/>
+		<production id="15579" count="1"/>
+		<production id="15582" count="1"/>
+		<production id="15585" count="1"/>
+	</item><!-- Элегия Лайт ПВП -->
+	<item>
+		<ingredient id="57" count="960000000"/>
+		<ingredient id="6673" count="16430"/>
+		<production id="16170" count="1"/>
+		<production id="15574" count="1"/>
+		<production id="15580" count="1"/>
+		<production id="15583" count="1"/>
+		<production id="15586" count="1"/>
+	</item><!-- Элегия Роба ПВП -->
+	<item>
+		<ingredient id="57" count="346000000"/>
+		<ingredient id="6673" count="1938"/>
+		<production id="15587" count="1"/>
+	</item><!-- Элегия Щит-->
+</list>

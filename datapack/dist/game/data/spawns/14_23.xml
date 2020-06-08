@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawns.xsd">
+	<spawnzone name="seed_of_annihilation_spawn_zone_04">
+    		<spawn npcId="22750" locX="-184510" locY="183037" locZ="-10456" heading="43779" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22750" locX="-184326" locY="183082" locZ="-10464" heading="30886" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22750" locX="-183838" locY="180626" locZ="-10440" heading="33335" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22750" locX="-184808" locY="182012" locZ="-10496" heading="24816" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22750" locX="-177467" locY="182600" locZ="-10600" heading="4456" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22750" locX="-176376" locY="182912" locZ="-10520" heading="20433" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22750" locX="-179236" locY="179818" locZ="-10440" heading="25296" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22750" locX="-180797" locY="179960" locZ="-10464" heading="27437" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22750" locX="-185089" locY="179418" locZ="-10392" heading="26067" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22750" locX="-185196" locY="179110" locZ="-10384" heading="15407" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22750" locX="-185049" locY="179394" locZ="-10392" heading="28121" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22750" locX="-181450" locY="179204" locZ="-10408" heading="44619" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22750" locX="-183621" locY="176854" locZ="-10256" heading="55102" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22750" locX="-176018" locY="176768" locZ="-10264" heading="33636" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22750" locX="-176607" locY="179162" locZ="-10432" heading="59555" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22750" locX="-175742" locY="177469" locZ="-10272" heading="9592" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22750" locX="-176019" locY="178242" locZ="-10352" heading="58321" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22750" locX="-174952" locY="177824" locZ="-10232" heading="43787" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22750" locX="-175165" locY="177753" locZ="-10248" heading="24997" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22750" locX="-175742" locY="182469" locZ="-10496" heading="48222" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Elite Bgurent -->
+	<spawnzone name="seed_of_annihilation_spawn_zone_05">
+    		<spawn npcId="22751" locX="-184171" locY="183580" locZ="-10416" heading="5920" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22751" locX="-184303" locY="180988" locZ="-10480" heading="33372" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22751" locX="-184782" locY="181435" locZ="-10496" heading="41325" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22751" locX="-177566" locY="182548" locZ="-10600" heading="53903" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22751" locX="-179181" locY="179801" locZ="-10432" heading="62353" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22751" locX="-181829" locY="179940" locZ="-10456" heading="16298" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22751" locX="-181184" locY="179591" locZ="-10416" heading="46320" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22751" locX="-184320" locY="177946" locZ="-10248" heading="56448" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22751" locX="-182001" locY="179628" locZ="-10408" heading="33668" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22751" locX="-185201" locY="178318" locZ="-10320" heading="62950" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22751" locX="-184360" locY="176536" locZ="-10224" heading="22492" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22751" locX="-183598" locY="176026" locZ="-10248" heading="36773" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22751" locX="-177063" locY="177600" locZ="-10376" heading="46345" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22751" locX="-176882" locY="178142" locZ="-10384" heading="17670" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22751" locX="-174736" locY="177780" locZ="-10224" heading="39455" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22751" locX="-175674" locY="177254" locZ="-10256" heading="62342" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22751" locX="-175603" locY="177816" locZ="-10288" heading="38008" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22751" locX="-175641" locY="183165" locZ="-10448" heading="28623" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22751" locX="-175720" locY="182480" locZ="-10488" heading="37605" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22751" locX="-175579" locY="182672" locZ="-10480" heading="55356" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Elite Brakian -->
+	<spawnzone name="seed_of_annihilation_spawn_zone_06">
+    		<spawn npcId="22752" locX="-182681" locY="183767" locZ="-10528" heading="42221" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22752" locX="-183453" locY="183667" locZ="-10464" heading="13282" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22752" locX="-184856" locY="181481" locZ="-10496" heading="39074" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22752" locX="-184473" locY="180980" locZ="-10480" heading="55910" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22752" locX="-178189" locY="182923" locZ="-10576" heading="54026" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22752" locX="-178465" locY="179650" locZ="-10408" heading="61735" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22752" locX="-181641" locY="179592" locZ="-10416" heading="43141" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22752" locX="-178665" locY="180142" locZ="-10464" heading="32725" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22752" locX="-181250" locY="180194" locZ="-10480" heading="11748" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22752" locX="-181012" locY="179901" locZ="-10456" heading="58782" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22752" locX="-185493" locY="178709" locZ="-10344" heading="36339" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22752" locX="-185287" locY="178709" locZ="-10352" heading="9023" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22752" locX="-185514" locY="178063" locZ="-10280" heading="4911" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22752" locX="-183938" locY="176097" locZ="-10240" heading="11067" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22752" locX="-176222" locY="176836" locZ="-10280" heading="64522" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22752" locX="-176214" locY="176661" locZ="-10272" heading="26516" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22752" locX="-175359" locY="179023" locZ="-10312" heading="24876" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22752" locX="-176039" locY="182993" locZ="-10496" heading="42644" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Elite Groikan -->
+	<spawnzone name="seed_of_annihilation_spawn_zone_07">
+    		<spawn npcId="22753" locX="-183904" locY="180988" locZ="-10496" heading="9312" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22753" locX="-183371" locY="183001" locZ="-10560" heading="59166" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22753" locX="-184636" locY="181358" locZ="-10496" heading="61388" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22753" locX="-183786" locY="182917" locZ="-10520" heading="40829" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22753" locX="-183072" locY="182953" locZ="-10568" heading="37138" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22753" locX="-176257" locY="182989" locZ="-10512" heading="62486" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22753" locX="-177823" locY="182767" locZ="-10584" heading="21469" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22753" locX="-178087" locY="182951" locZ="-10576" heading="64988" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22753" locX="-180864" locY="180259" locZ="-10488" heading="39546" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22753" locX="-178647" locY="180331" locZ="-10488" heading="62181" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22753" locX="-180925" locY="180452" locZ="-10512" heading="11178" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22753" locX="-184488" locY="179241" locZ="-10432" heading="15897" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22753" locX="-185198" locY="179575" locZ="-10408" heading="54968" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22753" locX="-183972" locY="176120" locZ="-10240" heading="15412" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22753" locX="-183985" locY="175900" locZ="-10232" heading="27352" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22753" locX="-176938" locY="177653" locZ="-10360" heading="58266" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22753" locX="-176460" locY="177738" locZ="-10344" heading="58105" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22753" locX="-177505" locY="179565" locZ="-10408" heading="33523" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22753" locX="-177779" locY="180106" locZ="-10464" heading="64890" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22753" locX="-176052" locY="177727" locZ="-10320" heading="61568" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22753" locX="-175404" locY="181858" locZ="-10448" heading="53097" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Elite Treykan -->
+	<spawnzone name="seed_of_annihilation_spawn_zone_08">
+    		<spawn npcId="22757" locX="-186289" locY="183343" locZ="-15672" heading="55151" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22757" locX="-184845" locY="183307" locZ="-15616" heading="52044" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22757" locX="-185721" locY="181713" locZ="-15488" heading="12872" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22757" locX="-185032" locY="183317" locZ="-15624" heading="44559" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22757" locX="-182407" locY="180302" locZ="-15096" heading="47734" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22757" locX="-185949" locY="184948" locZ="-15672" heading="41962" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22757" locX="-184889" locY="184538" locZ="-15664" heading="13548" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22757" locX="-185705" locY="180371" locZ="-15480" heading="34828" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22757" locX="-185113" locY="180546" locZ="-15528" heading="59538" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22757" locX="-184503" locY="186498" locZ="-15816" heading="4287" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22757" locX="-180934" locY="180929" locZ="-15152" heading="40036" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22757" locX="-180107" locY="180440" locZ="-15128" heading="28737" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22757" locX="-176117" locY="181434" locZ="-15624" heading="50782" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22757" locX="-185394" locY="178800" locZ="-15336" heading="40151" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22757" locX="-185219" locY="178766" locZ="-15336" heading="7497" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22757" locX="-184498" locY="176430" locZ="-15320" heading="3526" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22757" locX="-183842" locY="177201" locZ="-15312" heading="23524" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22757" locX="-180517" locY="177511" locZ="-15152" heading="22471" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22757" locX="-186120" locY="179614" locZ="-15392" heading="50020" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22757" locX="-177188" locY="177787" locZ="-15824" heading="31287" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22757" locX="-175826" locY="178054" locZ="-15824" heading="13234" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22757" locX="-174923" locY="179845" locZ="-15680" heading="21146" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22757" locX="-174895" locY="180235" locZ="-15680" heading="36843" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22757" locX="-175628" locY="182504" locZ="-15688" heading="9639" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22757" locX="-174791" locY="181324" locZ="-15624" heading="25661" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Elite Turtlelian -->
+	<spawnzone name="seed_of_annihilation_spawn_zone_09">
+    		<spawn npcId="22758" locX="-186417" locY="182888" locZ="-15600" heading="12413" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22758" locX="-185436" locY="184774" locZ="-15664" heading="45631" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22758" locX="-186187" locY="184514" locZ="-15680" heading="62858" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22758" locX="-184741" locY="185949" locZ="-15816" heading="14102" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22758" locX="-186411" locY="181841" locZ="-15528" heading="57503" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22758" locX="-184749" locY="183247" locZ="-15608" heading="24415" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22758" locX="-186050" locY="181701" locZ="-15488" heading="46888" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22758" locX="-185510" locY="180548" locZ="-15512" heading="31821" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22758" locX="-185023" locY="186810" locZ="-15816" heading="38619" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22758" locX="-185401" locY="186718" locZ="-15816" heading="49041" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22758" locX="-182002" locY="181111" locZ="-15104" heading="62818" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22758" locX="-184782" locY="178540" locZ="-15336" heading="60298" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22758" locX="-186191" locY="179734" locZ="-15432" heading="1527" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22758" locX="-180233" locY="177581" locZ="-15152" heading="34516" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22758" locX="-180608" locY="177374" locZ="-15152" heading="57265" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22758" locX="-184648" locY="176491" locZ="-15336" heading="46598" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22758" locX="-183781" locY="176933" locZ="-15304" heading="56868" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22758" locX="-180489" locY="177149" locZ="-15152" heading="56868" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22758" locX="-184625" locY="175788" locZ="-15304" heading="2500" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22758" locX="-176709" locY="177888" locZ="-15824" heading="50506" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22758" locX="-175332" locY="179413" locZ="-15720" heading="38706" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22758" locX="-175987" locY="177651" locZ="-15824" heading="52343" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22758" locX="-174801" locY="179198" locZ="-15760" heading="58499" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22758" locX="-175381" locY="180571" locZ="-15664" heading="3742" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22758" locX="-175001" locY="181783" locZ="-15608" heading="31063" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22758" locX="-175286" locY="181753" locZ="-15584" heading="30350" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Elite Krajian -->
+	<spawnzone name="seed_of_annihilation_spawn_zone_10">
+    		<spawn npcId="22759" locX="-185011" locY="184626" locZ="-15664" heading="56190" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22759" locX="-184793" locY="181046" locZ="-15528" heading="52982" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22759" locX="-186132" locY="183422" locZ="-15672" heading="37392" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22759" locX="-186042" locY="185917" locZ="-15800" heading="14567" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22759" locX="-186296" locY="184817" locZ="-15664" heading="61544" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22759" locX="-184732" locY="182386" locZ="-15568" heading="60296" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22759" locX="-184949" locY="184012" locZ="-15680" heading="55609" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22759" locX="-186360" locY="180387" locZ="-15528" heading="30708" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22759" locX="-184460" locY="187066" locZ="-15808" heading="25998" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22759" locX="-184533" locY="186578" locZ="-15816" heading="33348" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22759" locX="-180393" locY="180374" locZ="-15152" heading="28017" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22759" locX="-182328" locY="180294" locZ="-15112" heading="48963" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22759" locX="-182310" locY="180862" locZ="-15104" heading="25251" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22759" locX="-185916" locY="178327" locZ="-15336" heading="51045" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22759" locX="-180576" locY="178619" locZ="-15152" heading="63335" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22759" locX="-184590" locY="176037" locZ="-15320" heading="52928" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22759" locX="-180147" locY="177278" locZ="-15152" heading="11463" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22759" locX="-176224" locY="177467" locZ="-15824" heading="36245" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22759" locX="-175016" locY="179428" locZ="-15720" heading="16383" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22759" locX="-174310" locY="182020" locZ="-15688" heading="24847" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Elite Tardyon -->
+	<spawnloc name="seed_of_annihilation_npc_loc_05">
+    		<spawn npcId="32769" locX="-186060" locY="185113" locZ="-15720" heading="0" respawnDelay="1800" periodOfDay="0" />
+    		<spawn npcId="32769" locX="-186387" locY="184931" locZ="-15672" heading="0" respawnDelay="1800" periodOfDay="0" />
+    		<spawn npcId="32769" locX="-178104" locY="183412" locZ="-10552" heading="0" respawnDelay="1800" periodOfDay="0" />
+    		<spawn npcId="32769" locX="-180684" locY="180340" locZ="-15152" heading="0" respawnDelay="1800" periodOfDay="0" />
+    		<spawn npcId="32769" locX="-182125" locY="180739" locZ="-15120" heading="0" respawnDelay="1800" periodOfDay="0" />
+    		<spawn npcId="32769" locX="-181994" locY="180454" locZ="-15152" heading="0" respawnDelay="1800" periodOfDay="0" />
+    		<spawn npcId="32769" locX="-185356" locY="178800" locZ="-10360" heading="0" respawnDelay="1800" periodOfDay="0" />
+    		<spawn npcId="32769" locX="-184572" locY="178800" locZ="-10384" heading="0" respawnDelay="1800" periodOfDay="0" />
+    		<spawn npcId="32769" locX="-177062" locY="177469" locZ="-15800" heading="0" respawnDelay="1800" periodOfDay="0" />
+    		<spawn npcId="32769" locX="-175361" locY="186569" locZ="-15128" heading="0" respawnDelay="1800" periodOfDay="0" />
+	</spawnloc> <!-- Gracian Soldier's Corpse -->
+	<spawnloc name="seed_of_annihilation_npc_loc_06">
+    		<spawn npcId="32770" locX="-186442" locY="180512" locZ="-15528" heading="0" respawnDelay="1800" periodOfDay="0" />
+    		<spawn npcId="32770" locX="-183773" locY="180772" locZ="-10464" heading="0" respawnDelay="1800" periodOfDay="0" />
+    		<spawn npcId="32770" locX="-185697" locY="180908" locZ="-15480" heading="0" respawnDelay="1800" periodOfDay="0" />
+    		<spawn npcId="32770" locX="-184304" locY="181000" locZ="-10480" heading="0" respawnDelay="1800" periodOfDay="0" />
+    		<spawn npcId="32770" locX="-178217" locY="180304" locZ="-10496" heading="0" respawnDelay="1800" periodOfDay="0" />
+    		<spawn npcId="32770" locX="-178323" locY="179954" locZ="-10432" heading="0" respawnDelay="1800" periodOfDay="0" />
+    		<spawn npcId="32770" locX="-180710" locY="177036" locZ="-15152" heading="0" respawnDelay="1800" periodOfDay="0" />
+    		<spawn npcId="32770" locX="-176193" locY="177386" locZ="-10304" heading="0" respawnDelay="1800" periodOfDay="0" />
+    		<spawn npcId="32770" locX="-174453" locY="178028" locZ="-10224" heading="0" respawnDelay="1800" periodOfDay="0" />
+    		<spawn npcId="32770" locX="-175323" locY="177600" locZ="-10248" heading="0" respawnDelay="1800" periodOfDay="0" />
+	</spawnloc> <!-- Gracian Soldier's Corpse -->
+	<spawnloc name="seed_of_annihilation_npc_loc_07">
+    		<spawn npcId="32771" locX="-186684" locY="182872" locZ="-15568" heading="0" respawnDelay="1800" periodOfDay="0" />
+    		<spawn npcId="32771" locX="-186388" locY="182808" locZ="-15592" heading="0" respawnDelay="1800" periodOfDay="0" />
+    		<spawn npcId="32771" locX="-184817" locY="181347" locZ="-10488" heading="0" respawnDelay="1800" periodOfDay="0" />
+    		<spawn npcId="32771" locX="-181937" locY="180452" locZ="-10520" heading="0" respawnDelay="1800" periodOfDay="0" />
+    		<spawn npcId="32771" locX="-182072" locY="180012" locZ="-10456" heading="0" respawnDelay="1800" periodOfDay="0" />
+    		<spawn npcId="32771" locX="-185224" locY="179492" locZ="-15408" heading="0" respawnDelay="1800" periodOfDay="0" />
+    		<spawn npcId="32771" locX="-181532" locY="180012" locZ="-10464" heading="0" respawnDelay="1800" periodOfDay="0" />
+    		<spawn npcId="32771" locX="-174778" locY="179102" locZ="-15768" heading="0" respawnDelay="1800" periodOfDay="0" />
+	</spawnloc> <!-- Gracian Soldier's Corpse -->
+	<spawnloc name="seed_of_annihilation_npc_loc_08">
+    		<spawn npcId="32772" locX="-183067" locY="183297" locZ="-10560" heading="0" respawnDelay="1800" periodOfDay="0" />
+    		<spawn npcId="32772" locX="-184867" locY="186582" locZ="-15816" heading="0" respawnDelay="1800" periodOfDay="0" />
+    		<spawn npcId="32772" locX="-176143" locY="183062" locZ="-10496" heading="0" respawnDelay="1800" periodOfDay="0" />
+    		<spawn npcId="32772" locX="-184988" locY="176880" locZ="-15328" heading="0" respawnDelay="1800" periodOfDay="0" />
+    		<spawn npcId="32772" locX="-184003" locY="176960" locZ="-10232" heading="0" respawnDelay="1800" periodOfDay="0" />
+    		<spawn npcId="32772" locX="-183506" locY="176492" locZ="-10272" heading="0" respawnDelay="1800" periodOfDay="0" />
+    		<spawn npcId="32772" locX="-174510" locY="181976" locZ="-15696" heading="0" respawnDelay="1800" periodOfDay="0" />
+    		<spawn npcId="32772" locX="-175455" locY="181727" locZ="-15600" heading="0" respawnDelay="1800" periodOfDay="0" />
+    		<spawn npcId="32772" locX="-176017" locY="182610" locZ="-10512" heading="0" respawnDelay="1800" periodOfDay="0" />
+	</spawnloc> <!-- Gracian Soldier's Corpse -->
+	<spawnloc name="seed_of_annihilation_npc_loc_09">
+    		<spawn npcId="32775" locX="-180397" locY="186353" locZ="-10576" heading="59993" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32775" locX="-180234" locY="186114" locZ="-10584" heading="16236" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32775" locX="-180395" locY="186180" locZ="-10576" heading="4550" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32775" locX="-180249" locY="186380" locZ="-10592" heading="50574" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32775" locX="-180105" locY="186193" locZ="-10584" heading="27964" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32775" locX="-180162" locY="186440" locZ="-10576" heading="45361" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32775" locX="-180057" locY="186411" locZ="-10568" heading="40330" respawnDelay="60" periodOfDay="0" />
+	</spawnloc> <!-- Gracian Soldier's Corpse -->
+	<spawnloc name="seed_of_annihilation_npc_loc_10">
+    		<spawn npcId="32776" locX="-180326" locY="186350" locZ="-10584" heading="57345" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32776" locX="-180298" locY="186173" locZ="-10592" heading="9376" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32776" locX="-180243" locY="186487" locZ="-10568" heading="49649" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32776" locX="-180383" locY="186436" locZ="-10568" heading="56433" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32776" locX="-180158" locY="186177" locZ="-10592" heading="24234" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32776" locX="-180214" locY="186159" locZ="-10592" heading="18297" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32776" locX="-180156" locY="186280" locZ="-10600" heading="35959" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32776" locX="-180195" locY="186307" locZ="-10608" heading="42606" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32776" locX="-180201" locY="186216" locZ="-10608" heading="23260" respawnDelay="60" periodOfDay="0" />
+	</spawnloc> <!-- Gracian Soldier's Corpse -->
+	<spawnloc name="seed_of_annihilation_npc_loc_11">
+    		<spawn npcId="32773" locX="-180354" locY="186274" locZ="-10584" heading="64009" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32774" locX="-180090" locY="186277" locZ="-10584" heading="34300" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32736" locX="-180232" locY="186256" locZ="-10608" heading="11632" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32739" locX="-174654" locY="184277" locZ="-15408" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnloc> 
+</list>

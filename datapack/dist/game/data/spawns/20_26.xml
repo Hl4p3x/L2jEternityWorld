@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawns.xsd">
+	<spawnzone name="base_tower_zone_01">
+    		<spawn npcId="22362" locX="16927" locY="278148" locZ="-9696" heading="0" respawnDelay="10800" periodOfDay="0" />
+	</spawnzone> <!-- Guzen -->
+	<spawnzone name="base_tower_zone_01">
+    		<spawn npcId="22363" locX="16618" locY="281393" locZ="-9700" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22363" locX="16064" locY="281577" locZ="-9700" heading="0" respawnDelay="180" periodOfDay="0" />
+	</spawnzone> <!-- Body Destroyer -->
+	<spawnzone name="base_tower_zone_02">
+    		<spawn npcId="22365" locX="14656" locY="282512" locZ="-9696" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22365" locX="14672" locY="283408" locZ="-9696" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22365" locX="13813" locY="282513" locZ="-9696" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22365" locX="13936" locY="283904" locZ="-9696" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22365" locX="13465" locY="283081" locZ="-9696" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22365" locX="13026" locY="282968" locZ="-9696" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22365" locX="14693" locY="280312" locZ="-9696" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22365" locX="15197" locY="280583" locZ="-9696" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22365" locX="14075" locY="281482" locZ="-9696" heading="0" respawnDelay="300" periodOfDay="0" />
+    		<spawn npcId="22365" locX="13142" locY="280530" locZ="-9696" heading="0" respawnDelay="300" periodOfDay="0" />
+    		<spawn npcId="22365" locX="12740" locY="279532" locZ="-9696" heading="0" respawnDelay="300" periodOfDay="0" />
+    		<spawn npcId="22365" locX="13518" locY="279776" locZ="-9696" heading="0" respawnDelay="300" periodOfDay="0" />
+    		<spawn npcId="22365" locX="13827" locY="278053" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22365" locX="13173" locY="278478" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22365" locX="12740" locY="277128" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22365" locX="13207" locY="276668" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22365" locX="16683" locY="276684" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22365" locX="15937" locY="276677" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22365" locX="19571" locY="277287" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22365" locX="18842" locY="277593" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22365" locX="19303" locY="278495" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22365" locX="19687" locY="277877" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22365" locX="19137" locY="279161" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22365" locX="19242" locY="279941" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22365" locX="19569" locY="280755" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22365" locX="19423" locY="281572" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+	</spawnzone> <!-- Labyrinth Watchman -->
+	<spawnzone name="base_tower_zone_03">
+    		<spawn npcId="22366" locX="15168" locY="282528" locZ="-9696" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22366" locX="15185" locY="283476" locZ="-9696" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22366" locX="14288" locY="283944" locZ="-9696" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22366" locX="13012" locY="283536" locZ="-9696" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22366" locX="12770" locY="283059" locZ="-9696" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22366" locX="15195" locY="281119" locZ="-9696" heading="0" respawnDelay="180" periodOfDay="0" />
+	</spawnzone> <!-- Labyrinth Watchman -->
+	<spawnzone name="base_tower_zone_04">
+    		<spawn npcId="22367" locX="14947" locY="283709" locZ="-9696" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22367" locX="15427" locY="283907" locZ="-9696" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22367" locX="14171" locY="283382" locZ="-9696" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22367" locX="14154" locY="282559" locZ="-9696" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22367" locX="13701" locY="283577" locZ="-9696" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22367" locX="13239" locY="283898" locZ="-9696" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22367" locX="12769" locY="283825" locZ="-9696" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22367" locX="14971" locY="280827" locZ="-9696" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22367" locX="15413" locY="281518" locZ="-9696" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22367" locX="14731" locY="281428" locZ="-9696" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22367" locX="14159" locY="281717" locZ="-9696" heading="0" respawnDelay="300" periodOfDay="0" />
+    		<spawn npcId="22367" locX="13594" locY="280520" locZ="-9696" heading="0" respawnDelay="300" periodOfDay="0" />
+    		<spawn npcId="22367" locX="12716" locY="279054" locZ="-9696" heading="0" respawnDelay="300" periodOfDay="0" />
+    		<spawn npcId="22367" locX="12743" locY="278253" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22367" locX="13116" locY="278073" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22367" locX="14051" locY="277612" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22367" locX="13966" locY="277384" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22367" locX="17347" locY="276770" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22367" locX="15055" locY="276661" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22367" locX="18758" locY="277282" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22367" locX="19866" locY="277084" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22367" locX="19359" locY="278110" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22367" locX="19370" locY="277730" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22367" locX="19636" locY="279408" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22367" locX="18264" locY="279381" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22367" locX="18740" locY="280511" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22367" locX="18456" locY="281050" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+	</spawnzone> <!-- Labyrinth Mystic -->
+	<spawnzone name="base_tower_zone_05">
+    		<spawn npcId="22368" locX="12985" locY="281482" locZ="-9696" heading="0" respawnDelay="300" periodOfDay="0" />
+    		<spawn npcId="22368" locX="14217" locY="281021" locZ="-9696" heading="0" respawnDelay="300" periodOfDay="0" />
+    		<spawn npcId="22368" locX="13115" locY="279770" locZ="-9696" heading="0" respawnDelay="300" periodOfDay="0" />
+    		<spawn npcId="22368" locX="14092" locY="279534" locZ="-9696" heading="0" respawnDelay="300" periodOfDay="0" />
+    		<spawn npcId="22368" locX="13046" locY="278802" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22368" locX="12899" locY="277883" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22368" locX="12859" locY="277376" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22368" locX="13428" locY="277369" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22368" locX="16144" locY="276779" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22368" locX="15569" locY="276865" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22368" locX="18970" locY="276713" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22368" locX="19859" locY="276811" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22368" locX="19250" locY="278077" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22368" locX="19554" locY="278432" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22368" locX="19278" locY="279463" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22368" locX="18770" locY="278946" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22368" locX="18146" locY="280917" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22368" locX="17897" locY="281390" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+	</spawnzone> <!-- Labyrinth Captain -->
+	<spawnzone name="base_tower_zone_06">
+    		<spawn npcId="22369" locX="14352" locY="281256" locZ="-9696" heading="0" respawnDelay="300" periodOfDay="0" />
+    		<spawn npcId="22369" locX="12727" locY="281053" locZ="-9696" heading="0" respawnDelay="300" periodOfDay="0" />
+    		<spawn npcId="22369" locX="13728" locY="279047" locZ="-9696" heading="0" respawnDelay="300" periodOfDay="0" />
+    		<spawn npcId="22369" locX="14293" locY="280007" locZ="-9696" heading="0" respawnDelay="300" periodOfDay="0" />
+    		<spawn npcId="22369" locX="13781" locY="278747" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22369" locX="13645" locY="278106" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22369" locX="14435" locY="276964" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22369" locX="13768" locY="277336" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22369" locX="16358" locY="276671" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22369" locX="15864" locY="276797" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22369" locX="18250" locY="277040" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22369" locX="18959" locY="277075" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22369" locX="18789" locY="277846" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22369" locX="19319" locY="278707" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22369" locX="18597" locY="279892" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22369" locX="19435" locY="279937" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22369" locX="18247" locY="280370" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="22369" locX="19590" locY="280994" locZ="-9700" heading="0" respawnDelay="120" periodOfDay="0" />
+	</spawnzone> <!-- Labyrinth Priest -->
+	<spawnzone name="base_tower_zone_07">
+    		<spawn npcId="22370" locX="19757" locY="276682" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22370" locX="19760" locY="277744" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22370" locX="19760" locY="278835" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22370" locX="19735" locY="279881" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22370" locX="19240" locY="276684" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22370" locX="19206" locY="277762" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22370" locX="19321" locY="278822" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22370" locX="19340" locY="279831" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22370" locX="18752" locY="276700" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22370" locX="18730" locY="277761" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22370" locX="18784" locY="278816" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22370" locX="18736" locY="279872" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22370" locX="18409" locY="279884" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22370" locX="18393" locY="278814" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22370" locX="18416" locY="277760" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22370" locX="18396" locY="276690" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22370" locX="16598" locY="276508" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22370" locX="16980" locY="277061" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22370" locX="15962" locY="276387" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22370" locX="14861" locY="277766" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22370" locX="14545" locY="276586" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22370" locX="13288" locY="276595" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22370" locX="13582" locY="277774" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22370" locX="13530" locY="277156" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22370" locX="13968" locY="279319" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22370" locX="13070" locY="279153" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22370" locX="13069" locY="280228" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22370" locX="13665" locY="280571" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22370" locX="13963" locY="280693" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22370" locX="14009" locY="280131" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22370" locX="17520" locY="283229" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+	</spawnzone> <!-- Passageway Captain -->
+	<spawnzone name="base_tower_zone_08">
+    		<spawn npcId="22372" locX="15719" locY="277299" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22372" locX="16418" locY="277259" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22372" locX="15727" locY="276871" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22372" locX="14778" locY="277344" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22372" locX="14831" locY="277017" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22372" locX="14005" locY="277352" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22372" locX="13686" locY="277149" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22372" locX="12891" locY="279151" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22372" locX="12879" locY="278885" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22372" locX="17515" locY="282721" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="22372" locX="17215" locY="283444" locZ="-7552" heading="0" respawnDelay="180" periodOfDay="0" />
+	</spawnzone> <!-- Passageway Mystic -->
+	<spawnloc name="base_tower_loc_01">
+    		<spawn npcId="32302" locX="13276" locY="282020" locZ="-7551" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32373" locX="17934" locY="283189" locZ="-9701" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnloc>
+</list>

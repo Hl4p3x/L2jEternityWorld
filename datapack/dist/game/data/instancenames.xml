@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd/instancenames.xsd">
+	<instance id="1" name="Зона Дуэли Группы" />
+	<instance id="2" name="Площадь Тьмы" />
+	<instance id="3" name="Башня Вечности Принца Демона" />
+	<instance id="4" name="Башня Вечности Ранку" />
+	<instance id="5" name="Мастерская Тулли, 1 этаж" />
+	<instance id="6" name="Мастерская Тулли, 3 этаж" />
+	<instance id="7" name="Мастерская Тулли, 5 этаж" />
+	<instance id="8" name="Мастерская Тулли, 7 этаж" />
+	<instance id="9" name="Особняк Темного Облака" />
+	<instance id="10" name="Кристальная Пещера" />
+	<instance id="11" name="Сад Норнил" />
+	<instance id="12" name="Сад Норнил" />
+	<instance id="13" name="Подземелье Замка" />
+	<instance id="14" name="Подземелье Замка" />
+	<instance id="15" name="Подземелье Замка" />
+	<instance id="16" name="Подземелье Замка" />
+	<instance id="17" name="Подземелье Замка" />
+	<instance id="18" name="Подземелье Замка" />
+	<instance id="19" name="Подземелье Замка" />
+	<instance id="20" name="Подземелье Замка" />
+	<instance id="21" name="Подземелье Замка" />
+	<instance id="22" name="Подземелье Монстров" />
+	<instance id="23" name="Подземелье Монстров" />
+	<instance id="24" name="Подземелье Монстров" />
+	<instance id="25" name="Подземелье Монстров" />
+	<instance id="26" name="Подземелье Монстров" />
+	<instance id="27" name="Подземелье Монстров" />
+	<instance id="28" name="Подземелье Монстров" />
+	<instance id="29" name="Подземелье Монстров" />
+	<instance id="30" name="Подземелье Монстров" />
+	<instance id="31" name="Подземелье Монстров" />
+	<instance id="32" name="Подземелье Монстров" />
+	<instance id="33" name="Подземелье Монстров" />
+	<instance id="34" name="Подземелье Монстров" />
+	<instance id="35" name="Подземелье Монстров" />
+	<instance id="36" name="Подземелье Монстров" />
+	<instance id="37" name="Подземелье Монстров" />
+	<instance id="38" name="Подземелье Монстров" />
+	<instance id="39" name="Подземелье Монстров" />
+	<instance id="40" name="Подземелье Монстров" />
+	<instance id="41" name="Подземелье Монстров" />
+	<instance id="42" name="Подземелье Монстров" />
+	<instance id="43" name="Пайлака (Забытый Храм)" />
+	<instance id="44" name="Пайлака (Остров Дьявола)" />
+	<instance id="45" name="Пайлака (Лагерь Фавнов Варка)" />
+	<instance id="46" name="Окрестности Камалоки" />
+	<instance id="47" name="Окрестности Камалоки" />
+	<instance id="48" name="Окрестности Камалоки" />
+	<instance id="49" name="Окрестности Камалоки" />
+	<instance id="50" name="Окрестности Камалоки" />
+	<instance id="51" name="Окрестности Камалоки" />
+	<instance id="52" name="Окрестности Камалоки" />
+	<instance id="53" name="Окрестности Камалоки" />
+	<instance id="54" name="Окрестности Камалоки" />
+	<instance id="55" name="Окрестности Камалоки" />
+	<instance id="56" name="Окрестности Камалоки" />
+	<instance id="57" name="Камалока (Зал Бездны)" />
+	<instance id="58" name="Камалока (Зал Бездны)" />
+	<instance id="59" name="Земли Камалоки" />
+	<instance id="60" name="Камалока (Зал Бездны)" />
+	<instance id="61" name="Камалока (Зал Бездны)" />
+	<instance id="62" name="Земли Камалоки" />
+	<instance id="63" name="Камалока (Зал Бездны)" />
+	<instance id="64" name="Камалока (Зал Бездны)" />
+	<instance id="65" name="Земли Камалоки" />
+	<instance id="66" name="Камалока (Зал Бездны)" />
+	<instance id="67" name="Камалока (Зал Бездны)" />
+	<instance id="68" name="Земли Камалоки" />
+	<instance id="69" name="Камалока (Зал Бездны)" />
+	<instance id="70" name="Камалока (Зал Бездны)" />
+	<instance id="71" name="Земли Камалоки" />
+	<instance id="72" name="Камалока (Зал Бездны)" />
+	<instance id="73" name="Камалока (Лабиринт Бездны)" />
+	<instance id="74" name="Камалока (Лабиринт Бездны)" />
+	<instance id="75" name="Камалока (Лабиринт Бездны)" />
+	<instance id="76" name="Камалока (Лабиринт Бездны)" />
+	<instance id="77" name="Камалока (Лабиринт Бездны)" />
+	<instance id="78" name="Камалока (Лабиринт Бездны)" />
+	<instance id="79" name="Камалока (Лабиринт Бездны)" />
+	<instance id="80" name="Замок Пайлаки" />
+	<instance id="81" name="Замок Пайлаки" />
+	<instance id="82" name="Замок Пайлаки" />
+	<instance id="83" name="Замок Пайлаки" />
+	<instance id="84" name="Замок Пайлаки" />
+	<instance id="85" name="Замок Пайлаки" />
+	<instance id="86" name="Замок Пайлаки" />
+	<instance id="87" name="Замок Пайлаки" />
+	<instance id="88" name="Замок Пайлаки" />
+	<instance id="89" name="Замок Пайлаки" />
+	<instance id="90" name="Замок Пайлаки" />
+	<instance id="91" name="Замок Пайлаки" />
+	<instance id="92" name="Замок Пайлаки" />
+	<instance id="93" name="Замок Пайлаки" />
+	<instance id="94" name="Замок Пайлаки" />
+	<instance id="95" name="Замок Пайлаки" />
+	<instance id="96" name="Замок Пайлаки" />
+	<instance id="97" name="Замок Пайлаки" />
+	<instance id="98" name="Замок Пайлаки" />
+	<instance id="99" name="Замок Пайлаки" />
+	<instance id="100" name="Замок Пайлаки" />
+	<instance id="101" name="Замок Пайлаки" />
+	<instance id="102" name="Замок Пайлаки" />
+	<instance id="103" name="Замок Пайлаки" />
+	<instance id="104" name="Замок Пайлаки" />
+	<instance id="105" name="Замок Пайлаки" />
+	<instance id="106" name="Замок Пайлаки" />
+	<instance id="107" name="Замок Пайлаки" />
+	<instance id="108" name="Замок Пайлаки" />
+	<instance id="109" name="Замок Пайлаки" />
+	<instance id="110" name="Семя Разрушения" />
+	<instance id="111" name="Святая Обитель Правителей Рассвета" />
+	<instance id="112" name="Некрополь Апостолов (Прошлое)" />
+	<instance id="113" name="Холл Рассвета" />
+	<instance id="114" name="Логово Короля Пиратов (Ночь)" />
+	<instance id="115" name="Семя Бессмертия (Зал Страданий)" />
+	<instance id="116" name="Семя Бессмертия (Зал Страданий)" />
+	<instance id="117" name="Секретный Зал Крепости Кецеруса" />
+	<instance id="118" name="Секретный Зал Крепости Кецеруса" />
+	<instance id="119" name="Семя Бессмертия (Зал Гибели)" />
+	<instance id="120" name="Семя Бессмертия (Зал Гибели)" />
+	<instance id="121" name="Семя Бессмертия (Источник Бессмертия)" />
+	<instance id="122" name="Семя Бессмертия (Источник Бессмертия)" />
+	<instance id="123" name="Семя Разрушения (Жрец Армии Дракона)" />
+	<instance id="124" name="Семя Разрушения (Воитель Армии Дракона)" />
+	<instance id="125" name="Семя Разрушения (Воин Армии Дракона)" />
+	<instance id="126" name="Семя Разрушения (Рыцарь Армии Дракона)" />
+	<instance id="127" name="Грань Реальности (Восток)" />
+	<instance id="128" name="Грань Реальности (Запад)" />
+	<instance id="129" name="Грань Реальности (Юг)" />
+	<instance id="130" name="Грань Реальности (Север)" />
+	<instance id="131" name="Грань Реальности (Площадь)" />
+	<instance id="132" name="Грань Реальности (Башня)" />
+	<instance id="133" name="Логово Короля Пиратов (День)" />
+	<instance id="134" name="Камалока (Лабиринт Бездны)" />
+	<instance id="135" name="Логово Короля Пиратов (100 дн.)" />
+	<instance id="136" name="Последнее Пристанище Короля" />
+	<instance id="137" name="Замок Снежной Королевы" />
+	<instance id="138" name="Мифриловая Шахта" />
+	<instance id="139" name="Замок Снежной Королевы" />
+	<instance id="140" name="Холл Гильдии Зинии" />
+	<instance id="141" name="Холл Гильдии Зинии" />
+	<instance id="142" name="Башня Вечности (5-й этаж)" />
+	<instance id="143" name="Башня Вечности (10-й этаж)" />
+	<instance id="144" name="Замок Снежной Королевы (финальное сражение)" />
+	<instance id="145" name="Холл Гильдии Зинии" />
+	<instance id="146" name="Холл Гильдии Зинии" />
+	<instance id="147" name="Олимпиада" />
+	<instance id="148" name="Олимпиада" />
+	<instance id="149" name="Олимпиада" />
+	<instance id="150" name="Олимпиада" />
+	<instance id="151" name="Монастырь Безмолвия" />
+	<instance id="152" name="Монастырь Безмолвия" />
+	<instance id="153" name="Монастырь Безмолвия" />
+	<instance id="154" name="Монастырь Безмолвия" />
+	<instance id="155" name="Монастырь Безмолвия" />
+	<instance id="156" name="Библиотека Мудрецов" />
+	<instance id="157" name="Подземная Библиотека Мудрецов" />
+	<instance id="158" name="Временная Обитель Элькардии" />
+	<instance id="159" name="Рейд в Тюрьму Изгнанников Тьмы" />
+	<instance id="160" name="Окрестности Камалоки" />
+</list>

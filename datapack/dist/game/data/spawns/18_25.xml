@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawns.xsd">
+	<spawnloc name="tower_of_naia_room_1">
+    		<spawn npcId="18494" locX="-46200" locY="246120" locZ="-9120" heading="0" respawnDelay="10" periodOfDay="0" />
+	</spawnloc>  <!-- Ingenious Contraption -->
+	<spawnloc name="tower_of_naia_room_2">
+    		<spawn npcId="18495" locX="-48148" locY="249165" locZ="-9120" heading="32768" respawnDelay="10" periodOfDay="0" />
+	</spawnloc>  <!-- Ingenious Contraption -->
+	<spawnloc name="tower_of_naia_room_3">
+    		<spawn npcId="18496" locX="-51625" locY="246509" locZ="-9984" heading="-16384" respawnDelay="10" periodOfDay="0" />
+	</spawnloc>  <!-- Ingenious Contraption -->
+	<spawnloc name="tower_of_naia_room_4">
+    		<spawn npcId="18497" locX="-49749" locY="243406" locZ="-9984" heading="0" respawnDelay="10" periodOfDay="0" />
+	</spawnloc>  <!-- Ingenious Contraption -->
+	<spawnloc name="tower_of_naia_room_5">
+    		<spawn npcId="18498" locX="-46185" locY="245905" locZ="-9984" heading="16380" respawnDelay="10" periodOfDay="0" />
+	</spawnloc>  <!-- Ingenious Contraption -->
+	<spawnloc name="tower_of_naia_room_6">
+    		<spawn npcId="18499" locX="-48682" locY="248290" locZ="-9984" heading="32768" respawnDelay="10" periodOfDay="0" />
+	</spawnloc>  <!-- Ingenious Contraption -->
+	<spawnloc name="tower_of_naia_room_7">
+    		<spawn npcId="18500" locX="-51633" locY="246339" locZ="-10848" heading="-16384" respawnDelay="10" periodOfDay="0" />
+	</spawnloc>  <!-- Ingenious Contraption -->
+	<spawnloc name="tower_of_naia_room_8">
+    		<spawn npcId="18501" locX="-49150" locY="243968" locZ="-10848" heading="0" respawnDelay="10" periodOfDay="0" />
+	</spawnloc>  <!-- Ingenious Contraption -->
+	<spawnloc name="tower_of_naia_room_9">
+    		<spawn npcId="18502" locX="-46227" locY="245908" locZ="-11704" heading="16384" respawnDelay="10" periodOfDay="0" />
+	</spawnloc>  <!-- Ingenious Contraption -->
+	<spawnloc name="tower_of_naia_room_10">
+    		<spawn npcId="18503" locX="-48706" locY="248287" locZ="-11712" heading="32768" respawnDelay="10" periodOfDay="0" />
+	</spawnloc>  <!-- Ingenious Contraption -->
+	<spawnloc name="tower_of_naia_room_11">
+    		<spawn npcId="18504" locX="-51630" locY="246340" locZ="-12568" heading="-16384" respawnDelay="10" periodOfDay="0" />
+	</spawnloc>  <!-- Ingenious Contraption -->
+	<spawnloc name="tower_of_naia_room_12">
+    		<spawn npcId="18505" locX="-48537" locY="243648" locZ="-13376" heading="-13094" respawnDelay="10" periodOfDay="0" />
+	</spawnloc>  <!-- Ingenious Contraption -->
+	<spawnloc name="tower_of_naia">
+    		<spawn npcId="32370" locX="-45531" locY="245872" locZ="-14192" heading="49151" respawnDelay="60" periodOfDay="0" />
+	</spawnloc>  <!-- Old Dwarven Ghost -->
+</list>

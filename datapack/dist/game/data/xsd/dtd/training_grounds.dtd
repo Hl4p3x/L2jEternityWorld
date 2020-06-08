@@ -1,0 +1,15 @@
+<!ELEMENT list (camp)* >
+<!ELEMENT camp (spawn)* >
+<!ELEMENT spawn EMPTY >
+
+<!ATTLIST camp
+	id CDATA #REQUIRED
+>
+
+<!ATTLIST spawn
+	npcId CDATA #REQUIRED
+	x CDATA #REQUIRED
+	y CDATA #REQUIRED
+	z CDATA #REQUIRED
+	heading CDATA #REQUIRED
+>

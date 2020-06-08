@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="list">
+		<xs:complexType>
+			<xs:sequence minOccurs="1" maxOccurs="1">
+				<xs:element name="phantomSkills" minOccurs="0" maxOccurs="100">
+					<xs:complexType>
+						<xs:sequence minOccurs="1" maxOccurs="1">
+							<xs:element name="mAttackSkill" minOccurs="0" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:attribute name="id" type="xs:positiveInteger" />
+									<xs:attribute name="level" type="xs:positiveInteger" />
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="fAttackSkill" minOccurs="0" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:attribute name="id" type="xs:positiveInteger" />
+									<xs:attribute name="level" type="xs:positiveInteger" />
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="buffSkill" minOccurs="0" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:attribute name="id" type="xs:positiveInteger" />
+									<xs:attribute name="level" type="xs:positiveInteger" />
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="debuffSkill" minOccurs="0" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:attribute name="id" type="xs:positiveInteger" />
+									<xs:attribute name="level" type="xs:positiveInteger" />
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="activePvpSkill" minOccurs="0" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:attribute name="id" type="xs:positiveInteger" />
+									<xs:attribute name="level" type="xs:positiveInteger" />
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="healSkill" minOccurs="0" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:attribute name="id" type="xs:positiveInteger" />
+									<xs:attribute name="level" type="xs:positiveInteger" />
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+						<xs:attribute name="classId">
+							<xs:simpleType>
+								<xs:restriction base="xs:nonNegativeInteger">
+									<xs:minInclusive value="0" />
+									<xs:maxInclusive value="136" />
+								</xs:restriction>
+							</xs:simpleType>
+						</xs:attribute>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

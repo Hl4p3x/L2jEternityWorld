@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="list">
+		<xs:complexType>
+			<xs:sequence minOccurs="1" maxOccurs="1">
+				<xs:element name="phantomMessages" minOccurs="0" maxOccurs="1">
+					<xs:complexType>
+						<xs:sequence minOccurs="1" maxOccurs="1">
+							<xs:element name="shout" minOccurs="0" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:attribute name="message" type="xs:normalizedString" use="required" />
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="dead" minOccurs="0" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:attribute name="message" type="xs:normalizedString" use="required" />
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

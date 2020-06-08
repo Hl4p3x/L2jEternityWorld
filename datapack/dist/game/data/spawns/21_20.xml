@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawns.xsd">
+	<spawnzone name="elven_village_zone_47">
+    		<spawn npcId="20013" locX="57661" locY="77516" locZ="-3552" heading="0" respawnDelay="15" periodOfDay="0" />
+    		<spawn npcId="20013" locX="56437" locY="78587" locZ="-3560" heading="0" respawnDelay="15" periodOfDay="0" />
+    		<spawn npcId="20013" locX="57814" locY="78587" locZ="-3576" heading="0" respawnDelay="15" periodOfDay="0" />
+    		<spawn npcId="20013" locX="56425" locY="83499" locZ="-3560" heading="0" respawnDelay="15" periodOfDay="0" />
+    		<spawn npcId="20013" locX="57140" locY="83007" locZ="-3552" heading="0" respawnDelay="15" periodOfDay="0" />
+    		<spawn npcId="20013" locX="56035" locY="85467" locZ="-3576" heading="0" respawnDelay="15" periodOfDay="0" />
+    		<spawn npcId="20013" locX="55853" locY="84606" locZ="-3552" heading="0" respawnDelay="15" periodOfDay="0" />
+    		<spawn npcId="20013" locX="56237" locY="87267" locZ="-3584" heading="0" respawnDelay="15" periodOfDay="0" />
+	</spawnzone> <!-- Dryad -->
+	<spawnzone name="elven_village_zone_48">
+    		<spawn npcId="20019" locX="56743" locY="79505" locZ="-3552" heading="0" respawnDelay="15" periodOfDay="0" />
+    		<spawn npcId="20019" locX="58273" locY="79811" locZ="-3576" heading="0" respawnDelay="15" periodOfDay="0" />
+    		<spawn npcId="20019" locX="57283" locY="83868" locZ="-3552" heading="0" respawnDelay="15" periodOfDay="0" />
+    		<spawn npcId="20019" locX="57569" locY="83499" locZ="-3544" heading="0" respawnDelay="15" periodOfDay="0" />
+    		<spawn npcId="20019" locX="56338" locY="86517" locZ="-3624" heading="25348" respawnDelay="15" periodOfDay="0" />
+    		<spawn npcId="20019" locX="55833" locY="87267" locZ="-3576" heading="0" respawnDelay="15" periodOfDay="0" />
+	</spawnzone> <!-- Dryad Elder -->
+	<spawnzone name="elven_village_zone_49">
+    		<spawn npcId="20460" locX="56854" locY="83745" locZ="-3552" heading="24214" respawnDelay="15" periodOfDay="0" />
+    		<spawn npcId="20460" locX="55732" locY="86667" locZ="-3592" heading="0" respawnDelay="15" periodOfDay="0" />
+	</spawnzone> <!-- Crimson Spider -->
+	<spawnzone name="elven_village_zone_50">
+    		<spawn npcId="20471" locX="54612" locY="67264" locZ="-3544" heading="0" respawnDelay="15" periodOfDay="0" />
+    		<spawn npcId="20471" locX="56132" locY="66072" locZ="-3464" heading="0" respawnDelay="15" periodOfDay="0" />
+    		<spawn npcId="20471" locX="54225" locY="70490" locZ="-3480" heading="0" respawnDelay="15" periodOfDay="0" />
+    		<spawn npcId="20471" locX="54588" locY="71370" locZ="-3416" heading="0" respawnDelay="15" periodOfDay="0" />
+	</spawnzone> <!-- Kaboo Orc Fighter -->
+	<spawnzone name="elven_village_zone_51">
+    		<spawn npcId="20472" locX="54612" locY="66966" locZ="-3536" heading="0" respawnDelay="15" periodOfDay="0" />
+    		<spawn npcId="20472" locX="54156" locY="67711" locZ="-3592" heading="1123" respawnDelay="15" periodOfDay="0" />
+    		<spawn npcId="20472" locX="54951" locY="71150" locZ="-3448" heading="0" respawnDelay="15" periodOfDay="0" />
+    		<spawn npcId="20472" locX="56437" locY="79046" locZ="-3536" heading="0" respawnDelay="15" periodOfDay="0" />
+    		<spawn npcId="20472" locX="57814" locY="78281" locZ="-3576" heading="0" respawnDelay="15" periodOfDay="0" />
+	</spawnzone> <!-- Kaboo Orc Fighter Leader -->
+	<spawnzone name="elven_village_zone_52">
+    		<spawn npcId="20473" locX="54612" locY="67264" locZ="-3544" heading="0" respawnDelay="15" periodOfDay="0" />
+    		<spawn npcId="20473" locX="55372" locY="67860" locZ="-3576" heading="0" respawnDelay="15" periodOfDay="0" />
+    		<spawn npcId="20473" locX="55072" locY="70490" locZ="-3560" heading="0" respawnDelay="15" periodOfDay="0" />
+    		<spawn npcId="20473" locX="54126" locY="71556" locZ="-3368" heading="55369" respawnDelay="15" periodOfDay="0" />
+	</spawnzone> <!-- Kaboo Orc Fighter Lieutenant -->
+	<spawnzone name="oren28_2219_01">
+    		<spawn npcId="20584" locX="65042" locY="72974" locZ="-3723" heading="47831" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20585" locX="65494" locY="69406" locZ="-3723" heading="39535" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20586" locX="65324" locY="70222" locZ="-3713" heading="37652" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20586" locX="65002" locY="71201" locZ="-3691" heading="35518" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20586" locX="65215" locY="71997" locZ="-3717" heading="28802" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20587" locX="64788" locY="66771" locZ="-3688" heading="7792" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20767" locX="64879" locY="65564" locZ="-3681" heading="32730" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20767" locX="64248" locY="70585" locZ="-3522" heading="36253" respawnDelay="40" periodOfDay="0" />
+	</spawnzone> <!-- Timak Orcs -->
+	<spawnzone name="elven_village_zone_53">
+    		<spawn npcId="27064" locX="40494" locY="68888" locZ="-3548" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="27065" locX="36148" locY="81950" locZ="-3592" heading="47071" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="27066" locX="36273" locY="81761" locZ="-3616" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="27066" locX="36368" locY="81877" locZ="-3616" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="27067" locX="45499" locY="91692" locZ="-3552" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="27068" locX="58086" locY="77350" locZ="-3536" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="27069" locX="58113" locY="77163" locZ="-3528" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="27069" locX="57974" locY="77296" locZ="-3536" heading="0" respawnDelay="180" periodOfDay="0" />
+	</spawnzone>
+	<spawnzone name="elven_village_zone_54">
+    		<spawn npcId="27077" locX="56214" locY="90020" locZ="-3616" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="27077" locX="49061" locY="92034" locZ="-3664" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="27077" locX="47496" locY="89513" locZ="-3488" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="27077" locX="42840" locY="92980" locZ="-3672" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="27077" locX="38148" locY="91274" locZ="-3400" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="27077" locX="35345" locY="89791" locZ="-3440" heading="0" respawnDelay="180" periodOfDay="0" />
+	</spawnzone> <!-- Unicorn Of Eva -->
+	<spawnloc name="elven_village_territory_loc">
+    		<spawn npcId="30371" locX="51210" locY="82474" locZ="-3283" heading="6000" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30749" locX="63906" locY="74711" locZ="-3667" heading="57344" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31033" locX="35872" locY="78095" locZ="-3600" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnloc>  <!-- All Territory NPC`s -->
+</list>

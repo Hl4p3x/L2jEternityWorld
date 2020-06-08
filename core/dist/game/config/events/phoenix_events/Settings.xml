@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../data/xsd/phoenix_settings.xsd">
+   	<event id="0">
+      		<config name="ipCheckOnRegister" value="false" />
+      		<config name="registerTime" value="600" />
+      		<config name="voteTime" value="3600" />
+      		<config name="voteEnabled" value="false" />
+      		<config name="schedulerEnabled" value="false" />
+      		<config name="firstAfterStartTime" value="60" />
+      		<config name="managerNpcId" value="9999" />
+      		<config name="showVotePopupAt" value="30" />
+      		<config name="votePopupEnabled" value="false" />
+      		<config name="debug" value="true" />
+      		<config name="statTrackingEnabled" value="false" />
+      		<config name="eventBufferEnabled" value="true" />
+      		<config name="allowedBuffsList" value="1068,1085,1086,1087" />
+      		<config name="maxBuffNum" value="2" />
+      		<config name="friendlyFireEnabled" value="false" />
+      		<config name="restartAllowed" value="false" />
+      		<config name="showEscapeEffect" value="true" />
+      		<config name="enableMiniEvents" value="false" />
+      		<config name="npcBufferId" value="90001" />
+      		<restriction type="item" ids="0" />
+      		<restriction type="skill" ids="0" />
+      		<!-- ENABLE/DISABLE EVENTS (temporary solution till the ingame admin panel arrives -->
+      		<config name="eventEnabled_1" value="false" />
+      		<config name="eventEnabled_2" value="false" />
+      		<config name="eventEnabled_3" value="false" />
+      		<config name="eventEnabled_4" value="false" />
+      		<config name="eventEnabled_5" value="false" />
+      		<config name="eventEnabled_6" value="false" />
+      		<config name="eventEnabled_7" value="false" />
+      		<config name="eventEnabled_8" value="false" />
+      		<config name="eventEnabled_9" value="false" />
+      		<config name="eventEnabled_10" value="false" />
+   	</event>
+</events>

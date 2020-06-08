@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawns.xsd">
+	<spawnloc name="fortress_of_dead_loc">
+    		<spawn npcId="35638" locX="56736" locY="-26400" locZ="568" heading="49000" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="35639" locX="58128" locY="-32000" locZ="301" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="35640" locX="58024" locY="-25744" locZ="592" heading="49000" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="35641" locX="58084" locY="-29515" locZ="567" heading="49673" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="35641" locX="57827" locY="-29353" locZ="567" heading="16632" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="35642" locX="58037" locY="-26430" locZ="591" heading="49151" respawnDelay="60" periodOfDay="0" />
+		<spawn npcId="35642" locX="57888" locY="-26346" locZ="588" heading="13028" respawnDelay="60" periodOfDay="0" />
+		<spawn npcId="35642" locX="56943" locY="-27325" locZ="574" heading="27931" respawnDelay="60" periodOfDay="0" />
+		<spawn npcId="35642" locX="57105" locY="-27182" locZ="574" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnloc> <!-- All Location NPC`s -->
+</list>

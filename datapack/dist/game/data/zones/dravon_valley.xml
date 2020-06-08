@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/zones.xsd">
+	<!-- Dragon Valley Zones -->
+	<zone name="dragon_valley" type="DravonValleyZone" shape="NPoly" minZ="-3900" maxZ="-900">
+		<node X="78936" Y="115176" />
+		<node X="78216" Y="110424" />
+		<node X="88472" Y="104248" />
+		<node X="97992" Y="104088" />
+		<node X="100920" Y="106808" />
+		<node X="124872" Y="105304" />
+		<node X="130952" Y="111576" />
+		<node X="126520" Y="119112" />
+		<node X="119512" Y="122840" />
+		<node X="109496" Y="127752" />
+		<node X="99464" Y="124408" />
+		<node X="98792" Y="112856" />
+		<node X="96408" Y="114264" />
+		<node X="94984" Y="120696" />
+		<node X="83784" Y="112680" />
+		<node X="80312" Y="117819" />
+		<node X="73704" Y="119032" />
+	</zone>
+</list>

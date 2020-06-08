@@ -1,0 +1,15 @@
+﻿<html><body>
+Стандартная цена на этот Холл Клана составляет <font color="aaccff">%AGIT_LAST_PRICE%</font> аден. Цена последней продажи Холла Клана <font color="aaccff">%AGIT_LAST_PRICE%</font> аден.<br>
+Из суммы полученой за продажу Холла Клана по завершению аукциона, будет вычтена сумма<font color="LEVEL"> налога (10%) </font>. За какую сумму Вы хотите продать Холл Клана (минимальный размер ставки)?
+<table width=270 border=0><tr><td width=220 align=right><edit var=minbid width=230 align=right type=number></td><td width=40 align=right>аден</td></tr></table>
+На сколько дней Вы хотите заказать аукцион?
+<table width=270 border=0><tr><td width=270 align=right><combobox width=50 var=day list="7;3;1"></td></tr></table>
+Вы можете добавить произвольные коментарии для покупателей. <multiedit var="comment" width=270><img src="L2UI.SquareBlank" width=270 height=10> <img src="L2UI.SquareWhite" width=270 height=1> <img src="L2UI.SquareBlank" width=270 height=5>
+<table width=270 border=0>
+<tr>
+<td width=110></td>
+<td width=80 align=center><button action="%AGIT_LINK_BACK%" value="Back" width=80 height=27 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+<td width=80 align=center><button action="bypass -h npc_%objectId%_auction $day $minbid" value="Sell" width=80 height=27 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td> 
+</tr>
+</table>
+</body></html>

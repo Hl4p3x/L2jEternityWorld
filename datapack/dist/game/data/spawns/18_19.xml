@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawns.xsd">
+	<spawnzone name="dark_elf_village_zone_06">
+    		<spawn npcId="20022" locX="-50408" locY="47896" locZ="-5400" heading="26214" respawnDelay="100" periodOfDay="0" />
+    		<spawn npcId="20022" locX="-50562" locY="47171" locZ="-5400" heading="48125" respawnDelay="100" periodOfDay="0" />
+    		<spawn npcId="20022" locX="-49359" locY="53023" locZ="-4888" heading="8079" respawnDelay="100" periodOfDay="0" />
+    		<spawn npcId="20022" locX="-49464" locY="52667" locZ="-4888" heading="59783" respawnDelay="100" periodOfDay="0" />
+    		<spawn npcId="20022" locX="-48681" locY="53154" locZ="-4888" heading="14583" respawnDelay="100" periodOfDay="0" />
+    		<spawn npcId="20022" locX="-48542" locY="53715" locZ="-4888" heading="65378" respawnDelay="100" periodOfDay="0" />
+    		<spawn npcId="20022" locX="-49036" locY="53726" locZ="-4888" heading="60498" respawnDelay="100" periodOfDay="0" />
+	</spawnzone> <!-- Misery Skeleton -->
+	<spawnzone name="dark_elf_village_zone_07">
+    		<spawn npcId="20031" locX="-47349" locY="43011" locZ="-5400" heading="8042" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20031" locX="-50584" locY="44898" locZ="-5400" heading="48995" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20031" locX="-50832" locY="44533" locZ="-5400" heading="41183" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20031" locX="-49530" locY="43457" locZ="-5400" heading="16223" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20031" locX="-49943" locY="43838" locZ="-5400" heading="6963" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20031" locX="-47391" locY="43134" locZ="-5400" heading="59810" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20031" locX="-45264" locY="44160" locZ="-5400" heading="52443" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20031" locX="-45076" locY="43797" locZ="-5400" heading="7185" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20031" locX="-44450" locY="44486" locZ="-5400" heading="11074" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20031" locX="-44015" locY="44743" locZ="-5400" heading="11074" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20031" locX="-44006" locY="45532" locZ="-5400" heading="55634" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20031" locX="-50853" locY="45399" locZ="-5400" heading="47094" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Omen Beast -->
+	<spawnzone name="dark_elf_village_zone_08">
+    		<spawn npcId="20034" locX="-43503" locY="62916" locZ="-3320" heading="55322" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20034" locX="-43546" locY="63009" locZ="-3320" heading="15930" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20034" locX="-43111" locY="63476" locZ="-3320" heading="54100" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20034" locX="-43431" locY="63184" locZ="-3320" heading="26056" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20034" locX="-44662" locY="63681" locZ="-3336" heading="35300" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20034" locX="-42207" locY="63218" locZ="-3312" heading="11136" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20034" locX="-40400" locY="63037" locZ="-3328" heading="17389" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20034" locX="-40513" locY="65324" locZ="-3328" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20034" locX="-40036" locY="64951" locZ="-3328" heading="43912" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20034" locX="-40767" locY="63543" locZ="-3328" heading="41637" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20034" locX="-39873" locY="64965" locZ="-3328" heading="27013" respawnDelay="20" periodOfDay="0" />
+	</spawnzone> <!-- Prowler -->
+	<spawnzone name="dark_elf_village_zone_09">
+    		<spawn npcId="20041" locX="-49735" locY="43457" locZ="-5400" heading="29157" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20041" locX="-49754" locY="43594" locZ="-5400" heading="57567" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20041" locX="-49572" locY="43929" locZ="-5400" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20041" locX="-50135" locY="43953" locZ="-5400" heading="4835" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20041" locX="-45192" locY="44029" locZ="-5400" heading="58793" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20041" locX="-45488" locY="43454" locZ="-5400" heading="11404" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20041" locX="-45503" locY="43245" locZ="-5400" heading="832" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20041" locX="-45798" locY="43491" locZ="-5400" heading="26693" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20041" locX="-44187" locY="45837" locZ="-5400" heading="34859" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20041" locX="-44366" locY="45486" locZ="-5400" heading="48528" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20041" locX="-50777" locY="45264" locZ="-5400" heading="18473" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20041" locX="-50633" locY="45215" locZ="-5400" heading="51518" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Tainted Zombie -->
+	<spawnzone name="dark_elf_village_zone_10">
+    		<spawn npcId="20046" locX="-47682" locY="43292" locZ="-5400" heading="41297" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20046" locX="-47250" locY="43940" locZ="-5400" heading="46394" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20046" locX="-47072" locY="43982" locZ="-5400" heading="45301" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20046" locX="-47230" locY="43197" locZ="-5400" heading="21219" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20046" locX="-45333" locY="43272" locZ="-5400" heading="61259" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20046" locX="-45446" locY="45966" locZ="-5400" heading="52895" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20046" locX="-45805" locY="45600" locZ="-5400" heading="4554" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20046" locX="-45087" locY="45707" locZ="-5400" heading="18132" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20046" locX="-45091" locY="45701" locZ="-5400" heading="51670" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20046" locX="-49345" locY="46012" locZ="-5400" heading="53499" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20046" locX="-49339" locY="45338" locZ="-5400" heading="3852" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20046" locX="-49368" locY="45532" locZ="-5400" heading="45947" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20046" locX="-49581" locY="45076" locZ="-5400" heading="12892" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Stink Zombie -->
+	<spawnzone name="dark_elf_village_zone_11">
+    		<spawn npcId="20048" locX="-49872" locY="44748" locZ="-5400" heading="45448" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20048" locX="-47406" locY="42934" locZ="-5400" heading="17572" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20048" locX="-47410" locY="43891" locZ="-5400" heading="40738" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20048" locX="-45794" locY="45524" locZ="-5400" heading="39724" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20048" locX="-45061" locY="45509" locZ="-5400" heading="60102" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20048" locX="-45890" locY="45282" locZ="-5400" heading="60102" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20048" locX="-47978" locY="44910" locZ="-5400" heading="58351" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20048" locX="-48186" locY="46020" locZ="-5400" heading="36992" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20048" locX="-47466" locY="45441" locZ="-5400" heading="8079" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20048" locX="-49335" locY="45824" locZ="-5400" heading="14323" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20048" locX="-49180" locY="45324" locZ="-5400" heading="61932" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20048" locX="-49267" locY="46000" locZ="-5400" heading="2027" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Lesser Succubus -->
+	<spawnzone name="dark_elf_village_zone_12">
+    		<spawn npcId="20052" locX="-46817" locY="45186" locZ="-5400" heading="4041" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20052" locX="-48003" locY="44962" locZ="-5400" heading="53659" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20052" locX="-47851" locY="47169" locZ="-5912" heading="21621" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20052" locX="-47318" locY="47525" locZ="-5912" heading="13502" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20052" locX="-47557" locY="48535" locZ="-5720" heading="34557" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20052" locX="-47566" locY="49357" locZ="-5768" heading="19564" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20052" locX="-47136" locY="49197" locZ="-5736" heading="25025" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Lesser Succubus Turen -->
+	<spawnzone name="dark_elf_village_zone_13">
+    		<spawn npcId="20057" locX="-47027" locY="47142" locZ="-5912" heading="28759" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20057" locX="-47109" locY="50036" locZ="-5720" heading="41659" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20057" locX="-47135" locY="50132" locZ="-5720" heading="15960" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20057" locX="-48102" locY="45762" locZ="-5400" heading="17706" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20057" locX="-47867" locY="47195" locZ="-5912" heading="11618" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20057" locX="-47302" locY="47214" locZ="-5912" heading="13377" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20057" locX="-47452" locY="47162" locZ="-5912" heading="16898" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20057" locX="-47603" locY="48344" locZ="-5656" heading="36337" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20057" locX="-47631" locY="50345" locZ="-5720" heading="17071" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20057" locX="-48040" locY="50044" locZ="-5696" heading="33007" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Lesser Succubus Tilfo -->
+	<spawnzone name="dark_elf_village_zone_14">
+    		<spawn npcId="20348" locX="-44350" locY="47577" locZ="-5400" heading="41203" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20348" locX="-44630" locY="49452" locZ="-5912" heading="18986" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20348" locX="-44416" locY="49866" locZ="-5912" heading="15590" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20348" locX="-44231" locY="49505" locZ="-5912" heading="29453" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20348" locX="-44551" locY="49919" locZ="-5912" heading="19377" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20348" locX="-50643" locY="47820" locZ="-5400" heading="20311" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20348" locX="-50551" locY="49242" locZ="-5912" heading="10128" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20348" locX="-50606" locY="48893" locZ="-5912" heading="56048" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20348" locX="-50355" locY="49590" locZ="-5912" heading="50438" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20348" locX="-50306" locY="49464" locZ="-5912" heading="43885" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20348" locX="-49284" locY="52448" locZ="-4888" heading="16812" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20348" locX="-45665" locY="52371" locZ="-4888" heading="39085" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20348" locX="-45522" locY="52186" locZ="-4888" heading="48458" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Cave Spider -->
+	<spawnzone name="dark_elf_village_zone_15">
+    		<spawn npcId="20349" locX="-48976" locY="52524" locZ="-4888" heading="21857" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20349" locX="-50345" locY="53863" locZ="-4888" heading="48784" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20349" locX="-50404" locY="54033" locZ="-4888" heading="19689" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20349" locX="-45327" locY="53627" locZ="-4888" heading="17740" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20349" locX="-45535" locY="53656" locZ="-4888" heading="27221" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20349" locX="-44116" locY="53680" locZ="-4888" heading="3580" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20349" locX="-43728" locY="53216" locZ="-4888" heading="48207" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Cave Bat -->
+	<spawnzone name="dark_elf_village_zone_16">
+    		<spawn npcId="20350" locX="-49812" locY="43028" locZ="-5400" heading="56324" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20350" locX="-45147" locY="43512" locZ="-5400" heading="22810" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20350" locX="-44301" locY="44506" locZ="-5400" heading="54958" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20350" locX="-44309" locY="44677" locZ="-5400" heading="31974" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20350" locX="-43861" locY="45204" locZ="-5400" heading="25571" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20350" locX="-44353" locY="49281" locZ="-5912" heading="7819" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20350" locX="-44631" locY="49272" locZ="-5912" heading="9534" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20350" locX="-50393" locY="45464" locZ="-5400" heading="14856" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20350" locX="-50578" locY="45095" locZ="-5400" heading="59546" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20350" locX="-50731" locY="45118" locZ="-5400" heading="27324" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20350" locX="-50012" locY="49087" locZ="-5912" heading="13263" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20350" locX="-50579" locY="49235" locZ="-5912" heading="28069" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Cave Fang Spider -->
+	<spawnzone name="dark_elf_village_zone_17">
+    		<spawn npcId="20379" locX="-40804" locY="58590" locZ="-3280" heading="53122" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20379" locX="-40441" locY="58930" locZ="-3304" heading="63746" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20379" locX="-39357" locY="58518" locZ="-3312" heading="4196" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20379" locX="-39700" locY="58734" locZ="-3312" heading="8385" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20379" locX="-37242" locY="55035" locZ="-3048" heading="59479" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20379" locX="-35781" locY="53711" locZ="-3240" heading="29608" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20379" locX="-36061" locY="53723" locZ="-3232" heading="20937" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20379" locX="-33689" locY="54728" locZ="-3408" heading="55892" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20379" locX="-33942" locY="56007" locZ="-3384" heading="45969" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20379" locX="-35951" locY="58936" locZ="-3368" heading="20533" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20379" locX="-36358" locY="61220" locZ="-3360" heading="26517" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20379" locX="-42315" locY="60392" locZ="-3304" heading="48878" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20379" locX="-41719" locY="60012" locZ="-3288" heading="28179" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20379" locX="-41379" locY="59550" locZ="-3288" heading="24575" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20379" locX="-41037" locY="59438" locZ="-3272" heading="14932" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20379" locX="-35873" locY="61583" locZ="-3376" heading="27274" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20379" locX="-35187" locY="64193" locZ="-3400" heading="306" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20379" locX="-35515" locY="64529" locZ="-3368" heading="30681" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20379" locX="-33637" locY="59712" locZ="-3416" heading="53071" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20379" locX="-33881" locY="64436" locZ="-3496" heading="5760" respawnDelay="16" periodOfDay="0" />
+	</spawnzone> <!-- Stone Soldier -->
+	<spawnzone name="dark_elf_village_zone_18">
+    		<spawn npcId="20380" locX="-44740" locY="63321" locZ="-3344" heading="16522" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20380" locX="-43606" locY="62267" locZ="-3280" heading="14830" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20380" locX="-43200" locY="62987" locZ="-3320" heading="0" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20380" locX="-44397" locY="63440" locZ="-3336" heading="1756" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20380" locX="-43203" locY="64879" locZ="-3304" heading="48331" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20380" locX="-42645" locY="63840" locZ="-3312" heading="55087" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20380" locX="-40300" locY="64836" locZ="-3320" heading="15966" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20380" locX="-38933" locY="63015" locZ="-3328" heading="5566" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20380" locX="-39738" locY="65283" locZ="-3320" heading="26952" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20380" locX="-40158" locY="64946" locZ="-3328" heading="204" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20380" locX="-40215" locY="64309" locZ="-3328" heading="65262" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20380" locX="-36564" locY="63285" locZ="-3352" heading="19343" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20380" locX="-36284" locY="64485" locZ="-3344" heading="8481" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20380" locX="-33323" locY="62593" locZ="-3488" heading="20533" respawnDelay="20" periodOfDay="0" />
+    		<spawn npcId="20380" locX="-34550" locY="64253" locZ="-3448" heading="9362" respawnDelay="20" periodOfDay="0" />
+	</spawnzone> <!-- Stone Guardian -->
+	<spawnzone name="dark_elf_village_zone_19">
+    		<spawn npcId="20381" locX="-49462" locY="54706" locZ="-4888" heading="32024" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20381" locX="-47361" locY="54854" locZ="-4888" heading="35836" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20381" locX="-48612" locY="55014" locZ="-4888" heading="17127" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20381" locX="-48678" locY="56344" locZ="-4888" heading="13822" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20381" locX="-47463" locY="57535" locZ="-4376" heading="34301" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20381" locX="-47492" locY="57927" locZ="-4376" heading="11547" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20381" locX="-47689" locY="57275" locZ="-4376" heading="35768" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20381" locX="-46132" locY="55182" locZ="-4888" heading="42806" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20381" locX="-46159" locY="54696" locZ="-4888" heading="56060" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Vaiss Orc -->
+	<spawnzone name="dark_elf_village_zone_20">
+    		<spawn npcId="20382" locX="-48917" locY="54939" locZ="-4888" heading="44999" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20382" locX="-49077" locY="55089" locZ="-4888" heading="7651" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20382" locX="-48328" locY="55063" locZ="-4888" heading="55434" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20382" locX="-48844" locY="56674" locZ="-4888" heading="18664" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20382" locX="-48869" locY="56340" locZ="-4888" heading="13023" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20382" locX="-47484" locY="57856" locZ="-4376" heading="18193" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20382" locX="-46644" locY="57830" locZ="-4376" heading="64168" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20382" locX="-46244" locY="54410" locZ="-4888" heading="42041" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20382" locX="-45634" locY="54966" locZ="-4888" heading="7152" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20382" locX="-47050" locY="54928" locZ="-4888" heading="16809" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Vaiss Orc Warrior Leader -->
+	<spawnzone name="dark_elf_village_zone_21">
+    		<spawn npcId="20392" locX="-39826" locY="57193" locZ="-3216" heading="0" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20392" locX="-39188" locY="58987" locZ="-3312" heading="8272" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20392" locX="-39786" locY="57735" locZ="-3200" heading="24265" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20392" locX="-34193" locY="57554" locZ="-3400" heading="62867" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20392" locX="-34739" locY="57905" locZ="-3376" heading="46929" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20392" locX="-38930" locY="57925" locZ="-3336" heading="17706" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20392" locX="-40721" locY="60162" locZ="-3256" heading="7745" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20392" locX="-40700" locY="61044" locZ="-3256" heading="21326" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20392" locX="-36271" locY="61578" locZ="-3368" heading="28784" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20392" locX="-42490" locY="60905" locZ="-3304" heading="28622" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20392" locX="-42997" locY="60854" locZ="-3280" heading="54587" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20392" locX="-42258" locY="60032" locZ="-3304" heading="47032" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20392" locX="-40795" locY="62548" locZ="-3328" heading="50489" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20392" locX="-36359" locY="63660" locZ="-3368" heading="16066" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20392" locX="-35000" locY="65142" locZ="-3408" heading="18784" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20392" locX="-36555" locY="64386" locZ="-3336" heading="41584" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20392" locX="-35826" locY="64240" locZ="-3376" heading="26325" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20392" locX="-34245" locY="60588" locZ="-3416" heading="55286" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20392" locX="-33549" locY="59738" locZ="-3416" heading="43408" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20392" locX="-34865" locY="63235" locZ="-3416" heading="11171" respawnDelay="16" periodOfDay="0" />
+	</spawnzone> <!-- Redeye Bat -->
+	<spawnzone name="dark_elf_village_zone_22">
+    		<spawn npcId="20433" locX="-37496" locY="54211" locZ="-3256" heading="18372" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20433" locX="-36836" locY="53525" locZ="-3248" heading="39404" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20433" locX="-37830" locY="54467" locZ="-3280" heading="41744" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20433" locX="-37320" locY="55206" locZ="-2968" heading="56231" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20433" locX="-36321" locY="53653" locZ="-3240" heading="40500" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20433" locX="-36389" locY="54160" locZ="-3296" heading="58351" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20433" locX="-34090" locY="54687" locZ="-3392" heading="24183" respawnDelay="16" periodOfDay="0" />
+    		<spawn npcId="20433" locX="-35181" locY="56710" locZ="-3360" heading="45269" respawnDelay="16" periodOfDay="0" />
+	</spawnzone> <!-- Festering Bat -->
+	<spawnzone name="dark_elf_village_zone_23">
+    		<spawn npcId="20455" locX="-44471" locY="47917" locZ="-5400" heading="17071" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20455" locX="-44279" locY="47466" locZ="-5400" heading="46559" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20455" locX="-45301" locY="53581" locZ="-4888" heading="61831" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20455" locX="-45482" locY="53615" locZ="-4888" heading="35900" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20455" locX="-45898" locY="53007" locZ="-4888" heading="32410" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20455" locX="-45623" locY="52499" locZ="-4888" heading="28857" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20455" locX="-46345" locY="52876" locZ="-4888" heading="45096" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20455" locX="-46018" locY="51979" locZ="-4888" heading="61437" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Doom Soldier -->
+	<spawnzone name="dark_elf_village_zone_24">
+    		<spawn npcId="20517" locX="-50699" locY="53087" locZ="-4888" heading="43414" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20517" locX="-50444" locY="53175" locZ="-4888" heading="39441" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20517" locX="-50764" locY="53644" locZ="-4888" heading="59250" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20517" locX="-50865" locY="53875" locZ="-4888" heading="62580" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20517" locX="-49501" locY="55345" locZ="-4888" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20517" locX="-49107" locY="55222" locZ="-4888" heading="6286" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20517" locX="-48922" locY="56275" locZ="-4888" heading="52962" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20517" locX="-46016" locY="54668" locZ="-4888" heading="30693" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20517" locX="-46962" locY="54575" locZ="-4888" heading="28710" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20517" locX="-46619" locY="54551" locZ="-4888" heading="3206" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20517" locX="-43701" locY="53389" locZ="-4888" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20517" locX="-43815" locY="53760" locZ="-4888" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20517" locX="-44487" locY="53638" locZ="-4888" heading="48129" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20517" locX="-44141" locY="53763" locZ="-4888" heading="56117" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Skeleton Hunter -->
+	<spawnzone name="dark_elf_village_zone_25">
+    		<spawn npcId="20518" locX="-50632" locY="53187" locZ="-4888" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20518" locX="-48633" locY="53323" locZ="-4888" heading="44527" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20518" locX="-48409" locY="56061" locZ="-4888" heading="33008" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20518" locX="-46363" locY="54859" locZ="-4888" heading="6506" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20518" locX="-46479" locY="52713" locZ="-4888" heading="22753" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20518" locX="-43872" locY="53230" locZ="-4888" heading="2111" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Skeleton Hunter Archer -->
+	<spawnloc name="dark_elf_village_zone_26">
+    		<spawn npcId="27022" locX="-47938" locY="49195" locZ="-5720" heading="25025" respawnDelay="50" periodOfDay="0" />
+    		<spawn npcId="27036" locX="-50872" locY="40816" locZ="-3320" heading="47836" respawnDelay="480" periodOfDay="0" />
+    		<spawn npcId="30418" locX="-46464" locY="59263" locZ="-3312" heading="20480" respawnDelay="60" periodOfDay="0" />
+	</spawnloc>
+	<spawnloc name="dark_elf_village_zone_27">
+    		<spawn npcId="31034" locX="-34955" locY="50590" locZ="-2656" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31034" locX="-36379" locY="45913" locZ="-1928" heading="52349" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31034" locX="-53975" locY="58336" locZ="-1768" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnloc> <!-- Sentry -->
+	<spawnzone name="dark_elf_village_zone_28">
+    		<spawn npcId="31845" locX="-36309" locY="40197" locZ="-3304" heading="14752" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31845" locX="-42191" locY="45436" locZ="-3240" heading="15046" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31845" locX="-37360" locY="56348" locZ="-3120" heading="36150" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Bloody Pixy -->
+	<spawnzone name="dark_elf_village_zone_29">
+    		<spawn npcId="31850" locX="-42918" locY="39890" locZ="-3232" heading="60000" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31850" locX="-58806" locY="63064" locZ="-3328" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31850" locX="-39795" locY="64627" locZ="-3320" heading="31966" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Blight Treant -->
+</list>

@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?><!-- Свитки -->
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+<item><ingredient id="6673" count="12"/><ingredient id="9912" count="1250"/><production id="6578" count="1"/></item><!-- Безопасная Заточка Ы Брони -->
+<item><ingredient id="6673" count="6"/><ingredient id="9912" count="350"/><production id="6570" count="1"/></item><!-- Безопасная Заточка А Брони -->
+<item><ingredient id="57" count="30000000"/><production id="6572" count="1"/></item><!-- Безопасная Заточка Б Брони -->
+<item><ingredient id="57" count="10000000"/><production id="6574" count="1"/></item><!-- Безопасная Заточка Ц Брони -->
+<item><ingredient id="57" count="3000000"/><production id="6576" count="1"/></item><!-- Безопасная Заточка Д Брони -->
+<item><ingredient id="6673" count="18"/><ingredient id="9912" count="2500"/><production id="6577" count="1"/></item><!-- Безопасная Заточка Ы Пушки -->
+<item><ingredient id="6673" count="12"/><ingredient id="9912" count="700"/><production id="6569" count="1"/></item><!-- Безопасная Заточка А Пушки -->
+<item><ingredient id="57" count="50000000"/><production id="6571" count="1"/></item><!-- Безопасная Заточка Б Пушки -->
+<item><ingredient id="57" count="25000000"/><production id="6573" count="1"/></item><!-- Безопасная Заточка Ц Пушки -->
+<item><ingredient id="57" count="8000000"/><production id="6575" count="1"/></item><!-- Безопасная Заточка Д Пушки -->
+<item><ingredient id="57" count="10000000"/><production id="9898" count="100"/></item><!-- Высший Ранг SP -->
+<item><ingredient id="57" count="75000000"/><production id="3936" count="100"/></item><!-- Быстрое Воскрешение -->
+<item><ingredient id="57" count="42000000"/><production id="13259" count="100"/></item><!-- Быстрое Восквешение Гран Каина -->
+<item><ingredient id="57" count="30000000"/><production id="13258" count="100"/></item><!-- Быстрый Телепорт Гран Каина -->
+<item><ingredient id="57" count="15000000"/><production id="10130" count="100"/></item><!-- Быстрый Телепорт в Крепость -->
+<item><ingredient id="57" count="15000000"/><production id="5858" count="100"/></item><!-- Быстрый Телепорт в Клан Холл -->
+<item><ingredient id="57" count="15000000"/><production id="5859" count="100"/></item><!-- Быстрый Телепорт в Замок -->
+<item><ingredient id="57" count="10000000"/><production id="1538" count="100"/></item><!-- Быстрый Телепорт -->
+</list>

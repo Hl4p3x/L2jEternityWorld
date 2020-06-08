@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/phantomMessages.xsd">
+	<!-- All Phantom Messages -->
+	<phantomMessages>
+		<!-- Shout Messages -->
+		<shout message="Hi all" />
+		<shout message="WTB unique items" />
+		<shout message="Where are you?" />
+		<shout message="nice online" />
+		<shout message="im Ruleezzz" />
+		<shout message="come on noob" />
+		<shout message="busco clan" />
+		<shout message="elaaaaaa" />
+		<shout message="Latino???" />
+		<shout message="you so hot bb" />
+                <shout message="Dont break my balls" />
+                <shout message="stop spamming" />
+                <shout message="can i have some money pliz?" />
+                <shout message="pt pls" />
+                <shout message="WTB vesper" />
+                <shout message="WTB pvp items" />
+                <shout message="WTS my house xD" />
+                <shout message="where we will ?" />
+                <shout message="gm here?" />
+                <shout message="you are crane sor fure" />
+                <shout message="jackass" />
+                <shout message="malaka!" />
+                <shout message="soy hero" />
+                <shout message="jajajaja" />
+                <shout message="muchas grax" />
+                <shout message="dumb" />
+                <shout message="ret" />
+                <shout message="wooow" />
+		<!-- Dead Messages -->
+		<dead message="Fack you" />
+		<dead message="son of the b1tch" />
+		<dead message="w8 here" />
+		<dead message=":D" />
+		<dead message="курва!!" />
+                <dead message="kurwa!!" />
+                <dead message="noob!!" />
+                <dead message="why???" />
+                <dead message="omfg!!" />
+                <dead message="dont try it again" />
+                <dead message="ok you hero, can i farm now?" />
+                <dead message="i wish you will get cancer soon" />
+                <dead message="hitler!" />
+	</phantomMessages>
+</list>

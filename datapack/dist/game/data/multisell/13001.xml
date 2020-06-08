@@ -1,0 +1,43 @@
+﻿<?xml version='1.0' encoding='utf-8'?><!-- Расходники -->
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+<item><ingredient id="57" count="10000000"/><production id="22123" count="1"/></item><!-- Пак Ы Сосок ВОЙНАМ -->
+<item><ingredient id="57" count="8000000"/><production id="22122" count="1"/></item><!-- Пак А Сосок ВОЙНАМ -->
+<item><ingredient id="57" count="5000000"/><production id="22121" count="1"/></item><!-- Пак Б Сосок ВОЙНАМ -->
+<item><ingredient id="57" count="2000000"/><production id="22120" count="1"/></item><!-- Пак Ц Сосок ВОЙНАМ -->
+<item><ingredient id="57" count="10000000"/><production id="22113" count="1"/></item><!-- Пак Блес Сосок Ы -->
+<item><ingredient id="57" count="8000000"/><production id="22112" count="1"/></item><!-- Пак Блес Сосок А -->
+<item><ingredient id="57" count="7000000"/><production id="22111" count="1"/></item><!-- Пак Блес Сосок Б -->
+<item><ingredient id="57" count="6000000"/><production id="22110" count="1"/></item><!-- Пак Блес Сосок Ц -->
+<item><ingredient id="57" count="2200000"/><production id="6645" count="1000"/></item><!-- Соски Вона ПЕТА -->
+<item><ingredient id="57" count="11000000"/><production id="6647" count="1000"/></item><!-- Соски Блес ПЕТА -->
+<item><ingredient id="57" count="1200000"/><production id="2508" count="10000"/></item><!-- Проклятая Кость -->
+<item><ingredient id="57" count="10000"/><production id="8875" count="1"/></item><!-- Символ Битвы -->
+<item><ingredient id="57" count="10000"/><production id="8876" count="1"/></item><!-- Магический Символ -->
+<item><ingredient id="57" count="10000"/><production id="8873" count="1"/></item><!-- Кровь Феникса -->
+<item><ingredient id="57" count="10000"/><production id="8874" count="1"/></item><!-- Святая Вода Эйнхасад -->
+<item><ingredient id="57" count="140000"/><production id="8597" count="10"/></item><!-- Свиток Снятия Штрафа Б -->
+<item><ingredient id="57" count="240000"/><production id="8598" count="10"/></item><!-- Свиток Снятия Штрафа А -->
+<item><ingredient id="57" count="4000000"/><production id="8599" count="100"/></item><!-- Свиток Снятия Штрафа Ы -->
+<item><ingredient id="57" count="500000"/><production id="2130" count="1000"/></item><!-- Самоцвет Д -->
+<item><ingredient id="57" count="1500000"/><production id="2131" count="1000"/></item><!-- Самоцвет Ц -->
+<item><ingredient id="57" count="5000000"/><production id="2132" count="1000"/></item><!-- Самоцвет Б -->
+<item><ingredient id="57" count="15000000"/><production id="2133" count="1000"/></item><!-- Самоцвет А -->
+<item><ingredient id="57" count="50000000"/><production id="2134" count="1000"/></item><!-- Самоцвет Ы -->
+<item><ingredient id="57" count="125000"/><production id="1785" count="1000"/></item><!-- Руда Души -->
+<item><ingredient id="57" count="200000"/><production id="3031" count="1000"/></item><!-- Руда Духов -->
+<item><ingredient id="57" count="1750000"/><production id="8615" count="100"/></item><!-- Кристал Призыва -->
+<item><ingredient id="57" count="250"/><production id="4625" count="1"/></item><!-- Игровая Кость - Черви -->
+<item><ingredient id="57" count="250"/><production id="4626" count="1"/></item><!-- Игровая Кость - Пики -->
+<item><ingredient id="57" count="250"/><production id="4627" count="1"/></item><!-- Игровая Кость - Трефы -->
+<item><ingredient id="57" count="250"/><production id="4628" count="1"/></item><!-- Игровая Кость - Буби -->
+<item><ingredient id="57" count="30000"/><production id="1341" count="10000"/></item><!-- Костеные Стрелы Д -->
+<item><ingredient id="57" count="40000"/><production id="22068" count="10000"/></item><!--  Стальные Стрелы Ц  -->
+<item><ingredient id="57" count="90000"/><production id="1343" count="10000"/></item><!-- Серебреная Стрела Б -->
+<item><ingredient id="57" count="170000"/><production id="1344" count="10000"/></item><!-- Мифриловая Стрела А -->
+<item><ingredient id="57" count="1000000"/><production id="22071" count="10000"/></item><!-- Сверкающая Стрела Ы -->
+<item><ingredient id="57" count="300000"/><production id="9633" count="1000"/></item><!-- Костяной Болт Д -->
+<item><ingredient id="57" count="30000"/><production id="9634" count="10000"/></item><!-- Стальной Больт Ц -->
+<item><ingredient id="57" count="90000"/><production id="9635" count="10000"/></item><!-- Серебряный Болт Б -->
+<item><ingredient id="57" count="170000"/><production id="9636" count="10000"/></item><!-- Мифриловый Болт А -->
+<item><ingredient id="57" count="1000000"/><production id="9637" count="10000"/></item><!-- Сверкающий Болт Ы -->
+</list>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawns.xsd">
+	<spawnloc name="cratei_cube_zone">
+    		<spawn npcId="32504" locX="-87148" locY="-16396" locZ="-8320" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnloc>
+</list>

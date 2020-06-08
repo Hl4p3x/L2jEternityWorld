@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawns.xsd">
+	<spawnzone name="star_stone_zone_03">
+    		<spawn npcId="18684" locX="-230881" locY="238048" locZ="2951" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18686" locX="-248155" locY="234778" locZ="3102" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Red Star Stone -->
+	<spawnzone name="star_stone_zone_04">
+    		<spawn npcId="18687" locX="-249275" locY="235195" locZ="2520" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18687" locX="-250377" locY="232360" locZ="2797" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18687" locX="-253234" locY="244508" locZ="4273" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18687" locX="-255434" locY="243993" locZ="4937" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18687" locX="-254114" locY="247083" locZ="4517" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18687" locX="-256314" locY="247083" locZ="5493" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18687" locX="-250928" locY="236410" locZ="3884" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18688" locX="-252794" locY="242448" locZ="5226" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18688" locX="-253234" locY="244508" locZ="4273" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18688" locX="-253674" locY="245538" locZ="5036" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18688" locX="-255434" locY="242448" locZ="5203" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18688" locX="-252581" locY="231955" locZ="4181" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18688" locX="-253132" locY="237220" locZ="2912" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18688" locX="-252581" locY="236005" locZ="2550" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18688" locX="-249826" locY="236815" locZ="2698" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18688" locX="-254785" locY="233575" locZ="3836" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18689" locX="-254234" locY="233575" locZ="3847" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18689" locX="-248724" locY="238435" locZ="2647" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18689" locX="-254994" locY="247598" locZ="4876" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18689" locX="-252354" locY="242963" locZ="5399" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18689" locX="-253674" locY="242963" locZ="3945" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18689" locX="-252030" locY="233170" locZ="2513" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18689" locX="-251479" locY="235195" locZ="2791" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Blue Star Stone -->
+	<spawnzone name="star_stone_zone_05">
+    		<spawn npcId="18690" locX="-232708" locY="247705" locZ="3400" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18690" locX="-232121" locY="248613" locZ="1343" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18690" locX="-233295" locY="248159" locZ="2152" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18690" locX="-255616" locY="253680" locZ="5078" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18691" locX="-239752" locY="248613" locZ="3231" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18692" locX="-233295" locY="246797" locZ="2610" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18692" locX="-232121" locY="249067" locZ="1101" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18692" locX="-232708" locY="242711" locZ="1854" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Green Star Stone -->
+	<spawnzone name="flying_monsters_zone_01">
+    		<spawn npcId="22610" locX="-254240" locY="233870" locZ="3090" heading="44139" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22610" locX="-254012" locY="232299" locZ="4743" heading="21621" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22610" locX="-249540" locY="237894" locZ="3019" heading="62131" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22610" locX="-248680" locY="238871" locZ="4095" heading="60348" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22610" locX="-252016" locY="235656" locZ="5130" heading="27342" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22610" locX="-251866" locY="235985" locZ="4651" heading="39721" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22610" locX="-253894" locY="233800" locZ="2259" heading="26608" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22610" locX="-248623" locY="235115" locZ="3415" heading="58700" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22610" locX="-252567" locY="236696" locZ="3845" heading="25708" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22610" locX="-251462" locY="236616" locZ="4868" heading="17734" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Mutated Drake Wing -->
+	<spawnzone name="flying_monsters_zone_02">
+    		<spawn npcId="22611" locX="-251944" locY="232495" locZ="1978" heading="25135" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22611" locX="-249392" locY="234058" locZ="5132" heading="14049" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22611" locX="-253102" locY="234702" locZ="1980" heading="58468" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22611" locX="-251590" locY="235463" locZ="3357" heading="2178" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22611" locX="-248721" locY="237442" locZ="2744" heading="38419" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22611" locX="-249797" locY="236596" locZ="4934" heading="8744" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22611" locX="-249078" locY="235946" locZ="2531" heading="33043" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22611" locX="-249593" locY="239258" locZ="4041" heading="4823" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22611" locX="-248093" locY="238780" locZ="4258" heading="64792" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22611" locX="-252548" locY="235512" locZ="5983" heading="65192" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Mutated Drake Wing -->
+	<spawnzone name="flying_monsters_zone_03">
+    		<spawn npcId="22612" locX="-253451" locY="236686" locZ="5779" heading="9122" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22612" locX="-249299" locY="239571" locZ="5372" heading="21266" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22612" locX="-248149" locY="238390" locZ="3884" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22612" locX="-250429" locY="236683" locZ="5005" heading="9701" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22612" locX="-249386" locY="234526" locZ="5466" heading="60887" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22612" locX="-251754" locY="236589" locZ="4013" heading="4285" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22612" locX="-255030" locY="232361" locZ="2203" heading="34790" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22612" locX="-255086" locY="232391" locZ="2610" heading="57545" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22612" locX="-249848" locY="239564" locZ="4854" heading="15592" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Drak -->
+	<spawnzone name="flying_monsters_zone_04">
+    		<spawn npcId="22613" locX="-252628" locY="235699" locZ="4932" heading="18585" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22613" locX="-249576" locY="233790" locZ="5304" heading="11369" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22613" locX="-251862" locY="235578" locZ="4033" heading="12066" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22613" locX="-249614" locY="234940" locZ="4902" heading="52821" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22613" locX="-250763" locY="239057" locZ="1607" heading="55475" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22613" locX="-250423" locY="239751" locZ="1513" heading="23074" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22613" locX="-248263" locY="238425" locZ="3928" heading="58351" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22613" locX="-249372" locY="238679" locZ="2922" heading="64880" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22613" locX="-249581" locY="238794" locZ="4562" heading="32411" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Drak -->
+	<spawnloc name="gracia_npc_zone_01">
+    		<spawn npcId="32526" locX="-248793" locY="250271" locZ="4328" heading="57344" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32605" locX="-246857" locY="251960" locZ="4352" heading="40960" respawnDelay="60" periodOfDay="0" />
+	</spawnloc>
+</list>

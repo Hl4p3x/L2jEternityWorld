@@ -1,0 +1,184 @@
+﻿<?xml version='1.0' encoding='utf-8'?><!-- Династия Броня и Дестино Броня -->
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+	<item>
+		<ingredient id="57" count="750000000"/>
+		<ingredient id="6673" count="4600"/>
+		<production id="9416" count="1"/>
+		<production id="9421" count="1"/>
+		<production id="9422" count="1"/>
+		<production id="9423" count="1"/>
+		<production id="9424" count="1"/>
+	</item><!-- Династия Хеви -->
+	<item>
+		<ingredient id="57" count="900000000"/>
+		<ingredient id="6673" count="6230"/>
+		<production id="9420" count="1"/>
+		<production id="9421" count="1"/>
+		<production id="9422" count="1"/>
+		<production id="9423" count="1"/>
+		<production id="9424" count="1"/>
+	</item><!-- Династия Хеви - Танцор -->
+	<item>
+		<ingredient id="57" count="900000000"/>
+		<ingredient id="6673" count="6230"/>
+		<production id="9419" count="1"/>
+		<production id="9421" count="1"/>
+		<production id="9422" count="1"/>
+		<production id="9423" count="1"/>
+		<production id="9424" count="1"/>
+	</item><!-- Династия Хеви - Дуэлист, Аватар -->
+	<item>
+		<ingredient id="57" count="900000000"/>
+		<ingredient id="6673" count="6230"/>
+		<production id="9417" count="1"/>
+		<production id="9421" count="1"/>
+		<production id="9422" count="1"/>
+		<production id="9423" count="1"/>
+		<production id="9424" count="1"/>
+	</item><!-- Династия Хеви - Рыцарь Феникса, Рыцарь Ада, Храмовник Евы, Храмовник Шилен -->
+	<item>
+		<ingredient id="57" count="900000000"/>
+		<ingredient id="6673" count="6230"/>
+		<production id="9418" count="1"/>
+		<production id="9421" count="1"/>
+		<production id="9422" count="1"/>
+		<production id="9423" count="1"/>
+		<production id="9424" count="1"/>
+	</item><!-- Династия Хеви - Полковоец, Титан, Кладоискатель, Мастер -->
+	<item>
+		<ingredient id="57" count="750000000"/>
+		<ingredient id="6673" count="4600"/>
+		<production id="9425" count="1"/>
+		<production id="9428" count="1"/>
+		<production id="9429" count="1"/>
+		<production id="9430" count="1"/>
+		<production id="9431" count="1"/>
+	</item><!-- Династия Лайт -->
+	<item>
+		<ingredient id="57" count="900000000"/>
+		<ingredient id="6673" count="6230"/>
+		<production id="9427" count="1"/>
+		<production id="9428" count="1"/>
+		<production id="9429" count="1"/>
+		<production id="9430" count="1"/>
+		<production id="9431" count="1"/>
+	</item><!-- Династия Лайт - Снайпер, Страж Лунного Света, Страж Теней, Диверсант -->
+	<item>
+		<ingredient id="57" count="900000000"/>
+		<ingredient id="6673" count="6230"/>
+		<production id="9426" count="1"/>
+		<production id="9428" count="1"/>
+		<production id="9429" count="1"/>
+		<production id="9430" count="1"/>
+		<production id="9431" count="1"/>
+	</item><!-- Династия Лайт - Авантюрист, Странник Ветра, Призрачный Охотник -->
+	<item>
+		<ingredient id="57" count="900000000"/>
+		<ingredient id="6673" count="6230"/>
+		<production id="10168" count="1"/>
+		<production id="9428" count="1"/>
+		<production id="9429" count="1"/>
+		<production id="9430" count="1"/>
+		<production id="9431" count="1"/>
+	</item><!-- Династия Лайт - Апостол, Деспот, Глас Судьбы, Арбитр -->
+	<item>
+		<ingredient id="57" count="900000000"/>
+		<ingredient id="6673" count="6230"/>
+		<production id="10127" count="1"/>
+		<production id="9428" count="1"/>
+		<production id="9429" count="1"/>
+		<production id="9430" count="1"/>
+		<production id="9431" count="1"/>
+	</item><!-- Династия Лайт - Полководец, Титан, Кладоискатель, Мастер, Каратель, Инквизитор -->
+	<item>
+		<ingredient id="57" count="900000000"/>
+		<ingredient id="6673" count="6230"/>
+		<production id="10214" count="1"/>
+		<production id="9428" count="1"/>
+		<production id="9429" count="1"/>
+		<production id="9430" count="1"/>
+		<production id="9431" count="1"/>
+	</item><!-- Династия Лайт - Чернокнижник, Мастер Стихий, Владыка Теней -->
+	<item>
+		<ingredient id="57" count="750000000"/>
+		<ingredient id="6673" count="4600"/>
+		<production id="9432" count="1"/>
+		<production id="9437" count="1"/>
+		<production id="9438" count="1"/>
+		<production id="9439" count="1"/>
+		<production id="9440" count="1"/>
+	</item><!-- Династия Роба -->
+	<item>
+		<ingredient id="57" count="900000000"/>
+		<ingredient id="6673" count="6230"/>
+		<production id="9434" count="1"/>
+		<production id="9437" count="1"/>
+		<production id="9438" count="1"/>
+		<production id="9439" count="1"/>
+		<production id="9440" count="1"/>
+	</item><!-- Династия Роба - Апостол, Деспот, Глас Судьбы -->
+	<item>
+		<ingredient id="57" count="900000000"/>
+		<ingredient id="6673" count="6230"/>
+		<production id="9433" count="1"/>
+		<production id="9437" count="1"/>
+		<production id="9438" count="1"/>
+		<production id="9439" count="1"/>
+		<production id="9440" count="1"/>
+	</item><!-- Династия Роба - Кардинал, Жрец Евы, Жрец Шилен -->
+	<item>
+		<ingredient id="57" count="900000000"/>
+		<ingredient id="6673" count="6230"/>
+		<production id="9436" count="1"/>
+		<production id="9437" count="1"/>
+		<production id="9438" count="1"/>
+		<production id="9439" count="1"/>
+		<production id="9440" count="1"/>
+	</item><!-- Династия Роба - Архимаг, Магистр Магии, Повелитель Бури, Пожератель Душ -->
+	<item>
+		<ingredient id="57" count="900000000"/>
+		<ingredient id="6673" count="6230"/>
+		<production id="9435" count="1"/>
+		<production id="9437" count="1"/>
+		<production id="9438" count="1"/>
+		<production id="9439" count="1"/>
+		<production id="9440" count="1"/>
+	</item><!-- Династия Роба - Чернокнижник, Мастер Стихий, Владыка Теней -->
+	<item>
+		<ingredient id="57" count="350000000"/>
+		<ingredient id="6673" count="645"/>
+		<production id="9441" count="1"/>
+	</item><!-- Династия Щит -->
+	<item>
+		<ingredient id="57" count="900000000"/>
+		<ingredient id="6673" count="6230"/>
+		<production id="15609" count="1"/>
+		<production id="15606" count="1"/>
+		<production id="15612" count="1"/>
+		<production id="15615" count="1"/>
+		<production id="15618" count="1"/>
+	</item><!-- Дестино Хеви -->
+	<item>
+		<ingredient id="57" count="900000000"/>
+		<ingredient id="6673" count="6230"/>
+		<production id="15610" count="1"/>
+		<production id="15607" count="1"/>
+		<production id="15613" count="1"/>
+		<production id="15616" count="1"/>
+		<production id="15619" count="1"/>
+	</item><!-- Дестино Лайт -->
+	<item>
+		<ingredient id="57" count="900000000"/>
+		<ingredient id="6673" count="6230"/>
+		<production id="15611" count="1"/>
+		<production id="15608" count="1"/>
+		<production id="15614" count="1"/>
+		<production id="15617" count="1"/>
+		<production id="15620" count="1"/>
+	</item><!-- Дестино Роба -->
+	<item>
+		<ingredient id="57" count="450000000"/>
+		<ingredient id="6673" count="668"/>
+		<production id="15621" count="1"/>
+	</item><!-- Дестино Щит -->
+</list>

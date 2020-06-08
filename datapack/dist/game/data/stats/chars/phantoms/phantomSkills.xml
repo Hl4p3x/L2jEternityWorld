@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/phantomSkills.xsd">
+	<!-- All Based Phantom Class Skills -->
+	<!-- Human Fighter -->
+	<phantomSkills classId="0">
+		<!-- Fighter Attack Skills -->
+		<fAttackSkill id="16" level="9" /> <!-- Mortal Blow -->
+	</phantomSkills>
+	<!-- Human Mystic -->
+	<phantomSkills classId="10">
+		<!-- Magic Attack Skills -->
+		<mAttackSkill id="1177" level="5" /> <!-- Wind Strike -->
+		<mAttackSkill id="1184" level="4" /> <!-- Ice Bolt -->
+		<mAttackSkill id="1147" level="2" /> <!-- Vampiric Touch -->
+		<!-- Buff Skills -->
+		<buffSkill id="1068" level="1" /> <!-- Might -->
+		<buffSkill id="1040" level="1" /> <!-- Shield -->
+		<!-- Heal Skills -->
+		<healSkill id="1015" level="3" /> <!-- Battle Heal -->
+	</phantomSkills>
+	<!-- Elven Fighter -->
+	<phantomSkills classId="18">
+		<!-- Fighter Attack Skills -->
+		<fAttackSkill id="16" level="9" /> <!-- Mortal Blow -->
+	</phantomSkills>
+	<!-- Elven Mystic -->
+	<phantomSkills classId="25">
+		<!-- Magic Attack Skills -->
+		<mAttackSkill id="1177" level="5" /> <!-- Wind Strike -->
+		<mAttackSkill id="1184" level="4" /> <!-- Ice Bolt -->
+		<!-- Buff Skills -->
+		<buffSkill id="1068" level="1" /> <!-- Might -->
+		<buffSkill id="1040" level="1" /> <!-- Shield -->
+		<!-- Heal Skills -->
+		<healSkill id="1015" level="3" /> <!-- Battle Heal -->
+	</phantomSkills>
+	<!-- Dark Fighter -->
+	<phantomSkills classId="31">
+		<!-- Fighter Attack Skills -->
+		<fAttackSkill id="3" level="9" /> <!-- Power Strike -->
+		<fAttackSkill id="70" level="2" /> <!-- Drain Health -->
+	</phantomSkills>
+	<!-- Dark Mystic -->
+	<phantomSkills classId="38">
+		<!-- Magic Attack Skills -->
+		<mAttackSkill id="1177" level="5" /> <!-- Wind Strike -->
+		<mAttackSkill id="1184" level="4" /> <!-- Ice Bolt -->
+		<mAttackSkill id="1147" level="2" /> <!-- Vampiric Touch -->
+		<!-- Buff Skills -->
+		<buffSkill id="1068" level="1" /> <!-- Might -->
+		<buffSkill id="1040" level="1" /> <!-- Shield -->
+		<!-- Heal Skills -->
+		<healSkill id="1015" level="3" /> <!-- Battle Heal -->
+	</phantomSkills>
+	<!-- Orc Fighter -->
+	<phantomSkills classId="44">
+		<!-- Fighter Attack Skills -->
+		<fAttackSkill id="3" level="9" /> <!-- Power Strike -->
+	</phantomSkills>
+	<!-- Orc Mystic -->
+	<phantomSkills classId="49">
+		<!-- Fighter Attack Skills -->
+		<fAttackSkill id="1090" level="2" /> <!-- Life Drain -->
+		<!-- Buff Skills -->
+		<buffSkill id="1007" level="1" /> <!-- Chant of Battle -->
+	</phantomSkills>
+	<!-- Dwarven Fighter -->
+	<phantomSkills classId="53">
+		<!-- Fighter Attack Skills -->
+		<fAttackSkill id="254" level="1" /> <!-- Spoil -->
+	</phantomSkills>
+	<!-- Male Soldier -->
+	<phantomSkills classId="123">
+		<!-- Fighter Attack Skills -->
+		<fAttackSkill id="1431" level="6" /> <!-- Fallen Arrow -->
+	</phantomSkills>
+	<!-- Female Soldier -->
+	<phantomSkills classId="124">
+		<!-- Fighter Attack Skills -->
+		<fAttackSkill id="468" level="9" /> <!-- Fallen Attack -->
+		<fAttackSkill id="1431" level="6" /> <!-- Fallen Arrow -->
+	</phantomSkills>
+</list>

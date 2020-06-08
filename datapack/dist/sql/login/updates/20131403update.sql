@@ -1,0 +1,1 @@
+ALTER TABLE `accounts` ADD `allow_hwid` varchar(255) DEFAULT NULL AFTER `accessLevel`;

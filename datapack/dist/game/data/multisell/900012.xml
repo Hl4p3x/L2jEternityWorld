@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+	<npcs>
+		<npc>31255</npc> <!-- Buzz the Cat (Event Manager) -->
+	</npcs>
+	<!-- Chrono Cithara -->
+	<item>
+		<ingredient id="6391" count="2"/>
+		<production id="4202" count="1"/>
+	</item>
+	<!-- Chrono Unitus-->
+	<item>
+		<ingredient id="6391" count="2"/>
+		<production id="5133" count="1"/>
+	</item>
+	<!-- Chrono Campana -->
+	<item>
+		<ingredient id="6391" count="2"/>
+		<production id="5817" count="1"/>
+	</item>
+	<!-- Chrono Darubka -->
+	<item>
+		<ingredient id="6391" count="2"/>
+		<production id="7058" count="1"/>
+	</item>
+	<!-- Chrono Marakas -->
+	<item>
+		<ingredient id="6391" count="2"/>
+		<production id="8350" count="1"/>
+	</item>
+</list>

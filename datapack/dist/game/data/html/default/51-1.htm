@@ -1,0 +1,37 @@
+<html><body><br>
+<center>
+<img src="L2UI_CH3.herotower_deco" width="256" height="32">
+<br>You can put a hit on someone here:<br1>
+<table width="256">
+<tr>
+<td width="256" align="center">Target Name<br1>
+<edit var="name" width="150" height="15"><br>
+</td>
+</tr>
+<tr>
+<td wi dth="256" align="center">Bounty<br1>
+<combobox width="180" var="currency" list="Adena;Coin_of_Luck;Golden_Apiga"><br>
+</td>
+</tr>
+<tr>
+<td width="256" align="center">Amount<br1>
+<edit var="bounty" width="150" height="15"><br>
+</td>
+</tr>
+</table>
+<br>
+<button value="Add" action="bypass -h npc_%objectId%_addList $name $bounty $currency" back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" width="95" height="21">
+<br>If you want to delete a target:<br1>
+<table width="240">
+<tr>
+<td width="60">Target Name:</td>
+<td><edit var="remname" width="110" height="15"></td>
+<td><button value="Delete" action="bypass -h npc_%objectId%_removeList $remname" back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" width="60" height="21"></td>
+</tr>
+</table>
+<br><br>
+
+<button value="Back" action="bypass -h npc_%objectId%_Chat 0" back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" width="80" height="21"><br1>
+<img src="L2UI_CH3.herotower_deco" widt h="256" height="32">
+</center>
+</body></html>

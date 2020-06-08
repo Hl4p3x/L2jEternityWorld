@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawns.xsd">
+	<spawnzone name="rune08_2215_01">
+		<spawn npcId="21520" locX="67549" locY="-74049" locZ="-3692" heading="53453" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21520" locX="68304" locY="-72930" locZ="-3704" heading="2202" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21520" locX="70276" locY="-72367" locZ="-3765" heading="19562" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21520" locX="70751" locY="-70166" locZ="-3794" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21520" locX="72752" locY="-73197" locZ="-3767" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21520" locX="71342" locY="-76784" locZ="-3968" heading="46871" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21520" locX="72834" locY="-75740" locZ="-3735" heading="42633" respawnDelay="48" periodOfDay="0" />
+	</spawnzone> <!-- Eye of Splendor -->
+	<spawnzone name="rune08_2215_07">
+		<spawn npcId="21521" locX="74433" locY="-76349" locZ="-3635" heading="25723" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21521" locX="69351" locY="-78257" locZ="-3969" heading="2012" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21521" locX="67910" locY="-74998" locZ="-3716" heading="53327" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21521" locX="68676" locY="-79538" locZ="-3861" heading="36551" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21521" locX="68551" locY="-82303" locZ="-3528" heading="30078" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21521" locX="69110" locY="-84024" locZ="-3596" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21521" locX="70624" locY="-85866" locZ="-3104" heading="51440" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21521" locX="72733" locY="-86885" locZ="-4280" heading="47519" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21521" locX="72071" locY="-84291" locZ="-4313" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21521" locX="72395" locY="-84202" locZ="-4313" heading="30025" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21521" locX="75692" locY="-87659" locZ="-3137" heading="25587" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21521" locX="79268" locY="-84741" locZ="-3604" heading="62631" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21521" locX="75804" locY="-83726" locZ="-3608" heading="60224" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21521" locX="79979" locY="-87764" locZ="-3562" heading="65446" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21521" locX="75985" locY="-86430" locZ="-3589" heading="30461" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21521" locX="78740" locY="-85420" locZ="-3567" heading="46355" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21521" locX="78584" locY="-89099" locZ="-3137" heading="61375" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21521" locX="79783" locY="-88589" locZ="-3518" heading="53900" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21521" locX="79134" locY="-88081" locZ="-3564" heading="31014" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21521" locX="81244" locY="-88302" locZ="-3500" heading="47344" respawnDelay="48" periodOfDay="0" />
+	</spawnzone> <!-- Claws of Splendor -->
+	<spawnzone name="rune08_2215_01">
+		<spawn npcId="21523" locX="66348" locY="-71790" locZ="-3805" heading="20145" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="67202" locY="-73030" locZ="-3704" heading="35995" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="68705" locY="-72001" locZ="-3779" heading="27932" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="69145" locY="-72299" locZ="-3797" heading="22112" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="69450" locY="-73350" locZ="-3776" heading="51141" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="69762" locY="-70794" locZ="-3852" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="70923" locY="-73002" locZ="-3797" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="72423" locY="-73593" locZ="-3747" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="72333" locY="-72716" locZ="-3769" heading="16532" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="73221" locY="-76773" locZ="-3590" heading="54532" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="76346" locY="-75949" locZ="-3618" heading="3186" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="75914" locY="-76469" locZ="-3618" heading="306" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="74089" locY="-76566" locZ="-3632" heading="37549" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="70574" locY="-77730" locZ="-4080" heading="43283" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="73742" locY="-74702" locZ="-3551" heading="2228" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="68421" locY="-75863" locZ="-3712" heading="46989" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="69195" locY="-75622" locZ="-3764" heading="48385" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="68807" locY="-80394" locZ="-3712" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="68451" locY="-81702" locZ="-3543" heading="50925" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="70183" locY="-83618" locZ="-3416" heading="56861" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="70794" locY="-84825" locZ="-3160" heading="3859" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="70195" locY="-87599" locZ="-3083" heading="63192" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="69349" locY="-87239" locZ="-2956" heading="59055" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="72491" locY="-84416" locZ="-4312" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="72483" locY="-83521" locZ="-4313" heading="14250" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="76456" locY="-88228" locZ="-3137" heading="59402" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="75432" locY="-85024" locZ="-3598" heading="19850" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="76960" locY="-87475" locZ="-3551" heading="17831" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="78226" locY="-86578" locZ="-3568" heading="17321" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="77250" locY="-83878" locZ="-3607" heading="21612" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="78847" locY="-89065" locZ="-3140" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="77293" locY="-88618" locZ="-3137" heading="63004" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="80567" locY="-87320" locZ="-3606" heading="29936" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="78772" locY="-82046" locZ="-3615" heading="61283" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="80480" locY="-81615" locZ="-4037" heading="64414" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="79158" locY="-79087" locZ="-4037" heading="23728" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="82539" locY="-78577" locZ="-4037" heading="39621" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="78230" locY="-79925" locZ="-4037" heading="44296" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="80195" locY="-78027" locZ="-4088" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="77167" locY="-74619" locZ="-3232" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="79155" locY="-71653" locZ="-3643" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="81483" locY="-71568" locZ="-3479" heading="29684" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="82909" locY="-75654" locZ="-4385" heading="12767" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="84494" locY="-75761" locZ="-3479" heading="2355" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="84085" locY="-75967" locZ="-3479" heading="46586" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21523" locX="85989" locY="-74371" locZ="-3515" heading="971" respawnDelay="48" periodOfDay="0" />
+	</spawnzone> <!-- Flash of Splendor -->
+	<spawnzone name="rune08_2215_01">
+		<spawn npcId="21524" locX="66893" locY="-72224" locZ="-3784" heading="39652" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="70463" locY="-72872" locZ="-3791" heading="61986" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="70580" locY="-73301" locZ="-3785" heading="62180" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="68909" locY="-75437" locZ="-3768" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="69927" locY="-72546" locZ="-3793" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="73057" locY="-74884" locZ="-3660" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="73453" locY="-76024" locZ="-3680" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="71957" locY="-74123" locZ="-3722" heading="45141" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="71812" locY="-75587" locZ="-3808" heading="15255" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="76145" locY="-76751" locZ="-3617" heading="47272" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="74480" locY="-75883" locZ="-3627" heading="4310" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="68499" locY="-78543" locZ="-3907" heading="63935" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="69244" locY="-77215" locZ="-3908" heading="53012" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="68945" locY="-76535" locZ="-3777" heading="42036" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="68394" locY="-78901" locZ="-3907" heading="19787" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="68962" locY="-82404" locZ="-3549" heading="56346" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="69412" locY="-83846" locZ="-3596" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="70651" locY="-86556" locZ="-3160" heading="49948" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="70719" locY="-87190" locZ="-3137" heading="47908" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="69071" locY="-86970" locZ="-2943" heading="28120" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="72766" locY="-85664" locZ="-4244" heading="52132" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="72444" locY="-84263" locZ="-4314" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="72298" locY="-83681" locZ="-4313" heading="24080" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="75092" locY="-86989" locZ="-3177" heading="33685" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="75548" locY="-85812" locZ="-3586" heading="33770" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="74572" locY="-82962" locZ="-3528" heading="27361" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="78812" locY="-87496" locZ="-3621" heading="63554" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="77228" locY="-86076" locZ="-3608" heading="43993" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="77576" locY="-87812" locZ="-3668" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="79232" locY="-86615" locZ="-3620" heading="17111" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="79673" locY="-87196" locZ="-3626" heading="47295" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="79408" locY="-85646" locZ="-3602" heading="5637" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="80449" locY="-86638" locZ="-3612" heading="28483" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="79867" locY="-86337" locZ="-3611" heading="21896" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="79150" locY="-81101" locZ="-4037" heading="57640" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="80471" locY="-78819" locZ="-4037" heading="57373" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="81620" locY="-80861" locZ="-4100" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="78862" locY="-79487" locZ="-4037" heading="23488" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="79695" locY="-80220" locZ="-4037" heading="59302" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="78973" locY="-78153" locZ="-4037" heading="55128" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="78420" locY="-74854" locZ="-3312" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="77167" locY="-74263" locZ="-3232" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="82531" locY="-71404" locZ="-3462" heading="16620" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="84047" locY="-72312" locZ="-3501" heading="24114" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="85018" locY="-74219" locZ="-3563" heading="51788" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="85972" locY="-74740" locZ="-3479" heading="9474" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="86778" locY="-73839" locZ="-3608" heading="43974" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21524" locX="87088" locY="-72925" locZ="-3661" heading="32085" respawnDelay="48" periodOfDay="0" />
+	</spawnzone> <!-- Blade of Splendor -->
+	<spawnzone name="rune08_2215_01">
+		<spawn npcId="21526" locX="68118" locY="-74196" locZ="-3728" heading="22737" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21526" locX="69322" locY="-72559" locZ="-3800" heading="29112" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21526" locX="69692" locY="-72026" locZ="-3776" heading="18585" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21526" locX="69762" locY="-70438" locZ="-3852" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21526" locX="74442" locY="-74631" locZ="-3421" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21526" locX="72730" locY="-73972" locZ="-3715" heading="51416" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21526" locX="71826" locY="-75117" locZ="-3763" heading="35735" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21526" locX="75565" locY="-76173" locZ="-3618" heading="11266" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21526" locX="74772" locY="-75310" locZ="-3619" heading="21314" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21526" locX="69315" locY="-78836" locZ="-3948" heading="4258" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21526" locX="69432" locY="-77833" locZ="-3974" heading="36449" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21526" locX="69249" locY="-76119" locZ="-3728" heading="2857" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21526" locX="68578" locY="-75226" locZ="-3711" heading="25528" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21526" locX="68472" locY="-81011" locZ="-3603" heading="45660" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21526" locX="77879" locY="-81381" locZ="-3614" heading="56817" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21526" locX="78702" locY="-80663" locZ="-4037" heading="52399" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21526" locX="81962" locY="-79405" locZ="-4037" heading="43018" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21526" locX="80205" locY="-80002" locZ="-4037" heading="57474" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21526" locX="79856" locY="-76621" locZ="-3995" heading="21882" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21526" locX="79580" locY="-75730" locZ="-3737" heading="22947" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21526" locX="79080" locY="-75121" locZ="-3552" heading="24309" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21526" locX="77368" locY="-74619" locZ="-3232" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21526" locX="79256" locY="-71831" locZ="-3643" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21526" locX="82320" locY="-73117" locZ="-4465" heading="56094" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21526" locX="84596" locY="-73153" locZ="-3574" heading="22203" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21526" locX="83982" locY="-75638" locZ="-3480" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21526" locX="87287" locY="-74013" locZ="-3576" heading="2633" respawnDelay="48" periodOfDay="0" />
+	</spawnzone> <!-- Wisdom of Splendor -->
+	<spawnzone name="rune08_2215_28">
+		<spawn npcId="21527" locX="77202" locY="-80628" locZ="-3614" heading="25398" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21527" locX="79901" locY="-80931" locZ="-4037" heading="18163" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21527" locX="81224" locY="-80714" locZ="-4037" heading="58013" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21527" locX="81218" locY="-79793" locZ="-4100" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21527" locX="81459" locY="-78871" locZ="-4037" heading="19810" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21527" locX="82431" locY="-77088" locZ="-4055" heading="60998" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21527" locX="78705" locY="-75105" locZ="-3687" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21527" locX="79457" locY="-71831" locZ="-3643" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21527" locX="81707" locY="-72516" locZ="-3599" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21527" locX="85219" locY="-73662" locZ="-3599" heading="30235" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21527" locX="85405" locY="-74554" locZ="-3544" heading="42059" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21527" locX="84980" locY="-74958" locZ="-3499" heading="53649" respawnDelay="48" periodOfDay="0" />
+	</spawnzone> <!-- Fury of Splendor -->
+	<spawnzone name="rune08_2215_13">
+		<spawn npcId="21529" locX="69445" locY="-82978" locZ="-3514" heading="60067" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21529" locX="70791" locY="-87686" locZ="-3120" heading="52782" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21529" locX="69776" locY="-87425" locZ="-3031" heading="23672" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21529" locX="73410" locY="-84358" locZ="-3712" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21529" locX="72263" locY="-83298" locZ="-4313" heading="15443" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21529" locX="74459" locY="-85616" locZ="-3384" heading="16384" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21529" locX="76635" locY="-85554" locZ="-3610" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21529" locX="76433" locY="-85910" locZ="-3610" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21529" locX="78131" locY="-85232" locZ="-3587" heading="11574" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21529" locX="76431" locY="-86830" locZ="-3602" heading="39818" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21529" locX="77576" locY="-87456" locZ="-3668" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21529" locX="76937" locY="-88523" locZ="-3137" heading="31664" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21529" locX="80229" locY="-89055" locZ="-3518" heading="48360" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21529" locX="79926" locY="-88783" locZ="-3520" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21529" locX="81968" locY="-88044" locZ="-3487" heading="19162" respawnDelay="48" periodOfDay="0" />
+	</spawnzone> <!-- Soul of Splendor -->
+	<spawnzone name="rune08_2215_23">
+		<spawn npcId="21530" locX="82538" locY="-87160" locZ="-3671" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21530" locX="81909" locY="-86277" locZ="-3608" heading="49152" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21530" locX="84295" locY="-85506" locZ="-3677" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21530" locX="87606" locY="-85436" locZ="-3573" heading="53786" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21530" locX="87437" locY="-84586" locZ="-3680" heading="54821" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21530" locX="83594" locY="-83744" locZ="-3557" heading="58762" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21530" locX="82935" locY="-83753" locZ="-3608" heading="25669" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21530" locX="83298" locY="-82896" locZ="-3608" heading="46683" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21530" locX="89532" locY="-75212" locZ="-3705" heading="50427" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21530" locX="88113" locY="-73031" locZ="-3692" heading="28751" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21530" locX="91376" locY="-78897" locZ="-3750" heading="136" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21530" locX="89136" locY="-76862" locZ="-3832" heading="22836" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21530" locX="91194" locY="-83729" locZ="-2764" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21530" locX="91573" locY="-82317" locZ="-2759" heading="38285" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21530" locX="72686" locY="-91079" locZ="-2187" heading="6877" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21530" locX="73775" locY="-90642" locZ="-2152" heading="60750" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21530" locX="70829" locY="-89312" locZ="-2337" heading="60667" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21530" locX="75618" locY="-93267" locZ="-1608" heading="7709" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21530" locX="76177" locY="-91761" locZ="-3309" heading="3267" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21530" locX="74831" locY="-91690" locZ="-1992" heading="19885" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21530" locX="77941" locY="-93407" locZ="-3155" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21530" locX="77154" locY="-92151" locZ="-3400" heading="5782" respawnDelay="48" periodOfDay="0" />
+	</spawnzone> <!-- Victory of Splendor -->
+	<spawnzone name="rune08_2215_23">
+		<spawn npcId="21531" locX="82183" locY="-86050" locZ="-3607" heading="32005" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21531" locX="81186" locY="-86826" locZ="-3591" heading="34024" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21531" locX="82913" locY="-84560" locZ="-3559" heading="57428" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21531" locX="82267" locY="-83450" locZ="-3608" heading="24945" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21531" locX="85508" locY="-85044" locZ="-3578" heading="2221" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21531" locX="86455" locY="-85004" locZ="-3741" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21531" locX="88479" locY="-84051" locZ="-3594" heading="60571" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21531" locX="86898" locY="-83489" locZ="-3680" heading="57859" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21531" locX="83534" locY="-82927" locZ="-3759" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21531" locX="85224" locY="-84050" locZ="-3589" heading="48455" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21531" locX="82731" locY="-83037" locZ="-3608" heading="18823" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21531" locX="83750" locY="-81402" locZ="-3588" heading="10100" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21531" locX="89098" locY="-72796" locZ="-3597" heading="19755" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21531" locX="90257" locY="-77869" locZ="-3805" heading="45331" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21531" locX="90511" locY="-77070" locZ="-3830" heading="54682" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21531" locX="92129" locY="-80333" locZ="-3707" heading="52004" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21531" locX="91452" locY="-83166" locZ="-2707" heading="50656" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21531" locX="70536" locY="-90494" locZ="-1944" heading="47679" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21531" locX="72155" locY="-90729" locZ="-2252" heading="23981" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21531" locX="77790" locY="-91872" locZ="-3374" heading="12567" respawnDelay="48" periodOfDay="0" />
+	</spawnzone> <!-- Punishment of Splendor -->
+	<spawnzone name="rune08_2215_23">
+		<spawn npcId="21532" locX="84741" locY="-86179" locZ="-2868" heading="30846" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21532" locX="82411" locY="-83952" locZ="-3608" heading="52019" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21532" locX="81607" locY="-84573" locZ="-3649" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21532" locX="83558" locY="-84774" locZ="-3487" heading="35801" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21532" locX="87824" locY="-79773" locZ="-3707" heading="14913" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21532" locX="88349" locY="-84420" locZ="-3513" heading="52249" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21532" locX="85752" locY="-85538" locZ="-3741" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21532" locX="84238" locY="-82393" locZ="-3759" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21532" locX="85191" locY="-81946" locZ="-3558" heading="43210" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21532" locX="83735" locY="-81963" locZ="-3603" heading="51638" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21532" locX="84339" locY="-82927" locZ="-3759" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21532" locX="91049" locY="-74267" locZ="-3632" heading="5406" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21532" locX="90382" locY="-76083" locZ="-3801" heading="48137" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21532" locX="89649" locY="-78120" locZ="-3794" heading="28942" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21532" locX="91822" locY="-79536" locZ="-3707" heading="19994" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21532" locX="91899" locY="-83783" locZ="-2760" heading="55802" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21532" locX="92774" locY="-82766" locZ="-2742" heading="8570" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21532" locX="70217" locY="-89688" locZ="-2184" heading="62119" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21532" locX="73237" locY="-90978" locZ="-2117" heading="57434" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21532" locX="71293" locY="-89973" locZ="-2291" heading="25514" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21532" locX="77179" locY="-91240" locZ="-3248" heading="10683" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21532" locX="77272" locY="-92945" locZ="-3394" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21532" locX="79101" locY="-93201" locZ="-3190" heading="54038" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21532" locX="77242" locY="-93561" locZ="-3335" heading="50790" respawnDelay="48" periodOfDay="0" />
+	</spawnzone> <!-- Shout of Splendor -->
+	<spawnzone name="rune08_2215_23">
+		<spawn npcId="21533" locX="82687" locY="-86577" locZ="-3512" heading="57039" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21533" locX="83571" locY="-86153" locZ="-3170" heading="31702" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21533" locX="81507" locY="-84751" locZ="-3649" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21533" locX="82325" locY="-84883" locZ="-3605" heading="37900" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21533" locX="84497" locY="-84794" locZ="-3677" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21533" locX="86799" locY="-82199" locZ="-3706" heading="54558" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21533" locX="85953" locY="-85538" locZ="-3741" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21533" locX="86320" locY="-83471" locZ="-3680" heading="55075" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21533" locX="83621" locY="-84377" locZ="-3445" heading="9947" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21533" locX="84510" locY="-81161" locZ="-3525" heading="56253" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21533" locX="83116" locY="-82203" locZ="-3608" heading="18083" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21533" locX="90053" locY="-74083" locZ="-3672" heading="8046" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21533" locX="88992" locY="-74846" locZ="-3758" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21533" locX="88102" locY="-76991" locZ="-3767" heading="42173" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21533" locX="89073" locY="-78729" locZ="-3827" heading="58221" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21533" locX="91173" locY="-78321" locZ="-3798" heading="26099" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21533" locX="93341" locY="-80958" locZ="-2830" heading="19283" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21533" locX="92768" locY="-81638" locZ="-2767" heading="42743" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21533" locX="72616" locY="-90205" locZ="-2245" heading="41851" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21533" locX="71761" locY="-90240" locZ="-2262" heading="26826" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21533" locX="70502" locY="-88647" locZ="-2445" heading="44694" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21533" locX="76407" locY="-93411" locZ="-3356" heading="41862" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21533" locX="76906" locY="-92821" locZ="-3400" heading="16384" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21533" locX="78667" locY="-92202" locZ="-3239" heading="8131" respawnDelay="48" periodOfDay="0" />
+	</spawnzone> <!-- Alliance of Splendor -->
+	<spawnzone name="rune08_2215_46">
+		<spawn npcId="21535" locX="80812" locY="-92930" locZ="-3129" heading="50125" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21535" locX="81196" locY="-91793" locZ="-3118" heading="46700" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21535" locX="81728" locY="-92285" locZ="-3137" heading="30626" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21535" locX="85650" locY="-89150" locZ="-2759" heading="9264" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21535" locX="84347" locY="-90174" locZ="-2760" heading="43868" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21535" locX="84800" locY="-91528" locZ="-2759" heading="45850" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21535" locX="85038" locY="-90007" locZ="-2714" heading="28348" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21535" locX="87505" locY="-89876" locZ="-3092" heading="39041" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21535" locX="89949" locY="-90836" locZ="-2750" heading="34232" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21535" locX="89139" locY="-91704" locZ="-2785" heading="19772" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21535" locX="91193" locY="-92369" locZ="-2764" heading="60625" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21535" locX="93451" locY="-91774" locZ="-2758" heading="56746" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21535" locX="96098" locY="-90190" locZ="-2781" heading="10284" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21535" locX="95398" locY="-90850" locZ="-2802" heading="50899" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21535" locX="95941" locY="-88969" locZ="-2834" heading="0" respawnDelay="48" periodOfDay="0" />
+	</spawnzone> <!-- Signet of Splendor -->
+	<spawnzone name="rune08_2215_46">
+		<spawn npcId="21536" locX="80748" locY="-92375" locZ="-3117" heading="39764" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21536" locX="82751" locY="-90950" locZ="-2958" heading="2500" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21536" locX="83554" locY="-89739" locZ="-2759" heading="49349" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21536" locX="85813" locY="-90123" locZ="-2759" heading="52079" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21536" locX="86767" locY="-88858" locZ="-2756" heading="988" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21536" locX="88867" locY="-91875" locZ="-2843" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21536" locX="91388" locY="-91037" locZ="-2794" heading="63581" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21536" locX="92630" locY="-91285" locZ="-2787" heading="50695" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21536" locX="96617" locY="-90446" locZ="-2795" heading="41712" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21536" locX="95534" locY="-90254" locZ="-2799" heading="31798" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21536" locX="95739" locY="-88613" locZ="-2834" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21536" locX="95419" locY="-86785" locZ="-2797" heading="0" respawnDelay="48" periodOfDay="0" />
+	</spawnzone> <!-- Crown of Splendor -->
+	<spawnzone name="rune08_2215_46">
+		<spawn npcId="21537" locX="80463" locY="-91519" locZ="-3108" heading="3876" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21537" locX="79607" locY="-92824" locZ="-3125" heading="3638" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21537" locX="81106" locY="-90944" locZ="-3133" heading="6870" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21537" locX="82878" locY="-92158" locZ="-3114" heading="1350" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21537" locX="84748" locY="-89496" locZ="-2729" heading="3816" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21537" locX="83528" locY="-89125" locZ="-2759" heading="27064" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21537" locX="84785" locY="-90473" locZ="-2738" heading="14559" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21537" locX="86202" locY="-90753" locZ="-2760" heading="60119" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21537" locX="85199" locY="-90752" locZ="-2897" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21537" locX="87448" locY="-89137" locZ="-2718" heading="61840" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21537" locX="89472" locY="-91875" locZ="-2843" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21537" locX="89069" locY="-92231" locZ="-2843" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21537" locX="90517" locY="-91964" locZ="-2767" heading="59756" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21537" locX="92518" locY="-90400" locZ="-2800" heading="15400" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21537" locX="95891" locY="-91346" locZ="-2846" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21537" locX="96076" locY="-89431" locZ="-2799" heading="56890" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21537" locX="95326" locY="-86113" locZ="-2795" heading="20832" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21537" locX="95751" locY="-87185" locZ="-2797" heading="54205" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21537" locX="95444" locY="-86898" locZ="-2894" heading="0" respawnDelay="48" periodOfDay="0" />
+	</spawnzone> <!-- Fang of Splendor -->
+	<spawnzone name="rune08_2215_46">
+		<spawn npcId="21539" locX="79776" locY="-91725" locZ="-3135" heading="16295" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21539" locX="82283" locY="-92294" locZ="-3144" heading="1540" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21539" locX="82085" locY="-91127" locZ="-3083" heading="9841" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21539" locX="84273" locY="-91110" locZ="-2870" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21539" locX="84418" locY="-91546" locZ="-2804" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21539" locX="85342" locY="-89574" locZ="-2739" heading="32865" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21539" locX="86089" locY="-88906" locZ="-2758" heading="2205" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21539" locX="90576" locY="-90749" locZ="-2811" heading="60327" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21539" locX="92712" locY="-92235" locZ="-2842" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21539" locX="91903" locY="-91646" locZ="-2803" heading="58488" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21539" locX="96013" locY="-88120" locZ="-2795" heading="52322" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21539" locX="97029" locY="-89687" locZ="-2795" heading="10166" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21539" locX="96444" locY="-89147" locZ="-2834" heading="0" respawnDelay="48" periodOfDay="0" />
+		<spawn npcId="21539" locX="95746" locY="-86720" locZ="-2894" heading="0" respawnDelay="48" periodOfDay="0" />
+	</spawnzone> <!-- Wailing of Splendor -->
+	<spawnzone name="rune08_2215_17">
+		<spawn npcId="21541" locX="71901" locY="-84180" locZ="-3712" heading="0" respawnDelay="100" periodOfDay="0" />
+		<spawn npcId="21541" locX="75963" locY="-85019" locZ="-3610" heading="0" respawnDelay="100" periodOfDay="0" />
+		<spawn npcId="21541" locX="79339" locY="-89542" locZ="-3141" heading="60021" respawnDelay="100" periodOfDay="0" />
+		<spawn npcId="21541" locX="80138" locY="-82448" locZ="-3649" heading="64491" respawnDelay="100" periodOfDay="0" />
+		<spawn npcId="21541" locX="79527" locY="-77818" locZ="-4037" heading="19722" respawnDelay="100" periodOfDay="0" />
+		<spawn npcId="21541" locX="79716" locY="-79024" locZ="-4099" heading="0" respawnDelay="100" periodOfDay="0" />
+		<spawn npcId="21541" locX="80632" locY="-76414" locZ="-4022" heading="60274" respawnDelay="100" periodOfDay="0" />
+		<spawn npcId="21541" locX="77395" locY="-85216" locZ="-3608" heading="46596" respawnDelay="100" periodOfDay="0" />
+	</spawnzone> <!-- Pilgrim of Splendor -->
+	<spawnzone name="rune08_2215_26">
+		<spawn npcId="21544" locX="87304" locY="-80544" locZ="-3698" heading="42965" respawnDelay="100" periodOfDay="0" />
+		<spawn npcId="21544" locX="84425" locY="-80176" locZ="-3536" heading="22489" respawnDelay="100" periodOfDay="0" />
+		<spawn npcId="21544" locX="90918" locY="-79271" locZ="-3742" heading="53380" respawnDelay="100" periodOfDay="0" />
+		<spawn npcId="21544" locX="73400" locY="-91032" locZ="-2096" heading="58365" respawnDelay="100" periodOfDay="0" />
+		<spawn npcId="21544" locX="75857" locY="-92396" locZ="-3390" heading="64541" respawnDelay="100" periodOfDay="0" />
+		<spawn npcId="21544" locX="78099" locY="-92704" locZ="-3463" heading="0" respawnDelay="100" periodOfDay="0" />
+		<spawn npcId="21544" locX="89572" locY="-91697" locZ="-2843" heading="0" respawnDelay="100" periodOfDay="0" />
+		<spawn npcId="21544" locX="94909" locY="-90335" locZ="-2799" heading="28834" respawnDelay="100" periodOfDay="0" />
+	</spawnzone> <!-- Judge of Splendor -->
+	<spawnzone name="rune08_qm2215_06">
+		<spawn npcId="27214" locX="93989" locY="-88983" locZ="-3856" heading="0" respawnDelay="360" periodOfDay="0" />
+		<spawn npcId="27214" locX="93587" locY="-88271" locZ="-3856" heading="0" respawnDelay="360" periodOfDay="0" />
+		<spawn npcId="27214" locX="94190" locY="-87915" locZ="-3856" heading="0" respawnDelay="360" periodOfDay="0" />
+		<spawn npcId="27214" locX="93687" locY="-88449" locZ="-3856" heading="0" respawnDelay="360" periodOfDay="0" />
+		<spawn npcId="27214" locX="94291" locY="-88805" locZ="-3856" heading="0" respawnDelay="360" periodOfDay="0" />
+		<spawn npcId="27214" locX="93989" locY="-88627" locZ="-3856" heading="0" respawnDelay="360" periodOfDay="0" />
+		<spawn npcId="27214" locX="93888" locY="-88805" locZ="-3856" heading="0" respawnDelay="360" periodOfDay="0" />
+		<spawn npcId="27214" locX="94392" locY="-88271" locZ="-3856" heading="0" respawnDelay="360" periodOfDay="0" />
+		<spawn npcId="27214" locX="94291" locY="-88449" locZ="-3856" heading="0" respawnDelay="360" periodOfDay="0" />
+		<spawn npcId="27214" locX="94593" locY="-88627" locZ="-3856" heading="0" respawnDelay="360" periodOfDay="0" />
+	</spawnzone> <!-- Guardian of Forbidden Knowledge -->
+	<spawnzone name="rune08_qm2215_05">
+		<spawn npcId="27215" locX="77639" locY="-71710" locZ="-4427" heading="25059" respawnDelay="360" periodOfDay="0" />
+		<spawn npcId="27215" locX="80109" locY="-73514" locZ="-4465" heading="27068" respawnDelay="360" periodOfDay="0" />
+		<spawn npcId="27215" locX="78763" locY="-72863" locZ="-4460" heading="30033" respawnDelay="360" periodOfDay="0" />
+		<spawn npcId="27215" locX="79817" locY="-72818" locZ="-4458" heading="15888" respawnDelay="360" periodOfDay="0" />
+		<spawn npcId="27215" locX="80732" locY="-73893" locZ="-4465" heading="45256" respawnDelay="360" periodOfDay="0" />
+		<spawn npcId="27215" locX="81777" locY="-73369" locZ="-4468" heading="4806" respawnDelay="360" periodOfDay="0" />
+		<spawn npcId="27215" locX="78402" locY="-72593" locZ="-4464" heading="56233" respawnDelay="360" periodOfDay="0" />
+		<spawn npcId="27215" locX="76270" locY="-71695" locZ="-4422" heading="33625" respawnDelay="360" periodOfDay="0" />
+		<spawn npcId="27215" locX="79338" locY="-73206" locZ="-4459" heading="61086" respawnDelay="360" periodOfDay="0" />
+		<spawn npcId="27215" locX="80106" locY="-73063" locZ="-4465" heading="27479" respawnDelay="360" periodOfDay="0" />
+	</spawnzone> <!-- Guardian of Forbidden Knowledge -->
+	<spawnzone name="rune08_qm2215_04">
+		<spawn npcId="27216" locX="72224" locY="-83539" locZ="-4313" heading="42935" respawnDelay="360" periodOfDay="0" />
+		<spawn npcId="27216" locX="72172" locY="-82869" locZ="-4313" heading="18466" respawnDelay="360" periodOfDay="0" />
+		<spawn npcId="27216" locX="71704" locY="-82996" locZ="-4362" heading="0" respawnDelay="360" periodOfDay="0" />
+		<spawn npcId="27216" locX="72468" locY="-84970" locZ="-4296" heading="48719" respawnDelay="360" periodOfDay="0" />
+		<spawn npcId="27216" locX="72827" locY="-86301" locZ="-4280" heading="51316" respawnDelay="360" periodOfDay="0" />
+		<spawn npcId="27216" locX="72651" locY="-86366" locZ="-4281" heading="48343" respawnDelay="360" periodOfDay="0" />
+		<spawn npcId="27216" locX="72397" locY="-83765" locZ="-4313" heading="13380" respawnDelay="360" periodOfDay="0" />
+		<spawn npcId="27216" locX="72193" locY="-82473" locZ="-4267" heading="10658" respawnDelay="360" periodOfDay="0" />
+		<spawn npcId="27216" locX="72408" locY="-82818" locZ="-4362" heading="0" respawnDelay="360" periodOfDay="0" />
+		<spawn npcId="27216" locX="72265" locY="-84395" locZ="-4313" heading="50667" respawnDelay="360" periodOfDay="0" />
+	</spawnzone> <!-- Guardian of Forbidden Knowledge -->
+	<spawnzone name="rune08_qm2215_01">
+		<spawn npcId="27317" locX="86108" locY="-76340" locZ="-3524" heading="0" respawnDelay="360" periodOfDay="0" />
+		<spawn npcId="27317" locX="86209" locY="-76162" locZ="-3524" heading="0" respawnDelay="360" periodOfDay="0" />
+		<spawn npcId="27317" locX="87052" locY="-75716" locZ="-3584" heading="0" respawnDelay="360" periodOfDay="0" />
+		<spawn npcId="27317" locX="87153" locY="-75538" locZ="-3584" heading="0" respawnDelay="360" periodOfDay="0" />
+		<spawn npcId="27317" locX="86700" locY="-75316" locZ="-3584" heading="0" respawnDelay="360" periodOfDay="0" />
+		<spawn npcId="27317" locX="86801" locY="-75138" locZ="-3584" heading="0" respawnDelay="360" periodOfDay="0" />
+	</spawnzone> <!-- Restrainer of Glory -->
+	<spawnloc name="valley_of_saints_loc">
+		<spawn npcId="31367" locX="67737" locY="-72369" locZ="-3722" heading="33486" respawnDelay="60" periodOfDay="0" />
+		<spawn npcId="31368" locX="97136" locY="-75648" locZ="-1615" heading="37000" respawnDelay="60" periodOfDay="0" />
+		<spawn npcId="31508" locX="76656" locY="-76416" locZ="-3602" heading="30000" respawnDelay="60" periodOfDay="0" />
+		<spawn npcId="31509" locX="97264" locY="-90784" locZ="-2786" heading="23000" respawnDelay="60" periodOfDay="0" />
+		<spawn npcId="31510" locX="72767" locY="-89068" locZ="-3127" heading="9000" respawnDelay="60" periodOfDay="0" />
+		<spawn npcId="31511" locX="91744" locY="-75824" locZ="-3634" heading="33000" respawnDelay="60" periodOfDay="0" />
+		<spawn npcId="31512" locX="72656" locY="-72480" locZ="-4478" heading="49000" respawnDelay="60" periodOfDay="0" />
+		<spawn npcId="31513" locX="95516" locY="-87328" locZ="-3813" heading="12000" respawnDelay="60" periodOfDay="0" />
+		<spawn npcId="31514" locX="69904" locY="-83904" locZ="-4320" heading="49000" respawnDelay="60" periodOfDay="0" />
+		<spawn npcId="31515" locX="78416" locY="-75808" locZ="-4485" heading="0" respawnDelay="60" periodOfDay="0" />
+		<spawn npcId="31516" locX="89236" locY="-92684" locZ="-3800" heading="9000" respawnDelay="60" periodOfDay="0" />
+		<spawn npcId="31517" locX="72704" locY="-72480" locZ="-4478" heading="49000" respawnDelay="60" periodOfDay="0" />
+		<spawn npcId="31517" locX="95476" locY="-87316" locZ="-3813" heading="12000" respawnDelay="60" periodOfDay="0" />
+		<spawn npcId="31517" locX="69952" locY="-83904" locZ="-4320" heading="49000" respawnDelay="60" periodOfDay="0" />
+		<spawn npcId="31517" locX="78416" locY="-75760" locZ="-4485" heading="0" respawnDelay="60" periodOfDay="0" />
+		<spawn npcId="31517" locX="89204" locY="-92656" locZ="-3800" heading="9000" respawnDelay="60" periodOfDay="0" />
+		<spawn npcId="31518" locX="68064" locY="-71712" locZ="-3712" heading="30000" respawnDelay="60" periodOfDay="0" />
+		<spawn npcId="31519" locX="78064" locY="-82672" locZ="-3642" heading="0" respawnDelay="60" periodOfDay="0" />
+		<spawn npcId="31647" locX="94160" locY="-88912" locZ="-3792" heading="25000" respawnDelay="60" periodOfDay="0" />
+		<spawn npcId="31648" locX="80240" locY="-72720" locZ="-4468" heading="42000" respawnDelay="60" periodOfDay="0" />
+		<spawn npcId="31649" locX="71344" locY="-82704" locZ="-4272" heading="57000" respawnDelay="60" periodOfDay="0" />
+		<spawn npcId="31746" locX="85884" locY="-76588" locZ="-3475" heading="8000" respawnDelay="60" periodOfDay="0" />
+		<spawn npcId="31748" locX="85832" locY="-76652" locZ="-3475" heading="42000" respawnDelay="60" periodOfDay="0" />
+		<spawn npcId="31748" locX="85824" locY="-76544" locZ="-3475" heading="24000" respawnDelay="60" periodOfDay="0" />
+		<spawn npcId="31748" locX="85940" locY="-76536" locZ="-3475" heading="8000" respawnDelay="60" periodOfDay="0" />
+		<spawn npcId="31748" locX="85936" locY="-76640" locZ="-3475" heading="57000" respawnDelay="60" periodOfDay="0" />
+		<spawn npcId="32238" locX="71824" locY="-78898" locZ="-4472" heading="53989" respawnDelay="60" periodOfDay="0" />
+	</spawnloc> <!-- All Territory NPC`s -->
+</list>

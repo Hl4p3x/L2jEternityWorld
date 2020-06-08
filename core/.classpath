@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="lib/javolution-5.5.1.jar" sourcepath="lib/javolution-5.5.1-src.zip"/>
+	<classpathentry exported="true" kind="lib" path="lib/jython.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jython-engine-2.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/mmocore.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/netcon-1.7.jar"/>
+	<classpathentry excluding="**/.svn/*|.svn" kind="src" path="java"/>
+	<classpathentry exported="true" kind="lib" path="lib/java-engine-1.7.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/mail-1.5.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/geoengine.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-io-1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/c3p0-0.9.5-pre6.jar"/>
+	<classpathentry kind="lib" path="lib/ecj-4.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/mchange-commons-java-0.2.6.3.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.29-bin.jar"/>
+	<classpathentry kind="lib" path="lib/worldwind.jar"/>
+	<classpathentry kind="lib" path="lib/Subnet-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/server_scripts.jar"/>
+	<classpathentry kind="lib" path="lib/trove-3.0.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

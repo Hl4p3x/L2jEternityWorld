@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawns.xsd">
+	<spawnloc name="rune_loc_01">
+    		<spawn npcId="35469" locX="9132" locY="-49153" locZ="1094" heading="6133" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="35502" locX="11127" locY="-49148" locZ="3843" heading="18512" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="35503" locX="18616" locY="-48956" locZ="-1216" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="35503" locX="17908" locY="-48960" locZ="-1200" heading="33000" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="35504" locX="15688" locY="-49036" locZ="-1056" heading="33000" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="35504" locX="15860" locY="-49020" locZ="-1056" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="35505" locX="12780" locY="-51060" locZ="-1088" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="35505" locX="12736" locY="-51184" locZ="-1088" heading="49000" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="35506" locX="11532" locY="-49136" locZ="-1087" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="35507" locX="12872" locY="-48752" locZ="-1088" heading="33000" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="35508" locX="12864" locY="-49184" locZ="-1088" heading="39746" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="35509" locX="10211" locY="-49084" locZ="-307" heading="36736" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="35510" locX="12318" locY="-47703" locZ="1296" heading="22879" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="35511" locX="10840" locY="-49273" locZ="-565" heading="2366" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="35513" locX="26976" locY="-48968" locZ="-1296" heading="0" respawnDelay="120" periodOfDay="0" />
+    		<spawn npcId="35655" locX="10280" locY="-48766" locZ="-546" heading="182" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="36410" locX="11534" locY="-48907" locZ="-1088" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnloc>
+</list>

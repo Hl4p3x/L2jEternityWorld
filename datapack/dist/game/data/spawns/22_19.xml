@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawns.xsd">
+	<spawnzone name="oren28_2219_11">
+    		<spawn npcId="20585" locX="70229" locY="60688" locZ="-3419" heading="49653" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20585" locX="71318" locY="59773" locZ="-3335" heading="19244" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20585" locX="70063" locY="62240" locZ="-3389" heading="15926" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20585" locX="72386" locY="62548" locZ="-3351" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20585" locX="72440" locY="63522" locZ="-3451" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20585" locX="74290" locY="57804" locZ="-2813" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20585" locX="74592" locY="57982" locZ="-2801" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20585" locX="71829" locY="65092" locZ="-3621" heading="449" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20585" locX="67122" locY="65284" locZ="-3684" heading="59201" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20585" locX="69044" locY="64755" locZ="-3710" heading="28928" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20585" locX="67746" locY="64004" locZ="-3700" heading="45174" respawnDelay="40" periodOfDay="0" />
+	</spawnzone> <!-- Timak Orc Soldier -->
+	<spawnzone name="oren28_2219_01">
+    		<spawn npcId="20586" locX="73122" locY="36486" locZ="-3287" heading="62434" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20586" locX="71054" locY="36866" locZ="-3664" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20586" locX="66878" locY="36742" locZ="-3672" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20586" locX="67769" locY="37364" locZ="-3698" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20586" locX="66797" locY="41284" locZ="-3728" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20586" locX="65784" locY="45924" locZ="-3904" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20586" locX="68623" locY="46274" locZ="-3244" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20586" locX="66603" locY="48160" locZ="-3833" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20586" locX="69378" locY="51795" locZ="-3455" heading="26274" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20586" locX="69428" locY="53273" locZ="-3625" heading="15703" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20586" locX="71421" locY="49839" locZ="-3516" heading="57772" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20586" locX="68033" locY="53211" locZ="-3648" heading="16116" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20586" locX="71763" locY="51296" locZ="-3513" heading="16268" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20586" locX="69935" locY="49598" locZ="-3760" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20586" locX="73379" locY="45550" locZ="-3720" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20586" locX="75197" locY="43485" locZ="-2897" heading="41917" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20586" locX="77913" locY="42546" locZ="-2924" heading="3365" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20586" locX="68918" locY="55740" locZ="-3578" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20586" locX="69220" locY="55918" locZ="-3594" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20586" locX="68817" locY="55918" locZ="-3576" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20586" locX="71361" locY="60584" locZ="-3298" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20586" locX="70555" locY="60228" locZ="-3441" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20586" locX="70876" locY="58498" locZ="-3456" heading="46634" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20586" locX="72789" locY="62192" locZ="-3323" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20586" locX="74690" locY="58903" locZ="-2664" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20586" locX="74693" locY="58160" locZ="-2693" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20586" locX="74243" locY="58205" locZ="-2690" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20586" locX="70537" locY="64265" locZ="-3562" heading="57413" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20586" locX="68652" locY="63390" locZ="-3652" heading="47912" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20586" locX="69676" locY="63307" locZ="-3521" heading="52989" respawnDelay="40" periodOfDay="0" />
+	</spawnzone> <!-- Timak Orc Warrior -->
+	<spawnzone name="oren28_2219_02">
+    		<spawn npcId="20587" locX="70752" locY="36332" locZ="-3664" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20587" locX="74268" locY="34065" locZ="-3714" heading="55143" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20587" locX="67703" locY="36751" locZ="-3677" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20587" locX="67568" locY="37364" locZ="-3690" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20587" locX="66194" locY="41284" locZ="-3764" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20587" locX="65571" locY="44078" locZ="-3712" heading="943" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20587" locX="67516" locY="45740" locZ="-3820" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20587" locX="68321" locY="46096" locZ="-3351" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20587" locX="70888" locY="50801" locZ="-3513" heading="3421" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20587" locX="70008" locY="52184" locZ="-3473" heading="9088" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20587" locX="67756" locY="51746" locZ="-3659" heading="46430" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20587" locX="69632" locY="48708" locZ="-3760" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20587" locX="68689" locY="49496" locZ="-3665" heading="25437" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20587" locX="72876" locY="45372" locZ="-3720" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20587" locX="74952" locY="42856" locZ="-3268" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20587" locX="74522" locY="40508" locZ="-3220" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20587" locX="68314" locY="56452" locZ="-3669" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20587" locX="68515" locY="56452" locZ="-3648" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20587" locX="70656" locY="59694" locZ="-3478" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20587" locX="70454" locY="60406" locZ="-3431" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20587" locX="72688" locY="63082" locZ="-3449" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20587" locX="74066" locY="63679" locZ="-3542" heading="32471" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20587" locX="75096" locY="58516" locZ="-2673" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20587" locX="74893" locY="57804" locZ="-2832" heading="0" respawnDelay="40" periodOfDay="0" />
+	</spawnzone> <!-- Timak Orc Shaman -->
+	<spawnzone name="oren28_2219_03">
+    		<spawn npcId="20588" locX="72588" locY="35178" locZ="-3573" heading="48923" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20588" locX="73119" locY="34079" locZ="-3701" heading="51999" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20588" locX="72645" locY="38567" locZ="-3280" heading="6790" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20588" locX="67367" locY="37720" locZ="-3700" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20588" locX="67840" locY="47587" locZ="-3829" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20588" locX="66402" locY="48872" locZ="-3724" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20588" locX="68939" locY="50884" locZ="-3764" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20588" locX="67844" locY="50506" locZ="-3590" heading="45874" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20588" locX="67098" locY="50945" locZ="-3524" heading="1243" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20588" locX="68573" locY="54368" locZ="-3594" heading="51338" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20588" locX="69300" locY="49027" locZ="-3657" heading="37939" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20588" locX="73078" locY="45728" locZ="-3720" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20588" locX="80045" locY="42226" locZ="-3234" heading="556" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20588" locX="74280" locY="41349" locZ="-2880" heading="7614" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20588" locX="67267" locY="56367" locZ="-3710" heading="31350" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20588" locX="69512" locY="57287" locZ="-3656" heading="35003" respawnDelay="40" periodOfDay="0" />
+	</spawnzone> <!-- Timak Orc Overlord -->
+	<spawnzone name="oren28_2219_04">
+    		<spawn npcId="20767" locX="71123" locY="36354" locZ="-3187" heading="60566" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20767" locX="71170" locY="38508" locZ="-3355" heading="26099" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20767" locX="69127" locY="38435" locZ="-3574" heading="27762" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20767" locX="67180" locY="36564" locZ="-3638" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20767" locX="66395" locY="41284" locZ="-3736" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20767" locX="68049" locY="41006" locZ="-3686" heading="61624" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20767" locX="67300" locY="47847" locZ="-3819" heading="44707" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20767" locX="66623" locY="47009" locZ="-3911" heading="41353" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20767" locX="66200" locY="45164" locZ="-3804" heading="43055" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20767" locX="66731" locY="46414" locZ="-3907" heading="46860" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20767" locX="68266" locY="48494" locZ="-3706" heading="59487" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20767" locX="69632" locY="48708" locZ="-3760" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20767" locX="72150" locY="48567" locZ="-3508" heading="60437" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20767" locX="70872" locY="49119" locZ="-3648" heading="65249" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20767" locX="67161" locY="50056" locZ="-3542" heading="28357" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20767" locX="72876" locY="45372" locZ="-3720" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20767" locX="72574" locY="45550" locZ="-3720" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20767" locX="72674" locY="45728" locZ="-3720" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20767" locX="80626" locY="44690" locZ="-3169" heading="7067" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20767" locX="76711" locY="41696" locZ="-2997" heading="53883" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20767" locX="75498" locY="44841" locZ="-2896" heading="20144" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20767" locX="74885" locY="38449" locZ="-2997" heading="54089" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20767" locX="73179" locY="42342" locZ="-2653" heading="62749" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20767" locX="74909" locY="42453" locZ="-2910" heading="31434" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20767" locX="65591" locY="56340" locZ="-3524" heading="29843" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20767" locX="70921" locY="57560" locZ="-3424" heading="54121" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20767" locX="69522" locY="60748" locZ="-3521" heading="27695" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20767" locX="70013" locY="58739" locZ="-3625" heading="38227" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20767" locX="71541" locY="58990" locZ="-3322" heading="24718" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20767" locX="72386" locY="62548" locZ="-3384" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20767" locX="72303" locY="63099" locZ="-3384" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20767" locX="72843" locY="62873" locZ="-3443" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20767" locX="72487" locY="62726" locZ="-3375" heading="0" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20767" locX="72710" locY="60536" locZ="-3110" heading="25052" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20767" locX="73971" locY="61230" locZ="-3008" heading="19183" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20767" locX="73621" locY="59585" locZ="-2853" heading="10170" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20767" locX="72186" locY="58075" locZ="-3075" heading="30488" respawnDelay="40" periodOfDay="0" />
+    		<spawn npcId="20767" locX="66943" locY="64289" locZ="-3700" heading="54998" respawnDelay="40" periodOfDay="0" />
+	</spawnzone> <!-- Timak Orc Troop Leader -->
+	<spawnloc name="town_of_oren">
+    		<spawn npcId="30177" locX="82992" locY="53171" locZ="-1492" heading="31000" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30178" locX="79111" locY="53657" locZ="-1548" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30179" locX="79112" locY="53602" locZ="-1548" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30180" locX="79451" locY="54973" locZ="-1541" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30181" locX="79451" locY="54877" locZ="-1542" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30182" locX="81318" locY="54995" locZ="-1508" heading="49152" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30183" locX="81777" locY="55123" locZ="-1506" heading="32768" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30184" locX="79077" locY="56694" locZ="-1510" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30185" locX="79706" locY="56914" locZ="-1510" heading="32768" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30186" locX="79448" locY="57053" locZ="-1510" heading="49152" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30187" locX="79183" locY="56947" locZ="-1510" heading="57344" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30188" locX="83469" locY="53215" locZ="-1454" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30189" locX="83469" locY="53398" locZ="-1454" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30190" locX="83785" locY="53398" locZ="-1454" heading="32768" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30191" locX="83634" locY="52927" locZ="-1443" heading="16384" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30192" locX="83477" locY="54912" locZ="-1509" heading="32768" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30194" locX="82930" locY="54911" locZ="-1509" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30195" locX="83201" locY="55005" locZ="-1508" heading="49152" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30196" locX="81023" locY="56456" locZ="-1552" heading="49304" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30197" locX="81102" locY="53053" locZ="-1560" heading="49152" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30198" locX="79671" locY="54384" locZ="-1555" heading="32768" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30199" locX="79671" locY="54184" locZ="-1555" heading="32768" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30200" locX="81631" locY="56240" locZ="-1522" heading="22792" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30201" locX="81420" locY="56240" locZ="-1522" heading="16384" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30623" locX="79610" locY="56717" locZ="-1510" heading="24576" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30641" locX="83629" locY="55957" locZ="-1523" heading="16384" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30657" locX="83183" locY="53715" locZ="-1452" heading="32768" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30676" locX="81655" locY="54736" locZ="-1504" heading="16384" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30677" locX="83741" locY="55410" locZ="-1508" heading="24576" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30678" locX="83684" locY="55631" locZ="-1509" heading="45056" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30679" locX="79213" locY="56423" locZ="-1510" heading="16384" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30680" locX="83785" locY="53215" locZ="-1454" heading="32768" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30681" locX="83760" locY="56096" locZ="-1523" heading="32500" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30682" locX="83712" locY="56000" locZ="-1523" heading="32000" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30683" locX="83676" locY="56144" locZ="-1520" heading="48000" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30750" locX="71569" locY="44058" locZ="-1436" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30760" locX="80036" locY="56568" locZ="-1557" heading="57344" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30830" locX="81992" locY="54048" locZ="-1494" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30929" locX="79769" locY="55048" locZ="-1544" heading="48500" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30990" locX="83001" locY="53224" locZ="-1488" heading="31000" respawnDelay="5" periodOfDay="0" />
+    		<spawn npcId="31002" locX="92743" locY="55523" locZ="-3370" heading="32768" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31031" locX="79998" locY="55455" locZ="-1568" heading="16384" respawnDelay="5" periodOfDay="0" />
+    		<spawn npcId="31052" locX="80071" locY="55068" locZ="-1545" heading="40064" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31083" locX="83106" locY="54015" locZ="-1488" heading="32500" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31090" locX="82819" locY="54657" locZ="-1520" heading="49000" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31092" locX="80129" locY="56947" locZ="-1552" heading="32500" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31206" locX="81992" locY="54048" locZ="-1494" heading="4092" respawnDelay="5" periodOfDay="0" />
+    		<spawn npcId="31422" locX="83568" locY="53856" locZ="-1455" heading="48500" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31430" locX="83759" locY="56143" locZ="-1523" heading="32000" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31437" locX="83616" locY="55392" locZ="-1510" heading="16000" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31444" locX="83568" locY="55696" locZ="-1510" heading="48000" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31574" locX="79774" locY="54746" locZ="-1545" heading="16000" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31688" locX="82688" locY="53056" locZ="-1494" heading="16500" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31690" locX="82752" locY="53056" locZ="-1494" heading="16500" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31756" locX="81136" locY="54576" locZ="-1517" heading="32000" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31757" locX="81126" locY="54519" locZ="-1517" heading="32000" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31814" locX="80848" locY="53168" locZ="-1558" heading="16500" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31815" locX="81984" locY="54256" locZ="-1494" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31816" locX="81692" locY="56128" locZ="-1523" heading="49000" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31817" locX="81136" locY="54832" locZ="-1523" heading="33000" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31818" locX="79776" locY="54032" locZ="-1558" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32205" locX="83680" locY="54448" locZ="-1512" heading="32183" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32206" locX="83680" locY="54480" locZ="-1512" heading="32768" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32207" locX="83658" locY="54421" locZ="-1512" heading="32768" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32208" locX="83658" locY="54506" locZ="-1512" heading="32768" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32327" locX="82385" locY="53283" locZ="-1488" heading="16384" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32478" locX="81792" locY="55376" locZ="-1520" heading="16500" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32482" locX="80913" locY="53053" locZ="-1560" heading="4722" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32484" locX="80960" locY="56455" locZ="-1552" heading="49464" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32632" locX="82832" locY="53088" locZ="-1488" heading="16384" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32879" locX="83754" locY="55548" locZ="-1512" heading="37322" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="35229" locX="82682" locY="55280" locZ="-1523" heading="27280" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="35229" locX="80091" locY="53464" locZ="-1558" heading="57784" respawnDelay="60" periodOfDay="0" />
+	</spawnloc> <!-- All NPC in Town of Oren -->
+	<spawnloc name="oren_castle">
+    		<spawn npcId="35189" locX="84014" locY="37184" locZ="-2277" heading="16384" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="35221" locX="82611" locY="38772" locZ="-1578" heading="49152" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="35222" locX="78737" locY="36852" locZ="-2544" heading="32768" respawnDelay="10800" periodOfDay="0" />
+    		<spawn npcId="35222" locX="79085" locY="36798" locZ="-2544" heading="49152" respawnDelay="10800" periodOfDay="0" />
+    		<spawn npcId="35223" locX="81296" locY="37025" locZ="-2254" heading="32768" respawnDelay="10800" periodOfDay="0" />
+    		<spawn npcId="35223" locX="81651" locY="36959" locZ="-2294" heading="49152" respawnDelay="10800" periodOfDay="0" />
+    		<spawn npcId="35224" locX="82464" locY="37592" locZ="-2450" heading="44984" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="35225" locX="82043" locY="37132" locZ="-2450" heading="65001" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="35226" locX="83171" locY="37092" locZ="-2266" heading="32768" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="35227" locX="83853" locY="37192" locZ="-1835" heading="49000" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="35228" locX="83056" locY="37425" locZ="-2280" heading="32768" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="35232" locX="75275" locY="40132" locZ="-3150" heading="32768" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="35651" locX="83061" locY="36962" locZ="-2293" heading="22020" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="36406" locX="82916" locY="37108" locZ="-2451" heading="32073" respawnDelay="60" periodOfDay="0" />
+	</spawnloc> <!-- All NPC in Oren Castle -->
+	<spawnloc name="town_of_oren_area">
+    		<spawn npcId="32568" locX="88125" locY="38448" locZ="-3360" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="32569" locX="82717" locY="47060" locZ="-3232" heading="33103" respawnDelay="60" periodOfDay="0" />
+	</spawnloc> <!-- Other NPC in Oren Area -->
+	<spawnzone name="sel_mahum_camp_1">
+    		<spawn npcId="22787" locX="82261" locY="61698" locZ="-3506" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="82485" locY="61237" locZ="-3505" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="82176" locY="61510" locZ="-3503" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="82577" locY="61968" locZ="-3504" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="83510" locY="61601" locZ="-3475" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="83450" locY="61082" locZ="-3496" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="82561" locY="61086" locZ="-3503" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="83449" locY="61876" locZ="-3463" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="83428" locY="61754" locZ="-3478" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="82862" locY="61261" locZ="-3502" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Sel Mahum Ground Area -->
+	<spawnzone name="sel_mahum_camp_2">
+    		<spawn npcId="22787" locX="84530" locY="62801" locZ="-3550" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="83689" locY="62530" locZ="-3484" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="84671" locY="63477" locZ="-3680" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="83730" locY="62955" locZ="-3540" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="83773" locY="62315" locZ="-3440" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="84400" locY="62413" locZ="-3470" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="84748" locY="62948" locZ="-3505" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="84698" locY="61874" locZ="-3148" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="84106" locY="63252" locZ="-3600" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="83962" locY="63151" locZ="-3578" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22786" locX="84453" locY="62863" locZ="-3560" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22786" locX="84632" locY="62330" locZ="-3474" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22788" locX="83554" locY="62505" locZ="-3488" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22788" locX="85140" locY="63346" locZ="-3677" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Sel Mahum Ground Area -->
+	<spawnzone name="sel_mahum_camp_3">
+    		<spawn npcId="22787" locX="86002" locY="62590" locZ="-3590" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="86049" locY="62145" locZ="-3560" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="85861" locY="63033" locZ="-3645" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="86676" locY="60746" locZ="-3525" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="85575" locY="62017" locZ="-3490" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="86829" locY="60803" locZ="-3545" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="86695" locY="61654" locZ="-3640" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="85752" locY="61827" locZ="-3475" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="86575" locY="60724" locZ="-3520" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="86333" locY="62402" locZ="-3665" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22786" locX="86206" locY="60783" locZ="-3495" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22788" locX="85798" locY="62167" locZ="-3520" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Sel Mahum Ground Area -->
+	<spawnzone name="sel_mahum_camp_4">
+    		<spawn npcId="22787" locX="87152" locY="62336" locZ="-3715" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="87352" locY="63022" locZ="-3715" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="87809" locY="62910" locZ="-3715" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="87427" locY="62022" locZ="-3710" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="87033" locY="62182" locZ="-3710" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="87591" locY="62531" locZ="-3715" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="87396" locY="62916" locZ="-3715" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="87256" locY="62580" locZ="-3715" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="87829" locY="62295" locZ="-3710" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="87162" locY="62439" locZ="-3715" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22786" locX="87523" locY="62611" locZ="-3715" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22786" locX="87571" locY="63122" locZ="-3700" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22788" locX="87956" locY="62352" locZ="-3715" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22788" locX="86861" locY="62931" locZ="-3710" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Sel Mahum Ground Area -->
+	<spawnzone name="sel_mahum_camp_5">
+    		<spawn npcId="22787" locX="87300" locY="58875" locZ="-3590" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="88169" locY="59612" locZ="-3550" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="91007" locY="60136" locZ="-3630" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="89093" locY="60119" locZ="-3640" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="87795" locY="59899" locZ="-3550" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="89570" locY="60730" locZ="-3700" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="87627" locY="59644" locZ="-3555" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="88251" locY="58708" locZ="-3600" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="89474" locY="60632" locZ="-3625" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="90901" locY="60165" locZ="-3635" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22786" locX="90509" locY="59975" locZ="-3660" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22788" locX="88851" locY="59287" locZ="-3555" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Sel Mahum Ground Area -->
+	<spawnzone name="sel_mahum_camp_6">
+    		<spawn npcId="22787" locX="87062" locY="55149" locZ="-3690" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="84993" locY="54713" locZ="-3480" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="85850" locY="53050" locZ="-3625" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="88686" locY="54738" locZ="-3525" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="88919" locY="54320" locZ="-3595" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="86434" locY="54005" locZ="-3715" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="90343" locY="54535" locZ="-3785" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="89010" locY="54638" locZ="-3785" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="88841" locY="55011" locZ="-3450" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="85374" locY="54290" locZ="-3595" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22786" locX="89278" locY="55078" locZ="-3500" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22786" locX="89540" locY="54556" locZ="-3715" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22788" locX="86505" locY="54274" locZ="-3720" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22788" locX="86008" locY="54498" locZ="-3700" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Sel Mahum Ground Area -->
+	<spawnzone name="sel_mahum_camp_7">
+    		<spawn npcId="22787" locX="93552" locY="54166" locZ="-3685" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="93687" locY="55527" locZ="-3485" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="94054" locY="55932" locZ="-3400" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="94632" locY="54869" locZ="-3575" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="94798" locY="54250" locZ="-3615" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="93249" locY="55226" locZ="-3480" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="94059" locY="55110" locZ="-3560" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="94677" locY="55519" locZ="-3395" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="92176" locY="55150" locZ="-3595" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="93840" locY="54979" locZ="-3580" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22786" locX="92471" locY="55843" locZ="-3422" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22786" locX="94771" locY="54813" locZ="-3615" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22788" locX="94811" locY="54336" locZ="-3625" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22788" locX="92690" locY="55914" locZ="-3445" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Sel Mahum Ground Area -->
+	<spawnzone name="sel_mahum_camp_8">
+    		<spawn npcId="22787" locX="91558" locY="58062" locZ="-3730" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="91030" locY="57663" locZ="-3750" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="91028" locY="58349" locZ="-3800" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="90603" locY="57998" locZ="-3780" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="90286" locY="58376" locZ="-3755" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="90556" locY="58125" locZ="-3785" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="90884" locY="58160" locZ="-3800" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="90543" locY="57651" locZ="-3760" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="91439" locY="58246" locZ="-3765" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="91441" locY="58110" locZ="-3755" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22786" locX="90508" locY="58172" locZ="-3780" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22788" locX="90980" locY="57610" locZ="-3750" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Sel Mahum Ground Area -->
+	<spawnzone name="sel_mahum_camp_9">
+    		<spawn npcId="22787" locX="92872" locY="60006" locZ="-3370" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="93303" locY="60450" locZ="-3290" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="93056" locY="60815" locZ="-3300" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="93881" locY="63720" locZ="-3260" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="94432" locY="63010" locZ="-3225" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="94333" locY="62919" locZ="-3225" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="93186" locY="60223" locZ="-3325" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="92883" locY="61288" locZ="-3270" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="93342" locY="63096" locZ="-3340" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="93485" locY="60240" locZ="-3265" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22786" locX="92309" locY="60017" locZ="-3445" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22786" locX="93287" locY="64061" locZ="-3360" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22788" locX="93033" locY="64131" locZ="-3390" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22788" locX="91529" locY="60916" locZ="-3365" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Sel Mahum Ground Area -->
+	<spawnzone name="sel_mahum_camp_10">
+    		<spawn npcId="22787" locX="86801" locY="64089" locZ="-3365" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="87148" locY="63770" locZ="-3665" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="88983" locY="63930" locZ="-3680" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="87824" locY="64124" locZ="-3705" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="89635" locY="65279" locZ="-3700" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="87602" locY="64361" locZ="-3715" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="87272" locY="63660" locZ="-3660" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="89979" locY="64954" locZ="-3700" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="89364" locY="65348" locZ="-3695" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="87344" locY="64290" locZ="-3690" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22786" locX="88754" locY="65015" locZ="-3720" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22788" locX="87679" locY="64796" locZ="-3730" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Sel Mahum Ground Area -->
+	<spawnzone name="sel_mahum_camp_11">
+    		<spawn npcId="22787" locX="83456" locY="63642" locZ="-3575" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="81090" locY="63770" locZ="-3600" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="83697" locY="63727" locZ="-3640" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="81979" locY="63444" locZ="-3595" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="82852" locY="63566" locZ="-3570" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="81908" locY="63488" locZ="-3595" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="82276" locY="63848" locZ="-3590" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="82677" locY="63712" locZ="-3575" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="81805" locY="63743" locZ="-3590" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="81259" locY="64163" locZ="-3550" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22786" locX="82471" locY="63998" locZ="-3585" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22786" locX="82870" locY="63747" locZ="-3575" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22788" locX="81145" locY="63517" locZ="-3625" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22788" locX="82590" locY="63422" locZ="-3560" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Sel Mahum Ground Area -->
+	<spawnzone name="sel_mahum_camp_12">
+    		<spawn npcId="22787" locX="79342" locY="63950" locZ="-3580" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="78867" locY="63427" locZ="-3670" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="78973" locY="63120" locZ="-3690" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="78692" locY="63644" locZ="-3640" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="78186" locY="63786" locZ="-3615" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="79400" locY="63387" locZ="-3670" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="78378" locY="63593" locZ="-3640" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="79386" locY="63726" locZ="-3630" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="79095" locY="62548" locZ="-3685" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="78886" locY="63899" locZ="-3590" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22786" locX="78210" locY="63733" locZ="-3625" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22788" locX="78385" locY="63627" locZ="-3635" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Sel Mahum Ground Area -->
+	<spawnzone name="sel_mahum_camp_13">
+    		<spawn npcId="22787" locX="79070" locY="64834" locZ="-3415" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="79292" locY="65296" locZ="-3285" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="80565" locY="65062" locZ="-3330" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="78109" locY="65238" locZ="-3250" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="81099" locY="65194" locZ="-3440" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="78365" locY="64954" locZ="-3300" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="80037" locY="65097" locZ="-3310" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="79271" locY="65243" locZ="-3300" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="81069" locY="64624" locZ="-3500" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="78439" locY="65032" locZ="-3310" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22786" locX="78160" locY="65236" locZ="-3265" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22786" locX="79836" locY="65175" locZ="-3295" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22788" locX="79942" locY="64940" locZ="-3305" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22788" locX="78990" locY="62250" locZ="-3335" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Sel Mahum Ground Area -->
+	<spawnzone name="sel_mahum_camp_14">
+    		<spawn npcId="22787" locX="77592" locY="68676" locZ="-3110" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="77982" locY="69143" locZ="-3160" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="77660" locY="69027" locZ="-3110" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="79259" locY="69304" locZ="-3345" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="77987" locY="69421" locZ="-3125" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="79052" locY="69673" locZ="-3285" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="78283" locY="69031" locZ="-3225" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="79380" locY="69114" locZ="-3340" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="78184" locY="69924" locZ="-3135" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="79385" locY="69202" locZ="-3345" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22786" locX="78626" locY="68921" locZ="-3255" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22788" locX="78393" locY="69827" locZ="-3230" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Sel Mahum Ground Area -->
+	<spawnzone name="sel_mahum_camp_15">
+    		<spawn npcId="22787" locX="80966" locY="67247" locZ="-3380" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="80721" locY="67933" locZ="-3455" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="80458" locY="68861" locZ="-3445" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="81649" locY="68522" locZ="-3285" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="80338" locY="68112" locZ="-3395" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="80140" locY="68519" locZ="-3375" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="81439" locY="68105" locZ="-3320" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="79667" locY="68567" locZ="-3290" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="80418" locY="67226" locZ="-3315" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="80589" locY="68533" locZ="-3465" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22786" locX="80815" locY="68669" locZ="-3477" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22786" locX="80815" locY="67903" locZ="-3470" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22788" locX="79868" locY="69141" locZ="-3380" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22788" locX="81529" locY="68629" locZ="-3325" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Sel Mahum Ground Area -->
+	<spawnzone name="sel_mahum_camp_16">
+    		<spawn npcId="22787" locX="84677" locY="65744" locZ="-3210" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="83999" locY="66414" locZ="-3030" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="83826" locY="65597" locZ="-3100" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="83719" locY="66324" locZ="-3040" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="84130" locY="65850" locZ="-3135" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="83945" locY="65963" locZ="-3080" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="83864" locY="66268" locZ="-3045" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="84792" locY="65645" locZ="-3230" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="84221" locY="66021" locZ="-3105" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="83979" locY="66070" locZ="-3070" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22786" locX="84589" locY="65886" locZ="-3175" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22788" locX="83448" locY="65667" locZ="-3040" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Sel Mahum Ground Area -->
+	<spawnzone name="sel_mahum_camp_17">
+    		<spawn npcId="22787" locX="86579" locY="66194" locZ="-3560" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="86984" locY="66175" locZ="-3660" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="85669" locY="67036" locZ="-3150" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="87979" locY="65889" locZ="-3730" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="86183" locY="66984" locZ="-3405" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="87172" locY="65592" locZ="-3680" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="85769" locY="65915" locZ="-3300" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="85103" locY="65719" locZ="-3235" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="85936" locY="66401" locZ="-3380" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="88363" locY="65845" locZ="-3725" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22786" locX="85804" locY="66505" locZ="-3345" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22786" locX="86075" locY="67510" locZ="-3375" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22788" locX="85354" locY="66515" locZ="-3205" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22788" locX="85667" locY="67261" locZ="-3075" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Sel Mahum Ground Area -->
+	<spawnzone name="sel_mahum_camp_18">
+    		<spawn npcId="22787" locX="86778" locY="68011" locZ="-3070" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="86331" locY="68702" locZ="-3065" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="86734" locY="68121" locZ="-3070" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="86966" locY="68668" locZ="-3065" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="86117" locY="68348" locZ="-3070" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="86746" locY="68249" locZ="-3070" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="86888" locY="68810" locZ="-3065" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="86505" locY="68958" locZ="-3065" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="86746" locY="68738" locZ="-3065" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="86706" locY="68687" locZ="-3065" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22786" locX="86412" locY="69061" locZ="-3065" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22788" locX="86551" locY="69017" locZ="-3065" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Sel Mahum Ground Area -->
+	<spawnzone name="sel_mahum_camp_19">
+    		<spawn npcId="22787" locX="89720" locY="67824" locZ="-3715" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="89329" locY="67684" locZ="-3715" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="89833" locY="66910" locZ="-3710" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="89049" locY="67514" locZ="-3715" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="89261" locY="67116" locZ="-3710" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="89923" locY="67162" locZ="-3715" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="89490" locY="66902" locZ="-3715" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="89146" locY="67838" locZ="-3715" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="89219" locY="66940" locZ="-3715" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="89260" locY="67461" locZ="-3715" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22786" locX="90018" locY="67217" locZ="-3710" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22786" locX="89656" locY="67276" locZ="-3715" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22788" locX="90052" locY="67728" locZ="-3715" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22788" locX="89788" locY="67374" locZ="-3715" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Sel Mahum Ground Area -->
+	<spawnzone name="sel_mahum_camp_20">
+    		<spawn npcId="22787" locX="91640" locY="67344" locZ="-3670" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="91643" locY="67943" locZ="-3590" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="91671" locY="67365" locZ="-3665" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="91426" locY="67657" locZ="-3617" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="91972" locY="68095" locZ="-3595" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="91330" locY="68170" locZ="-3560" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="91033" locY="67984" locZ="-3590" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="91087" locY="67907" locZ="-3597" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="91975" locY="67688" locZ="-3650" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="91438" locY="67843" locZ="-3595" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22786" locX="91498" locY="67500" locZ="-3640" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22788" locX="91126" locY="67631" locZ="-3620" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Sel Mahum Ground Area -->
+	<spawnzone name="sel_mahum_camp_21">
+    		<spawn npcId="22787" locX="90703" locY="69680" locZ="-3465" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="90382" locY="69495" locZ="-3475" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="89647" locY="69673" locZ="-3415" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="90639" locY="69872" locZ="-3460" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="91208" locY="70512" locZ="-3550" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="88034" locY="69328" locZ="-3170" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="88534" locY="69558" locZ="-3285" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="89443" locY="70133" locZ="-3435" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="89923" locY="68810" locZ="-3605" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="90695" locY="69271" locZ="-3490" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22786" locX="89341" locY="69223" locZ="-3435" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22786" locX="89118" locY="70440" locZ="-3435" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22788" locX="88662" locY="69283" locZ="-3290" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22788" locX="88948" locY="69913" locZ="-3380" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Sel Mahum Ground Area -->
+	<spawnzone name="sel_mahum_camp_22">
+    		<spawn npcId="22787" locX="96293" locY="69696" locZ="-3595" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="96646" locY="68623" locZ="-3300" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="93330" locY="70485" locZ="-3607" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="93387" locY="69461" locZ="-3620" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="93183" locY="67755" locZ="-3700" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="96300" locY="68476" locZ="-3305" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="92609" locY="70867" locZ="-3610" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="94065" locY="70134" locZ="-3713" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="94161" locY="70994" locZ="-3690" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22787" locX="93509" locY="67187" locZ="-3597" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22786" locX="95539" locY="68871" locZ="-3400" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22788" locX="92737" locY="70448" locZ="-3554" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Sel Mahum Ground Area -->
+	<spawnzone name="sel_mahum_camp_23">	
+    		<spawn npcId="22787" locX="82730" locY="69303" locZ="-3576" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22786" locX="82885" locY="69442" locZ="-3128" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="22788" locX="82724" locY="69444" locZ="-3156" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Sel Mahum Ground Area -->
+	<spawnloc name="oren22_firezone02">
+    		<spawn npcId="18927" locX="84477" locY="63108" locZ="-3600" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnloc>
+	<spawnloc name="oren22_firezone03">
+    		<spawn npcId="18927" locX="86472" locY="60872" locZ="-3504" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="86022" locY="61912" locZ="-3488" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="85682" locY="63067" locZ="-3648" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnloc>
+	<spawnloc name="oren22_firezone04">
+    		<spawn npcId="18927" locX="87344" locY="62175" locZ="-3712" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="87045" locY="62622" locZ="-3712" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="87876" locY="62590" locZ="-3712" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnloc>
+	<spawnloc name="oren22_firezone05">
+    		<spawn npcId="18927" locX="88092" locY="60352" locZ="-3584" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="89265" locY="60176" locZ="-3648" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="90031" locY="60799" locZ="-3664" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="88672" locY="59842" locZ="-3568" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="90863" locY="59871" locZ="-3664" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnloc>
+	<spawnloc name="oren22_firezone06">
+    		<spawn npcId="18927" locX="85764" locY="54368" locZ="-3604" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="86760" locY="53968" locZ="-3696" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="87310" locY="54592" locZ="-3648" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="88272" locY="54171" locZ="-3600" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="89017" locY="54030" locZ="-3712" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="89936" locY="54224" locZ="-3760" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="90647" locY="54350" locZ="-3776" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnloc>
+	<spawnloc name="oren22_firezone07">
+    		<spawn npcId="18927" locX="91260" locY="55012" locZ="-3760" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="94418" locY="54744" locZ="-3576" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="93952" locY="54461" locZ="-3632" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="92713" locY="54672" locZ="-3680" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="91712" locY="55664" locZ="-3648" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="91744" locY="56688" locZ="-3568" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnloc>
+	<spawnloc name="oren22_firezone08">
+    		<spawn npcId="18927" locX="91174" locY="57769" locZ="-3744" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnloc>
+	<spawnloc name="oren22_firezone09">
+    		<spawn npcId="18927" locX="93416" locY="60046" locZ="-3328" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="92174" locY="60399" locZ="-3392" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="93090" locY="61839" locZ="-3264" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="93377" locY="62926" locZ="-3312" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnloc>
+	<spawnloc name="oren22_firezone10">
+    		<spawn npcId="18927" locX="89663" locY="65106" locZ="-3712" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="87463" locY="63886" locZ="-3664" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="88378" locY="64266" locZ="-3712" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="86512" locY="64884" locZ="-3568" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnloc>
+	<spawnloc name="oren22_firezone11">
+    		<spawn npcId="18927" locX="82537" locY="63719" locZ="-3520" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="80992" locY="63760" locZ="-3600" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnloc>
+	<spawnloc name="oren22_firezone12">
+    		<spawn npcId="18927" locX="79053" locY="63696" locZ="-3616" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnloc>
+	<spawnloc name="oren22_firezone13">
+    		<spawn npcId="18927" locX="80352" locY="64898" locZ="-3312" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="79154" locY="65040" locZ="-3376" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnloc>
+	<spawnloc name="oren22_firezone14">
+    		<spawn npcId="18927" locX="78040" locY="69515" locZ="-3136" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="79168" locY="69256" locZ="-3328" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnloc>
+	<spawnloc name="oren22_firezone15">
+    		<spawn npcId="18927" locX="80090" locY="69178" locZ="-3424" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="80832" locY="68663" locZ="-3472" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="80630" locY="67817" locZ="-3440" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="80096" locY="68304" locZ="-3328" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="81406" locY="68669" locZ="-3344" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnloc>
+	<spawnloc name="oren22_firezone16">
+    		<spawn npcId="18927" locX="83631" locY="66179" locZ="-3040" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="84128" locY="65740" locZ="-3152" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnloc>
+	<spawnloc name="oren22_firezone17">
+    		<spawn npcId="18927" locX="85344" locY="65712" locZ="-3232" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="85748" locY="66494" locZ="-3264" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="86736" locY="65907" locZ="-3584" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="88097" locY="65803" locZ="-3728" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnloc>
+	<spawnloc name="oren22_firezone18">
+    		<spawn npcId="18927" locX="86448" locY="68448" locZ="-3056" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="86896" locY="68784" locZ="-3056" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnloc>
+	<spawnloc name="oren22_firezone19">
+    		<spawn npcId="18927" locX="89312" locY="67152" locZ="-3712" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="89792" locY="67680" locZ="-3712" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="89759" locY="67135" locZ="-3712" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="89296" locY="67712" locZ="-3712" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnloc>
+	<spawnloc name="oren22_firezone20">
+    		<spawn npcId="18927" locX="91216" locY="67311" locZ="-3632" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="91824" locY="67728" locZ="-3632" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="91472" locY="68048" locZ="-3568" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnloc>
+	<spawnloc name="oren22_firezone21">
+    		<spawn npcId="18927" locX="89967" locY="69311" locZ="-3488" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="88640" locY="69583" locZ="-3296" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="90529" locY="70479" locZ="-3520" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnloc>
+	<spawnloc name="oren22_firezone22">
+    		<spawn npcId="18927" locX="95888" locY="68496" locZ="-3312" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="95008" locY="67856" locZ="-3344" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="93680" locY="67215" locZ="-3552" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="92751" locY="68560" locZ="-3600" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="92574" locY="69663" locZ="-3568" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="92671" locY="70672" locZ="-3568" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="93856" locY="70400" locZ="-3664" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="93773" locY="71024" locZ="-3664" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="93408" locY="69072" locZ="-3616" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="18927" locX="94144" locY="68144" locZ="-3632" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnloc>
+	<spawnzone name="sel_mahum_treasure_chest">	
+    		<spawn npcId="18285" locX="89592" locY="60200" locZ="-3680" heading="59277" respawnDelay="7200" periodOfDay="0" />
+    		<spawn npcId="18285" locX="90472" locY="68664" locZ="-3584" heading="16383" respawnDelay="7200" periodOfDay="0" />
+    		<spawn npcId="18286" locX="82344" locY="61160" locZ="-3504" heading="62980" respawnDelay="7200" periodOfDay="0" />
+    		<spawn npcId="18286" locX="80984" locY="68136" locZ="-3488" heading="26941" respawnDelay="7200" periodOfDay="0" />
+	</spawnzone> <!-- Treasure Chests -->
+</list>

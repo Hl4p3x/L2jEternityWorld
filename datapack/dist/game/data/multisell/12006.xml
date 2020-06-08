@@ -1,0 +1,5 @@
+﻿<?xml version='1.0' encoding='utf-8'?><!-- S-80 Бижа -->
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+<item><ingredient id="57" count="750000000"/><ingredient id="6673" count="320"/><production id="9455" count="1"/><production id="9457" count="1"/><production id="9457" count="1"/><production id="9456" count="1"/><production id="9456" count="1"/></item><!-- Династия -->
+<item><ingredient id="57" count="980000000"/><ingredient id="6673" count="950"/><production id="15725" count="1"/><production id="15724" count="1"/><production id="15724" count="1"/><production id="15723" count="1"/><production id="15723" count="1" /></item><!-- Дестино -->
+</list>

@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawns.xsd">
+	<spawnzone name="dion17_2023_01">
+    		<spawn npcId="20068" locX="4442" locY="163943" locZ="-3742" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20068" locX="1630" locY="164933" locZ="-3614" heading="35545" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20068" locX="4845" locY="164655" locZ="-3655" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20068" locX="4319" locY="166544" locZ="-3444" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20068" locX="3312" locY="167256" locZ="-3472" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20068" locX="5023" locY="166722" locZ="-3472" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20068" locX="3715" locY="166900" locZ="-3465" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20068" locX="3311" locY="167612" locZ="-3488" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20068" locX="4906" locY="169094" locZ="-3449" heading="60870" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20068" locX="5769" locY="172528" locZ="-3326" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20068" locX="5970" locY="172884" locZ="-3364" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20068" locX="4057" locY="173418" locZ="-3192" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20068" locX="2076" locY="168808" locZ="-3535" heading="57828" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20068" locX="708" locY="171710" locZ="-3144" heading="7179" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20068" locX="3755" locY="174308" locZ="-3255" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20068" locX="4158" locY="172172" locZ="-3213" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20068" locX="1000" locY="176554" locZ="-3440" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20068" locX="296" locY="177800" locZ="-3661" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20068" locX="900" locY="178512" locZ="-3688" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20068" locX="2804" locY="180600" locZ="-3713" heading="42753" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20068" locX="5873" locY="179363" locZ="-3505" heading="38291" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20068" locX="3643" locY="187852" locZ="-3686" heading="25186" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20068" locX="3329" locY="184065" locZ="-3432" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20068" locX="2794" locY="176806" locZ="-3463" heading="40073" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20068" locX="2062" locY="179823" locZ="-3707" heading="29508" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20068" locX="3347" locY="181418" locZ="-3674" heading="8913" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20068" locX="2904" locY="172862" locZ="-3661" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20068" locX="7365" locY="176003" locZ="-3644" heading="33339" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20068" locX="5688" locY="175706" locZ="-3749" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20068" locX="2638" locY="178424" locZ="-3668" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20068" locX="2537" locY="178602" locZ="-3670" heading="0" respawnDelay="29" periodOfDay="0" />
+	</spawnzone> <!-- Monster Eye Destroyer -->
+	<spawnzone name="dion17_2023_08">
+    		<spawn npcId="20168" locX="11333" locY="180044" locZ="-3375" heading="12696" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20168" locX="8436" locY="176277" locZ="-3535" heading="7288" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20168" locX="9806" locY="178460" locZ="-3701" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20168" locX="9321" locY="176423" locZ="-3552" heading="42194" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20168" locX="14263" locY="180660" locZ="-3655" heading="7787" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20168" locX="11057" locY="176259" locZ="-3557" heading="6212" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20168" locX="10088" locY="181856" locZ="-3006" heading="1863" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20168" locX="7917" locY="180153" locZ="-3550" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20168" locX="7917" locY="180865" locZ="-3000" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20168" locX="8219" locY="179975" locZ="-3550" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20168" locX="9264" locY="184102" locZ="-2638" heading="65047" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20168" locX="6982" locY="181855" locZ="-2994" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20168" locX="12717" locY="178830" locZ="-3549" heading="60561" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20168" locX="6279" locY="183101" locZ="-2994" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20168" locX="9201" locY="181452" locZ="-3018" heading="50906" respawnDelay="29" periodOfDay="0" />
+	</spawnzone> <!-- Silenos -->
+	<spawnzone name="dion17_2023_09">
+    		<spawn npcId="20190" locX="8320" locY="180153" locZ="-3550" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20190" locX="6579" locY="182567" locZ="-2994" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20190" locX="7133" locY="184526" locZ="-2489" heading="22816" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20190" locX="8990" locY="183360" locZ="-2716" heading="39567" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20190" locX="6662" locY="187882" locZ="-3666" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20190" locX="8507" locY="188248" locZ="-3720" heading="0" respawnDelay="29" periodOfDay="0" />
+	</spawnzone> <!-- Skeleton Marauder -->
+	<spawnzone name="dion17_2023_05">
+    		<spawn npcId="20204" locX="4259" locY="171994" locZ="-3222" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20204" locX="4964" locY="173596" locZ="-3311" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20204" locX="5737" locY="170685" locZ="-3489" heading="43104" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20204" locX="4057" locY="174130" locZ="-3251" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20204" locX="4057" locY="172350" locZ="-3169" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20204" locX="7097" locY="172528" locZ="-3526" heading="53339" respawnDelay="29" periodOfDay="0" />
+	</spawnzone> <!-- Bloody Bee -->
+	<spawnzone name="dion15_2022_07">
+    		<spawn npcId="20205" locX="2312" locY="166107" locZ="-3510" heading="9562" respawnDelay="24" periodOfDay="0" />
+    		<spawn npcId="20205" locX="36" locY="164600" locZ="-3183" heading="0" respawnDelay="24" periodOfDay="0" />
+    		<spawn npcId="20205" locX="539" locY="164066" locZ="-3305" heading="0" respawnDelay="24" periodOfDay="0" />
+    		<spawn npcId="20205" locX="2790" locY="168520" locZ="-3507" heading="12461" respawnDelay="24" periodOfDay="0" />
+    		<spawn npcId="20205" locX="1027" locY="169006" locZ="-3584" heading="0" respawnDelay="24" periodOfDay="0" />
+    		<spawn npcId="20205" locX="1329" locY="168828" locZ="-3630" heading="0" respawnDelay="24" periodOfDay="0" />
+    		<spawn npcId="20205" locX="4291" locY="170201" locZ="-3503" heading="19830" respawnDelay="24" periodOfDay="0" />
+    		<spawn npcId="20205" locX="724" locY="168116" locZ="-3622" heading="0" respawnDelay="24" periodOfDay="0" />
+    		<spawn npcId="20205" locX="5669" locY="173062" locZ="-3328" heading="0" respawnDelay="24" periodOfDay="0" />
+    		<spawn npcId="20205" locX="4965" locY="173952" locZ="-3357" heading="0" respawnDelay="24" periodOfDay="0" />
+    		<spawn npcId="20205" locX="1914" locY="172553" locZ="-3074" heading="6163" respawnDelay="24" periodOfDay="0" />
+    		<spawn npcId="20205" locX="7432" locY="174448" locZ="-3632" heading="36870" respawnDelay="24" periodOfDay="0" />
+    		<spawn npcId="20205" locX="4963" locY="173240" locZ="-3282" heading="0" respawnDelay="24" periodOfDay="0" />
+    		<spawn npcId="20205" locX="4760" locY="169590" locZ="-3456" heading="1808" respawnDelay="24" periodOfDay="0" />
+    		<spawn npcId="20205" locX="4561" locY="173596" locZ="-3264" heading="0" respawnDelay="24" periodOfDay="0" />
+    		<spawn npcId="20205" locX="698" locY="177444" locZ="-3585" heading="0" respawnDelay="24" periodOfDay="0" />
+    		<spawn npcId="20205" locX="1292" locY="181258" locZ="-3644" heading="18665" respawnDelay="24" periodOfDay="0" />
+    		<spawn npcId="20205" locX="3978" locY="176102" locZ="-3352" heading="62995" respawnDelay="24" periodOfDay="0" />
+    		<spawn npcId="20205" locX="1610" locY="175887" locZ="-3203" heading="50692" respawnDelay="24" periodOfDay="0" />
+    		<spawn npcId="20205" locX="2107" locY="176732" locZ="-3400" heading="0" respawnDelay="24" periodOfDay="0" />
+    		<spawn npcId="20205" locX="1373" locY="179866" locZ="-3678" heading="53381" respawnDelay="24" periodOfDay="0" />
+    		<spawn npcId="20205" locX="3673" locY="177675" locZ="-3584" heading="4181" respawnDelay="24" periodOfDay="0" />
+	</spawnzone> <!-- Dire Wolf -->
+	<spawnzone name="dion17_2023_01">
+    		<spawn npcId="20206" locX="422" locY="168650" locZ="-3575" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20206" locX="1127" locY="168472" locZ="-3637" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20206" locX="1428" locY="167938" locZ="-3632" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20206" locX="1551" locY="166242" locZ="-3562" heading="55518" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20206" locX="4057" locY="173774" locZ="-3219" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20206" locX="4661" locY="172350" locZ="-3226" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20206" locX="4158" locY="173596" locZ="-3222" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20206" locX="5467" locY="173774" locZ="-3377" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20206" locX="5567" locY="172528" locZ="-3275" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20206" locX="4762" locY="173240" locZ="-3253" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20206" locX="3454" locY="172350" locZ="-3116" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20206" locX="1106" locY="174086" locZ="-2888" heading="27003" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20206" locX="2207" locY="177622" locZ="-3633" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20206" locX="1001" locY="177622" locZ="-3578" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20206" locX="800" locY="176554" locZ="-3476" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20206" locX="623" locY="173172" locZ="-2856" heading="47809" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20206" locX="3530" locY="183353" locZ="-3423" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20206" locX="4816" locY="185698" locZ="-3223" heading="16877" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20206" locX="3064" locY="182678" locZ="-3537" heading="56400" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20206" locX="3650" locY="179594" locZ="-3680" heading="25273" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20206" locX="4155" locY="176905" locZ="-3540" heading="16504" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20206" locX="3630" locY="185311" locZ="-3414" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20206" locX="2183" locY="179186" locZ="-3689" heading="43746" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20206" locX="190" locY="188508" locZ="-3718" heading="15225" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20206" locX="1878" locY="171418" locZ="-3241" heading="51592" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20206" locX="2401" locY="172328" locZ="-3661" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20206" locX="5788" locY="175172" locZ="-3749" heading="0" respawnDelay="29" periodOfDay="0" />
+	</spawnzone> <!-- Kadif Werewolf -->
+	<spawnzone name="dion17_2023_04">
+    		<spawn npcId="20250" locX="5225" locY="166722" locZ="-3493" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20250" locX="3277" locY="164474" locZ="-3722" heading="44720" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20250" locX="3714" locY="167968" locZ="-3482" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20250" locX="4082" locY="166010" locZ="-3488" heading="49635" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20250" locX="4923" locY="166900" locZ="-3460" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20250" locX="5590" locY="169296" locZ="-3449" heading="12633" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20250" locX="3732" locY="184065" locZ="-3332" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20250" locX="3026" locY="184955" locZ="-3562" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20250" locX="3833" locY="184599" locZ="-3299" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20250" locX="4738" locY="184065" locZ="-3220" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20250" locX="4143" locY="181529" locZ="-3490" heading="16325" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20250" locX="4426" locY="178357" locZ="-3557" heading="59348" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20250" locX="2323" locY="183709" locZ="-3622" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20250" locX="4016" locY="167461" locZ="-3596" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20250" locX="5559" locY="168079" locZ="-3451" heading="5292" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20250" locX="2940" locY="178602" locZ="-3684" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20250" locX="2344" locY="180165" locZ="-3681" heading="22110" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20250" locX="1745" locY="183704" locZ="-3688" heading="0" respawnDelay="29" periodOfDay="0" />
+	</spawnzone> <!-- Glass Jaguar -->
+	<spawnzone name="dion17_2023_02">
+    		<spawn npcId="20251" locX="4442" locY="164655" locZ="-3647" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20251" locX="5171" locY="165513" locZ="-3627" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20251" locX="3321" locY="165306" locZ="-3664" heading="18199" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20251" locX="3061" locY="169409" locZ="-3433" heading="19348" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20251" locX="4420" locY="168146" locZ="-3453" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20251" locX="4520" locY="166900" locZ="-3454" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20251" locX="6615" locY="169127" locZ="-3493" heading="10859" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20251" locX="5038" locY="170809" locZ="-3446" heading="20725" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20251" locX="5125" locY="166188" locZ="-3504" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20251" locX="6813" locY="167977" locZ="-3458" heading="6629" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20251" locX="4318" locY="167283" locZ="-3596" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20251" locX="1751" locY="184412" locZ="-3682" heading="7421" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20251" locX="969" locY="181727" locZ="-3654" heading="56760" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20251" locX="3993" locY="189837" locZ="-3699" heading="64980" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20251" locX="2572" locY="187611" locZ="-3689" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20251" locX="1148" locY="190847" locZ="-3718" heading="59771" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20251" locX="7253" locY="182744" locZ="-2816" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20251" locX="9336" locY="180677" locZ="-2974" heading="63617" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20251" locX="7354" locY="183278" locZ="-2816" heading="0" respawnDelay="29" periodOfDay="0" />
+	</spawnzone> <!-- Delu Lizardman -->
+	<spawnzone name="dion17_2023_08">
+    		<spawn npcId="20252" locX="10284" locY="175373" locZ="-3629" heading="49240" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20252" locX="11061" locY="179113" locZ="-3308" heading="39914" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20252" locX="7420" locY="177888" locZ="-3469" heading="33486" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20252" locX="10915" locY="177926" locZ="-3701" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20252" locX="12704" locY="177834" locZ="-3475" heading="42124" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20252" locX="10292" locY="184646" locZ="-2848" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20252" locX="9989" locY="185180" locZ="-2848" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20252" locX="10594" locY="185180" locZ="-2848" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20252" locX="11299" locY="185358" locZ="-2848" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20252" locX="9582" locY="188284" locZ="-3739" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20252" locX="6964" locY="187704" locZ="-3788" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20252" locX="6763" locY="188416" locZ="-3788" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20252" locX="7065" locY="187882" locZ="-3788" heading="0" respawnDelay="29" periodOfDay="0" />
+	</spawnzone> <!-- Delu Lizardman Scout -->
+	<spawnzone name="dion17_2023_11">
+    		<spawn npcId="20253" locX="10895" locY="184646" locZ="-2848" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20253" locX="11097" locY="185358" locZ="-2848" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20253" locX="10393" locY="184824" locZ="-2848" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20253" locX="10695" locY="185002" locZ="-2848" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20253" locX="10393" locY="185180" locZ="-2959" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20253" locX="6864" locY="188594" locZ="-3788" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20253" locX="6864" locY="187526" locZ="-3788" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20253" locX="7367" locY="187704" locZ="-3788" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20253" locX="7066" locY="188594" locZ="-3788" heading="0" respawnDelay="29" periodOfDay="0" />
+	</spawnzone> <!-- Delu Lizardman Warrior -->
+	<spawnzone name="dion17_2023_09">
+    		<spawn npcId="20254" locX="8018" locY="179975" locZ="-3550" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20254" locX="8723" locY="180509" locZ="-3550" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20254" locX="8078" locY="181579" locZ="-2931" heading="27501" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20254" locX="4950" locY="182442" locZ="-3314" heading="31693" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20254" locX="6882" locY="182745" locZ="-2994" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20254" locX="6379" locY="183279" locZ="-2994" heading="0" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20254" locX="8924" locY="184841" locZ="-2614" heading="16103" respawnDelay="29" periodOfDay="0" />
+    		<spawn npcId="20254" locX="8010" locY="182685" locZ="-2745" heading="33970" respawnDelay="29" periodOfDay="0" />
+	</spawnzone> <!-- Skeleton Axeman -->
+	<spawnzone name="dion16_2023_01">
+    		<spawn npcId="20781" locX="9490" locY="165669" locZ="-3711" heading="37933" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="20781" locX="7460" locY="164143" locZ="-3578" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="20781" locX="10701" locY="164480" locZ="-3706" heading="56988" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="20781" locX="13111" locY="163982" locZ="-3634" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="20781" locX="13479" locY="165624" locZ="-3659" heading="26330" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="20781" locX="14175" locY="170766" locZ="-3573" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="20781" locX="13521" locY="171142" locZ="-3542" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="20781" locX="13419" locY="170608" locZ="-3542" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="20781" locX="17360" locY="171976" locZ="-3542" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="20781" locX="18064" locY="171798" locZ="-3542" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="20781" locX="18668" locY="171442" locZ="-3542" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="20781" locX="19992" locY="164834" locZ="-3400" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="20781" locX="19388" locY="164478" locZ="-3424" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="20781" locX="24923" locY="164532" locZ="-3370" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="20781" locX="25024" locY="164354" locZ="-3370" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="20781" locX="22236" locY="167496" locZ="-3341" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="20781" locX="24020" locY="166650" locZ="-3286" heading="41781" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="20781" locX="25352" locY="168281" locZ="-3249" heading="60048" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="20781" locX="25596" locY="169983" locZ="-3360" heading="7684" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="20781" locX="20124" locY="167308" locZ="-3386" heading="27324" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="20781" locX="27933" locY="168501" locZ="-3271" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="20781" locX="27631" locY="167611" locZ="-3297" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="20781" locX="21584" locY="164628" locZ="-3403" heading="48534" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="20781" locX="28374" locY="164559" locZ="-3636" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="20781" locX="31160" locY="165346" locZ="-3636" heading="36287" respawnDelay="30" periodOfDay="0" />
+	</spawnzone> <!-- Delu Lizardman Shaman -->
+	<spawnzone name="dion14_2023_01">
+    		<spawn npcId="20930" locX="16694" locY="178199" locZ="-3571" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="16466" locY="179286" locZ="-3551" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="15419" locY="178899" locZ="-3554" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="14459" locY="179798" locZ="-3547" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="17759" locY="177770" locZ="-3489" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="18902" locY="177883" locZ="-3456" heading="62067" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="18760" locY="178473" locZ="-3501" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="19635" locY="178029" locZ="-3519" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="16930" locY="180079" locZ="-3542" heading="32471" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="20557" locY="177370" locZ="-3539" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="21679" locY="178043" locZ="-3422" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="20962" locY="183789" locZ="-2821" heading="21537" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="21625" locY="181061" locZ="-2544" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="21222" locY="180349" locZ="-2746" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="21524" locY="180527" locZ="-2616" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="21121" locY="180171" locZ="-2856" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="20417" locY="182129" locZ="-2989" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="21121" locY="180527" locZ="-2760" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="19409" locY="181417" locZ="-3329" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="21323" locY="180883" locZ="-2696" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="18449" locY="184108" locZ="-3602" heading="17141" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="21423" locY="180705" locZ="-2643" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="25027" locY="186161" locZ="-3287" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="23016" locY="185449" locZ="-3288" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="27511" locY="187299" locZ="-3565" heading="8013" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="21706" locY="185983" locZ="-3242" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="21417" locY="184834" locZ="-2815" heading="64799" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="24316" locY="189120" locZ="-3568" heading="16314" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="23718" locY="187051" locZ="-3568" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="24021" locY="186517" locZ="-3541" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="23559" locY="184907" locZ="-3208" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="24768" locY="183127" locZ="-2680" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="20534" locY="184628" locZ="-2874" heading="16504" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="26433" locY="183232" locZ="-3362" heading="53854" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="24265" locY="182949" locZ="-2696" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="23962" locY="184195" locZ="-3012" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="26662" locY="188359" locZ="-3484" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="25958" locY="188181" locZ="-3484" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="27567" locY="188537" locZ="-3448" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="26363" locY="189211" locZ="-3488" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="26361" locY="188893" locZ="-3484" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="30461" locY="189910" locZ="-3484" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="29052" locY="190266" locZ="-3484" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="29555" locY="191156" locZ="-3484" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="29857" locY="189554" locZ="-3484" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="18224" locY="182164" locZ="-3696" heading="13945" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="20932" locY="178205" locZ="-3562" heading="7410" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="22314" locY="177384" locZ="-3479" heading="57109" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="22146" locY="191746" locZ="-3692" heading="6005" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="25120" locY="192114" locZ="-3628" heading="964" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20930" locX="20972" locY="185449" locZ="-2880" heading="23557" respawnDelay="32" periodOfDay="0" />
+	</spawnzone> <!-- Hatu Brown Bear -->
+	<spawnzone name="dion14_2023_08">
+    		<spawn npcId="20933" locX="27471" locY="181457" locZ="-3274" heading="52705" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20933" locX="28531" locY="184111" locZ="-3709" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20933" locX="31421" locY="181907" locZ="-3326" heading="56871" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20933" locX="27759" locY="184160" locZ="-3661" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20933" locX="26721" locY="184823" locZ="-3405" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20933" locX="28431" locY="185001" locZ="-3710" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20933" locX="32571" locY="179613" locZ="-3376" heading="58773" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20933" locX="29145" locY="185673" locZ="-3686" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20933" locX="30830" locY="185773" locZ="-3590" heading="40659" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20933" locX="32752" locY="185996" locZ="-3341" heading="51000" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20933" locX="31058" locY="183715" locZ="-3583" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20933" locX="25216" locY="178561" locZ="-2977" heading="27085" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20933" locX="29060" locY="179207" locZ="-3609" heading="42576" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20933" locX="25287" locY="180064" locZ="-2446" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20933" locX="30733" locY="180846" locZ="-3668" heading="16100" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20933" locX="29396" locY="181035" locZ="-3640" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20933" locX="29396" locY="181391" locZ="-3645" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20933" locX="30755" locY="178836" locZ="-3637" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20933" locX="31418" locY="177894" locZ="-3677" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20933" locX="32107" locY="178034" locZ="-3584" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20933" locX="31851" locY="179087" locZ="-3524" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20933" locX="28755" locY="178488" locZ="-3625" heading="30912" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20933" locX="31404" locY="178688" locZ="-3669" heading="55434" respawnDelay="32" periodOfDay="0" />
+	</spawnzone> <!-- Hatu Windsus -->
+	<spawnzone name="dion14_2023_03">
+    		<spawn npcId="20935" locX="22292" locY="182849" locZ="-2939" heading="51033" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="23218" locY="186873" locZ="-3511" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="23319" locY="186339" locZ="-3460" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="21686" locY="187178" locZ="-3488" heading="59402" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="21707" locY="188129" locZ="-3497" heading="19983" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="28911" locY="186875" locZ="-3674" heading="6302" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="23920" locY="181418" locZ="-2194" heading="55772" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="23836" locY="183692" locZ="-2967" heading="31805" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="24465" locY="184373" locZ="-3000" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="31729" locY="188066" locZ="-3203" heading="3110" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="26832" locY="186528" locZ="-3553" heading="5521" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="24164" locY="183127" locZ="-2752" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="26184" locY="187354" locZ="-3528" heading="11155" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="26058" locY="188359" locZ="-3484" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="26864" locY="190139" locZ="-3484" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="26259" locY="189427" locZ="-3484" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="26763" locY="188893" locZ="-3484" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="25273" locY="187588" locZ="-3510" heading="54303" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="26662" locY="190139" locZ="-3484" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="30329" locY="190647" locZ="-3679" heading="6536" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="30404" locY="192981" locZ="-3708" heading="16446" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="31237" locY="191361" locZ="-3709" heading="5124" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="28749" locY="190088" locZ="-3793" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="26821" locY="184645" locZ="-3411" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="27727" locY="184467" locZ="-3411" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="28633" locY="185001" locZ="-3411" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="29298" locY="186394" locZ="-3661" heading="933" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="27021" locY="185357" locZ="-3778" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="29648" locY="185495" locZ="-3688" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="29648" locY="185139" locZ="-3683" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="29580" locY="188308" locZ="-3624" heading="8258" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="29649" locY="184071" locZ="-3651" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="30987" locY="184159" locZ="-3689" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="31110" locY="185178" locZ="-3658" heading="4295" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="27733" locY="186796" locZ="-3616" heading="11145" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="27313" locY="180162" locZ="-3255" heading="46444" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="25186" locY="180242" locZ="-2352" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="30218" locY="178286" locZ="-3644" heading="63209" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="28999" locY="182460" locZ="-3653" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="29719" locY="180365" locZ="-3653" heading="38365" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="32003" locY="183082" locZ="-3268" heading="1606" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="29104" locY="181977" locZ="-3641" heading="23291" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="21977" locY="181359" locZ="-2474" heading="24715" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="28999" locY="178165" locZ="-3656" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="29640" locY="178878" locZ="-3608" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="27909" locY="178245" locZ="-3656" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="28072" locY="179517" locZ="-3595" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="28741" locY="180012" locZ="-3606" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="30070" locY="179690" locZ="-3639" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="21288" locY="189487" locZ="-3372" heading="39254" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="24205" locY="190014" locZ="-3545" heading="4916" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="22471" locY="187997" locZ="-3664" heading="0" respawnDelay="32" periodOfDay="0" />
+    		<spawn npcId="20935" locX="32589" locY="184739" locZ="-3250" heading="29682" respawnDelay="32" periodOfDay="0" />
+	</spawnzone> <!-- Wasp Leader -->
+	<spawnzone name="dion16_2022_01">
+    		<spawn npcId="21103" locX="8662" locY="164157" locZ="-3609" heading="22570" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21103" locX="19137" locY="164992" locZ="-3429" heading="64612" respawnDelay="30" periodOfDay="0" />
+	</spawnzone> <!-- Roughly Hewn Rock Golem -->
+	<spawnzone name="dion16_2022_01">
+    		<spawn npcId="21104" locX="8366" locY="164677" locZ="-3616" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21104" locX="7761" locY="163965" locZ="-3587" heading="0" respawnDelay="30" periodOfDay="0" />
+	</spawnzone> <!-- Delu Lizardman Supplier -->
+	<spawnzone name="dion16_2022_08">
+    		<spawn npcId="21105" locX="12203" locY="164516" locZ="-3711" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21105" locX="10664" locY="166725" locZ="-3684" heading="25281" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21105" locX="19542" locY="166059" locZ="-3424" heading="22540" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21105" locX="22401" locY="166097" locZ="-3364" heading="64271" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21105" locX="17001" locY="168098" locZ="-3485" heading="25769" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21105" locX="18953" locY="165943" locZ="-3608" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21105" locX="23203" locY="168555" locZ="-3345" heading="53744" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21105" locX="22742" locY="169716" locZ="-3414" heading="58654" respawnDelay="30" periodOfDay="0" />
+	</spawnzone> <!-- Delu Lizardman Special Agent -->
+	<spawnzone name="dion16_2022_08">
+    		<spawn npcId="21106" locX="10864" locY="165320" locZ="-3705" heading="6323" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21106" locX="12808" locY="164516" locZ="-3692" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21106" locX="9518" locY="166180" locZ="-3712" heading="32910" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21106" locX="14675" locY="164348" locZ="-3694" heading="385" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21106" locX="14999" locY="171717" locZ="-3500" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21106" locX="13722" locY="171498" locZ="-3542" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21106" locX="13017" locY="170608" locZ="-3542" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21106" locX="13118" locY="171142" locZ="-3542" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21106" locX="17561" locY="171620" locZ="-3542" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21106" locX="17762" locY="171620" locZ="-3542" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21106" locX="18366" locY="171264" locZ="-3542" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21106" locX="18467" locY="171086" locZ="-3542" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21106" locX="17608" locY="164547" locZ="-3654" heading="7669" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21106" locX="15632" locY="164081" locZ="-3662" heading="38081" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21106" locX="19053" locY="166833" locZ="-3608" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21106" locX="19689" locY="163944" locZ="-3421" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21106" locX="17783" locY="166439" locZ="-3578" heading="19825" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21106" locX="19589" locY="164478" locZ="-3419" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21106" locX="25225" locY="163998" locZ="-3370" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21106" locX="25023" locY="165066" locZ="-3370" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21106" locX="25528" locY="164532" locZ="-3370" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21106" locX="21026" locY="165098" locZ="-3399" heading="50111" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21106" locX="23832" locY="170103" locZ="-3385" heading="6545" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21106" locX="22940" locY="167318" locZ="-3318" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21106" locX="23243" locY="166428" locZ="-3304" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21106" locX="28034" locY="168679" locZ="-3267" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21106" locX="23147" locY="164321" locZ="-3288" heading="64019" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21106" locX="26969" locY="168813" locZ="-3205" heading="2908" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21106" locX="24945" locY="167554" locZ="-3465" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21106" locX="22150" locY="170143" locZ="-3442" heading="26220" respawnDelay="30" periodOfDay="0" />
+	</spawnzone> <!-- Cursed Seer -->
+	<spawnzone name="dion16_2023_03">
+    		<spawn npcId="21107" locX="13118" locY="171498" locZ="-3542" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21107" locX="11549" locY="172332" locZ="-3550" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21107" locX="13823" locY="171676" locZ="-3542" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21107" locX="13542" locY="172395" locZ="-3451" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21107" locX="12300" locY="171614" locZ="-3603" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21107" locX="18366" locY="171620" locZ="-3542" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21107" locX="18064" locY="171442" locZ="-3542" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21107" locX="18668" locY="171798" locZ="-3542" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21107" locX="17964" locY="171976" locZ="-3542" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21107" locX="18165" locY="171620" locZ="-3542" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21107" locX="18302" locY="163868" locZ="-3447" heading="8657" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21107" locX="25124" locY="164176" locZ="-3370" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21107" locX="25326" locY="164532" locZ="-3370" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21107" locX="25427" locY="164354" locZ="-3370" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21107" locX="24320" locY="167633" locZ="-3276" heading="61691" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21107" locX="21095" locY="168519" locZ="-3374" heading="31635" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21107" locX="23118" locY="165298" locZ="-3320" heading="42953" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21107" locX="22639" locY="166784" locZ="-3344" heading="0" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21107" locX="19685" locY="168881" locZ="-3481" heading="32220" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21107" locX="21251" locY="166188" locZ="-3400" heading="29163" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21107" locX="29741" locY="165025" locZ="-3627" heading="57601" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21107" locX="28648" locY="167090" locZ="-3403" heading="21924" respawnDelay="30" periodOfDay="0" />
+    		<spawn npcId="21107" locX="24881" locY="171207" locZ="-3373" heading="18301" respawnDelay="30" periodOfDay="0" />
+	</spawnzone> <!-- Delu Lizardman Commander -->
+	<spawnloc name="dion01_qm2023_loc">
+    		<spawn npcId="27093" locX="28448" locY="174080" locZ="-3408" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="27103" locX="23354" locY="187991" locZ="-3721" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="27112" locX="6317" locY="184549" locZ="-3161" heading="25731" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="27113" locX="20898" locY="184689" locZ="-3358" heading="0" respawnDelay="180" periodOfDay="0" />
+    		<spawn npcId="30078" locX="16970" locY="170391" locZ="-3496" heading="61440" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30079" locX="17836" locY="169853" locZ="-3494" heading="20000" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30291" locX="20943" locY="171358" locZ="-3548" heading="12288" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30609" locX="17475" locY="169556" locZ="-3493" heading="57344" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30616" locX="19509" locY="192096" locZ="-3724" heading="20480" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30626" locX="15734" locY="174805" locZ="-3636" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30633" locX="13258" locY="169790" locZ="-3705" heading="1000" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30636" locX="23471" locY="188092" locZ="-3604" heading="16384" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30728" locX="10699" locY="171474" locZ="-3572" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30981" locX="15520" locY="174572" locZ="-3637" heading="57344" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="30990" locX="13689" locY="182576" locZ="-3561" heading="52054" respawnDelay="5" periodOfDay="0" />
+    		<spawn npcId="30995" locX="12964" locY="181600" locZ="-3567" heading="12703" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31031" locX="17264" locY="170160" locZ="-3509" heading="16384" respawnDelay="5" periodOfDay="0" />
+    		<spawn npcId="31031" locX="13168" locY="182594" locZ="-3500" heading="16384" respawnDelay="5" periodOfDay="0" />
+    		<spawn npcId="31031" locX="13582" locY="181667" locZ="-3500" heading="16384" respawnDelay="5" periodOfDay="0" />
+    		<spawn npcId="31210" locX="12882" locY="181053" locZ="-3560" heading="49152" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31225" locX="11877" locY="183574" locZ="-3560" heading="61313" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31571" locX="17232" locY="170528" locZ="-3498" heading="53000" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31756" locX="17956" locY="170536" locZ="-3499" heading="48000" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31757" locX="17913" locY="170536" locZ="-3499" heading="48000" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31773" locX="17788" locY="169842" locZ="-3496" heading="20000" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31801" locX="17972" locY="169945" locZ="-3496" heading="20000" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31802" locX="14784" locY="168800" locZ="-3504" heading="58000" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="31803" locX="13520" locY="169840" locZ="-3712" heading="2000" respawnDelay="60" periodOfDay="0" />
+	</spawnloc> <!-- All Territory NPC`s -->
+</list>

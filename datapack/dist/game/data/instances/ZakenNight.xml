@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instance name="Cavern of the Pirate Captain (nightmare)" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/instance.xsd">
+	<activityTime val="360" />
+	<allowSummon val="false" />
+	<emptyDestroyTime val="300" />
+	<spawnPoint spawnX="52190" spawnY="219000" spawnZ="-3231" />
+	<spawnlist>
+		<group name="general">
+			<spawn npcId="21637" x="55196" y="215068" z="-4218" heading="23709" respawn="180"/>
+			<spawn npcId="21637" x="54069" y="215715" z="-4058" heading="0" respawn="180"/>
+			<spawn npcId="21637" x="53824" y="215622" z="-4057" heading="0" respawn="180"/>
+			<spawn npcId="21637" x="55230" y="215449" z="-4116" heading="0" respawn="180"/>
+			<spawn npcId="21637" x="54694" y="216110" z="-4060" heading="36699" respawn="180"/>
+			<spawn npcId="21637" x="56225" y="218122" z="-3493" heading="46160" respawn="180"/>
+			<spawn npcId="21637" x="53313" y="215939" z="-4058" heading="33157" respawn="180"/>
+			<spawn npcId="21637" x="51435" y="214511" z="-4222" heading="0" respawn="180"/>
+			<spawn npcId="21637" x="54296" y="218092" z="-3493" heading="49892" respawn="180"/>
+			<spawn npcId="21637" x="55229" y="219204" z="-3493" heading="48099" respawn="180"/>
+			<spawn npcId="21637" x="56175" y="218085" z="-3221" heading="19348" respawn="180"/>
+			<spawn npcId="21637" x="56173" y="217962" z="-3493" heading="46953" respawn="180"/>
+			<spawn npcId="21637" x="55156" y="218999" z="-3493" heading="46507" respawn="180"/>
+			<spawn npcId="21637" x="54191" y="220071" z="-3493" heading="64013" respawn="180"/>
+			<spawn npcId="21637" x="56190" y="220069" z="-3493" heading="61361" respawn="180"/>
+			<spawn npcId="21637" x="54178" y="218113" z="-3493" heading="47862" respawn="180"/>
+			<spawn npcId="21637" x="56417" y="219913" z="-3491" heading="61096" respawn="180"/>
+			<spawn npcId="20847" x="55098" y="214940" z="-4252" heading="0" respawn="55"/>
+			<spawn npcId="20847" x="55284" y="216068" z="-4060" heading="46029" respawn="55"/>
+			<spawn npcId="20847" x="55029" y="215449" z="-4116" heading="0" respawn="55"/>
+			<spawn npcId="20847" x="55140" y="215822" z="-4060" heading="16980" respawn="55"/>
+			<spawn npcId="20847" x="54022" y="216161" z="-4116" heading="0" respawn="55"/>
+			<spawn npcId="20847" x="54325" y="215983" z="-4116" heading="0" respawn="55"/>
+			<spawn npcId="20847" x="55310" y="219105" z="-3493" heading="227" respawn="55"/>
+			<spawn npcId="20847" x="53345" y="214946" z="-4056" heading="0" respawn="55"/>
+			<spawn npcId="20847" x="53583" y="215852" z="-4059" heading="32614" respawn="55"/>
+			<spawn npcId="20847" x="54315" y="220337" z="-3493" heading="5770" respawn="55"/>
+			<spawn npcId="20847" x="51494" y="214667" z="-4222" heading="0" respawn="55"/>
+			<spawn npcId="20847" x="54174" y="218161" z="-3493" heading="21266" respawn="55"/>
+			<spawn npcId="20847" x="54516" y="219817" z="-3493" heading="59789" respawn="55"/>
+			<spawn npcId="20847" x="54227" y="220301" z="-3493" heading="1560" respawn="55"/>
+			<spawn npcId="20847" x="56319" y="220130" z="-3493" heading="512" respawn="55"/>
+			<spawn npcId="20847" x="56288" y="218044" z="-3493" heading="48999" respawn="55"/>
+			<spawn npcId="20847" x="56277" y="218142" z="-3221" heading="17054" respawn="55"/>
+		</group>
+	</spawnlist>
+</instance>

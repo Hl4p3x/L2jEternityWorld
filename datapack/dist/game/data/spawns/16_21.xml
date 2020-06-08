@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawns.xsd">
+	<spawnzone name="gludio15_1621_01_id_01">
+    		<spawn npcId="20495" locX="-99137" locY="100514" locZ="-3408" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20495" locX="-98383" locY="104707" locZ="-3625" heading="38116" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Turek Orc Warlord -->
+	<spawnzone name="gludio15_1721_01_id_01">
+    		<spawn npcId="20496" locX="-98715" locY="106473" locZ="-3507" heading="6964" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20496" locX="-98828" locY="108564" locZ="-3537" heading="37929" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20496" locX="-99111" locY="112513" locZ="-3593" heading="35106" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Turek Orc Archer -->
+	<spawnzone name="gludio15_1621_01_id_02">
+    		<spawn npcId="20497" locX="-99030" locY="101701" locZ="-3513" heading="50280" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20497" locX="-99843" locY="101438" locZ="-3462" heading="31791" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20497" locX="-100095" locY="104564" locZ="-3465" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20497" locX="-99390" locY="105024" locZ="-3569" heading="13904" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20497" locX="-98811" locY="111128" locZ="-3576" heading="25926" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Turek Orc Skirmisher -->
+	<spawnzone name="gludio15_1621_01_id_03">
+    		<spawn npcId="20498" locX="-99137" locY="100158" locZ="-3384" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20498" locX="-98735" locY="100158" locZ="-3424" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20498" locX="-99491" locY="104208" locZ="-3465" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20498" locX="-99189" locY="104386" locZ="-3465" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20498" locX="-98466" locY="109470" locZ="-3529" heading="41172" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20498" locX="-98319" locY="113040" locZ="-3736" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20498" locX="-98508" locY="114305" locZ="-3566" heading="14529" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Turek Orc Supplier -->
+	<spawnzone name="gludio15_1721_01_id_02">
+    		<spawn npcId="20499" locX="-98321" locY="100492" locZ="-3368" heading="0" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Turek Orc Footman -->
+	<spawnzone name="gludio15_1721_01_id_03">
+    		<spawn npcId="20500" locX="-98818" locY="102377" locZ="-3478" heading="17673" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Turek Orc Sentinel -->
+	<spawnzone name="gludio15_1621_01_id_04">
+    		<spawn npcId="20501" locX="-98512" locY="104052" locZ="-3586" heading="33630" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20501" locX="-99832" locY="105310" locZ="-3472" heading="29562" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20501" locX="-98823" locY="113218" locZ="-3736" heading="0" respawnDelay="60" periodOfDay="0" />
+    		<spawn npcId="20501" locX="-98682" locY="111987" locZ="-3590" heading="45059" respawnDelay="60" periodOfDay="0" />
+	</spawnzone> <!-- Turek Orc Shaman -->
+</list>

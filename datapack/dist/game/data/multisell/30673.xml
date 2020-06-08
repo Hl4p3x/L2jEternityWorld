@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+	<npcs>
+		<npc>30673</npc>
+	</npcs>
+  	<item>
+    		<ingredient count="10" id="3482" />
+    		<production count="1" id="3483" />
+  	</item>
+  	<item>
+    		<ingredient count="10" id="3490" />
+    		<production count="1" id="3494" />
+  	</item>
+  	<item>
+    		<ingredient count="10" id="3472" />
+    		<production count="1" id="3475" />
+  	</item>
+  	<item>
+    		<ingredient count="20" id="3482" />
+    		<production count="1" id="3489" />
+  	</item>
+  	<item>
+    		<ingredient count="2" id="3480" />
+    		<ingredient count="2" id="3475" />
+    		<ingredient count="2" id="3485" />
+    		<ingredient count="3" id="3483" />
+    		<production count="1" id="852" />
+  	</item>
+  	<item>
+    		<ingredient count="5" id="3480" />
+    		<ingredient count="5" id="3475" />
+    		<ingredient count="5" id="3494" />
+    		<ingredient count="5" id="3483" />
+    		<production count="1" id="855" />
+  	</item>
+  	<item>
+    		<ingredient count="5" id="3489" />
+    		<ingredient count="4" id="3485" />
+    		<ingredient count="4" id="3494" />
+    		<ingredient count="4" id="3475" />
+    		<production count="1" id="886" />
+  	</item>
+  	<item>
+    		<ingredient count="5" id="3498" />
+    		<ingredient count="5" id="3491" />
+    		<ingredient count="3" id="3483" />
+    		<ingredient count="3" id="3475" />
+    		<production count="1" id="916" />
+  	</item>
+</list>

@@ -1,0 +1,14 @@
+<!ELEMENT list (chef)* >
+<!ELEMENT chef (pathPoint)* >
+<!ELEMENT pathPoint EMPTY >
+
+<!ATTLIST chef
+	id CDATA #REQUIRED
+>
+
+<!ATTLIST pathPoint
+	order CDATA #REQUIRED
+	x CDATA #REQUIRED
+	y CDATA #REQUIRED
+	z CDATA #REQUIRED
+>

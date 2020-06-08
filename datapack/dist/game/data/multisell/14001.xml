@@ -1,0 +1,34 @@
+﻿<?xml version='1.0' encoding='utf-8'?><!-- Животные -->
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+<item><ingredient id="6673" count="1750"/><production id="14819" count="1"/></item><!-- Крутой Дракон Хранитель -->
+<item><ingredient id="6673" count="750"/><production id="10308" count="1"/></item><!-- Красный Дракон Ветра -->
+<item><ingredient id="6673" count="750"/><production id="10309" count="1"/></item><!-- Красный Дракон Звезд -->
+<item><ingredient id="6673" count="750"/><production id="10310" count="1"/></item><!-- Красный Дракон Заката -->
+<item><ingredient id="6673" count="750"/><production id="4422" count="1"/></item><!-- Большой Дракон Ветра -->
+<item><ingredient id="6673" count="750"/><production id="4423" count="1"/></item><!-- Большой Дракон Звезд -->
+<item><ingredient id="6673" count="750"/><production id="4424" count="1"/></item><!-- Большой Дракон Сумерек -->
+<item><ingredient id="6673" count="750"/><production id="10426" count="1"/></item><!-- Ожерелье Фенрира -->
+<item><ingredient id="6673" count="750"/><production id="10611" count="1"/></item><!-- Ожерелье Снежного Фенрира -->
+<item><ingredient id="6673" count="750"/><production id="10307" count="1"/></item><!-- Ожерелье Гигантского Снежного Волка -->
+<item><ingredient id="6673" count="350"/><production id="10312" count="1"/></item><!-- Бьльшой Тигр -->
+<item><ingredient id="6673" count="350"/><production id="10311" count="1"/></item><!-- Большой Буйвол -->
+<item><ingredient id="6673" count="350"/><production id="10313" count="1"/></item><!-- Большая Кукабара -->
+<item><ingredient id="6673" count="2500"/><production id="15488" count="1"/></item><!-- Рог Магвена -->
+<item><ingredient id="6673" count="2500"/><production id="15489" count="1"/></item><!-- Элитный Рог Магвена -->
+<item><ingredient id="6673" count="2500"/><production id="14828" count="1"/></item><!-- Яйцо Динозавра -->
+<item><ingredient id="6673" count="2500"/><production id="13017" count="1"/></item><!-- Белая Ласка -->
+<item><ingredient id="6673" count="2500"/><production id="13018" count="1"/></item><!-- Принцесса Фей -->
+<item><ingredient id="6673" count="2500"/><production id="13019" count="1"/></item><!-- Дикий Зверь Боец -->
+<item><ingredient id="6673" count="2500"/><production id="13020" count="1"/></item><!-- Лис Шаман -->
+<item><ingredient id="6673" count="2500"/><production id="14061" count="1"/></item><!-- Игрушечный Рыцарь -->
+<item><ingredient id="6673" count="2500"/><production id="14062" count="1"/></item><!-- Дух Мага -->
+<item><ingredient id="6673" count="2500"/><production id="14063" count="1"/></item><!-- Сова -->
+<item><ingredient id="6673" count="2500"/><production id="14064" count="1"/></item><!-- Черепаха -->
+<item><ingredient id="6673" count="210"/><production id="3500" count="1"/></item><!-- Дракончик Ветра -->
+<item><ingredient id="6673" count="210"/><production id="3501" count="1"/></item><!-- Дракончик Звезд -->
+<item><ingredient id="6673" count="210"/><production id="3502" count="1"/></item><!-- Дракончик Сумерек -->
+<item><ingredient id="6673" count="210"/><production id="2375" count="1"/></item><!-- Ошейник Волченка -->
+<item><ingredient id="6673" count="150"/><production id="6648" count="1"/></item><!-- Детеныш Буйвола -->
+<item><ingredient id="6673" count="150"/><production id="6650" count="1"/></item><!-- Детеныш кукабары -->
+<item><ingredient id="6673" count="150"/><production id="6649" count="1"/></item><!-- Детеныш Тигренка -->
+</list>

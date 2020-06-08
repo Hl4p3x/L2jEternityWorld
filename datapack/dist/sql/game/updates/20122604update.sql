@@ -1,0 +1,1 @@
+ALTER TABLE `characters` ADD `game_points` bigint(20) NOT NULL DEFAULT '0' AFTER `hitman_target` ;

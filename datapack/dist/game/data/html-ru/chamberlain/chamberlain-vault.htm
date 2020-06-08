@@ -1,0 +1,15 @@
+﻿<html><body><br>
+<center><font color="LEVEL">[Управление Хранилищем Замка]</font></center><br>
+В данный момент, в хранилище находиться <font color="00ffff">%tax_income% Аден</font>.<br><br>
+Пожалуйста укажите сумму которую Вы хотите забрать или положить в хранилище.<br>
+<center>
+<table height=27 width=280 bgColor="cccccc"><tbody><tr>
+<td align=middle width=50>Сумма</td>
+<td align=left width=180><edit width="160" var="amount" type="number"></td>
+<td align=left width=40>Аден</td></tr></tbody></table>
+<br><br>
+<button value="Забрать" action="bypass -h npc_%objectId%_manage_vault withdraw $amount" width=80 height=27 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF">
+<button value="Положить" action="bypass -h npc_%objectId%_manage_vault deposit $amount" width=80 height=27 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF">
+<button value="Отмена" action="bypass -h npc_%objectId%_Link chamberlain/chamberlain.htm" width=80 height=27 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF">
+</center>
+</body></html>
